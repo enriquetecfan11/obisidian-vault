@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "356f602147eb5506",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee0b43ebf764d1fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c9debec179cebe2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "9cca8317660f2c60",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc095463adf43ea6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0528e300763f354b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71a9d973e05bfc50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1504f9531271d89f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0f0309dd78c63411",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          },
+          {
+            "id": "26a281efd2c4d87d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b7663f71490f5b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "16089143f2e11363",
+        "type": "tabs",
+        "dimension": 32.81703775411423,
+        "children": [
+          {
+            "id": "a640a6090782a474",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "729e5ff09b846880",
+        "type": "tabs",
+        "dimension": 31.07454017424976,
+        "children": [
+          {
+            "id": "93d5253b87da5e90",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f0e0011356cca4aa",
+        "type": "tabs",
+        "dimension": 36.10842207163601,
+        "children": [
+          {
+            "id": "c168b2a69eb8e366",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 482.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9cca8317660f2c60",
+  "lastOpenFiles": [
+    "2026-02-02.md",
+    "Tags"
+  ]
+}
