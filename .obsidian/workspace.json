@@ -23,10 +23,14 @@
             "id": "9cca8317660f2c60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Code/Comandos de Qdrant Database.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Comandos de Qdrant Database"
             }
           }
         ],
@@ -179,8 +183,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cca8317660f2c60",
+  "active": "26a281efd2c4d87d",
   "lastOpenFiles": [
+    "Code/QDrant.md",
+    "Code/Comandos de Qdrant Database.md",
+    "Code/GIS y Programacion.md",
+    "Code/Guía Esencial de Spring Boot para Principiantes.md",
+    "Code/Markdown Template.md",
+    "Code/markdown-cheat-sheet.md",
+    "Code/Tablas PostgreSQL N8N.md",
+    "N8N/ChatBot N8N.md",
+    "Code/Bases de Datos.md",
+    "Code/Api.md",
+    "Notas Personales/Guía Completa - Raspberry Pi Gateway con Tailscale WireGuard y Pi-hole.md",
+    "Work/Redes Sociales/Planificación de RRSS.md",
+    "Work/Redes Sociales/Prompt RRSS.md",
+    "Work/Usuarios Chatwoot.md",
+    "Work/Redes Sociales",
+    "Work/Renta Variable/Empresas a Ojear.md",
+    "Work/Renta Variable/Definiciones.md",
     "2026-02-02.md",
     "Tags"
   ]
