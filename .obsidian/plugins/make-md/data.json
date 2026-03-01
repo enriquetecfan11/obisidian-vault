@@ -39,10 +39,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//MaraOs/MaraOs/Mara",
-    "//MaraOs/MaraOs/Atlas",
-    "//MaraOs/MaraOs/Arvis",
-    "//MaraOs/MaraOs/Scout"
+    "//MaraOs",
+    "//MaraOs/MaraOs/Daily Changelog"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
