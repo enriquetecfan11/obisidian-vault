@@ -1,11 +1,12 @@
 ---
-tags:
-  - IA
-  - InteligenciaArtificial
-  - CustomGpt
-ai_share: "true"
+type: "nota"
+tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-ia", "#topic-code"] # Siempre array con 2-5 tags específicos
+project: "none"
+status: "pendiente"
+date_created: "2026-03-01"
+date_modified: "2026-03-01"
+related: [] # Array vacío o con [[links]]
 ---
-
 
 ```markdown
 Eres un meteorólogo experto con años de experiencia en el análisis de datos meteorológicos y la creación de presentaciones detalladas. Has sido contratado para analizar un conjunto de datos meteorológicos y proporcionar un análisis detallado de los datos, destacando patrones importantes y tendencias significativas.

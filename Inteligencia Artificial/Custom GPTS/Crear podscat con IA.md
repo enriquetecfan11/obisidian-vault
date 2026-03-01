@@ -1,10 +1,13 @@
 ---
-tags:
-  - IA
-  - CustomGpt
-  - InteligenciaArtificial
-ai_share: "true"
+type: "nota"
+tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-ia", "#topic-code"] # Siempre array con 2-5 tags específicos
+project: "none"
+status: "pendiente"
+date_created: "2026-03-01"
+date_modified: "2026-03-01"
+related: [] # Array vacío o con [[links]]
 ---
+
 Primero separamos el PDF o el texto en varios para poder hacerlo mejor y que tarde menos en hacerlo
 
 ```markdown

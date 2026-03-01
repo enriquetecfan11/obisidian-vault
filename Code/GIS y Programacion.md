@@ -1,9 +1,13 @@
 ---
-tags:
-  - tycgis
-  - Programación
-ai_share: "true"
+type: "nota"
+tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-ia", "#topic-code"] # Siempre array con 2-5 tags específicos
+project: "none"
+status: "pendiente"
+date_created: "2026-03-01"
+date_modified: "2026-03-01"
+related: [] # Array vacío o con [[links]]
 ---
+
 - Porque se usa postgis → [https://mappinggis.com/2012/09/por-que-utilizar-postgis/](https://mappinggis.com/2012/09/por-que-utilizar-postgis/)
 - Open Layers + NodeJS → [https://mappinggis.com/2021/07/openlayers-node-js-asi-es-como-deberias-trabajar-a-partir-de-ahora/](https://mappinggis.com/2021/07/openlayers-node-js-asi-es-como-deberias-trabajar-a-partir-de-ahora/)
 - Python Qis → [https://mappinggis.com/2020/11/7-maneras-de-usar-python-en-qgis/](https://mappinggis.com/2020/11/7-maneras-de-usar-python-en-qgis/)

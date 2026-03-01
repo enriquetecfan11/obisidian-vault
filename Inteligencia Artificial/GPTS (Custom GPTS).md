@@ -1,10 +1,13 @@
 ---
-tags:
-  - IA
-  - InteligenciaArtificial
-  - CustomGpt
-ai_share: "true"
+type: "nota"
+tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-n8n", "#topic-ia"] # Siempre array con 2-5 tags específicos
+project: "N8N Automation"
+status: "pendiente"
+date_created: "2026-03-01"
+date_modified: "2026-03-01"
+related: [] # Array vacío o con [[links]]
 ---
+
 ### 🔧 **Automatizaciones**
 - [N8N Assistant (By Nskha)](https://chatgpt.com/g/g-SVatmGSdQ-n8n-assistant-by-nskha)
 - [Asistente de Flujos n8n](https://chatgpt.com/g/g-6840a79abd348191966dd06abd7236c8-asistente-de-flujos-n8n)

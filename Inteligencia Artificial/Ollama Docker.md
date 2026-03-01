@@ -1,11 +1,13 @@
 ---
-tags:
-  - docker
-  - IA
-  - inteligenciartificial
-  - ollama
-ai_share: "true"
+type: "resource"
+tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-devops", "#topic-n8n"] # Siempre array con 2-5 tags específicos
+project: "N8N Automation"
+status: "pendiente"
+date_created: "2026-03-01"
+date_modified: "2026-03-01"
+related: [] # Array vacío o con [[links]]
 ---
+
 # 🐋 Ollama - Configuración para Docker y Redes
 
 ## 🔌 Exponer Ollama en Contenedores Docker

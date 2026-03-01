@@ -38,7 +38,11 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//MaraOs/MaraOs/Mara",
+    "//MaraOs/MaraOs/Atlas",
+    "//MaraOs/MaraOs/Arvis",
+    "//MaraOs/MaraOs/Scout"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -53,7 +57,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": true,

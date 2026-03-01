@@ -1,10 +1,13 @@
 ---
-tags:
-  - IA
-  - InteligenciaArtificial
-  - CustomGpt
-ai_share: "true"
+type: "project"
+tags: ["#proyecto-SaaS", "#area-devops", "#status-en-progreso", "#topic-ia", "#topic-code"] # Siempre array con 2-5 tags específicos
+project: "none"
+status: "en-progreso"
+date_created: "2026-03-01"
+date_modified: "2026-03-01"
+related: [] # Array vacío o con [[links]]
 ---
+
 Prompt base para crear un experto en arduino
 
 ```markdown

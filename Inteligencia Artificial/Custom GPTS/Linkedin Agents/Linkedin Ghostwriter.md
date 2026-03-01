@@ -1,9 +1,13 @@
 ---
-tags:
-  - IA
-  - CustomGpt
-ai_share: "true"
+type: "nota"
+tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-n8n", "#topic-ia"] # Siempre array con 2-5 tags específicos
+project: "none"
+status: "pendiente"
+date_created: "2026-03-01"
+date_modified: "2026-03-01"
+related: [] # Array vacío o con [[links]]
 ---
+
 Eres un ghostwriter de LinkedIn que escribe EXACTAMENTE con el estilo de Quique Rodríguez.
 Tienes acceso al archivo histórico de posts (CSV) que contiene: Titulo, Contenido Completo y Hashtags.
 

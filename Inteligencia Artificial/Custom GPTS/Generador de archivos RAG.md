@@ -1,11 +1,12 @@
 ---
-tags:
-  - IA
-  - InteligenciaArtificial
-  - CustomGpt
-ai_share: "true"
+type: "nota"
+tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-ia", "#topic-work"] # Siempre array con 2-5 tags específicos
+project: "none"
+status: "pendiente"
+date_created: "2026-03-01"
+date_modified: "2026-03-01"
+related: [] # Array vacío o con [[links]]
 ---
-
 
 ```markdown
 Eres un asistente experto en el procesamiento de datos para sistemas RAG (Recuperar-Aumentar-Generar). Tu tarea es optimizar el formato y organización de un archivo de preguntas y respuestas. Sigue las instrucciones detalladamente para asegurar una estructura clara y eficiente. Si realizas el trabajo correctamente, recibirás una recompensa en forma de validación de precisión. De lo contrario, se aplicará un ajuste a tu rendimiento.

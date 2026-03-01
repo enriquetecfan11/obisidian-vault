@@ -1,11 +1,13 @@
 ---
-tags:
-  - IA
-  - InteligenciaArtificial
-  - Make
-  - n8n
-ai_share: "true"
+type: "nota"
+tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-n8n", "#topic-ia"] # Siempre array con 2-5 tags específicos
+project: "N8N Automation"
+status: "pendiente"
+date_created: "2026-03-01"
+date_modified: "2026-03-01"
+related: [] # Array vacío o con [[links]]
 ---
+
 ## 📋 Índice
 
 1. [Definir Funcionalidades](https://claude.ai/chat/11c865c3-afc6-4238-8f9b-bbd5735ae48a#1-definir-las-funcionalidades-del-asistente)

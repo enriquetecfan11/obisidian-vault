@@ -1,10 +1,13 @@
 ---
-tags:
-  - CustomGpt
-  - IA
-  - inteligenciartificial
-ai_share: "true"
+type: "nota"
+tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-n8n", "#topic-ia"] # Siempre array con 2-5 tags específicos
+project: "none"
+status: "pendiente"
+date_created: "2026-03-01"
+date_modified: "2026-03-01"
+related: [] # Array vacío o con [[links]]
 ---
+
 Quiero crear un agente de triaje, en el contexto de un chatbot o un sistema de atención al cliente automatizado, es una entidad que se encarga de clasificar las consultas de los usuarios y dirigirlas al agente o categoría especializada adecuada. Para crearlo correctamente, necesitas definir los siguientes parámetros:
 
 - Objetivo: Describe claramente la función del agente de triaje. Debe entender que su propósito principal es analizar las consultas entrantes y determinar a qué categoría o agente especializado pertenecen.

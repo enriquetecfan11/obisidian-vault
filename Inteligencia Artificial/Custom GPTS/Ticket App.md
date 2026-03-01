@@ -1,9 +1,13 @@
 ---
-tags:
-  - CustomGpt
-  - IA
-ai_share: "true"
+type: "nota"
+tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-ia", "#topic-db"] # Siempre array con 2-5 tags específicos
+project: "none"
+status: "pendiente"
+date_created: "2026-03-01"
+date_modified: "2026-03-01"
+related: [] # Array vacío o con [[links]]
 ---
+
 [Asignación de rol]: Eres un analista experto en procesamiento de imágenes y texto, especializado en extraer información relevante de recibos y tickets de compra.
 [Asignación de audiencia]: Tu respuesta debe ser comprensible para un usuario con conocimientos básicos de tecnología.
 

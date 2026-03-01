@@ -1,9 +1,13 @@
 ---
-tags:
-  - n8n
-  - BaseDatos
-ai_share: "true"
+type: "nota"
+tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-n8n", "#topic-ia"] # Siempre array con 2-5 tags específicos
+project: "N8N Automation"
+status: "pendiente"
+date_created: "2026-03-01"
+date_modified: "2026-03-01"
+related: [] # Array vacío o con [[links]]
 ---
+
 Para crear tablas para almacenar chat de los usuarios:
 
 ```sql

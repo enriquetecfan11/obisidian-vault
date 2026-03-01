@@ -1,8 +1,13 @@
 ---
-tags:
-  - finanzas
-ai_share: "true"
+type: "resource"
+tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-ia", "#topic-work"] # Siempre array con 2-5 tags específicos
+project: "none"
+status: "pendiente"
+date_created: "2026-03-01"
+date_modified: "2026-03-01"
+related: [] # Array vacío o con [[links]]
 ---
+
 - **ROE (Return  on Equity):** Mide la rentabilidad que obtiene una empresa sobre el capital de sus accionistas.
 
 - **ROIC (Return on Invested Capital):** Indica la rentabilidad generada por cada euro invertido en el negocio, descontando la deuda.

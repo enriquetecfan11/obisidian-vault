@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ee0b43ebf764d1fa",
+        "id": "86fe478fbdb2ad41",
         "type": "tabs",
         "children": [
           {
-            "id": "9cca8317660f2c60",
+            "id": "5d3548572a6b94f4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MaraOs/Scout/system-prompt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "system-prompt"
             }
           }
         ]
@@ -132,8 +137,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cca8317660f2c60",
+  "active": "26a281efd2c4d87d",
   "lastOpenFiles": [
+    "Code/Api.md",
+    "N8N/BuilderBot - Enviar Whatsapp N8N.md",
+    "N8N/ChatBot N8N.md",
+    "N8N/Influencer AI + N8N.md",
+    "MaraOs/Arvis/system-prompt.md",
+    "MaraOs/Scout/system-prompt.md",
+    "MaraOs/Atlas/system-prompt.md",
+    "MaraOs/Mara/system-prompt.md",
+    "MaraOs/Mara/Mara.md",
+    "MaraOs/Scout/Scout.md",
+    "MaraOs/Scout",
+    "MaraOs/Arvis/Arvis.md",
+    "MaraOs/Arvis",
+    "MaraOs/Atlas/Atlas.md",
+    "MaraOs/Atlas",
+    "MaraOs/Mara",
+    "MaraOs/MaraOs.md",
+    "MaraOs",
+    "Untitled.md",
     "Code/Comandos de Qdrant Database.md",
     "Tags",
     "Code/QDrant.md",
@@ -142,16 +166,11 @@
     "Code/Markdown Template.md",
     "Code/markdown-cheat-sheet.md",
     "Code/Tablas PostgreSQL N8N.md",
-    "N8N/ChatBot N8N.md",
     "Code/Bases de Datos.md",
-    "Code/Api.md",
     "Notas Personales/Guía Completa - Raspberry Pi Gateway con Tailscale WireGuard y Pi-hole.md",
     "Work/Redes Sociales/Planificación de RRSS.md",
     "Work/Redes Sociales/Prompt RRSS.md",
     "Work/Usuarios Chatwoot.md",
-    "Work/Redes Sociales",
-    "Work/Renta Variable/Empresas a Ojear.md",
-    "Work/Renta Variable/Definiciones.md",
-    "2026-02-02.md"
+    "Work/Redes Sociales"
   ]
 }

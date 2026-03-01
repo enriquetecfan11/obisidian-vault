@@ -1,10 +1,13 @@
 ---
-tags:
-  - IA
-  - InteligenciaArtificial
-  - prompt
-ai_share: "true"
+type: "resource"
+tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-ia", "#topic-work"] # Siempre array con 2-5 tags específicos
+project: "none"
+status: "pendiente"
+date_created: "2026-03-01"
+date_modified: "2026-03-01"
+related: [] # Array vacío o con [[links]]
 ---
+
 ## Mi descripción (Español)
 
 Muy buenas, mi nombre es Enrique Rodríguez aunque todo el mundo me llama Kike. Vivo en Madrid, la capital de España.

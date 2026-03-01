@@ -1,10 +1,13 @@
 ---
-tags:
-  - servidores
-  - bots
-  - chatwoot
-ai_share: "true"
+type: "resource"
+tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-ia", "#topic-db"] # Siempre array con 2-5 tags específicos
+project: "none"
+status: "pendiente"
+date_created: "2026-03-01"
+date_modified: "2026-03-01"
+related: [] # Array vacío o con [[links]]
 ---
+
 SERVER_TYPE=http
 
 SERVER_PORT=8080
