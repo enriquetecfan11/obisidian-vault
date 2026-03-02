@@ -41,7 +41,7 @@
     "/",
     "//MaraOs",
     "//MaraOs/MaraOs/Daily Changelog",
-    "//MaraOs/MaraOs/Arvis"
+    "//MaraOs/MaraOs/daily"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -56,7 +56,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": true,
