@@ -1,6 +1,11 @@
 ---
 type: "project"
-tags: ["#proyecto-SaaS", "#area-devops", "#status-en-progreso", "#topic-ia", "#topic-code"] # Siempre array con 2-5 tags específicos
+tags:
+  - arduino
+  - hardware
+  - sistemas-embebidos
+  - gpt-personalizado
+  - prompt-engineering
 project: "none"
 status: "en-progreso"
 date_created: "2026-03-01"

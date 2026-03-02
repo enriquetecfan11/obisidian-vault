@@ -1,6 +1,11 @@
 ---
 type: "resource"
-tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-ia", "#topic-db"] # Siempre array con 2-5 tags específicos
+tags:
+  - qdrant
+  - base-de-datos-vectorial
+  - api-rest
+  - embeddings
+  - ia
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"

@@ -1,6 +1,6 @@
 ---
 type: "resource"
-tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-code", "#tipo-resource"] # Siempre array con 2-5 tags específicos
+tags: ["#mara-os", "#mara-os", "#status-pendiente", "#topic-code", "#tipo-resource"] # Siempre array con 2-5 tags específicos
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"

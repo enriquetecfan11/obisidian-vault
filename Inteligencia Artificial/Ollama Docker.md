@@ -1,6 +1,11 @@
 ---
 type: "resource"
-tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-devops", "#topic-n8n"] # Siempre array con 2-5 tags específicos
+tags:
+  - ollama
+  - docker
+  - llm
+  - n8n
+  - configuracion
 project: "N8N Automation"
 status: "pendiente"
 date_created: "2026-03-01"

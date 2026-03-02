@@ -1,6 +1,11 @@
 ---
 type: "resource"
-tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-ia", "#tipo-resource"] # Siempre array con 2-5 tags específicos
+tags:
+  - generacion-imagenes
+  - infografias
+  - ia
+  - diseño
+  - prompt-engineering
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"

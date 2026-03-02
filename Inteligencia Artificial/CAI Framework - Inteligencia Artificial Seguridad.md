@@ -1,6 +1,11 @@
 ---
 type: "resource"
-tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-ia", "#topic-db"] # Siempre array con 2-5 tags específicos
+tags:
+  - ciberseguridad
+  - ia
+  - ollama
+  - auditoria
+  - llm
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"

@@ -1,6 +1,10 @@
 ---
 type: "project"
-tags: ["#proyecto-SaaS", "#area-devops", "#status-en-progreso", "#topic-ia", "#topic-work"] # Siempre array con 2-5 tags específicos
+tags:
+  - redes-sociales
+  - marketing
+  - planificacion
+  - contenido
 project: "none"
 status: "en-progreso"
 date_created: "2026-03-01"

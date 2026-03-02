@@ -1,6 +1,11 @@
 ---
 type: "nota"
-tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-n8n", "#topic-ia"] # Siempre array con 2-5 tags específicos
+tags:
+  - postgresql
+  - n8n
+  - sql
+  - automatizacion
+  - chatbot
 project: "N8N Automation"
 status: "pendiente"
 date_created: "2026-03-01"

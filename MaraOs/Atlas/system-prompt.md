@@ -1,6 +1,6 @@
 ---
 type: "nota"
-tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-ia", "#topic-obsidian"] # Siempre array con 2-5 tags específicos
+tags: ["#mara-os", "#mara-os", "#status-pendiente", "#topic-ia", "#topic-obsidian"] # Siempre array con 2-5 tags específicos
 project: "MaraOS"
 status: "pendiente"
 date_created: "2026-03-01"

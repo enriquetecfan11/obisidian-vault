@@ -1,6 +1,10 @@
 ---
 type: "resource"
-tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-code", "#tipo-resource"] # Siempre array con 2-5 tags específicos
+tags:
+  - evolution-api
+  - whatsapp
+  - configuracion
+  - docker
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"

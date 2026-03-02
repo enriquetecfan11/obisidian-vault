@@ -1,6 +1,11 @@
 ---
 type: "nota"
-tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-ia"] # Siempre array con 2-5 tags específicos
+tags:
+  - linkedin
+  - generacion-imagenes
+  - ia
+  - diseño
+  - prompt-engineering
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"

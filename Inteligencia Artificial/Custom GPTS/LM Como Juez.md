@@ -1,6 +1,10 @@
 ---
 type: "resource"
-tags: ["#proyecto-SaaS", "#area-devops", "#status-pendiente", "#topic-ia", "#topic-code"] # Siempre array con 2-5 tags específicos
+tags:
+  - llm
+  - evaluacion-ia
+  - prompt-engineering
+  - ia
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
