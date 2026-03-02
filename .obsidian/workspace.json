@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "86fe478fbdb2ad41",
+        "id": "c63e4572af104f86",
         "type": "tabs",
         "children": [
           {
-            "id": "5d3548572a6b94f4",
+            "id": "95748362329cbc9c",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "MaraOs/Daily Changelog"
+                "path": "MaraOs/Arvis"
               },
               "icon": "lucide-file",
-              "title": "Daily Changelog"
+              "title": "Arvis"
             }
           }
         ]
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "152805b3e5d105db",
+            "id": "5f588d64aad15970",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -134,9 +134,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26a281efd2c4d87d",
+  "active": "95748362329cbc9c",
   "lastOpenFiles": [
+    "MaraOs/Arvis/Arvis.md",
     "MaraOs/Daily Changelog/Daily Changelog.md",
+    "Tags",
     "MaraOs/SystemFiles/USER.md",
     "MaraOs/SystemFiles/TOOLS.md",
     "MaraOs/SystemFiles/SOUL.md",
@@ -165,12 +167,10 @@
     "MaraOs/SystemFiles",
     "MaraOs/untitled folder",
     "MaraOs/Daily Changelog/Daily.md",
-    "MaraOs/Daily Changelog",
     "MaraOs/Scout/Scout.md",
     "MaraOs/Atlas/system-prompt.md",
     "MaraOs/Scout/system-prompt.md",
     "Code/Api.md",
-    "N8N/BuilderBot - Enviar Whatsapp N8N.md",
-    "N8N/ChatBot N8N.md"
+    "N8N/BuilderBot - Enviar Whatsapp N8N.md"
   ]
 }
