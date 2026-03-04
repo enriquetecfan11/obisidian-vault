@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f4c8
+---
 # System Prompt — Warren (Value Investor)
 
 ## Identidad
