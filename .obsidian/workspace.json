@@ -11,12 +11,15 @@
             "id": "5d3548572a6b94f4",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Work"
+                "file": "MaraOs/Warren/Crypto.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Work"
+              "title": "Crypto"
             }
           }
         ]
@@ -134,10 +137,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be574aa4bf6280c8",
+  "active": "26a281efd2c4d87d",
   "lastOpenFiles": [
-    "Work/Empresas/Prompt Analizador Noticias.md",
+    "MaraOs/Warren/Empresas.md",
     "MaraOs/Warren/Analisis Empresas.md",
+    "MaraOs/Warren/analisis-diario/04-03-2026/02-crypto.md",
+    "MaraOs/Warren/analisis-diario/04-03-2026/README.md",
+    "MaraOs/Warren/analisis-diario/04-03-2026",
+    "MaraOs/Warren/analisis-diario",
+    "Work/Empresas/Prompt Analizador Noticias.md",
     "MaraOs/Warren/analisis/2026-03-04/README.md",
     "MaraOs/Warren/Warren.md",
     "MaraOs/Warren/analisis/2026-03-04/SOL-analisis.md",
@@ -148,7 +156,6 @@
     "MaraOs/Warren/analisis/2026-03-04/BTC-analisis.md",
     "MaraOs/Warren/Crypto.md",
     "MaraOs/Warren/system-prompt.md",
-    "MaraOs/Warren/Empresas.md",
     "Tags/#mara-os/#mara-os.md",
     "README.md",
     "Tags/#status-pendiente",
@@ -159,8 +166,6 @@
     "Tags/#referencia",
     "Tags/#workflows",
     "Tags/#api-rest",
-    "Tags/#mara-os",
-    "Tags/#recursos",
     "MaraOs/daily/01-03-2026-change.md",
     "MaraOs/daily/02-03-2026-change.md",
     "MaraOs/Daily Changelog/Daily Changelog.md",
@@ -169,8 +174,6 @@
     "MaraOs/SystemFiles/SOUL.md",
     "MaraOs/SystemFiles/skills/README.md",
     "MaraOs/SystemFiles/README.md",
-    "MaraOs/SystemFiles/prompts/README.md",
-    "MaraOs/SystemFiles/MEMORY.md",
-    "MaraOs/SystemFiles/knowledge-base/system/04-governance.md"
+    "MaraOs/SystemFiles/prompts/README.md"
   ]
 }
