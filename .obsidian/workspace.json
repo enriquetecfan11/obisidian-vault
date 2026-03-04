@@ -11,15 +11,12 @@
             "id": "5d3548572a6b94f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "MaraOs/Warren/Crypto.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "path": "Work"
               },
               "icon": "lucide-file",
-              "title": "Crypto"
+              "title": "Work"
             }
           }
         ]
@@ -63,7 +60,7 @@
             }
           },
           {
-            "id": "6bdabde3c1f04423",
+            "id": "be574aa4bf6280c8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -137,14 +134,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d3548572a6b94f4",
+  "active": "be574aa4bf6280c8",
   "lastOpenFiles": [
-    "MaraOs/Warren/system-prompt.md",
+    "Work/Empresas/Prompt Analizador Noticias.md",
+    "MaraOs/Warren/Analisis Empresas.md",
+    "MaraOs/Warren/analisis/2026-03-04/README.md",
+    "MaraOs/Warren/Warren.md",
+    "MaraOs/Warren/analisis/2026-03-04/SOL-analisis.md",
+    "MaraOs/Warren/analisis/2026-03-04/NVDA-analisis.md",
+    "MaraOs/Warren/analisis/2026-03-04/MU-analisis.md",
+    "MaraOs/Warren/analisis/2026-03-04/AMZN-analisis.md",
+    "MaraOs/Warren/analisis/2026-03-04/ETH-analisis.md",
+    "MaraOs/Warren/analisis/2026-03-04/BTC-analisis.md",
     "MaraOs/Warren/Crypto.md",
+    "MaraOs/Warren/system-prompt.md",
     "MaraOs/Warren/Empresas.md",
     "Tags/#mara-os/#mara-os.md",
     "README.md",
-    "MaraOs/Warren/Warren.md",
     "Tags/#status-pendiente",
     "Tags/#hardware",
     "Tags/#saas",
@@ -165,15 +171,6 @@
     "MaraOs/SystemFiles/README.md",
     "MaraOs/SystemFiles/prompts/README.md",
     "MaraOs/SystemFiles/MEMORY.md",
-    "MaraOs/SystemFiles/knowledge-base/system/04-governance.md",
-    "MaraOs/SystemFiles/knowledge-base/system/03-repos-and-ops.md",
-    "MaraOs/SystemFiles/knowledge-base/system/02-mcp-integrations.md",
-    "MaraOs/SystemFiles/knowledge-base/system/00-overview.md",
-    "MaraOs/SystemFiles/knowledge-base/system/01-agent-architecture.md",
-    "MaraOs/SystemFiles/knowledge-base/README.md",
-    "MaraOs/SystemFiles/inbox/README.md",
-    "MaraOs/SystemFiles/IDENTITY.md",
-    "MaraOs/SystemFiles/datasets/README.md",
-    "MaraOs/SystemFiles/archive/README.md"
+    "MaraOs/SystemFiles/knowledge-base/system/04-governance.md"
   ]
 }
