@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".makemd/fileCache.mdc",
-                "bFile": ".makemd/fileCache.mdc",
+                "aFile": ".makemd/superstate.mdc",
+                "bFile": ".makemd/superstate.mdc",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: fileCache.mdc  (Working Tree)"
+              "title": "Diff: superstate.mdc  (Working Tree)"
             }
           }
         ]
@@ -136,8 +136,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d3548572a6b94f4",
+  "active": "26a281efd2c4d87d",
   "lastOpenFiles": [
+    "MaraOs/daily/04-03-2026-change.md",
+    "MaraOs/Warren/analisis-diario/05-03-2026/01-espana.md",
+    "MaraOs/Warren/analisis-diario/05-03-2026",
     "MaraOs/Warren/Crypto.md",
     "MaraOs/Warren/Empresas.md",
     "MaraOs/Warren/Analisis Empresas.md",
@@ -164,15 +167,12 @@
     "Tags/#perfil",
     "Tags/#referencia",
     "Tags/#workflows",
-    "Tags/#api-rest",
     "MaraOs/daily/01-03-2026-change.md",
     "MaraOs/daily/02-03-2026-change.md",
     "MaraOs/Daily Changelog/Daily Changelog.md",
     "MaraOs/SystemFiles/USER.md",
     "MaraOs/SystemFiles/TOOLS.md",
     "MaraOs/SystemFiles/SOUL.md",
-    "MaraOs/SystemFiles/skills/README.md",
-    "MaraOs/SystemFiles/README.md",
-    "MaraOs/SystemFiles/prompts/README.md"
+    "MaraOs/SystemFiles/skills/README.md"
   ]
 }
