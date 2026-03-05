@@ -11,15 +11,14 @@
             "id": "5d3548572a6b94f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "MaraOs/Warren/Crypto.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": ".makemd/fileCache.mdc",
+                "bFile": ".makemd/fileCache.mdc",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Crypto"
+              "icon": "diff",
+              "title": "Diff: fileCache.mdc  (Working Tree)"
             }
           }
         ]
@@ -63,7 +62,7 @@
             }
           },
           {
-            "id": "be574aa4bf6280c8",
+            "id": "e0a1bb2d61ad801c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -100,7 +99,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           }
         ]
@@ -117,7 +116,7 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Graph view"
             }
           }
         ]
@@ -128,17 +127,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
-      "publish:Publicar cambios...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26a281efd2c4d87d",
+  "active": "5d3548572a6b94f4",
   "lastOpenFiles": [
+    "MaraOs/Warren/Crypto.md",
     "MaraOs/Warren/Empresas.md",
     "MaraOs/Warren/Analisis Empresas.md",
     "MaraOs/Warren/analisis-diario/04-03-2026/02-crypto.md",
@@ -154,7 +154,6 @@
     "MaraOs/Warren/analisis/2026-03-04/AMZN-analisis.md",
     "MaraOs/Warren/analisis/2026-03-04/ETH-analisis.md",
     "MaraOs/Warren/analisis/2026-03-04/BTC-analisis.md",
-    "MaraOs/Warren/Crypto.md",
     "MaraOs/Warren/system-prompt.md",
     "Tags/#mara-os/#mara-os.md",
     "README.md",
