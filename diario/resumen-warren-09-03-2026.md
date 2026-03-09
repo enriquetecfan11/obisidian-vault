@@ -1,38 +1,57 @@
 # Resumen diario Warren — 09-03-2026
 
 ## 1) Highlights del día
-- **España (IBEX):** sesión de sesgo mixto, con el foco en **tipos BCE**, crecimiento Eurozona e impacto en bancos/energía.
-- **Santander (SAN):** mantiene tesis de rentabilidad apoyada en margen financiero, pero con sensibilidad alta a giro de tipos y calidad crediticia.
-- **Repsol (REP):** continúa como valor táctico ligado a **Brent/TTF** y márgenes de refino; clave la disciplina de capital.
-- **Iberdrola (IBE):** perfil más defensivo dentro de España por visibilidad de flujos (redes + renovables), aunque sensible al coste de financiación.
-- **Crypto (mercado):** rebote moderado en grandes activos (BTC +1.0%, ETH +2.87%), pero con **Fear & Greed = 8 (miedo extremo)**, señal de cautela estructural.
-- **Rotación cripto:** dominancia y preferencia relativa por activos líquidos/calidad (BTC/ETH) frente a altcoins con más riesgo regulatorio.
+- Jornada de apertura semanal con **tono mixto** en Europa y foco claro en **BCE, inflación de servicios y crecimiento en Eurozona**.
+- En España, el marco táctico sigue dominado por la sensibilidad del IBEX a:
+  - **bancos** (curva de tipos / coste de depósitos / morosidad),
+  - **energía** (Brent/TTF + márgenes de refino),
+  - **utilities** (riesgo regulatorio + coste de financiación).
+- En cripto, el sesgo agregado fue de **aversión al riesgo** pese al rebote en precios: Fear & Greed en **8 (Extreme Fear)** y preferencia por activos líquidos (BTC/ETH).
 
-## 2) Alertas / Riesgos
-- **Macro Europa:** cualquier mensaje hawkish/dovish inesperado del BCE puede cambiar rápidamente la valoración relativa de banca/utilities.
-- **Regulación España:** riesgo latente en banca, energía y utilities por cambios de marco regulatorio/fiscal.
-- **Commodities:** correcciones bruscas en crudo/gas afectarían directamente a REP e indirectamente al coste empresarial.
-- **Crypto regulatorio:** riesgo latente en EE. UU./UE sobre exchanges, clasificación de tokens y stablecoins (impacto mayor en altcoins).
-- **Sentimiento cripto:** miedo extremo sugiere mayor probabilidad de volatilidad y movimientos falsos de corto plazo.
+## 2) Alertas y riesgos
+- **Macro Europa:** cualquier giro brusco en expectativas de tipos del BCE puede cambiar rápido el liderazgo sectorial.
+- **España regulatorio:** riesgo latente en banca/energía/utilities (impacto directo en SAN, REP, IBE).
+- **Cripto regulatorio:** permanece el riesgo en EE. UU./UE sobre clasificación de tokens, exchanges y stablecoins.
+- **Sentimiento frágil en cripto:** rebote de precio con miedo extremo implica riesgo de volatilidad y movimientos de reversión.
 
 ## 3) Cambios clave en empresas / crypto
-### Empresas (España)
-- **SAN:** sin cambio de tesis base, pero aumenta la importancia de vigilar coste de depósitos, NII y morosidad.
-- **REP:** continúa dependiente del soporte de commodities; sin catalizador nuevo estructural confirmado hoy.
-- **IBE:** se refuerza como ancla defensiva relativa en un contexto de incertidumbre macro.
+### España (lectura estratégica)
+- **Santander (SAN):** mantiene tesis de rentabilidad apoyada en tipos aún altos, pero con foco en coste de riesgo y depósitos.
+- **Repsol (REP):** continúa muy dependiente de commodities (crudo/gas/refino); clave vigilar disciplina de capital y FCF.
+- **Iberdrola (IBE):** perfil defensivo relativo; catalizadores en redes+renovables, riesgo principal en tipos reales y marco regulatorio.
 
 ### Crypto
-- **BTC/ETH:** mejor comportamiento relativo del día; se mantienen como núcleo defensivo del bloque cripto.
-- **BNB/XRP/ADA:** variaciones positivas moderadas, pero persiste asimetría de riesgo por narrativa/regulación y menor calidad de flujos.
-- **Eventos:** sin hacks sistémicos nuevos en top 5 y sin unlocks extraordinarios (más allá de dinámica habitual de XRP escrow).
+- **BTC/ETH lideran calidad y liquidez** en un entorno defensivo.
+- **Altcoins** (incl. SOL/BNB/XRP/ADA) con mejoría táctica de precio, pero más expuestas a riesgo regulatorio y a cambios de flujo.
+- Sin incidentes sistémicos nuevos de seguridad de gran magnitud en las últimas 24h para los activos principales seguidos.
 
 ## 4) Acciones recomendadas para mañana
-1. **Priorizar defensa y liquidez:** mantener exposición principal en activos de mayor calidad (IBE en España; BTC/ETH en crypto).
-2. **Revisar disparadores macro temprano:** BCE, TIRes soberanas y señales de actividad/inflación antes de aumentar riesgo.
-3. **Vigilar materias primas:** seguimiento intradía de Brent/TTF y márgenes de refino para decidir táctica en REP.
-4. **Control de riesgo en SAN:** solo aumentar exposición con confirmación de resiliencia en margen y riesgo crediticio.
-5. **Crypto:** evitar perseguir rebotes de altcoins sin catalizador; usar tamaños más pequeños y stops disciplinados.
-6. **Checklist operativo preapertura:** validar precio/variación 24h, volumen y noticias regulatorias antes de ejecutar cambios.
+1. **Priorizar gestión de riesgo** sobre expansión de exposición (tamaño de posición y liquidez primero).
+2. **Validar preapertura europea**: TIRes, comentarios BCE y comportamiento de banca en apertura.
+3. **Checklist España antes de mover cartera**:
+   - SAN: señales de presión en depósitos/coste del riesgo.
+   - REP: Brent/TTF + márgenes de refino.
+   - IBE: novedades regulatorias y coste de deuda.
+4. **En cripto**, mantener sesgo selectivo:
+   - núcleo en BTC/ETH,
+   - exposición táctica en beta alta (SOL/alt) solo con stops y control de riesgo.
+5. Si persiste **Fear extremo**, evitar perseguir velas; preferir entradas escalonadas.
+
+## 5) Precios actuales (cierre/último disponible)
+> Referencia de actualización: 09-03-2026 noche (CET), usando fuentes de mercado públicas.
+
+### España
+- **IBEX 35:** **16,928.2** (**-0.86% d/d**)  
+  (vs. cierre previo 17,074.4)
+
+### Crypto
+- **BTC:** **$68,900** (**+2.96% 24h**) | €59,210
+- **ETH:** **$2,030.09** (**+4.03% 24h**) | €1,744.59
+- **SOL:** **$86.06** (**+4.96% 24h**) | €73.96
+- **BNB:** $639.17 (+3.58% 24h)
+- **XRP:** $1.37 (+1.99% 24h)
+- **ADA:** $0.2584 (+2.61% 24h)
 
 ---
-**Lectura ejecutiva:** jornada de transición con rebote técnico en crypto y sesgo mixto en España. Estrategia óptima: mantener núcleo defensivo, preservar liquidez y actuar de forma táctica solo con confirmaciones de macro/flujo.
+### Nota operativa
+No se detectó archivo `03-eeuu-crypto.md` para hoy en la ruta indicada; resumen construido con `01-espana.md` y `02-crypto.md`, complementado con precios actuales.
