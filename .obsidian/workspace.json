@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "86fe478fbdb2ad41",
+        "id": "ca7ce1229b3c1475",
         "type": "tabs",
         "children": [
           {
-            "id": "5d3548572a6b94f4",
+            "id": "e892fe726f7389cb",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".makemd/superstate.mdc",
-                "bFile": ".makemd/superstate.mdc",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: superstate.mdc  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -48,7 +44,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "e0a1bb2d61ad801c",
+            "id": "91c1b927ed423c42",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -136,15 +132,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26a281efd2c4d87d",
+  "active": "e892fe726f7389cb",
   "lastOpenFiles": [
-    "MaraOs/daily/04-03-2026-change.md",
+    "Code/Docker.md",
+    "diario/resumen-warren-09-03-2026.md",
+    "diario/diario-9-03-2026.md",
+    "diario/diario-10-03-2026.md",
+    "diario",
+    "MaraOs/daily/09-03-2026-change.md",
+    "MaraOs/daily/08-03-2026-change.md",
+    "MaraOs/daily/07-03-2026-change.md",
+    "MaraOs/daily/06-03-2026-change.md",
+    "MaraOs/Warren/analisis-diario/10-03-2026/01-espana.md",
+    "MaraOs/Warren/analisis-diario/10-03-2026",
+    "MaraOs/Warren/analisis-diario/09-03-2026/02-crypto.md",
+    "MaraOs/Warren/analisis-diario/09-03-2026/01-espana.md",
+    "MaraOs/Warren/analisis-diario/09-03-2026",
+    "Code/markdown-cheat-sheet.md",
+    "Code/Comandos de Qdrant Database.md",
+    "MaraOs/Warren/Analisis Empresas.md",
+    "MaraOs/Warren/system-prompt.md",
+    "MaraOs/Warren/Empresas.md",
     "MaraOs/Warren/analisis-diario/05-03-2026/01-espana.md",
+    "MaraOs/Warren/analisis-diario/04-03-2026/02-crypto.md",
+    "MaraOs/daily/04-03-2026-change.md",
     "MaraOs/Warren/analisis-diario/05-03-2026",
     "MaraOs/Warren/Crypto.md",
-    "MaraOs/Warren/Empresas.md",
-    "MaraOs/Warren/Analisis Empresas.md",
-    "MaraOs/Warren/analisis-diario/04-03-2026/02-crypto.md",
     "MaraOs/Warren/analisis-diario/04-03-2026/README.md",
     "MaraOs/Warren/analisis-diario/04-03-2026",
     "MaraOs/Warren/analisis-diario",
@@ -153,26 +166,9 @@
     "MaraOs/Warren/Warren.md",
     "MaraOs/Warren/analisis/2026-03-04/SOL-analisis.md",
     "MaraOs/Warren/analisis/2026-03-04/NVDA-analisis.md",
-    "MaraOs/Warren/analisis/2026-03-04/MU-analisis.md",
-    "MaraOs/Warren/analisis/2026-03-04/AMZN-analisis.md",
-    "MaraOs/Warren/analisis/2026-03-04/ETH-analisis.md",
-    "MaraOs/Warren/analisis/2026-03-04/BTC-analisis.md",
-    "MaraOs/Warren/system-prompt.md",
-    "Tags/#mara-os/#mara-os.md",
-    "README.md",
     "Tags/#status-pendiente",
     "Tags/#hardware",
     "Tags/#saas",
-    "Tags/#desarrollador",
-    "Tags/#perfil",
-    "Tags/#referencia",
-    "Tags/#workflows",
-    "MaraOs/daily/01-03-2026-change.md",
-    "MaraOs/daily/02-03-2026-change.md",
-    "MaraOs/Daily Changelog/Daily Changelog.md",
-    "MaraOs/SystemFiles/USER.md",
-    "MaraOs/SystemFiles/TOOLS.md",
-    "MaraOs/SystemFiles/SOUL.md",
-    "MaraOs/SystemFiles/skills/README.md"
+    "Tags/#desarrollador"
   ]
 }

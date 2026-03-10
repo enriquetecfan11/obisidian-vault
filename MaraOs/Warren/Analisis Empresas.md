@@ -5,7 +5,7 @@
     - Fundamentales acciones: PER, crecimiento ingresos/beneficios, márgenes, deuda/equity, ROE, EPS, tendencia 1–3 años.
     - Noticias y eventos: earnings, splits, guidance, M&A, regulación sector, cambios directiva, lanzamientos de producto.
 
-- **Cripto **
+- **Acciones  Crypto**
 	- BTC, ETH, XRP, SOL
 	- Precio actual 
 	- Porcentaje de cambio en las últimas 24 horas
