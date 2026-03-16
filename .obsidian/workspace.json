@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ca7ce1229b3c1475",
+        "id": "971cf30d9505ebc1",
         "type": "tabs",
         "children": [
           {
-            "id": "e892fe726f7389cb",
+            "id": "a5f463885c9b7505",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "mk-space",
+              "state": {
+                "path": "redes sociales/linkedin"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "linkedin"
             }
           }
         ]
@@ -36,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#area-devops",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +60,7 @@
             }
           },
           {
-            "id": "91c1b927ed423c42",
+            "id": "bcbfdbb2ad190cea",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -123,18 +125,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas-watcher:Run Canvas Watcher": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "e892fe726f7389cb",
+  "active": "bcbfdbb2ad190cea",
   "lastOpenFiles": [
+    "RULES.md",
+    "README.md",
+    "AGENTS.md",
+    "CLAUDE.md",
+    "Project.canvas",
     "Code/Docker.md",
+    "MaraOs/MaraOs.md",
+    "Untitled.canvas",
+    "canvas-tool.py",
     "diario/resumen-warren-09-03-2026.md",
     "diario/diario-9-03-2026.md",
     "diario/diario-10-03-2026.md",
@@ -161,14 +173,8 @@
     "MaraOs/Warren/analisis-diario/04-03-2026/README.md",
     "MaraOs/Warren/analisis-diario/04-03-2026",
     "MaraOs/Warren/analisis-diario",
-    "Work/Empresas/Prompt Analizador Noticias.md",
-    "MaraOs/Warren/analisis/2026-03-04/README.md",
-    "MaraOs/Warren/Warren.md",
-    "MaraOs/Warren/analisis/2026-03-04/SOL-analisis.md",
-    "MaraOs/Warren/analisis/2026-03-04/NVDA-analisis.md",
     "Tags/#status-pendiente",
     "Tags/#hardware",
-    "Tags/#saas",
-    "Tags/#desarrollador"
+    "Tags/#saas"
   ]
 }
