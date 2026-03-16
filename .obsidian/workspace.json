@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ca7ce1229b3c1475",
+        "id": "60810419c2d27e2a",
         "type": "tabs",
         "children": [
           {
-            "id": "e892fe726f7389cb",
+            "id": "0fcd8b3e22e0b920",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "redes sociales/linkedin/Linkedin Posts/¿Puede una IA mirarse a sí misma.md",
+                "bFile": "redes sociales/linkedin/Linkedin Posts/¿Puede una IA mirarse a sí misma.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: ¿Puede una IA mirarse a sí misma  (Working Tree)"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#area-devops",
+                "query": "Agents",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +62,7 @@
             }
           },
           {
-            "id": "91c1b927ed423c42",
+            "id": "cc53dfb4e519319a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -72,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 426.5
   },
   "right": {
     "id": "5b7663f71490f5b6",
@@ -119,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -129,46 +133,48 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e892fe726f7389cb",
+  "active": "0fcd8b3e22e0b920",
   "lastOpenFiles": [
-    "Code/Docker.md",
-    "diario/resumen-warren-09-03-2026.md",
-    "diario/diario-9-03-2026.md",
-    "diario/diario-10-03-2026.md",
-    "diario",
-    "MaraOs/daily/09-03-2026-change.md",
-    "MaraOs/daily/08-03-2026-change.md",
-    "MaraOs/daily/07-03-2026-change.md",
-    "MaraOs/daily/06-03-2026-change.md",
-    "MaraOs/Warren/analisis-diario/10-03-2026/01-espana.md",
-    "MaraOs/Warren/analisis-diario/10-03-2026",
-    "MaraOs/Warren/analisis-diario/09-03-2026/02-crypto.md",
-    "MaraOs/Warren/analisis-diario/09-03-2026/01-espana.md",
-    "MaraOs/Warren/analisis-diario/09-03-2026",
-    "Code/markdown-cheat-sheet.md",
-    "Code/Comandos de Qdrant Database.md",
-    "MaraOs/Warren/Analisis Empresas.md",
-    "MaraOs/Warren/system-prompt.md",
-    "MaraOs/Warren/Empresas.md",
-    "MaraOs/Warren/analisis-diario/05-03-2026/01-espana.md",
-    "MaraOs/Warren/analisis-diario/04-03-2026/02-crypto.md",
-    "MaraOs/daily/04-03-2026-change.md",
-    "MaraOs/Warren/analisis-diario/05-03-2026",
-    "MaraOs/Warren/Crypto.md",
-    "MaraOs/Warren/analisis-diario/04-03-2026/README.md",
-    "MaraOs/Warren/analisis-diario/04-03-2026",
-    "MaraOs/Warren/analisis-diario",
-    "Work/Empresas/Prompt Analizador Noticias.md",
-    "MaraOs/Warren/analisis/2026-03-04/README.md",
-    "MaraOs/Warren/Warren.md",
-    "MaraOs/Warren/analisis/2026-03-04/SOL-analisis.md",
-    "MaraOs/Warren/analisis/2026-03-04/NVDA-analisis.md",
-    "Tags/#status-pendiente",
-    "Tags/#hardware",
-    "Tags/#saas",
-    "Tags/#desarrollador"
+    "MaraOs/SystemFiles/AGENTS.md",
+    "Notas Personales/Guía Completa - Raspberry Pi Gateway con Tailscale WireGuard y Pi-hole.md",
+    "redes sociales/linkedin/Linkedin Ghostwritter.md",
+    "Vault.md",
+    "redes sociales/twitter",
+    "redes sociales/linkedin",
+    "redes sociales",
+    "diario/resumen-warren-13-03-2026.md",
+    "diario/resumen-warren-12-03-2026.md",
+    "diario/resumen-warren-11-03-2026.md",
+    "diario/resumen-semanal-15-03-2026.md",
+    "diario/diario-16-03-2026.md",
+    "diario/diario-15-03-2026.md",
+    "diario/diario-14-03-2026.md",
+    "diario/diario-13-03-2026.md",
+    "diario/diario-12-03-2026.md",
+    "MaraOs/daily/15-03-2026-change.md",
+    "MaraOs/daily/14-03-2026-change.md",
+    "MaraOs/daily/13-03-2026-change.md",
+    "MaraOs/daily/12-03-2026-change.md",
+    "MaraOs/daily/11-03-2026-change.md",
+    "MaraOs/Warren/analisis-diario/16-03-2026/01-espana.md",
+    "MaraOs/Warren/analisis-diario/16-03-2026",
+    "MaraOs/Warren/analisis-diario/13-03-2026/03-eeuu-crypto.md",
+    "MaraOs/Warren/analisis-diario/13-03-2026/02-crypto.md",
+    "MaraOs/Warren/analisis-diario/13-03-2026/01-espana.md",
+    "MaraOs/Warren/analisis-diario/13-03-2026",
+    "MaraOs/Warren/analisis-diario/12-03-2026/03-eeuu-crypto.md",
+    "MaraOs/Warren/analisis-diario/12-03-2026/02-crypto.md",
+    "MaraOs/Warren/analisis-diario/12-03-2026/01-espana.md",
+    "MaraOs/Warren/analisis-diario/12-03-2026",
+    "MaraOs/Warren/analisis-diario/11-03-2026/02-crypto.md",
+    "MaraOs/Warren/analisis-diario/11-03-2026",
+    "CSV import.base",
+    "redes sociales/linkedin/Linkedin Posts",
+    "diario"
   ]
 }

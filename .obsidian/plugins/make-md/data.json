@@ -40,11 +40,11 @@
   "expandedSpaces": [
     "/",
     "//MaraOs/MaraOs/Daily Changelog",
-    "//MaraOs/MaraOs/Warren",
     "//MaraOs/MaraOs/Warren/MaraOs/Warren/analisis/MaraOs/Warren/analisis/2026-03-04",
     "//Work/Work/Empresas",
     "//Inteligencia Artificial/Inteligencia Artificial/Imagenes y Videos",
-    "//Inteligencia Artificial/Inteligencia Artificial/Custom GPTS"
+    "//Inteligencia Artificial/Inteligencia Artificial/Custom GPTS",
+    "//CSV import"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -59,7 +59,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": true,

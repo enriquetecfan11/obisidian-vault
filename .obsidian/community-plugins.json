@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "make-md"
+  "make-md",
+  "obsidian-kanban",
+  "obsidian-importer"
 ]
