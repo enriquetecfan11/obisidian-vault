@@ -1,5 +1,10 @@
 [
   "obsidian-git",
   "make-md",
+<<<<<<< HEAD
   "canvas-watcher"
+=======
+  "obsidian-kanban",
+  "obsidian-importer"
+>>>>>>> origin/main
 ]
