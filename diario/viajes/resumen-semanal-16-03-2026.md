@@ -1,43 +1,82 @@
-# Resumen semanal 16-03-2026
+# 📅 Resumen semanal
+Semana: 10-03-2026 → 16-03-2026
 
-## 1) Resumen general
-Semana del 10-03-2026 al 16-03-2026. Semana muy enfocada en desplazamientos recurrentes, con picos de distancia el miércoles y el fin de semana. Hubo actividad registrada en 6/7 días; el domingo no tiene contenido operativo en el diario.
+---
 
-## 2) Hitos por día
-### Tuesday 10-03-2026
-- Primer viaje del día: 45 km (salida 06:19, llegada 07:04)
-- 2º viaje: 45 km (salida 16:30, llegada 17:15)
+# 📝 Registro rápido
 
-### Wednesday 11-03-2026
-- Primer viaje del día: 45 km (salida 06:25, llegada 07:10)
-- Viaje adicional: 65 km (salida 20:10, llegada 21:10)
+- Semana centrada en desplazamientos recurrentes.
+- 12 viajes registrados y 595 km acumulados.
+- Mayor carga de km: miércoles y sábado.
 
-### Thursday 12-03-2026
-- Viaje: 45 km en 45 min (llegada 07:10, salida 06:25)
-- Viaje: 45 km en 45 min (salida 17:15, llegada 18:00)
+---
 
-### Friday 13-03-2026
-- Viaje: 45 km en 45 min (salida 06:35, llegada 07:20)
-- Viaje: 45 km en 45 min (llegada 17:46)
+# 🚗 Viajes estructurados
 
-### Saturday 14-03-2026
-- Viaje: 60 km en 1h (llegada 11:07, salida 10:07)
-- Viaje (ayer noche): 60 km en 1h (salida 21:40, llegada 22:40)
+| Fecha | Km | Duración | Hora llegada |
+|------|----|----------|--------------|
+| 10-03-2026 | 45 | 45 min | 07:04 |
+| 10-03-2026 | 45 | 45 min | 17:15 |
+| 11-03-2026 | 45 | 45 min | 07:10 |
+| 11-03-2026 | 65 | 60 min | 21:10 |
+| 12-03-2026 | 45 | 45 min | 07:10 |
+| 12-03-2026 | 45 | 45 min | 18:00 |
+| 13-03-2026 | 45 | 45 min | 07:20 |
+| 13-03-2026 | 45 | 45 min | 17:46 |
+| 14-03-2026 | 60 | 60 min | 11:07 |
+| 14-03-2026 | 60 | 60 min | 22:40 |
+| 16-03-2026 | 45 | 45 min | 07:15 |
+| 16-03-2026 | 50 | 45 min | 18:00 |
 
-### Sunday 15-03-2026
-- Sin registros relevantes en el diario.
+---
 
-### Monday 16-03-2026
-- Viaje: 45 km en 45 min (salida 06:30, llegada 07:15)
-- Viaje: 50 km en 45 min (llegada 18:00)
+# 📆 Viajes por día
 
-## 3) Métricas simples
-- Días analizados: 7
-- Días con actividad registrada: 6
-- Viajes detectados: 12
-- **Total kms semana: 595 km**
-- Promedio por viaje: 49.6 km
+## Lunes
+- 16-03-2026: 45 km (45 min, llegada 07:15)
+- 16-03-2026: 50 km (45 min, llegada 18:00)
 
-## 4) Pendientes detectados
-- Completar el diario del domingo 15-03-2026 (sin registros).
-- No se detectan otros pendientes explícitos en los diarios de la semana.
+## Martes
+- 10-03-2026: 45 km (45 min, llegada 07:04)
+- 10-03-2026: 45 km (45 min, llegada 17:15)
+
+## Miércoles
+- 11-03-2026: 45 km (45 min, llegada 07:10)
+- 11-03-2026: 65 km (60 min, llegada 21:10)
+
+## Jueves
+- 12-03-2026: 45 km (45 min, llegada 07:10)
+- 12-03-2026: 45 km (45 min, llegada 18:00)
+
+## Viernes
+- 13-03-2026: 45 km (45 min, llegada 07:20)
+- 13-03-2026: 45 km (45 min, llegada 17:46)
+
+## Sábado
+- 14-03-2026: 60 km (60 min, llegada 11:07)
+- 14-03-2026: 60 km (60 min, llegada 22:40)
+
+## Domingo
+- Sin viajes registrados
+
+---
+
+# 📊 Métricas de la semana
+
+- Total viajes: 12
+- Total km: 595
+- Tiempo total conduciendo: 9 h 30 min
+- Media km por viaje: 49,6 km
+
+---
+
+# ⚠️ Pendientes detectados
+
+- Completar registro del domingo si hubo desplazamientos no anotados.
+
+---
+
+# 🤖 Metadata
+
+Generado a partir de: `diario/diario-*.md`
+Periodo analizado: 10-03-2026 → 16-03-2026
