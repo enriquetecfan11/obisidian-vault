@@ -21,7 +21,7 @@
 4.
 5.
 
-## 5) Precios actuales
+## 5) Precios actuales en el momento del resumen
 
 ### España
 -
