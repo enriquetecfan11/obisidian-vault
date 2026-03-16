@@ -39,6 +39,7 @@
 ## 3) Métricas simples
 - Días con entrada: **7**
 - Viajes/movilidad registrados (menciones): **12**
+- **Total kms semana: 590 km**
 - Horas relevantes detectadas (estimación por texto): **2.0 h**
 - Tareas checklist completadas: **0**
 - Tareas checklist pendientes: **0**
