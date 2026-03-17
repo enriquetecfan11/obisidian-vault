@@ -1,0 +1,24 @@
+- **Acciones  ESPAÑA**
+	- SAN, REP,  IBE
+	- Precio actual
+		- **SAN (Banco Santander):** 9.536 EUR
+		- **REP (Repsol):** 23.000 EUR
+		- **IBE (Iberdrola):** 19.805 EUR
+	- Porcentaje de cambio en las últimas 24 horas
+		- **SAN:** -1.15%
+		- **REP:** +3.28%
+		- **IBE:** +1.36%
+    - Fundamentales acciones: PER, crecimiento ingresos/beneficios, márgenes, deuda/equity, ROE, EPS, tendencia 1–3 años.
+		- **SAN:** PER 11.32 | crecimiento ingresos -6.4% | crecimiento beneficios +25.3% | margen neto 30.11% | deuda/equity N/D | ROE 12.69% | EPS 0.84 | tendencia 1–3 años: último año ingresos -1.3% y beneficio neto +12.1%; acumulado ~2 años ingresos +5.3% y beneficio +27.3%.
+		- **REP:** PER 14.40 | crecimiento ingresos -7.2% | crecimiento beneficios N/D | margen neto 3.93% | deuda/equity 47.96 | ROE 7.41% | EPS 1.62 | tendencia 1–3 años: último año ingresos -4.0% y beneficio neto +8.1%; acumulado ~2 años ingresos -6.9% y beneficio -40.1%.
+		- **IBE:** PER 23.21 | crecimiento ingresos +0.5% | crecimiento beneficios +559.8% | margen neto 14.26% | deuda/equity 93.67 | ROE 10.33% | EPS 0.85 | tendencia 1–3 años: último año ingresos -1.5% y beneficio neto +12.0%; acumulado ~2 años ingresos -10.7% y beneficio +30.9%.
+    - Noticias y eventos: earnings, splits, guidance, M&A, regulación sector, cambios directiva, lanzamientos de producto.
+		- **SAN:**
+			- Análisis técnico reciente sobre SAN junto a IAG/Repsol/Grifols (Investing.com España).
+			- Comentarios de mercado sobre frenada de caídas recientes en la cotización (XTB).
+		- **REP:**
+			- Cobertura previa a resultados 2025 con estimaciones de beneficio neto >2.000M€ (Industria Química).
+			- Noticias sobre acuerdo en Venezuela para atraer inversión extranjera en petróleo (Demócrata.es).
+		- **IBE:**
+			- Titulares sobre posible impacto de la regulación final de redes en España sobre inversión prevista (MSN/medios financieros).
+			- Intervenciones públicas del área de Regulación sobre independencia energética (Europa Press).
