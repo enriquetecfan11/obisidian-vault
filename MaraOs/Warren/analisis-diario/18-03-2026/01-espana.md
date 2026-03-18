@@ -1,0 +1,21 @@
+- **Acciones  ESPAÑA**
+	- SAN, REP,  IBE
+	- Precio actual
+		- **SAN (Banco Santander):** 9.594 EUR
+		- **REP (Repsol):** 24.190 EUR
+		- **IBE (Iberdrola):** 20.010 EUR
+	- Porcentaje de cambio en las últimas 24 horas
+		- **SAN:** +0.89%
+		- **REP:** +3.73%
+		- **IBE:** +1.42%
+    - Fundamentales acciones: PER, crecimiento ingresos/beneficios, márgenes, deuda/equity, ROE, EPS, tendencia 1–3 años.
+		- **SAN:** PER 11.42 | crecimiento ingresos -6.40% | crecimiento beneficios +25.30% | margen neto +30.11% | deuda/equity N/D | ROE +12.69% | EPS 0.84 | tendencia 1–3 años: último año ingresos -1.28% y beneficio neto +12.14%; acumulado ~2 años ingresos +5.26% y beneficio +27.31%.
+		- **REP:** PER 14.93 | crecimiento ingresos -7.20% | crecimiento beneficios N/D | margen neto +3.93% | deuda/equity 47.96 | ROE +7.41% | EPS 1.62 | tendencia 1–3 años: último año ingresos -3.96% y beneficio neto +8.14%; acumulado ~2 años ingresos -6.93% y beneficio -40.06%.
+		- **IBE:** PER 23.54 | crecimiento ingresos +0.50% | crecimiento beneficios +559.80% | margen neto +14.26% | deuda/equity 93.67 | ROE +10.32% | EPS 0.85 | tendencia 1–3 años: último año ingresos -1.48% y beneficio neto +11.99%; acumulado ~2 años ingresos -10.66% y beneficio +30.86%.
+    - Noticias y eventos: earnings, splits, guidance, M&A, regulación sector, cambios directiva, lanzamientos de producto.
+		- **SAN:**
+			- Sin titulares recientes verificables en el feed consultado; vigilar próximos resultados y cambios regulatorios en banca, energía y utilities.
+		- **REP:**
+			- Sin titulares recientes verificables en el feed consultado; vigilar próximos resultados y cambios regulatorios en banca, energía y utilities.
+		- **IBE:**
+			- Sin titulares recientes verificables en el feed consultado; vigilar próximos resultados y cambios regulatorios en banca, energía y utilities.
