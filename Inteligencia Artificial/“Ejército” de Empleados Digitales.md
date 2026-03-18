@@ -156,3 +156,6 @@ Recomendación:
 - Ciclo continuo: conectar herramientas → construir contexto → crear skills → automatizar procesos → repetir.[page:1]
 - No se trata de sustituirte, sino de comprimir el “busywork” para que tú te centres en decisiones importantes.[page:1]
 - Empieza por un solo agente (ejecutive assistant) y una skill por semana; el efecto compuesto te lleva a “encajar una semana en un día”.[page:1]
+
+# Link Original
+https://x.com/startupideaspod/status/2033993454653743191
