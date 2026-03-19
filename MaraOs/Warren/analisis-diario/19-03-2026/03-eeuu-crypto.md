@@ -1,0 +1,63 @@
+# Análisis diario EEUU + Crypto (19-03-2026)
+
+- **Acciones  EEUU**
+	- AMZN, NVDA, AAPL, ASML
+	- Precio actual
+		- AMZN: $207.10
+		- NVDA: $177.97
+		- AAPL: $250.13
+		- ASML: $1346.70
+	- Porcentaje de cambio en las últimas 24 horas
+		- AMZN: -1.32%
+		- NVDA: -1.35%
+		- AAPL: +0.08%
+		- ASML: -0.63%
+	- Fundamentales acciones: PER, crecimiento ingresos/beneficios, márgenes, deuda/equity, ROE, EPS, tendencia 1–3 años.
+		- AMZN: PER 28.85 | Ingresos 13.60% | Beneficio 5.00% | Márgen neto 10.83% | Deuda/Equity 43.44 | ROE 22.29% | EPS 7.18 | Tendencia 1a +5.91% / 3a +111.95%
+		- NVDA: PER 36.24 | Ingresos 73.20% | Beneficio 95.60% | Márgen neto 55.60% | Deuda/Equity 7.25 | ROE 101.48% | EPS 4.91 | Tendencia 1a +51.47% / 3a +587.75%
+		- AAPL: PER 31.66 | Ingresos 15.70% | Beneficio 18.30% | Márgen neto 27.04% | Deuda/Equity 102.63 | ROE 152.02% | EPS 7.90 | Tendencia 1a +16.75% / 3a +61.09%
+		- ASML: PER 47.32 | Ingresos 4.90% | Beneficio 7.20% | Márgen neto 29.42% | Deuda/Equity 23.92 | ROE 50.46% | EPS 28.46 | Tendencia 1a +84.85% / 3a +113.96%
+	- Noticias y eventos: earnings, splits, guidance, M&A, regulación sector, cambios directiva, lanzamientos de producto.
+		- AMZN:
+			- 2026-03-19: Lands' End Q4 Earnings Call Highlights (https://www.marketbeat.com/instant-alerts/lands-end-q4-earnings-call-highlights-2026-03-19/?utm_source=yahoofinance&utm_medium=yahoofinance)
+			- 2026-03-19: SEC Regulator Approves Nasdaq's Move Into Tokenized Stocks (https://www.cryptoprowl.com/releases/sec-regulator-approves-nasdaqs-move-into-tokenized-stocks-3907)
+		- NVDA:
+			- 2026-03-19: Micron posts better-than-expected Q2 results and Q3 guidance (https://finance.yahoo.com/news/micron-posts-better-than-expected-q2-results-and-q3-guidance-194142932.html)
+			- 2026-03-18: Why this analyst says Micron's margins might be peaking (https://finance.yahoo.com/video/why-analyst-says-microns-margins-214438548.html)
+		- AAPL:
+			- 2026-03-19: SEC Regulator Approves Nasdaq's Move Into Tokenized Stocks (https://www.cryptoprowl.com/releases/sec-regulator-approves-nasdaqs-move-into-tokenized-stocks-3907)
+			- 2026-03-19: Apple Cuts China App Store Fees to 25% as Regulatory Pressure Builds (https://finance.yahoo.com/sectors/technology/articles/apple-cuts-china-app-store-132453367.html)
+		- ASML:
+			- 2026-03-19: KLA Rival Calibrates New Buy Zone As Top Funds Scoop Up Shares (https://www.investors.com/research/ibd-stock-analysis/nova-stock-nvmi-metrology-leader-klac-rival-etches-new-buy-zone/?src=A00220&yptr=yahoo)
+			- 2026-03-18: Belgium's imec secures rare ASML High NA EUV tool to drive next-generation chips (https://finance.yahoo.com/news/belgiums-imec-secures-rare-asml-130951097.html)
+
+- **Acciones  Crypto**
+	- BTC, ETH, XRP, SOL
+	- Precio actual
+		- BTC: $69,164.6719
+		- ETH: $2,114.0134
+		- XRP: $1.4444
+		- SOL: $87.8118
+	- Porcentaje de cambio en las últimas 24 horas
+		- BTC: -2.92%
+		- ETH: -4.07%
+		- XRP: -1.33%
+		- SOL: -2.50%
+	- Métricas cripto: market cap, volumen 24h, oferta circulante/total, direcciones activas, transacciones, fees, TVL (en SOL/ETH), tokenomics básica.
+		- BTC: MCap $1.38T | Vol 24h $48.64B | Oferta circ/total 20.00M/20.00M | Direcciones activas N/D | Transacciones 24h N/D | Fees N/D | TVL N/A | Tokenomics: max 21.00M
+		- ETH: MCap $255.14B | Vol 24h $26.71B | Oferta circ/total 120.69M/120.69M | Direcciones activas N/D | Transacciones 24h N/D | Fees N/D | TVL $55.96B | Tokenomics: emisión no tope fijo
+		- XRP: MCap $88.44B | Vol 24h $2.82B | Oferta circ/total 61.23B/99.99B | Direcciones activas N/D | Transacciones 24h N/D | Fees N/D | TVL N/A | Tokenomics: max 100.00B
+		- SOL: MCap $50.19B | Vol 24h $4.03B | Oferta circ/total 571.57M/622.67M | Direcciones activas N/D | Transacciones 24h N/D | Fees N/D | TVL $6.88B | Tokenomics: emisión no tope fijo
+	- Noticias y eventos: upgrades/hard forks (p.ej. Ethereum/Solana), hacks, regulación, partnerships clave, movimientos grandes on-chain hacia/desde exchanges.
+		- BTC:
+			- 2026-03-19: Strive Jumps Past Tesla In Bitcoin Holdings (https://www.cryptoprowl.com/releases/strive-jumps-past-tesla-in-bitcoin-holdings-3905)
+			- 2026-03-19: Citigroup quietly trims most crypto stocks, except one surprise pick (https://www.thestreet.com/crypto/markets/citigroup-quietly-trims-most-crypto-stocks-except-one-surprise-pick)
+		- ETH:
+			- 2026-03-19: Citigroup quietly trims most crypto stocks, except one surprise pick (https://www.thestreet.com/crypto/markets/citigroup-quietly-trims-most-crypto-stocks-except-one-surprise-pick)
+			- 2026-03-19: XRP News: The SEC Classified XRP As a Digital Commodity Alongside Bitcoin—What It Means for XRP Price (https://247wallst.com/investing/2026/03/19/xrp-news-the-sec-classified-xrp-as-a-digital-commodity-alongside-bitcoin-what-it-means-for-xrp-price/)
+		- XRP:
+			- 2026-03-19: XRP News: The SEC Classified XRP As a Digital Commodity Alongside Bitcoin—What It Means for XRP Price (https://247wallst.com/investing/2026/03/19/xrp-news-the-sec-classified-xrp-as-a-digital-commodity-alongside-bitcoin-what-it-means-for-xrp-price/)
+			- 2026-03-19: XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026 (https://247wallst.com/investing/2026/03/19/xrp-vs-bitcoin-vs-ethereum-chatgpt-predicts-which-crypto-is-best-for-2026/)
+		- SOL:
+			- 2026-03-19: Coinbase Global Inc (COIN)’s Stablecoin Revenue Could Grow Sevenfold (https://finance.yahoo.com/markets/crypto/articles/coinbase-global-inc-coin-stablecoin-010950340.html)
+			- 2026-03-18: Aon plc (AON) Announces First Ever Stablecoin Premium Payment (https://finance.yahoo.com/news/aon-plc-aon-announces-first-213855149.html)
