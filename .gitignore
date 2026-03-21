@@ -4,6 +4,9 @@
 .trash/
 .space/
 
+# Credenciales / secretos (nunca versionar)
+diario/Password.md
+
 # Archivos de Obsidian/Make.md (por si se trackearon antes)
 .obsidian/workspace.json
 .obsidian/community-plugins.json
