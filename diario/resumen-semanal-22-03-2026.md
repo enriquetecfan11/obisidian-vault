@@ -1,28 +1,28 @@
-# Resumen semanal (16-03-2026 a 22-03-2026)
+# Resumen semanal (22-03-2026)
 
 ## 1) Resumen general
-Semana centrada en desplazamientos, con actividad registrada en 5 de los 7 días del periodo. Se observan trayectos principalmente de ida/vuelta entre semana y dos viajes largos el sábado. El domingo queda sin movimientos registrados hasta el momento.
+Semana 17-03-2026 → 22-03-2026. Se revisaron 5 entradas del diario con actividad más marcada en Tue 17/03, Wed 18/03. Predominan notas operativas y seguimiento de tareas; se detectan desplazamientos acumulados y varios pendientes de continuidad.
 
 ## 2) Hitos por día
-- **16-03-2026 (lunes):** Sin diario detectado.
-- **17-03-2026 (martes):** Dos viajes (45 km y 50 km), rutina de ida y vuelta.
-- **18-03-2026 (miércoles):** Dos viajes (50 km y 60 km), día de mayor carga entre semana.
-- **19-03-2026 (jueves):** Un viaje de 45 km por la tarde.
-- **20-03-2026 (viernes):** Sin diario detectado.
-- **21-03-2026 (sábado):** Dos viajes largos (75 km y 72 km), pico semanal en distancia diaria.
-- **22-03-2026 (domingo):** Diario creado pero sin entradas de viajes.
+- **Tuesday 17-03-2026** (diario-17-03-2026.md):
+  - Viaje: 45 km en 45 min (salida 06:25, llegada 07:10)
+  - Viaje: 50 km en 60 min (salida 17:15, llegada 18:15)
+- **Wednesday 18-03-2026** (diario-18-03-2026.md):
+  - Viaje: 50 km en 40 min (salida 06:35, llegada 07:15)
+  - Viaje: 60 km en 60 min (salida 16:29, llegada 17:29)
+- **Thursday 19-03-2026** (diario-19-03-2026.md):
+  - Viaje: 45 km en 60 min (salida 17:00, llegada 18:00)
+- **Saturday 21-03-2026** (diario-21-03-2026.md):
+  - Viaje: 75 km en 60 min (salida 11:17, llegada 12:17)
+  - Viaje: 72 km en 60 min (salida 18:20, llegada 19:20)
+- **Sunday 22-03-2026** (diario-22-03-2026.md):
+  - Sin hitos claros en texto.
 
 ## 3) Métricas simples
-- Días con diario detectado: **5/7**
-- Días con viajes registrados: **4/7**
-- Número total de viajes: **7**
-- Distancia total semanal: **397 km**
-- Tiempo total en trayectos: **385 min** (~6 h 25 min)
-- Promedio por viaje: **56,7 km** y **55 min**
-- Día con más kilómetros: **21-03-2026 (147 km)**
-- **Total kms semana: 397 km**
+- Entradas analizadas: 5
+- Palabras aproximadas: 104
+- Promedio palabras/día: 21
+- **Total kms semana: 794.0 km**
 
 ## 4) Pendientes detectados
-- Completar o confirmar los diarios faltantes de **16-03-2026** y **20-03-2026**.
-- Añadir actividades/notas del **22-03-2026** si hubo eventos no registrados.
-- Si aplica, enriquecer cada día con contexto (objetivo del viaje, resultado, incidencias) para mejorar análisis futuro.
+- No se detectaron pendientes explícitos.
