@@ -5,56 +5,57 @@
     - Fundamentales acciones: PER, crecimiento ingresos/beneficios, márgenes, deuda/equity, ROE, EPS, tendencia 1–3 años.
     - Noticias y eventos: earnings, splits, guidance, M&A, regulación sector, cambios directiva, lanzamientos de producto.
 
-- **SAN (Banco Santander)**
-  - Precio actual: 9.245 €
-  - %24h: -1.12%
-  - Fundamentales:
-    - PER (TTM): 10.08
-    - Crecimiento ingresos (YoY TTM): -20.58%
-    - Crecimiento beneficios (YoY TTM): 12.14%
-    - Márgenes: operativo 17.38% | neto 12.07%
-    - Deuda/Equity: 5.05
-    - ROE: 12.82%
-    - EPS (TTM): 0.95
-    - Tendencia precio: 1Y 41.04% | 3Y 179.14%
-  - Noticias/Eventos recientes:
-    - Santander logra resultados récord en 2025, suma ocho millones de clientes, hasta 180 millones, y eleva un 17% el beneficio por acción - santander.com (Tue, 03 Feb 2026 08:00:00 GMT)
-      - https://news.google.com/rss/articles/CBMiqAFBVV95cUxORzlpd19UWlQydmpHcFlUeWoxcnFmR01XcktrbExYSE5mNkNTeklGM0I0Nmw5dm5FczVmT2NXTklVZWQ0dVVWM1V3OG1hTktCVzZaejV4dlI4bWMybXczMVRkMEpMMlQ5VlF1MEoxVFRrSzJraFh0RVRicVdUZTVmb2M4SDUtOG5SVmZUMEtIWXBfcUpkeGRMV2FjaXM3U1FlaEhOYmVYWXU?oc=5
-    - Potencial del 12% para Banco Santander a la espera de sus resultados de 2025 - Yahoo (Mon, 02 Feb 2026 08:00:00 GMT)
-      - https://news.google.com/rss/articles/CBMikgFBVV95cUxOT2ZHY3BJZGlEamMwVjN4UlUtWmxjRVh6ZGtlVEFXWUQydzFVYzJVVWhYclljZVNaOFNUOTZhM0pDTER2U2ZidEdjeUlFZWpHVk9SS3U3Z0pYQ1hEQ3M3VHM4TjdKdmI4eWIwaUFuVV9rWWNIMDkwLXRsaHdFb21Gb3IyeUtJeFdHRklBUkE0XzR2UQ?oc=5
+## Datos de hoy (23-03-2026, 09:02 Europe/Madrid)
 
-- **REP (Repsol)**
-  - Precio actual: 24.260 €
-  - %24h: -2.14%
-  - Fundamentales:
-    - PER (TTM): 14.30
-    - Crecimiento ingresos (YoY TTM): -3.96%
-    - Crecimiento beneficios (YoY TTM): 8.14%
-    - Márgenes: operativo 4.91% | neto 3.46%
-    - Deuda/Equity: 0.75
-    - ROE: 8.20%
-    - EPS (TTM): 1.70
-    - Tendencia precio: 1Y 99.34% | 3Y 73.04%
-  - Noticias/Eventos recientes:
-    - Repsol presentará los resultados de 2025 con una previsión que superará los 2.000 millones de balance neto - industriaquimica.es (Fri, 13 Feb 2026 08:00:00 GMT)
-      - https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMVVsUWV1YnVDTmxGRUZ1enVRNWFjaFgtSm8yY2gxN2FqM29qZW1qS0FkTVg4ZFRjeDZrNFl0WU9fT0NaSnQwaHlld2RUdldhZHBOTnJqeG1uLUNPOGlzRXFoZUVuNko5ME44UUJzaHJqOTJudmM2RXVMZ1F5a3M0MGdmNUY1QWRZd05mTEhHUWUwa0hDd1BBVnpDUVFJUG9MTG5LWVJzajNzOVJlS1ZSN0NMX0hKaDdnd0JzNjR3UklkRzZ2VEZfblU2T2lmaUpKUDhXZG9QMGo?oc=5
-    - Repsol gana 1.899 millones en 2025 (+8%), eleva el dividendo y anuncia recompra de acciones - Bolsamania (Thu, 19 Feb 2026 08:00:00 GMT)
-      - https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcFNKdS1BYmVqc3RVUmJzYWloWmxXOVJ3UW9la25IZjcyZHZ6V3RTaUVtZUhsR2lNXzYzM0hoQ0RaTTZsT3ZLT2FJa202RmdNdXVyc2ZCbmJVWUNzdUpibXZwWEV2NjhXUWkwem9zOXNLNkhueE94cVFNcGJjQkM2cDg3YmRHdWZFZTM2dVFzYVRyZG9ER0xQdjZzVXRWYXRPa29aalI3cW5WN1lIUkQwYTJVdVI0VjVsUXpZRk9XblNCQ2ZTTkxKLWN5cTYwb21Cd3FpalVXTHBrNmvSAeABQVVfeXFMTjVaRk9nd2NBN09FdDg4SnFLNng0Y0o2S01UZW5SdlNHMzl6bUQ5YjhLRXhFU0c4aG9lSUlEeGF0eWxrUExUMDRvVVF2clVxQ0JvdEZLUnRsd0I0NFZ5WEMwLXkwS1pNZzBBNURhNDg3NVJlb0d1cUVSUDdLd3E2QzBEaDh4aTdJUDROWDhTemZLbEtEbGhHNllLWWJnWklKVWsySjVMb1dSRXAxNndwVGhFTWNYaFZkNnlIVWJMd0phZDZpNVllaEdBMXJlMW84WWU3ck96TFRXUERYUkU3WlY?oc=5
+### SAN — Banco Santander
+- Precio actual: **€9.245**
+- %24h: **-1.12%**
+- Fundamentales:
+  - PER (trailing): 11.01
+  - Crecimiento ingresos (YoY): -6.40%
+  - Crecimiento beneficios (YoY): 25.30%
+  - Márgenes netos: 30.11%
+  - Deuda/Equity: N/D
+  - ROE: 12.69%
+  - EPS (ttm): 0.84
+  - Tendencia 1–3 años (precio): 1 año: +49.21% | 3 años: +169.85%
+- Noticias y eventos:
+  - Próxima fecha estimada de resultados: 29-04-2026
+  - Próxima fecha ex-dividendo estimada: 30-04-2026
+  - Sin anuncios de split/M&A/cambio de directiva en el feed consultado en esta actualización.
 
-- **IBE (Iberdrola)**
-  - Precio actual: 19.175 €
-  - %24h: -1.97%
-  - Fundamentales:
-    - PER (TTM): 19.90
-    - Crecimiento ingresos (YoY TTM): 1.80%
-    - Crecimiento beneficios (YoY TTM): 11.99%
-    - Márgenes: operativo 22.56% | neto 13.80%
-    - Deuda/Equity: 1.13
-    - ROE: 12.93%
-    - EPS (TTM): 0.99
-    - Tendencia precio: 1Y 35.80% | 3Y 72.98%
-  - Noticias/Eventos recientes:
-    - Análisis de los resultados de Iberdrola - Bankinter (Fri, 20 Mar 2026 16:35:20 GMT)
-      - https://news.google.com/rss/articles/CBMibEFVX3lxTE5UMU10X2VXeDZLZEVRZ3NGemk3bkMtNkZrNU1DSElDUll2VDZlY3FEZlpGR1VLc3NKRVE4LV9Bci1aUHU0SXYxWGF3VTVkY1pLbldtczV3V0t1V0N1WE95Snl2dkF5aWc1UEUxUQ?oc=5
-    - Iberdrola invierte 14.460 millones en 2025 y aumenta el beneficio neto un 12% - Iberdrola (Wed, 25 Feb 2026 08:00:00 GMT)
-      - https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRkwtcmd5ajFNcE1EaWtVZ0hWQ3RXLXJ3YUxiV2dPbzQzb1N0VUJ6eHp6Rm03UlJNQk8yVnktb2hFTkVPdGdkSElrZ2hTamZFbXBrVUFUWHdUN2NzeURMVldoblU0MUtteWRVb0JrNkFYVGsxWE9Xc2Z2cVFUaGxIWGpRMUFKU2M2M2FxVWRoeVpvcFF1Ri1OYmJNUGVFNmhTalVDcmtLWnFZWGtOVnJ5ZE1NTmZPM29pV2Q1ejhBR1pzR0xud0s5Tk41S0ZDSktvYVBwdFZIWUJ3M0JFVW9Dcw?oc=5
+### REP — Repsol
+- Precio actual: **€24.260**
+- %24h: **-2.14%**
+- Fundamentales:
+  - PER (trailing): 14.98
+  - Crecimiento ingresos (YoY): -7.20%
+  - Crecimiento beneficios (YoY): N/D
+  - Márgenes netos: 3.93%
+  - Deuda/Equity: 47.96
+  - ROE: 7.41%
+  - EPS (ttm): 1.62
+  - Tendencia 1–3 años (precio): 1 año: +97.24% | 3 años: +71.03%
+- Noticias y eventos:
+  - Próxima fecha estimada de resultados: 30-04-2026
+  - Próxima fecha ex-dividendo estimada: 06-07-2026
+  - Sin anuncios de split/M&A/cambio de directiva en el feed consultado en esta actualización.
+
+### IBE — Iberdrola
+- Precio actual: **€19.175**
+- %24h: **-1.97%**
+- Fundamentales:
+  - PER (trailing): 22.56
+  - Crecimiento ingresos (YoY): 0.50%
+  - Crecimiento beneficios (YoY): 559.80%
+  - Márgenes netos: 14.26%
+  - Deuda/Equity: 93.67
+  - ROE: 10.32%
+  - EPS (ttm): 0.85
+  - Tendencia 1–3 años (precio): 1 año: +28.35% | 3 años: +66.96%
+- Noticias y eventos:
+  - Próxima fecha estimada de resultados: 30-04-2026
+  - Próxima fecha ex-dividendo estimada: 12-01-2026
+  - Sin anuncios de split/M&A/cambio de directiva en el feed consultado en esta actualización.
+
+> Fuente de mercado/fundamentales: Yahoo Finance (consulta automática).
