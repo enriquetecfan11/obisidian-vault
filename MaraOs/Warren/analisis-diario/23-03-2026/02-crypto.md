@@ -1,0 +1,86 @@
+- **Acciones  Crypto**
+	- BTC, ETH, XRP, SOL
+	- Precio actual
+	- Porcentaje de cambio en las últimas 24 horas
+    - Métricas cripto: market cap, volumen 24h, oferta circulante/total, direcciones activas, transacciones, fees, TVL (en SOL/ETH), tokenomics básica.
+    - Noticias y eventos: upgrades/hard forks (p.ej. Ethereum/Solana), hacks, regulación, partnerships clave, movimientos grandes on-chain hacia/desde exchanges.
+
+### Snapshot de mercado
+- **Bitcoin (BTC)**
+  - Precio actual: $70,284.00
+  - %24h: 2.40%
+  - Market cap: $1,406,775,459,286
+  - Volumen 24h: $44,571,071,347
+  - Oferta circulante/total: 20,003,043 / 20,003,043
+  - Direcciones activas (proxy): 58,601,030
+  - Transacciones 24h: 579,155
+  - Fees: ~385 sat/tx (media 24h)
+  - Tokenomics básica: Oferta máxima 21M; halvings periódicos reducen emisión; narrativa de reserva de valor.
+- **Ethereum (ETH)**
+  - Precio actual: $2,124.27
+  - %24h: 1.98%
+  - Market cap: $256,648,147,131
+  - Volumen 24h: $21,594,559,243
+  - Oferta circulante/total: 120,691,596 / 120,691,596
+  - Direcciones activas (proxy): 0
+  - Transacciones 24h: 2,387,413
+  - Fees: ~82,770,094,112,629.000000 ETH/tx (media 24h)
+  - TVL cadena Ethereum: $54,960,195,961
+  - Tokenomics básica: Emisión post-Merge + EIP-1559 (quema de fees); oferta potencialmente deflacionaria según actividad.
+- **XRP (XRP)**
+  - Precio actual: $1.42
+  - %24h: 1.28%
+  - Market cap: $87,003,908,298
+  - Volumen 24h: $2,752,051,437
+  - Oferta circulante/total: 61,344,583,754 / 99,985,695,443
+  - Direcciones activas (proxy): N/D
+  - Transacciones 24h: 239,832
+  - Fees: ~485.276544 XRP/tx (media 24h)
+  - Tokenomics básica: Suministro preminado 100B; desbloqueos programados vía escrow; foco en pagos transfronterizos.
+- **Solana (SOL)**
+  - Precio actual: $89.53
+  - %24h: 2.63%
+  - Market cap: $51,245,494,868
+  - Volumen 24h: $3,978,620,516
+  - Oferta circulante/total: 572,137,212 / 572,137,302
+  - Direcciones activas (proxy): N/D
+  - Transacciones 24h: N/D
+  - Fees: N/D
+  - TVL cadena Solana: $6,628,443,696
+  - Tokenomics básica: Inflación decreciente anual + comisiones bajas; utilidad centrada en pagos rápidos/DeFi/NFT.
+- **Binance Coin (BNB)**
+  - Precio actual: $641.37
+  - %24h: 1.77%
+  - Market cap: $87,462,791,291
+  - Volumen 24h: $1,330,575,115
+  - Oferta circulante/total: 136,357,540 / 136,357,540
+  - Direcciones activas (proxy): N/D
+  - Transacciones 24h: N/D
+  - Fees: N/D
+  - Tokenomics básica: Burn trimestral ligado a actividad de BNB Chain; utilidad en comisiones y ecosistema Binance.
+- **Cardano (ADA)**
+  - Precio actual: $0.26
+  - %24h: 1.20%
+  - Market cap: $9,565,121,199
+  - Volumen 24h: $616,077,503
+  - Oferta circulante/total: 36,846,946,339 / 45,000,000,000
+  - Direcciones activas (proxy): N/D
+  - Transacciones 24h: N/D
+  - Fees: N/D
+  - Tokenomics básica: Modelo PoS con staking y gobernanza; emisión condicionada por parámetros de protocolo.
+
+### Noticias y eventos (últimas 24h, feed agregado)
+- **Bitcoin (BTC)**
+  - Bitcoin price news: BTC surges 5% to $71,000 as Trump postpones Iran escalation - CoinDesk
+  - Bitcoin Price Holds $70,000 as War-Driven Inflation Fears Meet Defensive Market Positioning - Bitcoin Magazine
+- **Ethereum (ETH)**
+  - Bitcoin, Ethereum, XRP Fall After Trump Iran Ultimatum. Why Crypto’s Tied to the War. - Barron's
+  - Ethereum news (ETH): Tensions rise across Ethereum as scaling, security and AI Priorities intensify - CoinDesk
+- **XRP**
+  - XRP Price News: Mastercard Just Added Ripple to Its $9 Trillion Payment Network—Could It Move XRP? - AOL.com
+  - The SEC Just Handed XRP a Massive Win. Here's Why $3 Is Back On the Table. - The Motley Fool
+- **Solana (SOL)**
+  - Is Solana a Buy Right Now? - The Motley Fool
+  - XRP price news: XRP, solana (SOL) lag oil and silver in trading volumes on Hyperliquid - CoinDesk
+
+> Nota de calidad: métricas on-chain detalladas (direcciones activas exactas en XRP/SOL y fees normalizados cross-chain) pueden requerir APIs de pago o claves de explorer; aquí se reportan proxies públicos sin autenticación.
