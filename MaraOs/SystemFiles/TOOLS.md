@@ -38,3 +38,22 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+
+## Current Ops Routing (Discord + Telegram)
+
+- Discord channel → agent bindings (guild `413791825607000067`):
+  - `#tecnofanaticos` (`1484990924676268145`) → `main`
+  - `#atlas-ops` (`1484934389228566802`) → `atlas`
+  - `#arvis-creative` (`1484934357767684096`) → `arvis`
+  - `#warren-research` (`1484934434674311288`) → `scout` (Warren)
+  - `#mara-control` (`1484934172010217763`) → `main`
+
+- Delivery policy requested by Quique:
+  - Keep Telegram daily summaries.
+  - Also post each agent’s Obsidian/output summaries in its Discord channel.
+
+- Specific override:
+  - `Mara changelog diario Obsidian (Discord)` must post to `1484997198084182186` (NOT `#tecnofanaticos`).
+
+- Known issue to remember:
+  - Some cron jobs can fail if OpenAI Codex OAuth token needs refresh.
