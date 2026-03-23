@@ -1,3 +1,5 @@
+# CRYPTO
+
 - **Acciones  Crypto**
 	- BTC, ETH, XRP, SOL
 	- Precio actual
@@ -5,82 +7,84 @@
     - Métricas cripto: market cap, volumen 24h, oferta circulante/total, direcciones activas, transacciones, fees, TVL (en SOL/ETH), tokenomics básica.
     - Noticias y eventos: upgrades/hard forks (p.ej. Ethereum/Solana), hacks, regulación, partnerships clave, movimientos grandes on-chain hacia/desde exchanges.
 
-### Snapshot de mercado
+## Snapshot de mercado (USD)
 - **Bitcoin (BTC)**
-  - Precio actual: $70,284.00
-  - %24h: 2.40%
-  - Market cap: $1,406,775,459,286
-  - Volumen 24h: $44,571,071,347
-  - Oferta circulante/total: 20,003,043 / 20,003,043
-  - Direcciones activas (proxy): 58,601,030
-  - Transacciones 24h: 579,155
-  - Fees: ~385 sat/tx (media 24h)
-  - Tokenomics básica: Oferta máxima 21M; halvings periódicos reducen emisión; narrativa de reserva de valor.
+  - Precio actual: $70278
+  - % 24h: 2.39%
+  - Market cap: $1.41T
+  - Volumen 24h: $44.65B
+  - Oferta circulante/total: 20.00M / 20.00M
+  - Direcciones activas (24h): N/D
+  - Transacciones (24h): 579,155
+  - Fee media (24h): 0.000004 BTC
+  - TVL (ETH/SOL): N/A (métrica de ecosistema DeFi; foco en ETH/SOL)
+  - Tokenomics básica: Supply máxima 21M; emisión decreciente por halvings (~cada 4 años).
 - **Ethereum (ETH)**
-  - Precio actual: $2,124.27
-  - %24h: 1.98%
-  - Market cap: $256,648,147,131
-  - Volumen 24h: $21,594,559,243
-  - Oferta circulante/total: 120,691,596 / 120,691,596
-  - Direcciones activas (proxy): 0
-  - Transacciones 24h: 2,387,413
-  - Fees: ~82,770,094,112,629.000000 ETH/tx (media 24h)
-  - TVL cadena Ethereum: $54,960,195,961
-  - Tokenomics básica: Emisión post-Merge + EIP-1559 (quema de fees); oferta potencialmente deflacionaria según actividad.
+  - Precio actual: $2126.22
+  - % 24h: 2.08%
+  - Market cap: $256.54B
+  - Volumen 24h: $22.38B
+  - Oferta circulante/total: 120.69M / 120.69M
+  - Direcciones activas (24h): N/D
+  - Transacciones (24h): 2.39M
+  - Fee media (24h): 0.000083 ETH
+  - TVL (ETH/SOL): $54.96B (~25.85M ETH)
+  - Tokenomics básica: Sin supply máxima fija; quema EIP-1559 puede volver emisión neta baja/negativa según uso.
 - **XRP (XRP)**
   - Precio actual: $1.42
-  - %24h: 1.28%
-  - Market cap: $87,003,908,298
-  - Volumen 24h: $2,752,051,437
-  - Oferta circulante/total: 61,344,583,754 / 99,985,695,443
-  - Direcciones activas (proxy): N/D
-  - Transacciones 24h: 239,832
-  - Fees: ~485.276544 XRP/tx (media 24h)
-  - Tokenomics básica: Suministro preminado 100B; desbloqueos programados vía escrow; foco en pagos transfronterizos.
+  - % 24h: 1.25%
+  - Market cap: $86.90B
+  - Volumen 24h: $2.75B
+  - Oferta circulante/total: 61.34B / 99.99B
+  - Direcciones activas (24h): N/D
+  - Transacciones (24h): 239,832
+  - Fee media (24h): 0.000485 XRP
+  - TVL (ETH/SOL): N/A (métrica de ecosistema DeFi; foco en ETH/SOL)
+  - Tokenomics básica: Supply máxima 100B preminada; liberación programada desde escrow.
 - **Solana (SOL)**
-  - Precio actual: $89.53
-  - %24h: 2.63%
-  - Market cap: $51,245,494,868
-  - Volumen 24h: $3,978,620,516
-  - Oferta circulante/total: 572,137,212 / 572,137,302
-  - Direcciones activas (proxy): N/D
-  - Transacciones 24h: N/D
-  - Fees: N/D
-  - TVL cadena Solana: $6,628,443,696
-  - Tokenomics básica: Inflación decreciente anual + comisiones bajas; utilidad centrada en pagos rápidos/DeFi/NFT.
-- **Binance Coin (BNB)**
-  - Precio actual: $641.37
-  - %24h: 1.77%
-  - Market cap: $87,462,791,291
-  - Volumen 24h: $1,330,575,115
-  - Oferta circulante/total: 136,357,540 / 136,357,540
-  - Direcciones activas (proxy): N/D
-  - Transacciones 24h: N/D
-  - Fees: N/D
-  - Tokenomics básica: Burn trimestral ligado a actividad de BNB Chain; utilidad en comisiones y ecosistema Binance.
+  - Precio actual: $89.56
+  - % 24h: 2.66%
+  - Market cap: $51.22B
+  - Volumen 24h: $3.99B
+  - Oferta circulante/total: 572.14M / 572.14M
+  - Direcciones activas (24h): N/D
+  - Transacciones (24h): N/D
+  - Fee media (24h): N/D
+  - TVL (ETH/SOL): $6.63B (~74.01M SOL)
+  - Tokenomics básica: Inflación programada (desciende con el tiempo) + comisiones quemadas parcialmente.
+- **BNB (BNB)**
+  - Precio actual: $641.62
+  - % 24h: 1.81%
+  - Market cap: $87.48B
+  - Volumen 24h: $1.33B
+  - Oferta circulante/total: 136.36M / 136.36M
+  - Direcciones activas (24h): N/D
+  - Transacciones (24h): N/D
+  - Fee media (24h): N/D
+  - TVL (ETH/SOL): N/A (métrica de ecosistema DeFi; foco en ETH/SOL)
+  - Tokenomics básica: Burn trimestral hasta objetivo de 100M BNB.
 - **Cardano (ADA)**
-  - Precio actual: $0.26
-  - %24h: 1.20%
-  - Market cap: $9,565,121,199
-  - Volumen 24h: $616,077,503
-  - Oferta circulante/total: 36,846,946,339 / 45,000,000,000
-  - Direcciones activas (proxy): N/D
-  - Transacciones 24h: N/D
-  - Fees: N/D
-  - Tokenomics básica: Modelo PoS con staking y gobernanza; emisión condicionada por parámetros de protocolo.
+  - Precio actual: $0.25923
+  - % 24h: 1.13%
+  - Market cap: $9.55B
+  - Volumen 24h: $616.65M
+  - Oferta circulante/total: 36.85B / 45.00B
+  - Direcciones activas (24h): N/D
+  - Transacciones (24h): N/D
+  - Fee media (24h): N/D
+  - TVL (ETH/SOL): N/A (métrica de ecosistema DeFi; foco en ETH/SOL)
+  - Tokenomics básica: Supply máxima 45B; emisión por staking/recompensas decreciente.
 
-### Noticias y eventos (últimas 24h, feed agregado)
-- **Bitcoin (BTC)**
-  - Bitcoin price news: BTC surges 5% to $71,000 as Trump postpones Iran escalation - CoinDesk
-  - Bitcoin Price Holds $70,000 as War-Driven Inflation Fears Meet Defensive Market Positioning - Bitcoin Magazine
-- **Ethereum (ETH)**
-  - Bitcoin, Ethereum, XRP Fall After Trump Iran Ultimatum. Why Crypto’s Tied to the War. - Barron's
-  - Ethereum news (ETH): Tensions rise across Ethereum as scaling, security and AI Priorities intensify - CoinDesk
-- **XRP**
-  - XRP Price News: Mastercard Just Added Ripple to Its $9 Trillion Payment Network—Could It Move XRP? - AOL.com
-  - The SEC Just Handed XRP a Massive Win. Here's Why $3 Is Back On the Table. - The Motley Fool
-- **Solana (SOL)**
-  - Is Solana a Buy Right Now? - The Motley Fool
-  - XRP price news: XRP, solana (SOL) lag oil and silver in trading volumes on Hyperliquid - CoinDesk
+## Noticias y eventos recientes (últimas ~48h)
+- 23-03 12:19 — NYSE relaxes crypto etf options limits, immediate FLEX trading on 11 major funds (<https://news.google.com/rss/articles/CBMicEFVX3lxTE9oNlcyTWZ3UXFMamh5Q1h2RTNtNnF2Y2NZUURweG10TlV6ZGF3OFYzYkJJY1RVTTZiLUxDNEtBa2VQcWpSYlJGaVFHU3ViUG5IYnRYWUhtTHowOGZBRVN6cVdLd2lUSnZVbEdHLUI0T04?oc=5>)
+- 23-03 11:30 — SOL Price Targets $89and $2,152 for ETH, as Both Assets Navigate Uncertain Market Conditions Meanwhile, Playnance G Coin Hits 1.1M+ Holders (<https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMllIN0gwa3lER0doT29EaHQ4NUVDZmphbVA1QUtRSDNwOXNxTVJMc3I1ZVlhZzN4STdnY2ktdm1rYjRLTExURHpnUE5WcVdERDNHRlR5OXNYamR3ajFteTJTaTV3djh3eEtCd0RWdDNzRXR4clFxNHhsV1MzQlRBWk5hODVtbmdscjBMX3ZDNmt1dGprejlYcXE0bEo5U0JtbnFGNG4ySV9wbU9pdl80RkR0alZNT29LT3NOeGRPTWpyU0dXVXNGUktnNlFPMWNueUw5NDBrUmhPUjRLcUtyeVIxcEg5b3BaUEE2N2ZEc2s?oc=5>)
+- 23-03 08:51 — SEC-CFTC Classify XRP as Digital Commodity: March 17 Framework Resolves Years of Uncertainty (<https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOVU5WUpnb1RqdWpMNkFnYWQ1Yk8xRnZldTY5WDJxcjhra3Q5YlJoSTRiNXhOaDRuRW1OZDZ0Qi01MjZpNHRDQXA3SGxfMzVOdndwQ0o1X3Rma3RKTVRsM1pIcU9YMmZTM1QzSHhkeDItSTJSY2s5TGE4VnFIeXhmUnZUWmt6VkYwRnR5RlBsV09mSkZ6cFFTdTU1ZDFxOUJVT183S1g5TF9xNGJFOGxoUTFMWllxRGJac2FfdmdTeU15c3o2R25KZA?oc=5>)
+- 23-03 08:01 — SEC-CFTC Classify XRP as Non-Security in Landmark March 2026 Framework: Price Steady at $1.44 Amid E (<https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS0JSSHBEM3VWMHM1Vjd5STRzZDg4bDZpNkNncmhZNkFhbVdydVNSRUM3OHJpaUMxYlY3bjBXYU4ySWxfRlFZTEdxQjR2RFpiakhjNHNKUC1iVmV6YjNIR2dCTzRKbThHQVVEdEp0T1Azek1mclJDZUYwVzRuZ2pWUzdJQjIyTGZ5T0twZTF6d1lxQ0dkZzNpN0xxTXo4NXBRS2lfWklWQVY5LUZmbGlWRERKRHlTdDJQazhmWGZiWkpONWp1dlBJXw?oc=5>)
+- 23-03 03:58 — NYSE Lifts Crypto Options Cap Across 11 BTC and ETH ETFs (<https://news.google.com/rss/articles/CBMiR0FVX3lxTE02Z01HZDdBSTliaHhmUjZtbDgyZkVkZ0QwTGhQbHExVnVQczYyMTQwX1hKclplb2kzV0RGMEJxUzR0eTZIVWYw?oc=5>)
+- 22-03 23:15 — NYSE submits proposal to the SEC to ease rules on Bitcoin and Ether ETF options (<https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wRmhwMkZ5WTF4R1ZabmRsazQ2ZGpjUTdJZHFDbzB5NnZHbU5mSHFuU0d1Z2ZNeDB4Ujd1RlpuQk41aUhhdE4wZTBIWmlYcHIwZUhGeA?oc=5>)
+- 22-03 20:30 — Bedrock Broadens BTC Applications with Institutional-Level Underwriting (<https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WZTNTS0RBdzM4RWFjaE9PTV8wVUQweXFMNW43cnJXZlJ3WHhmLXV3akVzMHNUWUJTRk1WUEVuTHl6ZUhnLVlVeVZSaGJLVXkyWEFvcTRGcmJ5UWt6elFFSGNZZ9IBY0FVX3lxTE5WZTNTS0RBdzM4RWFjaE9PTV8wVUQweXFMNW43cnJXZlJ3WHhmLXV3akVzMHNUWUJTRk1WUEVuTHl6ZUhnLVlVeVZSaGJLVXkyWEFvcTRGcmJ5UWt6elFFSGNZZw?oc=5>)
+- 22-03 18:09 — Ethereum news (ETH): Tensions rise across Ethereum as scaling, security and AI Priorities intensify (<https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVDNLVTI4NDMzdkJCY1ZmeGdFNnFpQmhUZWpFV0lXTlYyUHNBVndXWC1CSko5elVSRG5KWmJFbE1HVExkUGhwMzFKQUxjLTNmN0RjQk1jcEZ5RVZrX2VyTUhxUkNjRFlkaVFVcXZ4eUZSMVdVdElhSkRJc0tFT2lYOC1XS0hrTWNUMWZJMVdCbTc2MW9faE1YXzIyZlQ5OGhwNlJwallYcngyb0NNNUpWNHcycW13VlZPQWIyRWRqQzI3YWtuck8xZ19lU1dxdjhVakZnUXF4Yk9VM3VCWUxqVQ?oc=5>)
 
-> Nota de calidad: métricas on-chain detalladas (direcciones activas exactas en XRP/SOL y fees normalizados cross-chain) pueden requerir APIs de pago o claves de explorer; aquí se reportan proxies públicos sin autenticación.
+## Nota de cobertura de datos
+- Direcciones activas/tx/fees provienen de endpoints públicos sin API key; cobertura completa disponible para BTC/ETH/XRP y parcial para SOL/otros en esta ejecución.
+- Precios/market cap/volumen/oferta: CoinGecko. TVL: DefiLlama.
