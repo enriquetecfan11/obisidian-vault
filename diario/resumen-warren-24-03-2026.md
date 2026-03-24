@@ -1,65 +1,57 @@
 # Resumen diario Warren — 24-03-2026
 
 ## Resumen ejecutivo
+Sesión mixta con **rotación de riesgo**: fortaleza en banca española (SAN), debilidad en energía (REP), tono más defensivo en mega-cap USA (caídas leves en AMZN/NVDA) y corrección en crypto frente a niveles de apertura del día. El sesgo general sigue siendo constructivo en tendencia de medio plazo, pero con mayor sensibilidad a titulares macro/regulatorios y flujo táctico.
 
-### Highlights
-- Tramo mixto en renta variable: EEUU cierra con sesgo de consolidación en AMZN/NVDA, mientras AAPL y ASML aguantan en positivo.
-- España con dispersión elevada: SAN destaca en positivo, IBE casi plana y REP con corrección marcada.
-- Crypto mantiene beta alta: BTC/ETH sostienen estructura de mercado, mientras XRP/SOL muestran mayor amplitud intradía.
+## Highlights del día
+- **España:**
+  - **SAN** lidera con +4.55% 24h, apoyada por momentum y mejora de beneficios.
+  - **REP** corrige -6.78%, principal lastre del bloque.
+  - **IBE** estable/ligera caída (-0.50%), mantiene perfil defensivo relativo.
+- **EEUU:**
+  - Toma de beneficios moderada en **AMZN (-0.99%)** y **NVDA (-0.64%)**.
+  - **AAPL (+0.49%)** y **ASML (+0.23%)** sostienen tono de calidad.
+  - Continúa narrativa de inversión en cadena de valor IA (chips/equipamiento).
+- **Crypto:**
+  - Corrección broad-based: **BTC -1.73%, ETH -1.80%, XRP -3.13%, SOL -2.17%**.
+  - Flujo de noticias mantiene sesgo alcista estructural para BTC a fin de ciclo, pero con volatilidad alta de corto plazo.
 
-### Riesgos
-- Riesgo de compresión de múltiplos en megacaps/semis si continúan tipos altos y toma de beneficios.
-- Volatilidad en energía y materias primas impactando a REP y al bloque europeo cíclico.
-- En crypto, sensibilidad a liquidez y a flujos de derivados: movimientos bruscos pueden invalidar entradas tácticas.
+## Cambios clave vs escenario previo
+- Reaparición de **dispersión sectorial**: banca europea fuerte vs energía débil.
+- En USA, el liderazgo AI se mantiene, pero con **compresión táctica** tras tramos de subida.
+- En crypto, el mercado entra en fase de **reprecio de riesgo** sin romper aún narrativa de fondo.
 
-### Cambios clave del día
-- EEUU: AMZN y NVDA en rojo diario; AAPL y ASML en verde moderado.
-- España: SAN continúa fuerte; REP retrocede con fuerza; IBE estable.
-- Crypto: tono mixto con divergencia entre majors y alts.
+## Riesgos a vigilar
+1. **Macro/tipos:** cualquier sorpresa en tipos reales puede presionar growth/tech y crypto simultáneamente.
+2. **Regulación crypto:** avances/retrocesos regulatorios con impacto directo en XRP y sentimiento de mercado.
+3. **Concentración temática IA:** múltiplos exigentes en semis (NVDA/ASML) aumentan riesgo de correcciones rápidas.
+4. **Commodities/energía:** debilidad adicional podría extender presión sobre REP.
 
-### Acciones para mañana
-- Vigilar apertura de EEUU para confirmar si NVDA/AMZN extienden corrección o rebotan en soporte.
-- Revisar catalizadores de REP (sector energía y guidance) antes de aumentar exposición.
-- Monitorizar BTC (zona psicológica 70k) y ETH (flujo de volumen) para validar continuidad del rebote.
+## Acciones para mañana
+- Mantener sesgo selectivo: priorizar calidad y momentum confirmado, evitando perseguir rebotes débiles.
+- Revisar apertura UE para validar si SAN consolida breakout o si fue movimiento puntual.
+- En USA, vigilar premarket de NVDA/ASML para confirmar continuidad de flujo AI.
+- En crypto, monitorizar nivel psicológico de BTC (~70k) y amplitud de mercado (si altcoins empeoran relativo a BTC).
+- Si persiste volatilidad, reducir tamaño táctico y exigir mejores puntos de entrada.
 
-- **Acciones  EEUU**
-	- AMZN
-	- Precio actual: $207,27
-	- Porcentaje de cambio en las últimas 24 horas: -1,37%
-	- NVDA
-	- Precio actual: $175,33
-	- Porcentaje de cambio en las últimas 24 horas: -0,18%
-	- AAPL
-	- Precio actual: $251,75
-	- Porcentaje de cambio en las últimas 24 horas: +0,10%
-	- ASML
-	- Precio actual: $1.399,48
-	- Porcentaje de cambio en las últimas 24 horas: +2,18%
+## Precios actuales
 
-- **Acciones  Crypto**
-	- BTC
-	- Precio actual: $70.072,00
-	- Porcentaje de cambio en las últimas 24 horas: -1,21%
-	- ETH
-	- Precio actual: $2.144,44
-	- Porcentaje de cambio en las últimas 24 horas: -0,71%
-	- XRP
-	- Precio actual: $1,41
-	- Porcentaje de cambio en las últimas 24 horas: -2,03%
-	- SOL
-	- Precio actual: $89,88
-	- Porcentaje de cambio en las últimas 24 horas: -1,90%
+### Empresas España
+- **SAN:** 9.62 EUR (**+4.55% 24h**)
+- **REP:** 22.69 EUR (**-6.78% 24h**)
+- **IBE:** 19.07 EUR (**-0.50% 24h**)
 
-- **Acciones  ESPAÑA**
-	- SAN
-	- Precio actual: 9,62 EUR
-	- Porcentaje de cambio en las últimas 24 horas: +4,55%
-	- REP
-	- Precio actual: 22,69 EUR
-	- Porcentaje de cambio en las últimas 24 horas: -6,78%
-	- IBE
-	- Precio actual: 19,07 EUR
-	- Porcentaje de cambio en las últimas 24 horas: -0,50%
+### Empresas EEUU
+- **AMZN:** 208.07 USD (**-0.99% 24h**)
+- **NVDA:** 174.51 USD (**-0.64% 24h**)
+- **AAPL:** 252.71 USD (**+0.49% 24h**)
+- **ASML:** 1372.82 USD (**+0.23% 24h**)
+
+### Crypto
+- **BTC:** 70,048.00 USD (**-1.73% 24h**)
+- **ETH:** 2,134.85 USD (**-1.80% 24h**)
+- **XRP:** 1.40 USD (**-3.13% 24h**)
+- **SOL:** 89.51 USD (**-2.17% 24h**)
 
 ---
-Notas de fuente: EEUU vía Stooq (cierre diario y variación vs cierre previo), Crypto vía CoinGecko (spot + 24h), España tomado del análisis diario del día.
+Fuentes base del día: 01-espana.md, 02-crypto.md, 03-eeuu-crypto.md (24-03-2026).
