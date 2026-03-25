@@ -1,0 +1,21 @@
+- **Acciones  ESPAÑA**
+	- SAN, REP,  IBE
+	- Precio actual
+		- SAN: 9.47 €
+		- REP: 23.47 €
+		- IBE: 19.30 €
+	- Porcentaje de cambio en las últimas 24 horas
+		- SAN: -1.50%
+		- REP: 3.44%
+		- IBE: 1.18%
+    - Fundamentales acciones: PER, crecimiento ingresos/beneficios, márgenes, deuda/equity, ROE, EPS, tendencia 1–3 años.
+      - SAN → PER 11.28, crecimiento ingresos -6.40%, crecimiento beneficios 25.30%, márgenes 30.11%, deuda/equity N/D, ROE 12.69%, EPS 0.84, tendencia 1Y +54.51% | 3Y +222.56%.
+      - REP → PER 14.49, crecimiento ingresos -7.20%, crecimiento beneficios N/D, márgenes 3.93%, deuda/equity 47.96, ROE 7.41%, EPS 1.62, tendencia 1Y +102.19% | 3Y +105.79%.
+      - IBE → PER 22.98, crecimiento ingresos 0.50%, crecimiento beneficios 559.80%, márgenes 14.26%, deuda/equity 93.67, ROE 10.32%, EPS 0.84, tendencia 1Y +33.62% | 3Y +96.57%.
+    - Noticias y eventos: earnings, splits, guidance, M&A, regulación sector, cambios directiva, lanzamientos de producto.
+      - SAN → Sin titular (fuente)
+      - SAN → Sin titular (fuente)
+      - REP → Sin titular (fuente)
+      - REP → Sin titular (fuente)
+      - IBE → Sin titular (fuente)
+      - IBE → Sin titular (fuente)
