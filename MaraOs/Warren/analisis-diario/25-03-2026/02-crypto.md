@@ -1,56 +1,60 @@
 - **Acciones  Crypto**
 	- BTC, ETH, XRP, SOL
 	- **BTC**
-		- Precio actual: $71,224.00
-		- Porcentaje de cambio en las últimas 24 horas: +0.44%
+		- Precio actual: $71,277.00
+		- Porcentaje de cambio en las últimas 24 horas: +0.56%
 		- Métricas cripto:
-			- Market cap: $1.43T
-			- Volumen 24h: $42.29B
+			- Market cap: $1.42T
+			- Volumen 24h: $42.50B
 			- Oferta circulante/total: 20.00M / 20.00M (max 21.00M)
 			- Direcciones activas (24h): 477,639
-			- Transacciones (24h): 509.34K
-			- Fees promedio (USD, 24h): $0.3462
-			- Tokenomics básica: emisión pendiente aprox. 4.75%; supply cap 21M, halvings cada ~4 años, PoW
+			- Transacciones (24h): 505.50K
+			- Fees promedio (USD, 24h): $0.3457
+			- Tokenomics básica: supply cap 21M, emisión decreciente por halving (~4 años), PoW
 	- **ETH**
-		- Precio actual: $2,167.75
-		- Porcentaje de cambio en las últimas 24 horas: +0.34%
+		- Precio actual: $2,170.61
+		- Porcentaje de cambio en las últimas 24 horas: +0.48%
 		- Métricas cripto:
-			- Market cap: $261.91B
-			- Volumen 24h: $19.13B
+			- Market cap: $261.58B
+			- Volumen 24h: $19.32B
 			- Oferta circulante/total: 120.69M / 120.69M
 			- Direcciones activas (24h): N/D
 			- Transacciones (24h): 2.16M
-			- Fees promedio (USD, 24h): $0.1212
-			- Tokenomics básica: sin cap fijo, EIP-1559 quema fees, PoS
+			- Fees promedio (USD, 24h): $0.1213
+			- Tokenomics básica: sin cap fijo, EIP-1559 (burn), PoS con staking
 	- **XRP**
 		- Precio actual: $1.4200
-		- Porcentaje de cambio en las últimas 24 horas: -0.07%
+		- Porcentaje de cambio en las últimas 24 horas: -0.05%
 		- Métricas cripto:
-			- Market cap: $86.97B
-			- Volumen 24h: $2.42B
+			- Market cap: $86.93B
+			- Volumen 24h: $2.23B
 			- Oferta circulante/total: 61.34B / 99.99B (max 100.00B)
 			- Direcciones activas (24h): N/D
 			- Transacciones (24h): 239.83K
 			- Fees promedio (USD, 24h): $0.0010
-			- Tokenomics básica: emisión pendiente aprox. 38.66%; 100B preminados, liberación programada desde escrow
+			- Tokenomics básica: 100B preminados, liberación gradual desde escrow de Ripple
 	- **SOL**
 		- Precio actual: $92.53
 		- Porcentaje de cambio en las últimas 24 horas: +0.98%
 		- Métricas cripto:
-			- Market cap: $52.98B
-			- Volumen 24h: $4.33B
+			- Market cap: $52.95B
+			- Volumen 24h: $4.36B
 			- Oferta circulante/total: 572.26M / 572.26M
 			- Direcciones activas (24h): N/D
 			- Transacciones (24h): N/D
 			- Fees promedio (USD, 24h): N/D
-			- Tokenomics básica: inflación decreciente, staking PoS + PoH
+			- Tokenomics básica: inflación decreciente, PoS + PoH, alta rotación de staking
 	- TVL (en ETH/SOL):
 		- Ethereum: $56.24B
 		- Solana: $6.83B
 	- Noticias y eventos:
-		- BTC: Sin titulares recientes verificados por feed en esta ejecución.
-		- ETH: Sin titulares recientes verificados por feed en esta ejecución.
-		- XRP: Sin titulares recientes verificados por feed en esta ejecución.
-		- SOL: Sin titulares recientes verificados por feed en esta ejecución.
+		- BTC: Bernstein sugiere que el bitcoin podría haber "tocado fondo" - Expansión (Wed, 25 Mar 2026 11:03:21 GMT) <https://news.google.com/rss/articles/CBMikwFBVV95cUxNNGNZMG1OMjhydE1maFRKYkUwUlM4RzhFcVZqQk1LdFdLLWFlZF9FM0JjemRaNlBpQ3ZFejItWXN5STZtLTg1b05zbUx4SHRMaEkzbWl3ZFpOQkQxbGNmU212cHZKQWhCS0FNQTcxWEd1U1o1NUhyd29FU3U4aFh6VDl1RWRPYnNFSGJlak9QSWhFSVHSAZMBQVVfeXFMT2xvVVJXNTBTelQwalBMVkhEeFpoM2pMOHBJZWYtT0VzOUx5UmsyV3djNEJrT1JaaVFXZVNESmVLbm9rUXJPQ243U3hidWk1eTBGck45ek11NnBhMU0wa1ZsY3FrWXJqNFZfVVRQbFdhdEIya0lHX3B0V1lsVThrZVpib25wVTlXLW5fTmhoWTF3UmZN?oc=5>
+		- BTC: Bitcoin en tiempos de guerra: ¿cuchillo que cae o una gran oportunidad de compra? - Finect (Tue, 24 Mar 2026 11:10:16 GMT) <https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXkweWJHNEhKOTZWckFfMmo3T0F6RGhGSVJBQUQwSENtSVBSYlV1ekl0UkdIR2lfNUxFWGRSdF81aVRGR1hXZUl6SFprV0xORmFHYkpwS2wyczVzZ18yMUlVaEJ6a2pZeGJmWnZXaTRTbTF4cE80RlR6Q1dKa1hMSy1lZktJeDNjQl81QWVpdC1GTHpoMDB0NnFBRjlXZmF2WV9sSU55M1ZYcUxxSzlCVjEtcDBHQlF1TFBLNEJ6TnRCZFRNVWJIeTBKTHE?oc=5>
+		- ETH: Pronóstico de Bitcoin, Ethereum y Ripple: BTC, ETH y XRP envían señales mixtas con una ligera inclinación bajista - FXStreet (Wed, 25 Mar 2026 03:35:03 GMT) <https://news.google.com/rss/articles/CBMijAJBVV95cUxNaGstSFpLd1N0MTRGVk9taDJVdWgyLVRRX2Y2cmxjQVRGakZNZ3IxbXR3V1FhN3JCRHBOWk15WG5ldG1pZjRSYjNpdjdCUlcybzItd1pXYUplbVJ3TnFzMEFsVnBWTlZLQlV3RlNodkNIWlM2d01lQU9GTnJOb0lyc054LTlKMktWZmZoY2tNUmpCZUttSEZKVkhFU0sta1AzQklqVzUzd3VYcXpuV3JoYXhfRlptVENLb2czNDNYTW92Mzh6b25neVZFLWFiTDBKT0JITWpELW95bzJjRnJBM0FaalIzT2hycS01ZC1ISzJ0WWNQX0RZUldJeTJaZW1laFh2ZDFhVFVtd3dy0gGSAkFVX3lxTE1pNm8teWVYa3lqci1LbXhVNnpBN3ZBX0cwTlhMbEtjZFF3Uk1DNjZ5b0hGaEZ5ZWNreU1oVWZDSGlsa0R1ek02R0hNRF91X3ZhZlpDcVVJR1dodmtVZkthRUg1YzlQZnZxS1l1MzlwREZzSmJGSjhvVEdyMU82TkI4MW1mbzl6NXlRWUhsSlktV2RFUktuWlVpelg4eEhYVG5kYUVnM3RPMGRCVXB6VjdFMC0tdHdPVVNmU3lzd0U4azRlUThEWjVOX2s3RVlvSjZxRjh1b1A1a1UyXzc1NUZMalpWT2RvUDJnSTZSNTY4b0xWUzd5SmhCdTdTLTYwYi0xa0tmX1YzNHE5dXZETmJ5Y3c?oc=5>
+		- ETH: Cofundador de Everything: «La DeFi puede competir con la TradFi gracias a su superioridad arquitectónica, no a las garantías de riesgo - Bitcoin.com News (Wed, 25 Mar 2026 08:16:46 GMT) <https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ25QZ0VFV1VCUEN4RVZSMmM2T0VOLXd3QVRWU292ZC1Qdm5XbFpMam9aYUNqdERPRGw2YWkySU1CdkVFcFJ1RTRLN0llRTVNb0QyVFlQZnl3NEc0MVVJMW9XQ2RtZEZxaXdvM2JQZ1BXWU9haHhtcjN6SnRENUllMFVHQVZ4WUdYWjBNeDhfc2FkUXpnWWFHOEE3bW9IM1UybmREcDBUSWU5bFktUTZqbi1Nbm5WVW5hcHZtUmxEbjhaVlR3Uk9EcTVNVzlmTzhlYlp5VHRzSks5OW01U2VCanhZMThKRkpYRTZYemZrV3JMQQ?oc=5>
+		- XRP: Pronóstico de Bitcoin, Ethereum y Ripple: Los bajistas de BTC, ETH y XRP afianzan su control ante la ruptura de los soportes clave - FXStreet (Mon, 23 Mar 2026 02:59:26 GMT) <https://news.google.com/rss/articles/CBMiqAJBVV95cUxNUHlxaHNfVDU4WnRmWUl1c2w4bmVfWmxMd1pwRVlBU3U2OThGYmZNTUVyQ2pvMVowS3JwbFExZUxDSGxrU2ZTY1l1bGlvYlNzVUY3NmpOUExNX3d5d0VqTGpadFY1SkU1M2J6eF9idHVsemN5NW10ekhRRWk5dVVrcVZrMlhRZTdxTFVDckdMX3dHaEhnZXlWa0ZadHVQNWpOekNPVzJuNFI2eTZobU5YeFRqRUdMTG5qOVlKSjBJSldtNmxqNXBqLUFFTGpEc3Z3aXBUZGJJSFpWWTZOZDZjQjdzUld6ZFBETmNIZVVuYTdiV09rZmJxNVlFRG9pbGJlWDVMajlpM1g0M2pMSHpPUFBNd01MbHpfdUNET3k5ckFOT2ZSQ2phN9IBrgJBVV95cUxOS1JNZVN1SVZSdTJhMi1Ld2ZkNlczbzJyZC03Rm5ab2lENVFzcmdtTERmUjNmZXl4b2MwZnlTZDRyc2ZNUU1wdWhDNEtqdlg5eG1tcjdteEpDdFV2d2Vic3R2MWtPMWVzbzRMVlVtZS1HVlljZDdsaGRsRGt1UTdDbjdGRzJydEVWX2VBMmVnZnEtRW02dGJWdWozWWFIbHcwdGxtSjJtbE9RbG5ERDF2Ui1vNnQxa2RkNTZ5dXhhdkMwdHB0WFI2MFhQME5uSHowR1pLUnhJUHl3UkFydGhmbHBZQjdFY1h1OG5FTEdjU0dPTHhTcTBmcUs0N0VzYTY3c2tOTC1QdWNsRlBvbXJ5UGtTc2JpOENOWlZYazJPam1xa1hKVUVuZGJ6SzU2Zw?oc=5>
+		- XRP: Key facts: SEC Says Most Crypto Commodities; 75-Day ETPs; XRP Use - TradingView (Thu, 19 Mar 2026 00:03:41 GMT) <https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGhsYVVoMFZSNkVkckJ2OWQtcXByalZ5TEVRdEdnamlwbWpEdFRxeTRaUXlsLVl2Q3BmUXA1WGJ1OEhrUXJlMzBZb0paWXd6VWF6c19wd1RMRWYtc2FzaDVjaENxUVRaT2xlanZVOUpkaUx4Q2hJM0d5aXM1MUhKZ0ZqRFRwd3pGUUkwNFZzbm9uU3ZIM0RZcnM4dTd5aVJBemdRT2FaUWpJM2hVakppRTROMC11V1duamp5MlpxQkkxSmpWVXc?oc=5>
+		- SOL: Perplexity AI predice el precio de Pi, Bitcoin y Solana para finales de 2025 - Yahoo Finanzas (Thu, 18 Dec 2025 08:00:00 GMT) <https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzNKUHdSVzJDTE1Rd1hFZXpLZWVYMmtEeUpvOTRxdjNISHFqQm1tZjZwNzc0Yms1RG5mRC1qbE9kU2xQT3gwd1JER1lubkhrLTFSTkg5RGUtdmFhRFc0UkhzRGV2NDF6TkFYa01kenJZZkNuZ1RhcVU0dFlRMnJ6QTNKRVJIclBubGQ5M09LY3NJZw?oc=5>
+		- SOL: Criptomonedas a seguir en marzo: Pi Network, Cardano, Hyperliquid, Solana - Invezz (Tue, 03 Mar 2026 08:00:00 GMT) <https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWVRUmZKOTk1a3pzMzBFY0d1Zkh3RU9ZWHA3bzJ3dWNoNE1zSWk2UTVXV0NYdnY1cHZNRW9rVF9Hc2ZWdGd1cUdycEFEa2N0ZzZJUkN3NlVMa0hhcTc1Y0V1NXFsekNPa0t0TTdGRWQ4cTk5cFFlenJYN29fWXNOZzVtcVlXc0lNT1RtQW1qcWdiU1JKbmZZVGxNc2ZROE5TaURpdzJwdVRIVTBLRW4zMXV3?oc=5>
 
-> Fuentes: CoinGecko, DefiLlama, Blockchair (BTC/ETH/XRP), Blockchain.com (BTC active addresses), Google News RSS.
+> Fuentes: CoinGecko, Blockchair (BTC/ETH/XRP), Blockchain.com (BTC direcciones activas), DefiLlama, Google News RSS.
