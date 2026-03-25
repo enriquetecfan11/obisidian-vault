@@ -1,0 +1,56 @@
+- **Acciones  Crypto**
+	- BTC, ETH, XRP, SOL
+	- **BTC**
+		- Precio actual: $71,224.00
+		- Porcentaje de cambio en las últimas 24 horas: +0.44%
+		- Métricas cripto:
+			- Market cap: $1.43T
+			- Volumen 24h: $42.29B
+			- Oferta circulante/total: 20.00M / 20.00M (max 21.00M)
+			- Direcciones activas (24h): 477,639
+			- Transacciones (24h): 509.34K
+			- Fees promedio (USD, 24h): $0.3462
+			- Tokenomics básica: emisión pendiente aprox. 4.75%; supply cap 21M, halvings cada ~4 años, PoW
+	- **ETH**
+		- Precio actual: $2,167.75
+		- Porcentaje de cambio en las últimas 24 horas: +0.34%
+		- Métricas cripto:
+			- Market cap: $261.91B
+			- Volumen 24h: $19.13B
+			- Oferta circulante/total: 120.69M / 120.69M
+			- Direcciones activas (24h): N/D
+			- Transacciones (24h): 2.16M
+			- Fees promedio (USD, 24h): $0.1212
+			- Tokenomics básica: sin cap fijo, EIP-1559 quema fees, PoS
+	- **XRP**
+		- Precio actual: $1.4200
+		- Porcentaje de cambio en las últimas 24 horas: -0.07%
+		- Métricas cripto:
+			- Market cap: $86.97B
+			- Volumen 24h: $2.42B
+			- Oferta circulante/total: 61.34B / 99.99B (max 100.00B)
+			- Direcciones activas (24h): N/D
+			- Transacciones (24h): 239.83K
+			- Fees promedio (USD, 24h): $0.0010
+			- Tokenomics básica: emisión pendiente aprox. 38.66%; 100B preminados, liberación programada desde escrow
+	- **SOL**
+		- Precio actual: $92.53
+		- Porcentaje de cambio en las últimas 24 horas: +0.98%
+		- Métricas cripto:
+			- Market cap: $52.98B
+			- Volumen 24h: $4.33B
+			- Oferta circulante/total: 572.26M / 572.26M
+			- Direcciones activas (24h): N/D
+			- Transacciones (24h): N/D
+			- Fees promedio (USD, 24h): N/D
+			- Tokenomics básica: inflación decreciente, staking PoS + PoH
+	- TVL (en ETH/SOL):
+		- Ethereum: $56.24B
+		- Solana: $6.83B
+	- Noticias y eventos:
+		- BTC: Sin titulares recientes verificados por feed en esta ejecución.
+		- ETH: Sin titulares recientes verificados por feed en esta ejecución.
+		- XRP: Sin titulares recientes verificados por feed en esta ejecución.
+		- SOL: Sin titulares recientes verificados por feed en esta ejecución.
+
+> Fuentes: CoinGecko, DefiLlama, Blockchair (BTC/ETH/XRP), Blockchain.com (BTC active addresses), Google News RSS.
