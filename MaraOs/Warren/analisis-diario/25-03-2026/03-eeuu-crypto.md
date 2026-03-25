@@ -1,124 +1,47 @@
 # EEUU + Crypto — 25-03-2026
 
-## Acciones EEUU
-- AMZN, NVDA, AAPL, ASML
+- **Acciones  EEUU**
+	- AMZN, NVDA, AAPL, ASML
+	- **AMZN**
+		- Precio actual: $212.24
+		- Porcentaje de cambio en las últimas 24 horas: 2.42%
+		- Fundamentales: PER 29.60 | crecimiento ingresos 13.60% | crecimiento beneficios 5.00% | margen operativo 10.53% | margen bruto 50.29% | deuda/equity 43.44 | ROE 22.29% | EPS 7.17 | tendencia 1–3 años 3.18% / 116.49%
+		- Noticias y eventos: Wed, 25 Mar 2026 — Amazon sees bullish views at Citi on AWS revenue forecast driven by AI tailwinds — Seeking Alpha | Fri, 31 Oct 2025 — Amazon's stock soars 10% on third-quarter beat, increased spending guidance — CNBC
+	- **NVDA**
+		- Precio actual: $180.10
+		- Porcentaje de cambio en las últimas 24 horas: 2.80%
+		- Fundamentales: PER 36.68 | crecimiento ingresos 73.20% | crecimiento beneficios 95.60% | margen operativo 65.02% | margen bruto 71.07% | deuda/equity 7.25 | ROE 101.48% | EPS 4.91 | tendencia 1–3 años 49.26% / 579.43%
+		- Noticias y eventos: Sun, 15 Mar 2026 — Government Drops Sweeping AI Chip Export Rules: Can Nvidia Start Growing Again? — 24/7 Wall St. | Thu, 26 Feb 2026 — Nvidia still hasn't sold its U.S.-approved China AI chips — and it’s worried local AI rivals could take over — CNBC
+	- **AAPL**
+		- Precio actual: $251.64
+		- Porcentaje de cambio en las últimas 24 horas: 0.06%
+		- Fundamentales: PER 32.04 | crecimiento ingresos 15.70% | crecimiento beneficios 18.30% | margen operativo 35.37% | margen bruto 47.33% | deuda/equity 102.63 | ROE 152.02% | EPS 7.90 | tendencia 1–3 años 14.50% / 61.29%
+		- Noticias y eventos: Mon, 23 Mar 2026 — I Test Hundreds of Laptops, and This Is My Honest Advice on What Laptop to Buy — WIRED | Wed, 31 Dec 2025 — Everything Apple Is Releasing in 2026: iPhone Fold, LLM Siri, Low-Cost MacBook and More — MacRumors
+	- **ASML**
+		- Precio actual: $1,395.93
+		- Porcentaje de cambio en las últimas 24 horas: -0.25%
+		- Fundamentales: PER 48.89 | crecimiento ingresos 4.90% | crecimiento beneficios 7.20% | margen operativo 35.30% | margen bruto 52.83% | deuda/equity 23.92 | ROE 50.46% | EPS 28.55 | tendencia 1–3 años 93.76% / 122.57%
+		- Noticias y eventos: Wed, 15 Oct 2025 — ASML is prepared for China's rare-earth export controls — finance head says company has stock thanks to long lead times — Tom's Hardware | Thu, 29 Jan 2026 — ASML Expects China Revenue Drop Following Backlog-Fueled Surge — Caixin Global
 
-### AMZN
-- Precio actual: **$211.52**
-- Porcentaje de cambio en las últimas 24 horas: **2.07%**
-- Fundamentales acciones:
-  - PER: 29.51
-  - Crecimiento ingresos/beneficios: Sales Q/Q 13.63% | EPS Q/Q 5.04%
-  - Márgenes: Margen neto N/D | Margen operativo N/D
-  - Deuda/equity: 0.41
-  - ROE: 22.29%
-  - EPS: 7.17
-  - Tendencia 1–3 años: 1Y 4.06% | 3Y 116.48%
-- Noticias y eventos:
-  - In Wild Year Since IPO, CoreWeave Stock Is Lagging Rival Nebius (Today 09:42AM)
-  - Prime Video Price Increases Are on the Way as Amazon Rebrands Ad-Free Subscription (09:00AM)
-
-### NVDA
-- Precio actual: **$179.43**
-- Porcentaje de cambio en las últimas 24 horas: **2.41%**
-- Fundamentales acciones:
-  - PER: 36.62
-  - Crecimiento ingresos/beneficios: Sales Q/Q 73.21% | EPS Q/Q 96.65%
-  - Márgenes: Margen neto N/D | Margen operativo N/D
-  - Deuda/equity: 0.07
-  - ROE: 101.49%
-  - EPS: 4.90
-  - Tendencia 1–3 años: 1Y 47.79% | 3Y 593.17%
-- Noticias y eventos:
-  - Arm Rises on Plan to Sell Own Chips With Meta as Key Client (Today 09:51AM)
-  - In Wild Year Since IPO, CoreWeave Stock Is Lagging Rival Nebius (09:42AM)
-
-### AAPL
-- Precio actual: **$252.70**
-- Porcentaje de cambio en las últimas 24 horas: **0.42%**
-- Fundamentales acciones:
-  - PER: 31.99
-  - Crecimiento ingresos/beneficios: Sales Q/Q 15.65% | EPS Q/Q 18.54%
-  - Márgenes: Margen neto N/D | Margen operativo N/D
-  - Deuda/equity: 1.03
-  - ROE: 152.02%
-  - EPS: 7.90
-  - Tendencia 1–3 años: 1Y 14.88% | 3Y 62.72%
-- Noticias y eventos:
-  - Arm's chip gamble could redraw the AI hardware landscape (Today 07:30AM)
-  - Morning Brief: 3 factors have made for big historical stock market losses (06:00AM)
-
-### ASML
-- Precio actual: **$1385.06**
-- Porcentaje de cambio en las últimas 24 horas: **-1.03%**
-- Fundamentales acciones:
-  - PER: 49.55
-  - Crecimiento ingresos/beneficios: Sales Q/Q 14.48% | EPS Q/Q 17.00%
-  - Márgenes: Margen neto N/D | Margen operativo N/D
-  - Deuda/equity: 0.24
-  - ROE: 51.52%
-  - EPS: 27.94
-  - Tendencia 1–3 años: 1Y 90.30% | 3Y 114.30%
-- Noticias y eventos:
-  - SK Hynix to Float US Shares This Year to Feed AI Memory Boom (Today 01:17AM)
-  - SK Hynix to Spend $7.9 Billion on ASML EUV Tools Through 2027 (Mar-24-26 05:48PM)
-
-## Acciones Crypto
-- BTC, ETH, XRP, SOL
-
-### BTC
-- Precio actual: **$71368.00**
-- Porcentaje de cambio en las últimas 24 horas: **1.88%**
-- Métricas cripto:
-  - Market cap: 1.43T USD
-  - Volumen 24h: 41.70B USD
-  - Oferta circulante/total: 20.00M / 20.00M
-  - TVL: N/A
-  - Direcciones activas, transacciones y fees: N/D en esta pasada (requiere fuentes on-chain dedicadas).
-  - Tokenomics básica: oferta limitada (21M).
-- Noticias y eventos:
-  - Why Do Cryptocurrency Prices Fluctuate So Much? 2026 Guide - Bitget (Tue, 24 Mar 2026 09:40:45 GMT)
-  - XRP Price Pressure, $25M Hack, and Macro Liquidity Flows - Bitget (Sun, 22 Mar 2026 00:54:47 GMT)
-
-### ETH
-- Precio actual: **$2180.06**
-- Porcentaje de cambio en las últimas 24 horas: **2.09%**
-- Métricas cripto:
-  - Market cap: 263.04B USD
-  - Volumen 24h: 18.22B USD
-  - Oferta circulante/total: 120.69M / 120.69M
-  - TVL (ETH): 56.13B USD
-  - Direcciones activas, transacciones y fees: N/D en esta pasada (requiere fuentes on-chain dedicadas).
-  - Tokenomics básica: emisión según reglas del protocolo.
-- Noticias y eventos:
-  - Why Do Cryptocurrency Prices Fluctuate So Much? 2026 Guide - Bitget (Tue, 24 Mar 2026 09:40:45 GMT)
-
-### XRP
-- Precio actual: **$1.42**
-- Porcentaje de cambio en las últimas 24 horas: **1.19%**
-- Métricas cripto:
-  - Market cap: 87.01B USD
-  - Volumen 24h: 2.17B USD
-  - Oferta circulante/total: 61.34B / 99.99B
-  - TVL: N/A
-  - Direcciones activas, transacciones y fees: N/D en esta pasada (requiere fuentes on-chain dedicadas).
-  - Tokenomics básica: emisión según reglas del protocolo.
-- Noticias y eventos:
-  - XRP Availability By Country: Where It’s Listed (2026 Update) - InvestingHaven (Mon, 23 Mar 2026 10:21:45 GMT)
-  - XRP Price Pressure, $25M Hack, and Macro Liquidity Flows - Bitget (Sun, 22 Mar 2026 00:54:47 GMT)
-
-### SOL
-- Precio actual: **$92.19**
-- Porcentaje de cambio en las últimas 24 horas: **2.98%**
-- Métricas cripto:
-  - Market cap: 52.76B USD
-  - Volumen 24h: 4.04B USD
-  - Oferta circulante/total: 572.26M / 572.26M
-  - TVL (SOL): 6.83B USD
-  - Direcciones activas, transacciones y fees: N/D en esta pasada (requiere fuentes on-chain dedicadas).
-  - Tokenomics básica: emisión según reglas del protocolo.
-- Noticias y eventos:
-  - Sin titulares capturados en esta pasada.
-
----
-Fuentes: Stooq, Finviz, CoinGecko, DefiLlama y Google News RSS.
+- **Acciones  Crypto**
+	- BTC, ETH, XRP, SOL
+	- **BTC**
+		- Precio actual: $71,444.00
+		- Porcentaje de cambio en las últimas 24 horas: 2.17%
+		- Métricas cripto: market cap $1.43T | volumen 24h $41.69B | oferta circulante/total 20,003,043 / 20,003,043 (max 21,000,000) | direcciones activas N/D | transacciones 24h 507,218 | fees 24h USD N/D | TVL N/D | tokenomics básica supply fija
+		- Noticias y eventos: Mon, 23 Mar 2026 — Key facts: Bitcoin Liquidations; U.S. Rules; Saylor; NRPL; Flows — TradingView | Thu, 15 Jan 2026 — The road ahead for crypto markets in 2026 — Kraken Blog
+	- **ETH**
+		- Precio actual: $2,181.96
+		- Porcentaje de cambio en las últimas 24 horas: 2.31%
+		- Métricas cripto: market cap $263.41B | volumen 24h $18.19B | oferta circulante/total 120,691,549 / 120,691,549 (max N/D) | direcciones activas N/D | transacciones 24h 2,093,035 | fees 24h USD N/D | TVL $56.13B | tokenomics básica supply no fija o variable
+		- Noticias y eventos: Tue, 10 Mar 2026 — Why Is Ethereum Going Up? Key Factors Behind ETH's Price Surge — mexc.com | Sun, 22 Mar 2026 — Ethereum Price Dips to $2050 Amid Global Tensions: Glamsterdam Upgrade Advances as Key Support — AD HOC NEWS
+	- **XRP**
+		- Precio actual: $1.42
+		- Porcentaje de cambio en las últimas 24 horas: 1.21%
+		- Métricas cripto: market cap $87.03B | volumen 24h $2.16B | oferta circulante/total 61,344,583,754 / 99,985,695,443 (max 100,000,000,000) | direcciones activas N/D | transacciones 24h 239,832 | fees 24h USD N/D | TVL N/D | tokenomics básica supply fija
+		- Noticias y eventos: Fri, 20 Mar 2026 — XRP Price: Why Is XRP Still Falling When Ripple Keeps Winning? — 24/7 Wall St. | Sat, 15 Nov 2025 — What’s Behind XRP’s Institutional Push in Late 2025? — Yahoo Finance
+	- **SOL**
+		- Precio actual: $92.23
+		- Porcentaje de cambio en las últimas 24 horas: 3.03%
+		- Métricas cripto: market cap $52.78B | volumen 24h $4.09B | oferta circulante/total 572,256,869 / 572,256,887 (max N/D) | direcciones activas N/D | transacciones 24h N/D | fees 24h USD N/D | TVL $6.83B | tokenomics básica supply no fija o variable
+		- Noticias y eventos: Wed, 05 Nov 2025 — Solana’s validator network is shrinking. The blockchain’s supporters say that’s a good thing — dlnews.com | Sun, 05 Oct 2025 — SOL: How Solana Intends to Become an Even Stronger Competitor in the Blockchain Space — CoinDesk
