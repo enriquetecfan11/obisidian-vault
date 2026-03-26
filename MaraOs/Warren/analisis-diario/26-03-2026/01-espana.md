@@ -1,59 +1,33 @@
 - **Acciones  ESPAÑA**
 	- SAN, REP,  IBE
-	- Precio actual 
+	- Precio actual
 	- Porcentaje de cambio en las últimas 24 horas
     - Fundamentales acciones: PER, crecimiento ingresos/beneficios, márgenes, deuda/equity, ROE, EPS, tendencia 1–3 años.
     - Noticias y eventos: earnings, splits, guidance, M&A, regulación sector, cambios directiva, lanzamientos de producto.
 
-## ESPAÑA — 26-03-2026
+	- **SAN**
+		- Precio actual: 9.71 EUR
+		- %24h: 2.43%
+		- Fundamentales: PER 11.55 | crecimiento ingresos -6.40% | crecimiento beneficios 25.30% | márgenes 30.11% | deuda/equity N/D | ROE 12.69% | EPS 0.84 | tendencia 1–3 años (precio) 53.79% / 230.39%
+		- Noticias y eventos:
+			- Tue, 03 Feb 2026 08:00:00 GMT — Santander logra resultados récord en 2025, suma ocho millones de clientes, hasta 180 millones, y eleva un 17% el beneficio por acción - santander.com
+			- Wed, 04 Feb 2026 08:00:00 GMT — Las acciones de Santander se hunden: ¿qué castiga el mercado? - XTB.com
+			- Tue, 10 Feb 2026 08:00:00 GMT — Santander y BBVA, tocados en bolsa tras los resultados: ¿qué dicen los gráficos? - Finanzas.com
 
-### SAN — Banco Santander
-- Precio actual: **9.70 €** (cierre 25-03-2026)
-- % cambio 24h: **+2.43%**
-- Fundamentales:
-  - PER: **12.18**
-  - Crecimiento ingresos (YoY): **-2.04%**
-  - Crecimiento beneficios/net income (YoY): **12.14%**
-  - Márgenes: operativo **N/D** · neto **N/D**
-  - Deuda/Equity: **3.40**
-  - ROE: **12.68%**
-  - EPS (básico): **0.91**
-  - Tendencia 1–3 años: **1Y +51.64%** · **3Y +187.47%**
-- Noticias / eventos:
-  - Próximos resultados: **Apr 29, 2026**
-  - El Santander realizó en 2025 la mayor reducción de empleo en más de 20 años - Cinco Días
-  - Santander lanza una nueva estrategia para jóvenes con una oferta mejorada en viajes e inversión - santander.com
+	- **REP**
+		- Precio actual: 23.62 EUR
+		- %24h: 0.64%
+		- Fundamentales: PER 14.58 | crecimiento ingresos -7.20% | crecimiento beneficios N/D | márgenes 3.93% | deuda/equity 47.96 | ROE 7.41% | EPS 1.62 | tendencia 1–3 años (precio) 104.14% / 107.10%
+		- Noticias y eventos:
+			- Fri, 20 Feb 2026 08:00:00 GMT — El dividendo y otras luces (y sombras) de Repsol tras presentar resultados - Finanzas.com
+			- Thu, 19 Feb 2026 08:00:00 GMT — Las acciones de Repsol suben tras presentar resultados - XTB.com
+			- Thu, 19 Feb 2026 08:00:00 GMT — Repsol cierra 2025 con un beneficio de 1.899 millones y eleva el dividendo en un 7,8% - Estrategias de Inversión
 
-### REP — Repsol
-- Precio actual: **23.62 €** (cierre 25-03-2026)
-- % cambio 24h: **+0.64%**
-- Fundamentales:
-  - PER: **14.59**
-  - Crecimiento ingresos (YoY): **-5.91%**
-  - Crecimiento beneficios/net income (YoY): **8.14%**
-  - Márgenes: operativo **5.04%** · neto **3.79%**
-  - Deuda/Equity: **0.48**
-  - ROE: **7.41%**
-  - EPS (básico): **1.62**
-  - Tendencia 1–3 años: **1Y +95.77%** · **3Y +66.98%**
-- Noticias / eventos:
-  - Próximos resultados: **Apr 30, 2026**
-  - Repsol, cerca y lejos de Irán - EL PAÍS
-  - Repsol se convierte en la "mina de oro" del Ibex gracias a producir y refinar su propio petróleo - Diari ARA
-
-### IBE — Iberdrola
-- Precio actual: **19.40 €** (cierre 25-03-2026)
-- % cambio 24h: **+0.52%**
-- Fundamentales:
-  - PER: **23.01**
-  - Crecimiento ingresos (YoY): **2.53%**
-  - Crecimiento beneficios/net income (YoY): **11.99%**
-  - Márgenes: operativo **22.13%** · neto **14.58%**
-  - Deuda/Equity: **1.06**
-  - ROE: **10.33%**
-  - EPS (básico): **0.84**
-  - Tendencia 1–3 años: **1Y +37.15%** · **3Y +74.62%**
-- Noticias / eventos:
-  - Próximos resultados: **Feb 25, 2026**
-  - Iberdrola inicia su campaña de participación a distancia para la Junta General de Accionistas 2026 - Iberdrola
-  - Iberdrola lanza el mayor bonus de su historia con 400 millones y apunta a la continuidad de Galán - Expansión
+	- **IBE**
+		- Precio actual: 19.40 EUR
+		- %24h: 0.52%
+		- Fundamentales: PER 23.10 | crecimiento ingresos 0.50% | crecimiento beneficios 559.80% | márgenes 14.26% | deuda/equity 93.67 | ROE 10.32% | EPS 0.84 | tendencia 1–3 años (precio) 39.42% / 97.59%
+		- Noticias y eventos:
+			- Wed, 25 Feb 2026 08:00:00 GMT — Galán: “En España tenemos que seguir las señales del regulador” - Negocios.com
+			- Fri, 31 Oct 2025 07:00:00 GMT — BofA le sube el precio a Iberdrola tras sus resultados: "Pocas razones para la cautela" - Bolsamania
+			- Wed, 25 Feb 2026 08:00:00 GMT — Iberdrola, S.A. presenta resultados financieros para el ejercicio completo finalizado el 31 de diciembre de 2025 - MarketScreener España
