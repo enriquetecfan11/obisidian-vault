@@ -1,52 +1,57 @@
 # Resumen diario Warren — 26-03-2026
 
-## Resumen ejecutivo
-Sesión mixta con **fortaleza selectiva en equity** y **debilidad generalizada en cripto**. En España, **SAN** lidera por momentum y mejora de beneficios; **REP** e **IBE** avanzan de forma más moderada, con foco en dividendo/regulación. En EEUU, continúa el sesgo growth/IA pero con rotación intradía: **AAPL** y **AMZN** sostienen, mientras **NVDA** y **ASML** corrigen tras tramos fuertes. En cripto predomina el risk-off de corto plazo (caídas en los cuatro activos principales), sin señal de evento sistémico nuevo en esta corrida.
+## 1) Highlights del día
+- **España**: sesión positiva en los tres nombres seguidos (SAN, REP, IBE), con **liderazgo claro de SAN (+2,43%)** y tono defensivo en utilities/energía.
+- **EEUU**: comportamiento mixto. **AAPL (+1,29%) y AMZN (+0,18%)** sostienen, mientras **NVDA (-2,22%) y ASML (-3,19%)** corrigen en semis tras fuerte tramo previo.
+- **Crypto**: jornada de **risk-off** en el bloque principal (BTC/ETH/XRP/SOL en rojo), con mayor presión relativa en **SOL y ETH**.
 
-## Highlights del día
-- **España**: tono constructivo en bancos (SAN +2.43%) y utilities defensivas (IBE +0.52%).
-- **EEUU**: dispersión en mega caps; AAPL (+1.29%) compensa parte de la debilidad semis (NVDA -2.22%, ASML -3.19%).
-- **Crypto**: corrección sincronizada BTC/ETH/XRP/SOL (entre -2.43% y -4.93%), compatible con reducción táctica de riesgo.
+## 2) Cambios clave (mercado + fundamentales)
+### Acciones España
+- **SAN**: fortaleza de precio con base en mejora de beneficio (+25,3%) y ROE saludable (12,69%).
+- **REP**: avance moderado; mantiene perfil cíclico con margen neto bajo (3,93%) y apalancamiento relevante (D/E 47,96).
+- **IBE**: subida suave; destaca salto extraordinario de beneficio (+559,8%), aunque con valoración más exigente (PER 23,1) y D/E elevado (93,67).
 
-## Cambios clave (vs sesgo previo)
-- Se mantiene la narrativa estructural positiva en IA/capex, pero el mercado exige **timing**: sube la probabilidad de consolidación en semiconductores.
-- En España, el binomio **banca + dividendo/energía** sigue funcionando mejor que apuestas de beta alta.
-- En cripto, el flujo de corto favorece prudencia hasta estabilización de BTC y ETH.
-
-## Riesgos a vigilar
-- **Macro/tipos**: cualquier sorpresa de inflación/curva puede penalizar múltiplos en growth.
-- **Regulatorio**: presión legal en Big Tech y ruido regulatorio cripto (EEUU/UE).
-- **Concentración**: alta dependencia del mercado en pocas mega caps; mayor volatilidad si decepcionan guías.
-- **Crypto**: potencial aceleración bajista si BTC pierde soportes de corto plazo.
-
-## Acciones para mañana
-1. Revisar premarket de **NVDA/ASML** para confirmar si la caída fue toma de beneficios o cambio de régimen táctico.
-2. Mantener vigilancia en **SAN** por continuidad de flujo comprador tras resultados y narrativa de BPA.
-3. Confirmar en **REP/IBE** catalizadores de dividendo/regulación antes de ampliar exposición.
-4. En cripto, priorizar gestión de riesgo: entradas solo con confirmación de rebote (BTC/ETH) o reducción de volatilidad.
-5. Actualizar watchlist con niveles técnicos clave (máx/mín semanal) en los 11 activos monitorizados.
-
-## Precios actuales y %24h
-
-### Empresas España
-- **SAN**: 9.71 EUR (**+2.43%**)
-- **REP**: 23.62 EUR (**+0.64%**)
-- **IBE**: 19.40 EUR (**+0.52%**)
-
-### Empresas EEUU
-- **AMZN**: 212.09 USD (**+0.18%**)
-- **NVDA**: 174.71 USD (**-2.22%**)
-- **AAPL**: 255.87 USD (**+1.29%**)
-- **ASML**: 1349.36 USD (**-3.19%**)
+### Acciones EEUU
+- **AMZN**: sesgo constructivo; crecimiento ingresos (+13,6%), margen neto de doble dígito y ROE sólido.
+- **NVDA**: corrección táctica dentro de tendencia estructural alcista; fundamentales siguen muy fuertes (crec. ingresos +73,2%, margen neto 55,6%).
+- **AAPL**: continuidad positiva con calidad de márgenes y beneficios, aunque con deuda/equity alta.
+- **ASML**: retroceso del día pese a narrativa de largo plazo favorable en equipamiento crítico de semis.
 
 ### Crypto
-- **BTC**: 69616 USD (**-2.43%**)
-- **ETH**: 2078.39 USD (**-4.64%**)
-- **XRP**: 1.37 USD (**-3.16%**)
-- **SOL**: 87.68 USD (**-4.93%**)
+- **BTC/ETH/XRP/SOL**: caída sincronizada de precios y presión en altcoins beta alta (SOL).
+- Sin alertas automáticas críticas de hacks/hard forks en la corrida de hoy.
+- Se mantiene el foco en **regulación EEUU** y flujos netos hacia/desde exchanges.
+
+## 3) Riesgos a vigilar
+- **Riesgo macro/tipos**: impacto directo sobre growth (NVDA/ASML) y valoración múltiplos.
+- **Concentración temática IA/semis**: mayor sensibilidad a titulares de capex/regulación.
+- **Crypto**: posible ampliación de volatilidad si BTC pierde niveles psicológicos y arrastra a ETH/SOL.
+- **España**: sensibilidad de SAN a ciclo de tipos; REP a petróleo/márgenes de refino; IBE a marco regulatorio.
+
+## 4) Acciones recomendadas para mañana
+1. Revisar apertura europea y confirmar si SAN mantiene momentum (>9,70€) o entra toma de beneficios.
+2. Monitorizar premarket EEUU en NVDA/ASML para distinguir corrección técnica vs. cambio de régimen corto plazo.
+3. En crypto, vigilar dominancia BTC y soporte de ETH/SOL para detectar capitulación o rebote técnico.
+4. Actualizar titulares de resultados/guidance en los 11 activos antes del siguiente corte diario.
+
+## 5) Precios actuales y %24h (última corrida del día)
+
+### Empresas España
+- **SAN**: **9,71 EUR** (**+2,43% 24h**)
+- **REP**: **23,62 EUR** (**+0,64% 24h**)
+- **IBE**: **19,40 EUR** (**+0,52% 24h**)
+
+### Empresas EEUU
+- **AMZN**: **212,09 USD** (**+0,18% 24h**)
+- **NVDA**: **174,71 USD** (**-2,22% 24h**)
+- **AAPL**: **255,87 USD** (**+1,29% 24h**)
+- **ASML**: **1.349,36 USD** (**-3,19% 24h**)
+
+### Crypto
+- **BTC**: **69.616,00 USD** (**-2,43% 24h**)
+- **ETH**: **2.078,39 USD** (**-4,64% 24h**)
+- **XRP**: **1,37 USD** (**-3,16% 24h**)
+- **SOL**: **87,68 USD** (**-4,93% 24h**)
 
 ---
-Fuentes base del día:
-- /Users/enriquetecfan/Documents/obisidian-vault/MaraOs/Warren/analisis-diario/26-03-2026/01-espana.md
-- /Users/enriquetecfan/Documents/obisidian-vault/MaraOs/Warren/analisis-diario/26-03-2026/02-crypto.md
-- /Users/enriquetecfan/Documents/obisidian-vault/MaraOs/Warren/analisis-diario/26-03-2026/03-eeuu-crypto.md
+**Nota de calidad de dato**: precios y variaciones tomados de los archivos diarios generados hoy (26-03-2026). Si quieres, mañana lo dejo con doble validación de feed en tiempo real antes del cierre.
