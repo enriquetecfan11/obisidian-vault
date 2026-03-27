@@ -1,0 +1,57 @@
+# EEUU + Crypto — 27-03-2026
+
+- **Acciones  EEUU**
+	- AMZN, NVDA, AAPL, ASML
+	- Precio actual
+    - AMZN: $201,45 (USD)
+    - NVDA: $168,11 (USD)
+    - AAPL: $254,27 (USD)
+    - ASML: $1.315,25 (USD)
+	- Porcentaje de cambio en las últimas 24 horas
+    - AMZN: -1.91%
+    - NVDA: -2.66%
+    - AAPL: +2.53%
+    - ASML: -0.15%
+    - Fundamentales acciones: PER, crecimiento ingresos/beneficios, márgenes, deuda/equity, ROE, EPS, tendencia 1–3 años.
+      - AMZN: PER 28,50 | Crec. ingresos 3Y +39.48% | Crec. beneficios 3Y -2890.28% | Margen neto N/D | Deuda/Equity 0,16 | ROE N/D | EPS N/D
+      - NVDA: PER 34,70 | Crec. ingresos 3Y +254.45% | Crec. beneficios 3Y +315.87% | Margen neto N/D | Deuda/Equity 0,06 | ROE N/D | EPS N/D
+      - AAPL: PER 31,90 | Crec. ingresos 3Y +12.41% | Crec. beneficios 3Y +21.49% | Margen neto N/D | Deuda/Equity N/D | ROE N/D | EPS N/D
+      - ASML: PER N/D | Crec. ingresos 3Y N/D | Crec. beneficios 3Y N/D | Margen neto N/D | Deuda/Equity N/D | ROE N/D | EPS N/D
+    - Noticias y eventos: earnings, splits, guidance, M&A, regulación sector, cambios directiva, lanzamientos de producto.
+      - AMZN:
+        - Amazon.com announces third quarter results - About Amazon (Thu, 16 Oct 2025 20:06:15 GMT) — https://news.google.com/rss/articles/CBMiggFBVV95cUxOWXpYWjI0d0RvTktOY3dZTHRzVHBIdXVWa2lCNGE4enM5c0dINlJndVptMThVWkcwQWlQNV90WmU3RWJTUmJIUnRidTJxS3hKMlotV3Y4QjlDdWJzSTN6V0k3aEZoZzJCR3lUeUQwTmdoN05yZlYyOUZaOUFDTmtTSjNB?oc=5
+        - Amazon slides as it misses on Q4 earnings, gives downbeat profit guidance - Sherwood News (Thu, 05 Feb 2026 08:00:00 GMT) — https://news.google.com/rss/articles/CBMia0FVX3lxTE8wd04wcTNUaG1OaVJvQmVsOVdnZ0s3SFZLNlgzTEowb09faGRmSW1MdkUyUE1pb1UweXI3cGpxak1JQmpRTVV2NFZMMUJueXk2Z2x2cTl2a2FQb0Z6M3p5QW5fSTZxZm9yd3V3?oc=5
+      - NVDA:
+        - NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026 - NVIDIA Newsroom (Wed, 25 Feb 2026 08:00:00 GMT) — https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlZ3eURLTmdvaFlhVjRTR3d3TE5qSzBTSlhEN0tnRjJNQm9YSF9jOXpfaldkTzZ0OEpxV2JfY3NMZzE2ZWowcVFERk9RMzJucWJqbS01YmJlb0Q5Z0V6TXhKdXFUZHB1aFRvQ2pjdERKTUI5bXFYbGI3YkNiRDFkUHNjQnhjeXRuazVVUEVsUW9tOXUwTHVaNWtTVjcxdExYRGJQU093?oc=5
+        - Nvidia reports earnings and guidance beat as AI boom pushes data center revenue up 75% - CNBC (Wed, 25 Feb 2026 08:00:00 GMT) — https://news.google.com/rss/articles/CBMifEFVX3lxTE1iLXZVcjBUR3VzN20xRjc2YmdLQzZnbHRRc29WdmlrZFpTWlhya1NKaW8zaHdEUEltSWZxSHlpUDdHTkRKZ0VPUnZoUERidklMMG1NMEtsdWNyQjFQTDBIU3ZheFoxOG41RC04R09pV2g0SWppTTZ2Ml9JNlnSAYIBQVVfeXFMTllhSnNweWV6ay1JRkFBOW5heFFQTHlsdVFnNGU0OExpZFJraHlCYm5NOVBYd0szYkozUS1QQVhYSVRreW1ubGlrQVpDM1FtRmpTVHhXMEFLcmRVZXJfZ2RGLWg0cEJVeGQ3QmduUXdnVlpuNnJZamhTdzh3QjhnaS1qZw?oc=5
+      - AAPL:
+        - Apple sees big December quarter driven by strong iPhone 17 demand - CNBC (Thu, 30 Oct 2025 07:00:00 GMT) — https://news.google.com/rss/articles/CBMie0FVX3lxTFBaQnBuLUl2LVhad0NFWnVzLU5BZWNQN0xQcnVpb1ROMnQtcG1KalpPckxuLU1EcXZpZ2Y5bDhuVEpJOEJRU2huY1VuN1d6ckkzQXEzR2RRSXMxTkVseTI1ckNmYzQ2UjUxRGlrLWpvdlhTc2g1SmdjbWNWd9IBgAFBVV95cUxOQjhfNWFKbTFJWHhsd3dlV2V3SVFzNFBvMmh4OHdxQ3ZJYWpRbjJYV3Q4S2NpVFZoTEpESzRpVVBpaEJHU0dabDc5U1h4d2pHbTVrOWphWUx0NkFEZWpsWHpydmlCcHp4V2dBREZuVXcxVzBzeUlOc25GV0ZjSXVNeg?oc=5
+        - Apple Q1 earnings preview: what to expect on 29 January 2026 - ig.com (Tue, 27 Jan 2026 08:00:00 GMT) — https://news.google.com/rss/articles/CBMitAFBVV95cUxNMnp4WUhaT0lXenFaMl9iUnVFVFRrdVIzMmxISWFfeFVrSmFJWXJiTUR4V2xfeURUVWlobkhUYjg3R29aOVlsSTZTbHFjZGJTMjhFOWVXX2pDTk1BT3NrUDJ6T2NYQzNhLXJ5UENEQUt2SGtBdS1jaGREUFR1T2xuZk5qdWN6YWllODZGRS1pMnk2SnFlYVFrRXNlekVPcEUwVS00clRORXBETFJLQ3Q0Rl9PT0U?oc=5
+      - ASML:
+        - ASML reports €7.7 billion total net sales and €2.4 billion net income in Q1 2025 - GlobeNewswire (Wed, 16 Apr 2025 07:00:00 GMT) — https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcTNiS1g0YV9fbkdBWU04cHZkLTN0bmxGS3pnUWZzcFZDWGItQWg5M3VEMS1HY1MyZFh0clg4LTNwQzZrVS1zRy1zejlLY2pHb3ZkckJPNzA5VzEtOTRoOWtfMmpzcXROWXpDTkVnSGN2VlU3VTFCV0hHdjNuSzVHeWJlaHFXRXVRZUZCY2VVZDhFbHp6eHNHbVBZZlBZWnpHR0Y1d1FsSENvLUQyeG44NlBsaDlVUlN2eGtIN0lnbVRELTRqVlloenpFWjNwcl9QWXlVakdFUG5xQ1ctS3Y5VEl1bFM?oc=5
+        - ASML vs. Palantir Stock: Why ASML Is Poised to Outperform Over the Long Haul - techi.com (Thu, 09 Oct 2025 07:00:00 GMT) — https://news.google.com/rss/articles/CBMibEFVX3lxTE9IUXRtTTQyeG55UDFnaU4tUFM0THNYTEpOaHVSQXJvaU81X1JabXhkOEp6ZmRFTmFsSWdwUGI3bTl0VFA3cWdkV0xfT1VGYVQ1bkRIZ2hGSzlDZHJTdGxkZDBpcnpXTktHbTdMZw?oc=5
+
+- **Acciones  Crypto**
+	- BTC, ETH, XRP, SOL
+	- Precio actual
+    - BTC: $65.766,00
+    - ETH: $1.973,18
+    - XRP: $1,33
+    - SOL: $82,70
+	- Porcentaje de cambio en las últimas 24 horas
+    - BTC: -5.60%
+    - ETH: -5.07%
+    - XRP: -3.04%
+    - SOL: -5.59%
+    - Métricas cripto: market cap, volumen 24h, oferta circulante/total, direcciones activas, transacciones, fees, TVL (en SOL/ETH), tokenomics básica.
+      - BTC: MCap $1.31T | Vol.24h $55.24B | Oferta circ. 20.00M | Oferta total 20.00M | Max supply 21.00M | Direcciones activas N/D | Transacciones N/D | Fees N/D | TVL N/D
+      - ETH: MCap $238.12B | Vol.24h $20.08B | Oferta circ. 120.69M | Oferta total 120.69M | Max supply N/D | Direcciones activas N/D | Transacciones N/D | Fees N/D | TVL $52.96B
+      - XRP: MCap $81.79B | Vol.24h $2.83B | Oferta circ. 61.34B | Oferta total 99.99B | Max supply 100.00B | Direcciones activas N/D | Transacciones N/D | Fees N/D | TVL N/D
+      - SOL: MCap $47.33B | Vol.24h $4.00B | Oferta circ. N/D | Oferta total N/D | Max supply N/D | Direcciones activas N/D | Transacciones N/D | Fees N/D | TVL $6.44B
+    - Noticias y eventos: upgrades/hard forks (p.ej. Ethereum/Solana), hacks, regulación, partnerships clave, movimientos grandes on-chain hacia/desde exchanges.
+      - BTC: Bitcoin ETF Reversal: US Spot Funds Snap 4-Day Outflow Streak with $167M Surge - CryptoRank (Tue, 24 Mar 2026 03:35:39 GMT) — https://news.google.com/rss/articles/CBMieEFVX3lxTE5tSS1LdkxtZHRKQ2VmcDVxUlRoSHZ3c1czb0F0b2xVdVhVbHp0NVV3Nzk4VGU2X2NCS2pySjdxRzNsWFVTV25sVFlEaUFXRUFXdkItb2hQUXF3ZldZaFRlNFZrVUc2OC1ZYjZodWtldmNPUUllUW01Tw?oc=5
+      - ETH: How the Fusaka upgrade fits into Ethereum’s long-term roadmap - TradingView (Thu, 27 Nov 2025 08:00:00 GMT) — https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbHJ0VDhjcUxuNzNGVUZkeG45UV9VdjNzZ253OEdPN2pJWHM0dTVZa010STN3RVpacjJ6S3ZiRm9USzhLXzZfRTFsUkpESU9qWlNzbHduOTVuTnR2a3lGMDZyREU4bjlFaWtRU2d2emxodlIwSnlqMEtxS0sxdkxHNkxuMkhzdktDMHkxLWVBR2ZhWWF0NzJBa3BZUkVQVkRwQmY0a2dvR2NRa0dpQzVQb19SOGo4QmRNdFdtXzFtTTBHUnc?oc=5
+      - XRP: What’s Behind XRP’s Institutional Push in Late 2025? - Yahoo Finance (Sat, 15 Nov 2025 08:00:00 GMT) — https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2Q1NTRhTlZmalBPR3VDcW9iejJSTXB2eF9KMnVDN2YxN2cyRkVKWXFYbzhFZFhQSy1KbkY3RXcyYWxQbF95LTRhaHZpS1F3YlBYdzU4SDRheXdmZW5mV1BsYm83ekdHMnM4VU16dHp0TjZHVDR5N0p6MG5zUEhFMno5bjIxekE?oc=5
+      - SOL: Can Solana shed its memecoin image in 2026? - TradingView (Thu, 01 Jan 2026 08:00:00 GMT) — https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWdlUUFiWEhEY3FWMXRJVFc5TGt3OGw5UmtSQmg1Ukc1OUJGT2tLY3lDVV9ZZ292MjdFNmJZV3pNRl9Bb2VSMVVQcjFkNmF0aFIwNUpmQjNadXc5V3k5NkhNa0VnUXdISXlnVlE1eURPcmFzRHdnOC05VFJUVEhhZkk3bWpVV2JFM3FqWHNEdUpfNll4dW1odEFTSTFJa0ZDdVNNeGM0US1vdw?oc=5
+
+Fuentes: Yahoo Finance (chart), Macrotrends, CompaniesMarketCap, CoinGecko, DefiLlama, Google News RSS.
