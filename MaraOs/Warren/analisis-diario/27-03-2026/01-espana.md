@@ -8,20 +8,17 @@
 		- SAN: -2.41%
 		- REP: 2.33%
 		- IBE: -0.98%
-    - Fundamentales acciones: PER, crecimiento ingresos/beneficios, márgenes, deuda/equity, ROE, EPS, tendencia 1–3 años.
-		- SAN: PER 10.33 | Ingresos YoY -20.58% | Beneficios YoY 12.14% | Margen neto 12.07% | Deuda/Equity 5.05 | ROE 12.82% | EPS 0.9476 | Tendencia 1a 42.87%, 3a 187.61%
-		- REP: PER 14.25 | Ingresos YoY -3.96% | Beneficios YoY 8.14% | Margen neto 3.46% | Deuda/Equity 0.75 | ROE 8.20% | EPS 1.6964 | Tendencia 1a 98.44%, 3a 73.01%
-		- IBE: PER 19.94 | Ingresos YoY 1.80% | Beneficios YoY 11.99% | Margen neto 13.80% | Deuda/Equity 1.13 | ROE 12.93% | EPS 0.9900 | Tendencia 1a 32.94%, 3a 72.83%
-    - Noticias y eventos: earnings, splits, guidance, M&A, regulación sector, cambios directiva, lanzamientos de producto.
+	- Fundamentales acciones: PER, crecimiento ingresos/beneficios, márgenes, deuda/equity, ROE, EPS, tendencia 1–3 años.
+		- SAN: PER 11.88 | Ingresos -2.04% | Beneficios +12.14% | Margen 30.107% | Deuda/Equity n/a | ROE 12.685% | EPS 0.90 | Tendencia 1Y +43.09% / 3Y N/D
+		- REP: PER 14.93 | Ingresos -5.91% | Beneficios +8.14% | Margen 3.928% | Deuda/Equity 0.48 | ROE 7.405% | EPS 1.62 | Tendencia 1Y +98.93% / 3Y N/D
+		- IBE: PER 22.79 | Ingresos +2.53% | Beneficios +11.99% | Margen 14.259% | Deuda/Equity 0.94 | ROE 10.325% | EPS 0.90 | Tendencia 1Y +33.22% / 3Y N/D
+	- Noticias y eventos: earnings, splits, guidance, M&A, regulación sector, cambios directiva, lanzamientos de producto.
 		- SAN:
-			- 27-03-2026: Santander somete a la junta el dividendo de 0,125€ y la compra millonaria de Webster - El Boletín
-			- 26-03-2026: CCOO participamos en la Junta General de Accionistas de Banco Santander - ccoo-servicios.es
-			- 03-02-2026: Santander logra resultados récord en 2025, suma ocho millones de clientes, hasta 180 millones, y eleva un 17% el beneficio por acción - santander.com
+			- Perseguir el dividendo: la mitad del Ibex 35 ofrece más rentabilidad que el bono (Thu, 26 Mar 2026 05:50:00 +0000)
+			- El Ibex 35 se dispara y busca los 17.200 puntos, ayudado por Merlin y Santander (Wed, 25 Mar 2026 11:00:00 +0000)
 		- REP:
-			- 19-02-2026: Repsol logra un beneficio neto de 1.899 millones, un 8% más y superará el euro de dividendo en 2026 - El Economista
-			- 30-10-2025: Repsol gana 1.177 millones hasta septiembre, un 34% menos - Cinco Días
-			- 19-02-2026: Repsol dispara dividendo por encima del euro por primera vez en 15 años - Expansión
+			- El Ibex 35 pone en riesgo los 17.000 puntos, lastrado por ArcelorMittal, Amadeus y Unicaja (Thu, 26 Mar 2026 11:00:00 +0000)
+			- Perseguir el dividendo: la mitad del Ibex 35 ofrece más rentabilidad que el bono (Thu, 26 Mar 2026 05:50:00 +0000)
 		- IBE:
-			- 25-02-2026: Iberdrola marcó récord de beneficios en 2025, con una subida del 12% y 6.285 millones - El Boletín
-			- 30-10-2025: Iberdrola repartirá 1.700 millones de euros entre sus accionistas en dividendo a cuenta - Energías Renovables, el periodismo de las energías limpias.
-			- 04-03-2026: El director de Regulación de Iberdrola lamenta que se frene la llegada de proyectos al “fallar” los cuellos de botella de energía - El Español
+			- Iberdrola convence a UBS: potencial de doble dígito y mejora de valoración (Thu, 26 Mar 2026 09:30:00 +0000)
+			- Los futuros del Ibex 35 vuelven a caer y se mueven por debajo de los 17.000 puntos (Thu, 26 Mar 2026 07:20:00 +0000)
