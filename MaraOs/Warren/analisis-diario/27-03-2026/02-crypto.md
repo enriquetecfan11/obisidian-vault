@@ -1,73 +1,70 @@
-# CRYPTO
+# Crypto
 
-**Fecha:** 27-03-2026 13:31 (Europe/Madrid)
+_Fecha: 27-03-2026_
 
-## Universo seguido
-> 1. Bitcoin (BTC)
-> 2. Ethereum (ETH)
-> 3. Binance Coin (BNB)
-> 4. XRP (XRP)
-> 5. Cardano (ADA)
-> 
+## Activos (lista base + seguimiento adicional)
+- Lista base (`Crypto.md`): BTC, ETH, BNB, XRP, ADA
+- Seguimiento adicional obligatorio: SOL
 
-## Snapshot de mercado (spot)
-- **BTC** · Precio: **$66,505.00** · 24h: **-4.10%**
-- **ETH** · Precio: **$1,986.21** · 24h: **-4.05%**
-- **XRP** · Precio: **$1.33** · 24h: **-3.19%**
-- **SOL** · Precio: **$83.18** · 24h: **-5.13%**
+## Precio actual y variación 24h
+- **BTC (Bitcoin)**: $66,540.00 | 24h: -4.05%
+- **ETH (Ethereum)**: $1,987.01 | 24h: -4.01%
+- **XRP (XRP)**: $1.33 | 24h: -3.16%
+- **SOL (Solana)**: $83.18 | 24h: -5.12%
+- **BNB (BNB)**: $610.63 | 24h: -2.95%
+- **ADA (Cardano)**: $0.25 | 24h: -4.44%
 
-## Métricas por activo
+## Métricas cripto
+### BTC — Bitcoin
+- Market cap: $1.33T
+- Volumen 24h: $52.06B
+- Oferta circulante/total: 20.00M / 20.00M (máx: 21.00M)
+- Direcciones activas (24h aprox.): 58.69M
+- Transacciones (24h): 658.70K
+- Fees (promedio 24h): $0.24
+- Tokenomics básica: PoW; oferta máxima 21M; emisión decreciente (halving cada ~4 años).
+
+### ETH — Ethereum
+- Market cap: $239.82B
+- Volumen 24h: $19.58B
+- Oferta circulante/total: 120.69M / 120.69M
+- Direcciones activas (24h aprox.): N/D (fuente pública sin cobertura consistente)
+- Transacciones (24h): 2.75M
+- Fees (promedio 24h): $0.16
+- TVL red Ethereum: $53.75B (DeFiLlama)
+- Tokenomics básica: PoS; sin hard cap fijo; quema EIP-1559 + emisión por staking.
+
+### XRP — XRP
+- Market cap: $81.59B
+- Volumen 24h: $2.62B
+- Oferta circulante/total: 61.34B / 99.99B (máx: 100.00B)
+- Direcciones activas (24h aprox.): N/D (fuente pública sin cobertura consistente)
+- Transacciones (24h): 239.83K
+- Fees (promedio 24h): $0.00
+- Tokenomics básica: Oferta total 100B preminada; liberaciones periódicas desde escrow de Ripple.
+
+### SOL — Solana
+- Market cap: $47.61B
+- Volumen 24h: $4.01B
+- Oferta circulante/total: 572.38M / 572.38M
+- Direcciones activas (24h aprox.): N/D (fuente pública sin cobertura consistente)
+- Transacciones (24h): N/D
+- Fees (promedio 24h): N/D
+- TVL red Solana: $6.48B (DeFiLlama)
+- Tokenomics básica: PoS + PoH; inflación desciende anualmente hasta objetivo de largo plazo.
+
+## Noticias y eventos (últimas ~24h, fuentes públicas)
 ### BTC
-- Market cap: $1,330,743,868,217.00
-- Volumen 24h: $52,093,863,742.00
-- Oferta circulante / total: 20.00M / 20.00M
-- Direcciones activas (último día disp., 2026-03-26): 623.11K
-- Transacciones (último día disp.): 634.22K
-- Fees totales on-chain (último día disp.): 2.3626 BTC
-- Tokenomics básica: Bitcoin is the world's first decentralized cryptocurrency, created in 2009 by the pseudonymous Satoshi Nakamoto.
-
+- Investors yank $171 million from bitcoin ETFs in largest single-day outflow in three weeks - CoinDesk — https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ0o1VF9GM1FqZE1qZHFJd01WbXlBalRMTHBXT3JGY2xkMk9ycGZMWHhqVERQWkVCaUl3bEc1QmpfTHFsaXNfaTdFNW1GeExaSkN1RS1ZV0kyUzJTY1N1UnBWbnJFdEVVSTN4aENTbnhrWERFenJUQXB4S1ZBZXdJTGY5REZYbE10M0lEeW1ZcmZrTW0wc2xZYl8tWTVTMGlvUXd1VWpRVmtZdjdvMVpGaXpxdndlS1NOaUIwZ1NMaWFYYlVZN2ZkbzNXWFd3WDdQaFE?oc=5
+- XRP News: 25% of Institutions Plan to Include XRP in Their Allocations in 2026 — Will This Help XRP Price? - 24/7 Wall St. — https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVEI4MXladHRfRFV5SGE1TkZhU3ZFRC1fS3JCU2FSd2Z1WWU4U3QxNDRHVkRDVFlwXy1fczZNRTdpMjFVOUU2ajRkdUl6S1JmdVEyeFQ0Y0VPODZCM0R6SUJ6LTFFZHJTV1c4aDhHNzZzVTFuZ0J4UjZjR3ZVSEk3ZjEtZUNybHVvdFpWeFpFenlzbkZDMlN3NGIxdlY5b21zRU4wQ3dpVlQzVGw0RHhha0JzaUR3QTJoZ1I0RDhDdk5nb0M1ZkptdmRIbWswcjFoTWE0dDVjSzhMME1Edmc?oc=5
 ### ETH
-- Market cap: $239,803,715,872.00
-- Volumen 24h: $18,414,015,107.00
-- Oferta circulante / total: 120.69M / 120.69M
-- Direcciones activas (último día disp., 2026-03-26): 981.49K
-- Transacciones (último día disp.): 2.45M
-- Fees totales on-chain (último día disp.): 190.7828 ETH
-- TVL ecosistema Ethereum (DeFiLlama): $53,750,913,408.74
-- Tokenomics básica: Ethereum is a global, open-source platform for decentralized applications.
-
+- Ether Price Dips to $2,060 Amid Weak Institutional Demand and Broader Crypto Selloff as of March 27, - AD HOC NEWS — https://news.google.com/rss/articles/CBMixgFBVV95cUxQTC0wSUFrVjVESU1kQ0lpLU1DLTlrQnZlOVNsMFVTWFp6V2Z1Y2JIUVZXUkl1ekpnVjktdzVhazNJZ3lQbXdoa3R6dkgwbjhDd0dHYVpUM1hWNmhfVktNSWVmNUd1TVRLRmxJNWVSYk44dXFUYm9kRUFnbUF0Y0lVQ182T0hGLVp1cHdNdlAxVVBUU1ZEQmEyRjhsODZ6ZVF1WURad0xIZWt2RWJwT0tKNVZob3NZRzBlWFRIUVlRYnFNUi1zZ0E?oc=5
 ### XRP
-- Market cap: $81,597,439,409.00
-- Volumen 24h: $2,599,918,181.00
-- Oferta circulante / total: 61.34B / 99.99B
-- Direcciones activas (último día disp., 2026-03-26): 47.93K
-- Transacciones (último día disp.): 3.20M
-- Fees totales on-chain (último día disp.): 858.0998 XRP
-- Tokenomics básica: XRP is a decentralized digital asset and the native token of the XRP Ledger, a Layer 1 blockchain designed for high-performance global payments.
-
+- XRP News: The SEC Classified XRP As a Digital Commodity Alongside Bitcoin—What It Means for XRP Price - AOL.com — https://news.google.com/rss/articles/CBMie0FVX3lxTE9GaUhGUGxUWXNmMEN2X3g2VUNIMnR4bHdHV2RWVXJjYXdIYnU0WmdncXo4WExoYXd6blZPN25TWkRmbEttVTRCRlNVMGduZ1JZTGdqdkFfVEt0TTVKbEFYTUh0Y3JhR2swWG9LS1RnZGUxT1VRUjVqZGFqRQ?oc=5
+- XRP Price Falters As Ripple & SEC Files for Settlement, Here’s Why - MEXC — https://news.google.com/rss/articles/CBMiR0FVX3lxTE4yWmsxWjRxTEdONWt6em4yOHo1NHMwRUV5WVBxd2wzYndLUlFKY1FoMVZiTDZ4RmN3ekNRaVpBdHdkLVNPb0ZB?oc=5
 ### SOL
-- Market cap: $47,612,691,924.00
-- Volumen 24h: $4,002,924,952.00
-- Oferta circulante / total: 572.38M / 572.38M
-- Direcciones activas (último día disp., N/D): N/D
-- Transacciones (último día disp.): N/D
-- Fees totales on-chain (último día disp.): N/D SOL
-- TVL ecosistema Solana (DeFiLlama): $6,479,241,880.10
-- Tokenomics básica: Solana is a high-performance Layer 1 blockchain designed for mass adoption by providing a fast, secure, and low-cost environment for decentralized applications.
+- Sin titulares relevantes capturados en la ventana de 24h; vigilar próximas actualizaciones de mercado y regulación.
 
-## Noticias y eventos (últimas horas)
-- Retail investors drive widespread bitcoin selling as prices fall (Fri, 27 Mar 2026 11:44:26 +0000) — https://www.coindesk.com/markets/2026/03/27/retail-investors-drive-widespread-bitcoin-selling-as-prices-fall
-- Ondo, canton sidestep macro concerns with institutional deals as bitcoin, ether slide (Fri, 27 Mar 2026 11:36:18 +0000) — https://www.coindesk.com/daybook-us/2026/03/27/ondo-canton-sidestep-macro-concerns-with-institutional-deals-as-bitcoin-ether-slide
-- Bitcoin drops to two-week low as $300 million in longs are liquidated (Fri, 27 Mar 2026 11:04:20 +0000) — https://www.coindesk.com/markets/2026/03/27/bitcoin-drops-to-two-week-low-as-usd300-million-in-longs-are-liquidated
-- Bitcoin falls below $67,000 as U.S. 10-year Treasury yield nears 1-year high of 4.5% (Fri, 27 Mar 2026 09:29:51 +0000) — https://www.coindesk.com/markets/2026/03/27/bitcoin-falls-below-usd68-000-as-10-year-treasury-yield-nears-1-year-high-of-4-5
-- Investors yank $171 million from bitcoin ETFs in largest single-day outflow in three weeks (Fri, 27 Mar 2026 07:35:53 +0000) — https://www.coindesk.com/markets/2026/03/27/investors-yank-usd171-million-from-bitcoin-etfs-in-largest-single-day-outflow-in-three-weeks
-- Bitcoin macro risks spike as Ukraine messes with Trump's plan to stabilize oil markets (Fri, 27 Mar 2026 06:08:35 +0000) — https://www.coindesk.com/markets/2026/03/27/bitcoin-macro-risks-spike-as-ukraine-throws-a-spanner-in-trump-s-plan-to-stabilize-oil-markets
-- XRP slides toward $1.35 as liquidation wave signals weak support (Fri, 27 Mar 2026 04:54:23 +0000) — https://www.coindesk.com/markets/2026/03/27/xrp-slides-toward-usd1-35-as-liquidation-wave-signals-weak-support
-- Bitcoin slides below $68,500 as Trump extends Iran deadline but war risks persist (Fri, 27 Mar 2026 04:31:38 +0000) — https://www.coindesk.com/markets/2026/03/27/bitcoin-slides-below-usd68-500-as-trump-extends-iran-deadline-but-war-risks-persist
-
-## Riesgos / lectura rápida
-- Revisar divergencias entre precio y actividad on-chain (AdrActCnt/TxCnt) para detectar rallies con poco soporte de uso real.
-- Monitorizar riesgo regulatorio (SEC/UE) y seguridad (exploits de puentes/protocolos) por impacto en liquidez y sentimiento.
-- Para ETH y SOL, el TVL se usa como proxy de tracción DeFi; caídas bruscas suelen anticipar menor actividad en dApps.
-
-Fuentes: CoinGecko API, CoinMetrics Community API, DeFiLlama, RSS CoinDesk/The Block.
+## Lectura rápida
+- El bloque combina datos de mercado (CoinGecko), métricas on-chain (Blockchair/Solscan) y TVL (DeFiLlama).
+- Donde no hay cobertura homogénea en APIs públicas gratuitas, se marca explícitamente como N/D para evitar inventar métricas.
