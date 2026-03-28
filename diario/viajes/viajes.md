@@ -13,6 +13,7 @@ Semana: 23-03-2026 a 29-03-2026
 - 07:00: llegada tras 45 min de viaje y 45 km recorridos.
 - 17:10: llegada tras 33 min de viaje y 31 km recorridos (salida 16:37).
 - 23:30: llegada tras 13 h de viaje y 71 km recorridos (salida 10:30).
+- 50 km en 1 h (llegada no especificada).
 
 ---
 
@@ -28,6 +29,7 @@ Semana: 23-03-2026 a 29-03-2026
 | 26-03-2026 | 45 | 45 min | 07:00 |
 | 27-03-2026 | 31 | 33 min | 17:10 |
 | 27-03-2026 | 71 | 13 h | 23:30 |
+| 28-03-2026 | 50 | 1 h | — |
 
 ---
 
@@ -58,6 +60,7 @@ Semana: 23-03-2026 a 29-03-2026
 
 ## Sábado
 
+- Viaje de 50 km en 1 h (hora de llegada no especificada), completando la semana de desplazamientos.
 
 ## Domingo
 
@@ -66,9 +69,9 @@ Semana: 23-03-2026 a 29-03-2026
 
 # 📊 Métricas de la semana
 
-- Total viajes: 8
-- Total km: 399
-- Tiempo total conduciendo: 19 h 3 min
+- Total viajes: 9
+- Total km: 449
+- Tiempo total conduciendo: 20 h 3 min
 - Media km por viaje: 49,9 km
 
 ---
@@ -81,5 +84,5 @@ Semana: 23-03-2026 a 29-03-2026
 
 # 🤖 Metadata
 
-Generado a partir de: diario/diario-23-03-2026.md; diario/diario-24-03-2026.md; diario/diario-25-03-2026.md; diario/diario-26-03-2026.md; diario/diario-27-03-2026.md  
-Periodo analizado: 23-03-2026 a 27-03-2026
+Generado a partir de: diario/diario-23-03-2026.md; diario/diario-24-03-2026.md; diario/diario-25-03-2026.md; diario/diario-26-03-2026.md; diario/diario-27-03-2026.md; diario/diario-28-03-2026.md  
+Periodo analizado: 23-03-2026 a 28-03-2026
