@@ -1,46 +1,67 @@
-# Resumen semanal (23-03-2026 → 29-03-2026)
+# Resumen semanal (23-03-2026 a 29-03-2026)
 
 ## 1) Resumen general
-Semana de ejecución continua con foco en avances diarios, cierre de tareas y seguimiento de pendientes.
+- Semana con 7 diario(s) registrados entre 23-03-2026 a 29-03-2026.
+- Volumen aproximado: 162 palabras en total.
+- Se detectaron desplazamientos por un total de 629.0 km.
+- No se detectaron pendientes abiertos en formato checklist.
 
 ## 2) Hitos por día
-### Mon 23-03-2026
-- Viajes
-- Métricas día: ✅ 0 | ⏳ 0 | 🚗 0.0 km
+### Monday 23-03-2026
+- Archivo: `diario-23-03-2026.md`
+- Km detectados: 95.0 km
+- Hitos (encabezados):
+  - Diario 23-03-2026
+  - Viajes
 
-### Tue 24-03-2026
-- Viajes
-- Métricas día: ✅ 0 | ⏳ 0 | 🚗 0.0 km
+### Tuesday 24-03-2026
+- Archivo: `diario-24-03-2026.md`
+- Km detectados: 112.0 km
+- Hitos (encabezados):
+  - Diario 24-03-2026
+  - Viajes
 
-### Wed 25-03-2026
-- Viajes
-- Métricas día: ✅ 0 | ⏳ 0 | 🚗 0.0 km
+### Wednesday 25-03-2026
+- Archivo: `diario-25-03-2026.md`
+- Km detectados: 45.0 km
+- Hitos (encabezados):
+  - Diario 25-03-2026
+  - Viajes
 
-### Thu 26-03-2026
-- Viajes
-- Métricas día: ✅ 0 | ⏳ 0 | 🚗 0.0 km
+### Thursday 26-03-2026
+- Archivo: `diario-26-03-2026.md`
+- Km detectados: 45.0 km
+- Hitos (encabezados):
+  - Diario 26-03-2026
+  - Viajes
 
-### Fri 27-03-2026
-- Viajes
-- Métricas día: ✅ 0 | ⏳ 0 | 🚗 71.0 km
+### Friday 27-03-2026
+- Archivo: `diario-27-03-2026.md`
+- Km detectados: 102.0 km
+- Hitos (encabezados):
+  - Diario 27-03-2026
+  - Viajes
 
-### Sat 28-03-2026
-- Viajes
-- Métricas día: ✅ 0 | ⏳ 0 | 🚗 0.0 km
+### Saturday 28-03-2026
+- Archivo: `diario-28-03-2026.md`
+- Km detectados: 110.0 km
+- Hitos (encabezados):
+  - Diario 28-03-2026
+  - Viajes
 
-### Sun 29-03-2026
-- Viajes
-- Métricas día: ✅ 0 | ⏳ 0 | 🚗 0.0 km
+### Sunday 29-03-2026
+- Archivo: `diario-29-03-2026.md`
+- Km detectados: 120.0 km
+- Hitos (encabezados):
+  - Diario 29-03-2026
+  - Viajes
 
 ## 3) Métricas simples
-- Días con diario en la ventana: 7/7
-- Tareas completadas (checkbox): 0
-- Tareas pendientes (checkbox): 0
-- Volumen aproximado de escritura: 162 palabras
-- **Total kms semana: 71.0 km**
+- Días con diario: 7
+- Palabras totales (aprox): 162
+- Pendientes abiertos detectados: 0
+- **Total kms semana: 629.0 km**
 
 ## 4) Pendientes detectados
-- No se detectaron pendientes con formato checkbox .
+- No se detectaron pendientes en formato `- [ ] ...`.
 
----
-_Generado automáticamente a partir de los diarios de los últimos 7 días._
