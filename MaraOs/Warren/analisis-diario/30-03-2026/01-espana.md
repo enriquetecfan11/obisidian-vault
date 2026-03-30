@@ -1,0 +1,16 @@
+- **Acciones  ESPAÑA**
+	- SAN, REP,  IBE
+	- Precio actual
+      - SAN (Banco Santander): 9.40 € | -0.73%
+      - REP (Repsol): 24.07 € | -0.41%
+      - IBE (Iberdrola): 19.12 € | -0.44%
+	- Porcentaje de cambio en las últimas 24 horas
+      - Incluido junto al precio de cada ticker (columna %24h).
+    - Fundamentales acciones: PER, crecimiento ingresos/beneficios, márgenes, deuda/equity, ROE, EPS, tendencia 1–3 años.
+      - SAN: PER 11.19; crecimiento ingresos -6.40%; crecimiento beneficios +25.30%; márgenes (operativo/neto) +43.69% / +30.11%; deuda/equity N/D; ROE +12.69%; EPS 0.84; tendencia 1–3 años: +195.06% en 3 años.
+      - REP: PER 14.86; crecimiento ingresos -7.20%; crecimiento beneficios N/D; márgenes (operativo/neto) +5.52% / +3.93%; deuda/equity 47.96; ROE +7.41%; EPS 1.62; tendencia 1–3 años: +80.37% en 3 años.
+      - IBE: PER 22.77; crecimiento ingresos +0.50%; crecimiento beneficios +559.80%; márgenes (operativo/neto) +18.06% / +14.26%; deuda/equity 93.67; ROE +10.32%; EPS 0.84; tendencia 1–3 años: +62.35% en 3 años.
+    - Noticias y eventos: earnings, splits, guidance, M&A, regulación sector, cambios directiva, lanzamientos de producto.
+      - SAN: Sin titulares recientes verificables en la consulta.
+      - REP: Sin titulares recientes verificables en la consulta.
+      - IBE: Sin titulares recientes verificables en la consulta.
