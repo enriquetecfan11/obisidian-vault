@@ -2,49 +2,49 @@
 	- BTC, ETH, XRP, SOL
 	- Fecha de corte: 30-03-2026 13:30 Europe/Madrid
 	- Precio actual
-		- BTC: $67,624.00
-		- ETH: $2,064.86
+		- BTC: $67,571.00
+		- ETH: $2,065.64
 		- XRP: $1.35
-		- SOL: $84.09
+		- SOL: $84.12
 	- Porcentaje de cambio en las últimas 24 horas
-		- BTC: +1.31%
-		- ETH: +3.12%
-		- XRP: +1.03%
-		- SOL: +1.93%
+		- BTC: +1.23%
+		- ETH: +3.16%
+		- XRP: +1.01%
+		- SOL: +1.96%
 	- Métricas cripto: market cap, volumen 24h, oferta circulante/total, direcciones activas, transacciones, fees, TVL (en SOL/ETH), tokenomics básica.
 		- BTC:
 			- Market cap: $1.35T
-			- Volumen 24h: $32.09B
-			- Oferta circulante/total: 2000.91T / 21.00M
+			- Volumen 24h: $32.49B
+			- Oferta circulante/total: 20.01M / 21.00M
 			- Direcciones activas (último dato abierto fiable): 382.09K
 			- Transacciones 24h: 529.25K
-			- Fees medias 24h: 374 BTC
+			- Fees medias 24h: 0.00 BTC
 			- TVL red: N/A (L1 monetaria / no comparable a red DeFi principal)
 			- Tokenomics básica: Oferta máxima 21M; emisión decreciente por halving; activo deflacionario por diseño.
 		- ETH:
 			- Market cap: $249.22B
-			- Volumen 24h: $14.88B
-			- Oferta circulante/total: 122374665718230.00T / 120.69M
+			- Volumen 24h: $14.27B
+			- Oferta circulante/total: 122.37M / 120.69M
 			- Direcciones activas (último dato abierto fiable): N/D en feed público usado
 			- Transacciones 24h: 2.00M
-			- Fees medias 24h: 68.46T ETH
+			- Fees medias 24h: 0.00 ETH
 			- TVL red: $53.43B
 			- Tokenomics básica: Sin supply cap fijo; quema EIP-1559 puede volverlo netamente deflacionario en periodos de alta actividad; staking asegura la red.
 		- XRP:
 			- Market cap: $82.86B
-			- Volumen 24h: $1.84B
-			- Oferta circulante/total: 99985.76T / 99.99B
+			- Volumen 24h: $1.85B
+			- Oferta circulante/total: 99.99B / 99.99B
 			- Direcciones activas (último dato abierto fiable): N/D en feed público usado
 			- Transacciones 24h: 239.83K
 			- Fees medias 24h: 485.28 XRP
 			- TVL red: N/A (L1 monetaria / no comparable a red DeFi principal)
 			- Tokenomics básica: Supply máximo 100B preminado; Ripple libera parte desde escrow; fees se queman.
 		- SOL:
-			- Market cap: $48.14B
-			- Volumen 24h: $3.01B
-			- Oferta circulante/total: 572495.26T / 623328.52T
+			- Market cap: $48.15B
+			- Volumen 24h: $3.02B
+			- Oferta circulante/total: 572.50M / 623.33M
 			- Direcciones activas (último dato abierto fiable): N/D en feed público usado
-			- Transacciones 24h: 333.58M
+			- Transacciones 24h: 326.44M
 			- Fees medias 24h: N/D en feed público usado
 			- TVL red: $6.40B
 			- Tokenomics básica: Inflación programada y decreciente; comisiones bajas; parte de fees se quema y alto uso depende del ecosistema/app layer.
@@ -57,8 +57,8 @@
 		- ETH:
 			- Tom Lee's Bitmine debuts MAVAN Ethereum staking platform, plans to shift its ETH activity - The Block (Wed, 25 Mar 2026 14:13:30 GMT)
 			  https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQllXZUlDdHNEdm4wQlhVUTJkZEZMT0JzOUtmWTBIdzdHOHNodG04NFVtZnA5Nm55SFVhek1HZFp3MnBPcnpzekJ1TlZZRzJlamJsLTVpWVh2V2ZXcmJJa2NydEtZVzJvdlhyT202MDRiNEdwcnZDMktKUU93MHlpaTczcEFqVld5S2YxNEd6QVh1N1VNTHB5eXJuRHRHYkRwdGY2UTdFVThJTzVfcEdKeUdLYW1nSC1tZTBiOEsxdWo?oc=5
-			- Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.661 Million Tokens, and Total Crypto and Total Cash Holdings of $11.0 Billion - PR Newswire (Mon, 23 Mar 2026 12:30:00 GMT)
-			  https://news.google.com/rss/articles/CBMipAJBVV95cUxPN1lqb0lESThmMHE3azFBbjMwa3J5T3VZU043SEZCaGk2YnhpS2NuUWlnYnNkMF9ZVzhDMnVaTkd4QkhaVjNuUVhSek5rRG9ZQ2NXSnhZNGhjSnlXWk1XSWMtYWo1X191aHBleC13TGZDd3lsXzBVQVhWOFdTZGFVYUNKRXpnX285NTB6QWh1U1ZOMGtpcG82a2tOYWgzb2hLZ2d2S0xldzlxeDV5RGVVa3d5bFJRSG9WeS05Z2h5eXRMRGFIWnhXZHZtR0VWWXBZUHM2bkUxWkloOFFmelQzek41b3huUnZTX3ZsMXF6YjhBUFhQZGhOOWFic1Q2bTlGVTZIUVkyTEhmNU5NX011bU9pSmdxVUd2OFhLS0MtemppTG93?oc=5
+			- Ethereum (ETH-USD) Price Slips Under $2,000 As Staking Trade Cools - Seeking Alpha (Fri, 27 Mar 2026 19:16:00 GMT)
+			  https://news.google.com/rss/articles/CBMimwFBVV95cUxNbTRsbXBUWFRheHQweXdhamwxNFk0N1BnbThDeGN6Z09JWm1uYkppSXZKZnptYVRSLWxkbDl3eE9rMWJDQ080dGxlSEhYVmdsRkFRUTFjcUY4N09wY2lYNzU0Qm40M2w3b2FPbzJjWlZueDJYMzdabkNaLTk3WUowcWZCSFViRklYRV9xUGQxOFE2SmhVN0xtUktJNA?oc=5
 		- XRP:
 			- XRP (Ripple) Investors Just Received Incredible News From the Securities and Exchange Commission - Yahoo Finance (Thu, 26 Mar 2026 09:16:00 GMT)
 			  https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUJjTW9TM3d5c0JzOXFSUmhBOXRfZ1lDOVJfS0xrbnpvT085bXpOVVVCdzlHeFJySGRKeUtIUHZkQ3Z5NkNOaTFGSUx0SDlCMUFveExMdEpOTkE3ZzUyZmhLa1h1SHY2Y0Rub3ZyMnVadEdzM2RhdkdwalN6MmxtUUlyTUtONno2ODZXREVXd2JwNlJmNEFLZGNrS0RxRVk3?oc=5
