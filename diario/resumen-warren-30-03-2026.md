@@ -1,74 +1,107 @@
 # Resumen Warren — 30-03-2026
 
 ## Resumen ejecutivo
-Sesión mixta pero todavía constructiva. En España, **Santander** e **Iberdrola** mantienen un perfil razonable por ejecución y visibilidad, mientras **Repsol** sigue más expuesta a ruido geopolítico y compresión de beneficios. En EEUU, el cuadro sigue dominado por la **calidad del crecimiento**: **Amazon** aguanta mejor, **Nvidia** y **ASML** continúan siendo las piezas más potentes del ciclo IA pero con valoraciones exigentes, y **Apple** mantiene fortaleza operativa con una narrativa menos ilusionante por IA. En cripto, el tono de fondo sigue sano, con **ETH** y **SOL** mejorando en las últimas 24h, aunque el snapshot de cierre muestra retrocesos marginales en **BTC** y **XRP** frente al corte anterior del día.
+Sesión mixta con sesgo defensivo. En España, Iberdrola fue el movimiento más sólido del bloque y compensó la debilidad relativa de Santander; Repsol se mantuvo estable/ligeramente alcista pero sigue con peor foto fundamental por presión en ingresos y beneficio a 3 años. En EEUU, Amazon sostuvo el tono positivo, mientras semis/megacap mostraron digestión de múltiplos: Nvidia, Apple y sobre todo ASML corrigieron frente al cierre previo. En cripto, el mercado se mantuvo lateral con poca amplitud: ETH y SOL en verde moderado, BTC y XRP prácticamente planos/ligeramente negativos.
 
-## Highlights
-- **SAN**: mejora de beneficio y mensaje de confianza para 2026; banca europea sigue ofreciendo rentabilidad aceptable sin múltiplos extremos.
-- **IBE**: financiación en UK refuerza pipeline de infraestructuras; combinación defensiva + crecimiento regulado.
-- **AMZN**: es la gran mega-cap con mejor equilibrio entre crecimiento, disciplina y narrativa IA.
-- **NVDA / ASML**: siguen siendo los activos más obvios para capturar el capex de IA, pero cualquier desaceleración en pedidos o guía puede provocar correcciones violentas.
-- **ETH**: mejor momentum relativo que BTC hoy; staking y TVL sostienen la tesis.
+La lectura táctica no cambia demasiado: mantener foco en calidad, crecimiento visible y balance entre compounders (AMZN, NVDA, ASML) y posiciones defensivas/reguladas (IBE). Ojo con los riesgos de compresión de múltiplos en tecnología si el mercado exige ejecución impecable, y con la sensibilidad geopolítica/energética en Repsol.
 
-## Riesgos principales
-- **España**: riesgo regulatorio en utilities y geopolítico/commodities en Repsol.
-- **EEUU**: valoraciones altas en NVDA y ASML; Apple arrastra riesgo de percepción si no acelera su historia de IA.
-- **Crypto**: sensibilidad elevada a flujos, regulación y rotación rápida de sentimiento; XRP sigue siendo el más frágil en calidad de narrativa.
+## Highlights del día
+- **IBE** destacó dentro de España: apoyo por perfil defensivo y narrativas de inversión en red/transmisión en Reino Unido.
+- **AMZN** fue el mejor del bloque EEUU en precio hoy, reforzando la tesis de ejecución operativa + AWS/IA.
+- **ASML** fue la caída más visible en EEUU, recordando que incluso calidad excepcional corrige cuando el mercado enfría expectativas.
+- **ETH** y **SOL** aguantaron mejor que BTC/XRP en cripto, señal de rotación selectiva más que risk-on generalizado.
 
-## Cambios clave vs corte anterior
-- **España**: cierre mejor de lo esperado frente al snapshot diario en SAN, REP e IBE.
-- **EEUU**: **AMZN** cierra ligeramente por debajo del dato del análisis diario, mientras **NVDA, AAPL y ASML** acaban más débiles de lo reflejado en el corte previo.
-- **Crypto**: **BTC, ETH, XRP y SOL** muestran precios algo inferiores al snapshot de la tarde; ETH y SOL siguen en positivo 24h, BTC y XRP prácticamente planos/ligeramente negativos.
+## Riesgos a vigilar
+- **Compresión de múltiplos en EEUU**: NVDA, AAPL y ASML siguen baratos solo si la ejecución acompaña; cualquier decepción en guidance puede ampliar corrección.
+- **Repsol**: deterioro de ingresos/beneficio a 3 años + exposición geopolítica y al ciclo de energía.
+- **Santander**: buen beneficio y ROE, pero ingresos interanuales flojos; banca sensible a curva, tipos y señal macro.
+- **Crypto**: mercado estable pero sin catalizador fuerte; si BTC pierde momentum, altcoins pueden amplificar la debilidad.
+
+## Cambios clave vs la foto previa
+- **España**: mejora relativa clara de IBE frente a SAN y REP en la sesión.
+- **EEUU**: AMZN sostiene fortaleza; NVDA/AAPL/ASML corrigen desde cierres previos.
+- **Crypto**: frente a los cortes intradía anteriores, BTC y XRP están algo más flojos; ETH y SOL conservan mejor tono.
 
 ## Acciones para mañana
-- Vigilar si **SAN** consolida por encima de 9.40–9.50 EUR: si mantiene ruptura, refuerza el caso de continuación.
-- Revisar **REP** solo si mejora el contexto del crudo o se reduce el ruido geopolítico; ahora mismo no es la historia más limpia del bloque español.
-- En EEUU, observar si **AMZN** mantiene fortaleza relativa frente a **AAPL** y **NVDA**.
-- En semis, seguir **ASML** y **NVDA** como termómetro de apetito por IA: si ambas aflojan a la vez, puede venir compresión de múltiplos en todo el segmento.
-- En cripto, mirar rotación **BTC→ETH/SOL**; si ETH mantiene liderazgo con TVL estable, puede extender momentum.
+- Revisar si el rebote de **IBE** tiene continuidad o fue solo ajuste táctico.
+- Vigilar si **ASML** estabiliza tras la caída; si no, puede contaminar sentimiento en semis.
+- Confirmar si **AMZN** mantiene liderazgo relativo dentro de megacaps.
+- En cripto, seguir **BTC 66k–67k** como zona de control: si cede, puede arrastrar a SOL/XRP aunque hoy aguanten.
+- Actualizar titulares frescos de resultados, guidance o regulación si entra nuevo flujo overnight.
 
 ## Precios actuales
 
-### Acciones España
-- **SAN**: €9.49 (+0.96% vs cierre previo)
-  - Fundamentales: PER 11.19, ROE 12.7%, EPS 0.84 EUR, beneficio +25.3% y/y; banca con mejora clara de rentabilidad.
-  - Noticias/eventos: Botín confirma buen arranque de 2026 y objetivos; ampliación de capital ligada a operación con Webster Bank.
-- **REP**: €24.23 (+0.66% vs cierre previo)
-  - Fundamentales: PER 14.86, margen neto 3.9%, deuda/equity 47.96; ingresos -7.2% y presión en beneficios.
-  - Noticias/eventos: Riesgo geopolítico por exposición a Irán; noticias de marca con impacto financiero limitado.
-- **IBE**: €19.72 (+3.08% vs cierre previo)
-  - Fundamentales: PER 22.77, ROE 10.3%, EPS 0.84 EUR, beneficio +559.8% y/y por normalización; deuda/equity 93.67.
-  - Noticias/eventos: Préstamo de 700 M€ en UK para interconexión; ajustes comerciales por recargo antiapagón.
+### Empresas España
+- **SAN** — **9.49 EUR** (**+0.96%** vs cierre previo 9.40)
+- **REP** — **24.23 EUR** (**+0.66%** vs cierre previo 24.07)
+- **IBE** — **19.72 EUR** (**+3.08%** vs cierre previo 19.13)
 
-### Acciones EEUU
-- **AMZN**: $200.95 (+0.81% vs cierre previo)
-  - Fundamentales: PER 27.8, margen neto 10.8%, ROE 22.3%; sigue cotizando como compounder apoyado en AWS e IA.
-  - Noticias/eventos: Narrativa dominante: buen momentum tras resultados y foco en gasto/IA.
-- **NVDA**: $165.17 (-1.40% vs cierre previo)
-  - Fundamentales: PER 34.2, margen neto 55.6%, ROE 101.5%; calidad excepcional pero exigencia de múltiplo sigue alta.
-  - Noticias/eventos: Beat sólido, pero el mercado penaliza cuando la guía no supera expectativas extremas.
-- **AAPL**: $246.63 (-0.87% vs cierre previo)
-  - Fundamentales: PER 31.6, margen neto 27.0%, ROE 152.0%; negocio robusto pero con dudas por ritmo de IA.
-  - Noticias/eventos: Persisten temores por aranceles y rollout de IA más lento de lo esperado.
-- **ASML**: $1,253.96 (-3.72% vs cierre previo)
-  - Fundamentales: PER 45.1, margen neto 29.4%, ROE 50.5%; activo clave del ciclo semiconductor, pero valoración exigente.
-  - Noticias/eventos: Boom de IA sostiene pedidos y guía 2026, aunque la volatilidad del múltiplo sigue elevada.
+### Empresas EEUU
+- **AMZN** — **200.95 USD** (**+0.81%** vs cierre previo 199.34)
+- **NVDA** — **165.17 USD** (**-1.40%** vs cierre previo 167.52)
+- **AAPL** — **246.63 USD** (**-0.87%** vs cierre previo 248.80)
+- **ASML** — **1253.96 USD** (**-3.72%** vs cierre previo 1302.47)
 
 ### Crypto
-- **BTC**: $66,572.00 (-0.11% 24h)
-  - Métricas: Market cap 1.35T, volumen 32.65B, oferta 20.01M/21M; tesis de escasez intacta.
-  - Noticias/eventos: Flujos hacia ETFs compensan ventas minoristas.
-- **ETH**: $2,023.32 (+0.97% 24h)
-  - Métricas: Market cap 249.37B, volumen 14.34B, TVL 53.44B; quema EIP-1559 y staking como soporte.
-  - Noticias/eventos: Ethereum Foundation vuelve a escena con staking relevante; narrativa de yield y ETF sigue viva.
-- **XRP**: $1.32 (-0.06% 24h)
-  - Métricas: Market cap 82.83B, volumen 1.89B, supply casi completo; más dependiente de adopción institucional y Ripple.
-  - Noticias/eventos: Sigue la narrativa de tokenización/infraestructura, pero con estructura técnica en zona de decisión.
-- **SOL**: $82.76 (+0.99% 24h)
-  - Métricas: Market cap 48.16B, volumen 3.04B, TVL 6.40B; tesis ligada a actividad del ecosistema y fees bajas.
-  - Noticias/eventos: Sin catalizador puntual fuerte hoy; movimiento acompaña al tono positivo del mercado cripto.
+- **BTC** — **66,533.00 USD** (**-0.13% 24h**)
+- **ETH** — **2,020.98 USD** (**+0.93% 24h**)
+- **XRP** — **1.32 USD** (**-0.10% 24h**)
+- **SOL** — **82.71 USD** (**+0.93% 24h**)
 
-## Nota de método
-- Se ha respetado la plantilla base de Warren y se han combinado los tres archivos diarios del 30-03-2026.
-- Para **precios actuales**, se ha usado snapshot de cierre/mercado disponible en Google Finance para acciones y CoinGecko para cripto.
-- En acciones, el % mostrado corresponde a variación frente al cierre previo; en cripto, a variación 24h.
+## Lectura por bloque
+
+### España
+- **SAN**: sigue siendo una historia de rentabilidad sólida (ROE 12.7%, beneficio +25.3% y/y), pero con ingresos interanuales a la baja. Buena máquina de beneficios, menos limpia en crecimiento top-line.
+- **REP**: la más débil en fundamentales del bloque por caída de ingresos y beneficio en el horizonte 2022→2025. Sigue siendo más cíclica y dependiente del contexto energético/geopolítico.
+- **IBE**: múltiplo más exigente, pero también mejor perfil defensivo y visibilidad estratégica en redes e infraestructura. Hoy fue la más fuerte con diferencia.
+
+### EEUU
+- **AMZN**: la mejor combinación actual entre calidad, ejecución y narrativa de crecimiento del bloque.
+- **NVDA**: sigue siendo la referencia estructural en IA, pero el mercado ya no perdona ni beats “solo buenos”.
+- **AAPL**: negocio excelente, aunque más maduro y con más debate sobre ritmo de innovación/IA.
+- **ASML**: activo estratégico de altísima calidad; la caída de hoy parece más compresión táctica que deterioro estructural.
+
+### Crypto
+- **BTC**: estable, pero sin impulso claro; sigue marcando el tono del resto del mercado.
+- **ETH**: mejor comportamiento relativo hoy; staking y TVL siguen sosteniendo la tesis.
+- **XRP**: sigue más dependiente de narrativa/regulación que de una expansión orgánica claramente visible.
+- **SOL**: mantiene buena inercia operativa/ecosistema, pero sigue siendo el beta alto del bloque.
+
+---
+
+## Versión corta para Telegram
+
+**Resumen Warren — 30-03-2026**
+
+**Claves del día**
+- España: IBE lideró claramente; SAN y REP más tibias.
+- EEUU: AMZN aguantó bien; NVDA, AAPL y ASML corrigieron.
+- Crypto: sesión lateral; ETH y SOL algo mejor que BTC y XRP.
+
+**Riesgos**
+- Compresión de múltiplos en tech/semis.
+- Repsol sigue siendo la más frágil por ciclo + geopolítica.
+- Si BTC pierde 66k–67k, puede arrastrar altcoins.
+
+**Acciones mañana**
+- Vigilar continuidad de IBE.
+- Ver si ASML estabiliza.
+- Confirmar fortaleza relativa de AMZN.
+- Seguir zona de control de BTC.
+
+**Precios — España**
+- SAN: 9.49 EUR (+0.96%)
+- REP: 24.23 EUR (+0.66%)
+- IBE: 19.72 EUR (+3.08%)
+
+**Precios — EEUU**
+- AMZN: 200.95 USD (+0.81%)
+- NVDA: 165.17 USD (-1.40%)
+- AAPL: 246.63 USD (-0.87%)
+- ASML: 1253.96 USD (-3.72%)
+
+**Precios — Crypto**
+- BTC: 66,533.00 USD (-0.13% 24h)
+- ETH: 2,020.98 USD (+0.93% 24h)
+- XRP: 1.32 USD (-0.10% 24h)
+- SOL: 82.71 USD (+0.93% 24h)
