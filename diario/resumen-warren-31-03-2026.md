@@ -1,46 +1,61 @@
 # Resumen Warren — 31-03-2026
 
 ## Resumen ejecutivo
-Sesión mixta con sesgo positivo en renta variable y debilidad clara en cripto. España cerró con tono constructivo, liderada por Iberdrola, mientras en EEUU el bloque mega-cap tecnológico mantuvo tracción positiva con Amazon, NVIDIA y ASML al alza. En contraste, las crypto majors corrigieron en 24h, con BTC aguantando mejor y SOL mostrando la mayor presión relativa.
+Sesión mixta con tono constructivo en bolsa y correctivo en cripto. España cerró con fortaleza, especialmente Iberdrola, mientras que en EEUU el bloque mega-cap tecnológico mantuvo sesgo alcista liderado por Amazon, NVIDIA y ASML. En cripto dominó el rojo en 24h: Bitcoin resistió mejor, Ethereum corrigió poco y Solana fue el activo más débil del bloque. La lectura general sigue siendo de mercado selectivo: el equity premia calidad y momentum, mientras que crypto exige más prudencia táctica.
 
 ## Highlights
-- **España**: Iberdrola fue el movimiento más fuerte del bloque (+3.11%), Santander siguió mostrando fortaleza operativa y Repsol mantuvo sesgo alcista, aunque más moderado.
-- **EEUU**: Amazon (+2.79%), ASML (+2.53%) y NVIDIA (+2.03%) sostienen el tono growth/semis; Apple sube menos, pero se mantiene positiva.
-- **Crypto**: todo el bloque en rojo; BTC resiste mejor, ETH cae poco, XRP acelera a la baja y SOL es el activo más débil del grupo.
+- **España en verde**: IBE destacó con **+3.11%**, SAN sumó **+0.94%** y REP avanzó **+0.66%**.
+- **EEUU sólido**: AMZN **+2.79%**, NVDA **+2.03%**, ASML **+2.53%** y AAPL **+0.53%**.
+- **Cripto en ajuste**: BTC **-1.08%**, ETH **-0.19%**, XRP **-2.20%**, SOL **-3.70%**.
+- **Santander** mantiene mensaje de confianza para 2026 y apunta a beneficio superior al de 2025.
+- **NVIDIA** y **ASML** siguen sosteniendo la narrativa estructural de semis/IA, aunque ya con múltiplos exigentes.
 
-## Riesgos
-- Valoraciones exigentes en NVDA y ASML: cualquier decepción en guidance puede comprimir múltiplos.
-- Santander: la ampliación para Webster añade riesgo de integración y percepción de dilución.
-- Repsol: alta sensibilidad al ciclo macro y energía.
-- Crypto: si BTC pierde fortaleza relativa, SOL y XRP pueden amplificar la corrección.
+## Cambios clave del día
+### España
+- **SAN**: buen tono operativo y narrativa positiva tras el mensaje de Botín, aunque la ampliación de capital para Webster añade foco en ejecución e integración.
+- **REP**: avance moderado; sigue apoyada por beneficios, pero con visibilidad más dependiente del ciclo energético y de márgenes.
+- **IBE**: el mejor comportamiento del bloque; mejora fuerte en beneficios, aunque con apalancamiento elevado y valoración menos barata.
 
-## Cambios clave
-- IBE se impone como líder del bloque español y apunta a rotación hacia perfiles más defensivos/visibles.
-- SAN mantiene narrativa operativa fuerte tras reafirmar objetivos 2026.
-- En EEUU sigue mandando la combinación crecimiento + semis + IA.
-- En crypto la toma de beneficios domina la sesión, especialmente en SOL.
-
-## Acciones mañana
-- Confirmar si IBE tiene continuidad o fue un spike puntual.
-- Vigilar lectura del mercado sobre SAN + Webster.
-- Revisar si AMZN/NVDA/ASML sostienen momentum con soporte fundamental.
-- Monitorizar BTC como activo guía; si se deteriora, reducir apetito por SOL/XRP.
-
-## Precios actuales
-
-### Empresas España
-- **SAN**: 9.49 EUR | **%24h**: 0.94%
-- **REP**: 24.23 EUR | **%24h**: 0.66%
-- **IBE**: 19.72 EUR | **%24h**: 3.11%
-
-### Empresas EEUU
-- **AMZN**: $206.57 | **%24h**: 2.79%
-- **NVDA**: $168.52 | **%24h**: 2.03%
-- **AAPL**: $247.94 | **%24h**: 0.53%
-- **ASML**: $1,285.66 | **%24h**: 2.53%
+### EEUU
+- **AMZN**: rebote sólido apoyado por crecimiento de ingresos y beneficios; sigue siendo una historia de ejecución + margen.
+- **NVDA**: mantiene excepcionalidad operativa en crecimiento, márgenes y ROE; el riesgo ya no es el negocio sino la exigencia del precio.
+- **AAPL**: subida más contenida; sigue siendo máquina de caja, pero más sensible a regulación y vientos de demanda madura.
+- **ASML**: fortaleza consistente; es activo estratégico para toda la cadena de semiconductores, aunque con múltiplo alto.
 
 ### Crypto
-- **BTC**: $66,710.00 | **%24h**: -1.18%
-- **ETH**: $2,038.74 | **%24h**: -1.33%
-- **XRP**: $1.31 | **%24h**: -2.66%
-- **SOL**: $80.63 | **%24h**: -4.15%
+- **BTC** aguanta mejor que el resto y conserva el perfil más defensivo del bloque.
+- **ETH** corrige poco y mantiene liderazgo en TVL, señal de resiliencia relativa.
+- **XRP** sigue más dependiente de catalizadores narrativos/regulatorios que de expansión orgánica clara.
+- **SOL** sufre más por sensibilidad a beta alta y noticias de hack/plataformas afectadas.
+
+## Riesgos a vigilar
+- **Valoraciones exigentes en EEUU**: NVDA, ASML y AAPL descuentan bastante perfección operativa.
+- **Riesgo de ejecución corporativa**: Santander con Webster; cualquier fricción en integración puede pesar.
+- **Apalancamiento / sensibilidad a tipos**: Iberdrola y, en menor medida, otros intensivos en capital.
+- **Energía y márgenes**: Repsol depende más del entorno de commodities que otros nombres del bloque.
+- **Cripto**: mayor fragilidad táctica, especialmente en SOL y XRP; headline risk regulatorio y de seguridad sigue alto.
+
+## Acciones mañana
+- Revisar si la fortaleza de **IBE** tiene continuidad o fue extensión puntual.
+- Seguir la reacción del mercado a la **ampliación de capital de SAN** y cualquier detalle adicional sobre Webster.
+- Monitorizar continuidad del momentum en **NVDA/ASML/AMZN** frente a toma de beneficios.
+- En cripto, vigilar si **BTC** mantiene soporte relativo y si **SOL** estabiliza tras ser el más castigado del bloque.
+- Si mañana continúa la divergencia bolsa arriba / cripto abajo, priorizar lectura de flujos y rotación de riesgo.
+
+## Precios actuales
+### Empresas España
+- **SAN**: **9.49 EUR** (**+0.94% 24h**)
+- **REP**: **24.23 EUR** (**+0.66% 24h**)
+- **IBE**: **19.72 EUR** (**+3.11% 24h**)
+
+### Empresas EEUU
+- **AMZN**: **206.57 USD** (**+2.79% 24h**)
+- **NVDA**: **168.52 USD** (**+2.03% 24h**)
+- **AAPL**: **247.94 USD** (**+0.53% 24h**)
+- **ASML**: **1,285.66 USD** (**+2.53% 24h**)
+
+### Crypto
+- **BTC**: **66,982.00 USD** (**-1.08% 24h**)
+- **ETH**: **2,063.96 USD** (**-0.19% 24h**)
+- **XRP**: **1.32 USD** (**-2.20% 24h**)
+- **SOL**: **81.18 USD** (**-3.70% 24h**)
