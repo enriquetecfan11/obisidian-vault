@@ -1,69 +1,79 @@
-- **Acciones Crypto**
-	- BTC, ETH, XRP, SOL
-	- Precio actual
-	- Porcentaje de cambio en las últimas 24 horas
-    - Métricas cripto: market cap, volumen 24h, oferta circulante/total, direcciones activas, transacciones, fees, TVL (en SOL/ETH), tokenomics básica.
-    - Noticias y eventos: upgrades/hard forks (p.ej. Ethereum/Solana), hacks, regulación, partnerships clave, movimientos grandes on-chain hacia/desde exchanges.
+## Acciones Crypto
+- BTC, ETH, XRP, SOL
+- Precio actual
+- Porcentaje de cambio en las últimas 24 horas
+- Métricas cripto: market cap, volumen 24h, oferta circulante/total, direcciones activas, transacciones, fees, TVL (en SOL/ETH), tokenomics básica.
+- Noticias y eventos: upgrades/hard forks, hacks, regulación, partnerships clave, movimientos on-chain.
 
-## BTC — Bitcoin
-- Precio actual: N/D
-- % últimas 24h: N/D
-- Market cap: N/D
-- Volumen 24h: N/D
-- Oferta circulante/total: N/D / N/D
-- Direcciones activas: N/D
-- Transacciones: 545.09K / día aprox.
-- Fees: $-0.00 / día aprox.
-- TVL (en ETH/SOL): N/A como capa base; no aplica como L1 DeFi comparable.
-- Tokenomics básica: Circulante/máxima: N/D / N/D. Emisión fija con halving; tope 21M.
+### BTC — Bitcoin
+- Precio actual: $66,710.00
+- % últimas 24h: -1.18%
+- Métricas cripto:
+  - Market cap: $1.33T
+  - Volumen 24h: $48.57B
+  - Oferta circulante/total/máxima: 20.01M BTC / 20.01M BTC / 21.00M BTC
+  - Direcciones activas: n/d en este job sin API dedicada estable
+  - Transacciones 24h: 542.12K
+  - Fees medias 24h: $0.29 por tx
+  - TVL: no aplica como capa monetaria base
+  - Tokenomics básica: emisión decreciente por halving; suministro fijo de 21M; principal narrativa de reserva de valor
 - Noticias y eventos:
-  - Morgan Stanley Eyes Dominance in Bitcoin ETFs as Its Low Fee Undercuts Blackrock’s IBIT - Bitcoin.com News — https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmJuRzFBWFRFZkVQVG5uVlI2SVAxS3lLWGFHdXEtdDR1Sktjbl82R0ZfZG9Qb28tR1dZeXZqcFk0eWoxYnlvVU5OUFIyaWZIMXlTLUVycUplQmZBWXpyaV9HVGJDbTJpTm5xOEFwTWttMHE4bmRtM25UaEdHTFpXWnR3UlBPVVlBNGxSSGJhTGQzYkQtVzl0bEZMSnk5eUt5NFVaMTF6UnltTGgzWnU2V0dn?oc=5
-  - Bitcoin ETF Outflows Spark Concern: US Spot Funds See Second Day of $225.6M Net Withdrawals - MEXC — https://news.google.com/rss/articles/CBMiR0FVX3lxTE5LeTBxZW84VEF4SEpfX0g5VlZlTWNPN2lJTC1pZ3pZWEJYX1duYkk2bkw1QkFfSkMzVTVYQk5DY2gyWHFkbFNJ?oc=5
-  - Bitcoin Price Stabilizes Near $67,800 Amid March Regulatory Gains and Macro Pressures - AD HOC NEWS — https://news.google.com/rss/articles/CBMixgFBVV95cUxQSGc3Um8tZHRjdXZyNlB5M3JWSkVTY0VaVlBvZU4tVW1kYi1sdDFwMXd6RGFWNEZBbW1fMVVVdW02bVFQVE5obHRFRFFiZGpBZkVjZWF6TkRDUWpVLU1QZUpsOGtFRTc2cUltQUh6WEpjUDU5dldZcF92aDhRZWFhd2E0ZGpQa1JRMEhLTi13X3dqTzlRbG92TUNmcEpUM01leWFsZDk3SDZWZ3FHUnF2b1Z5QlRDeHhZVzJpbDNQRjMxTlc1RkE?oc=5
+  - Fidelity Presses SEC Crypto Task Force for On-Chain Settlement Clarity - Bitcoin.com News
+  - Crypto News: BTC Holds $70K as ETH Jumps on Staked ETF - Blockchain Council
+  - On-chain: mempool de ~26.44K transacciones; fee media baja y red sin estrés extremo
 
-## ETH — Ethereum
-- Precio actual: N/D
-- % últimas 24h: N/D
-- Market cap: N/D
-- Volumen 24h: N/D
-- Oferta circulante/total: N/D / N/D
-- Direcciones activas: N/D en fuente abierta única estable usada en esta ejecución.
-- Transacciones: 3.36B acumuladas / red
-- Fees: variables según gas; hoy sin lectura spot homogénea desde endpoint público estable.
-- TVL en ETH (Ethereum): $52.76B
-- Tokenomics básica: Circulante/máxima: N/D / N/D. Oferta no fija; EIP-1559 quema fees y staking reduce float.
+### ETH — Ethereum
+- Precio actual: $2,038.74
+- % últimas 24h: -1.33%
+- Métricas cripto:
+  - Market cap: $245.77B
+  - Volumen 24h: $17.47B
+  - Oferta circulante/total: 120.69M ETH / 120.69M ETH
+  - Direcciones activas: n/d en este job sin API dedicada estable
+  - Transacciones 24h: 2.61M
+  - Fees medias 24h: $0.11 por tx
+  - TVL en ETH: $52.76B
+  - Tokenomics básica: oferta flexible; EIP-1559 quema fees; staking PoS reduce float líquido
 - Noticias y eventos:
-  - Ethereum devs vote to deprioritise Buterin-backed proposal to make blockchain user-friendly and quantum-resistant in forthcoming Hegota upgrade - dlnews.com — https://news.google.com/rss/articles/CBMinwFBVV95cUxOMVlGSjVUUlRwYU95YU9NWngzVm9Wa1lRNzF6VWNpOHFCdkQta2MtbTdSbVAyai0ydFdXQ3h2RzNmU0E4eER4MU5IMEpkWFFsQ0lFTlZSa2liTlFzSjdZcHlwZzkteVFibDVqVV9JZEVTc0JUaHNTdWFDZzgwR3NiZnMyWWhLTmxnYTYwdXd6eDhPbWE1TXRlbTFWbHVxTHc?oc=5
-  - Aave rolls out v4 on Ethereum, aiming to expand DeFi into real-world credit markets - CoinDesk — https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYldYZWw1Q3lWaWtEdTBJSnBRSVlMaTB0TkJfT081YXNTOEtBUHVxZjNaMUhCTDUzR2VvOEtveDBEMGoxckVpZFNOZGN2SU1YS1d4TEdrc3FUMk5hZmdlYUctX0FRVlp5SXJpWlY2emlpWmtwbmtIajczS2ZVWnljNGlkaWtjQnBKT01tQVdqTElKZ1hEVVpYemhKTTlVam8tdlUtS2dNdmZ5WElGb3YtSFVkcGJYeEZhN2NXcU9zTXU?oc=5
-  - The Crypto Calendar for the Rest of March and April 2026: Every Event That Matters - Phemex — https://news.google.com/rss/articles/CBMickFVX3lxTFBLMzhFWXdYNUVIejMzYTdTdHdrdk9HaVdEdTJZZGh6THdEOE1sWGZjTDdkMGNCU1h0ZTZEc0JTaFNBd2NOdDZncEVJWFZQY1BibmRxR0hHOGU1NjgwSmc1YWVacGlBMFg3Yk9aWmFja2dEZw?oc=5
+  - StoneX Digital Asset Weekly Commentary - Bybit Hack - stonex.com
+  - Ethereum developers begin debate over Hegota — yet another upgrade - dlnews.com
+  - On-chain: quema aproximada de 30.17 ETH en 24h con 2.61M transacciones diarias
 
-## XRP — XRP
-- Precio actual: N/D
-- % últimas 24h: N/D
-- Market cap: N/D
-- Volumen 24h: N/D
-- Oferta circulante/total: N/D / N/D
-- Direcciones activas: N/D
-- Transacciones: N/D acumuladas / red
-- Fees: muy bajos; quema marginal por transacción.
-- TVL (en ETH/SOL): N/D / XRPL sigue pequeño en DeFi frente a ETH y SOL.
-- Tokenomics básica: Circulante/máxima: N/D / N/D. Preminado; liberación desde escrow de Ripple y quema marginal por fees.
+### XRP — XRP
+- Precio actual: $1.31
+- % últimas 24h: -2.66%
+- Métricas cripto:
+  - Market cap: $80.60B
+  - Volumen 24h: $2.01B
+  - Oferta circulante/total/máxima: 61.34B XRP / 99.99B XRP / 100.00B XRP
+  - Direcciones activas: n/d en este job sin API dedicada estable
+  - Transacciones 24h: 239.83K
+  - Fees medias 24h: $0.00 por tx
+  - TVL: irrelevante frente a ETH/SOL; foco mayor en pagos/liquidez
+  - Tokenomics básica: supply máximo de 100B; preminado; parte relevante controlada/liberada vía escrow
 - Noticias y eventos:
-  - Ripple XRP NYSE Tokenization: Ripple Positioned at Centre of NYSE Digital Platform - European Business Magazine — https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeU13OHVhd05meDZoN0FLeWg0OFJSTWphRzhqUjlhOWVRUnNUX05HeVcydFlTbU5QR2I5cllyQ01icG53VkRkQ3JDM0N3OXFFTXpHQjVHc0lIcXJCdDZGaC1ULTRHWUsyOWJqbzJOY0NZVlREMXljQUI1THZNYzA0dlptMW11U1NTdW54NU1na1YxVHFMNThUMlVlM0l5Q2wxckxtX0dTMG9jZXp1d01fZ0VLMHVaY2hPemhIWGVPUFc?oc=5
-  - XRP Price: $1,000 Invested in XRP at $0.50 in 2024 Was Worth $7,300 by 2025: Could XRP at $1.40 Deliver the Same by 2027? - 24/7 Wall St. — https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZTRxSzU0M281X3lkcmN3U005czJLTkhvZ2dXR09ESnVoaFh0RVlZSmFKdUZ3dVE0ZEhSbEF0d2VWcUUxOFJtSVJfODd2SHZSdHZIaGRCUU4yWXlaRHo2QjdDVnU0cTU0cFVMLTVFUmxLYjBOdTUzVzYtZHdiMUs1aEtWRnJiTEJuOERGb2EtY3o5M2dGSkVnUlNOVkF0MlU1VWotVFg5cGxXZkdKY0Uya3pqUkx0R2xTLW54N1RYNGNrMzJSNGdXQUpUcWR4aVQ3empuTk9vUURjUTVBNVJsS25DY1FfMWdIc2lGNQ?oc=5
-  - XRP Price Near $1.38 Support as Market Structure Reaches Decision Point - Investing.com — https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHpyMnR0V1ZVS0hDNXhDcHV4VGY3ZUVlZTVONlFiZ1Y4S2tnNUg2bS1QNEpsLWpwY09ESTQwRXVsWmpUbkFUd3JXUU52NkVucGhfcmRLbG1yVUV6UVE0QzNyQkRWM1ZtRFk5VEo5cFA5TEN6WHkyVjdMT01kZk1HTElIMFp2NnFkLVN1SE5SUkt5ZnhaTDRSLVg5TjRCYy1ZUjhPcm1wSF9XRGlTZHlPOUNHRm8?oc=5
+  - Every Ripple Partnership in 2026 Has Failed to Move XRP Price: Will This New Development Change That? - 24/7 Wall St.
+  - Aviva Investors to tokenize funds on XRP Ledger in Ripple partnership - CoinDesk
+  - On-chain: ~239.83K transacciones en 24h y fees casi nulas, coherente con tesis de rail de pagos eficiente
 
-## SOL — Solana
-- Precio actual: N/D
-- % últimas 24h: N/D
-- Market cap: N/D
-- Volumen 24h: N/D
-- Oferta circulante/total: N/D / N/D
-- Direcciones activas: N/D
-- Transacciones: N/D acumuladas / red
-- Fees: bajos, orientados a alto throughput.
-- TVL en SOL (Solana): $6.24B
-- Tokenomics básica: Circulante/máxima: N/D / N/D. Inflación decreciente con staking y quema parcial de fees.
+### SOL — Solana
+- Precio actual: $80.63
+- % últimas 24h: -4.15%
+- Métricas cripto:
+  - Market cap: $46.17B
+  - Volumen 24h: $3.62B
+  - Oferta circulante/total: 572.62M SOL / 623.46M SOL
+  - Direcciones activas: n/d en este job sin API dedicada estable
+  - Transacciones 24h (muestra RPC): 29.66M
+  - Fees: n/d agregado público fiable en este job; red sigue compitiendo por bajo coste unitario
+  - TVL en SOL: $6.24B
+  - Tokenomics básica: inflación decreciente; staking como capa de seguridad; sensibilidad alta al ciclo DeFi y memecoins
 - Noticias y eventos:
-  - Sin titulares recuperados en esta ejecución.
+  - 3 Solana platforms to shutter following devastating $40M hack - TradingView
+  - European crypto platform SwissBorg to reimburse users after $41 million theft - The Record from Recorded Future News
+  - On-chain: ~500.85B transacciones acumuladas y ~22.05K slots en la ventana reciente de 24h
 
+### Lectura rápida
+- Las cuatro majors vienen en rojo en 24h; BTC aguanta mejor y SOL sufre más presión relativa.
+- ETH y SOL mantienen el liderazgo en TVL y actividad de smart contracts; XRP sigue destacando por coste transaccional; BTC conserva el rol macro.
+- Nota metodológica: direcciones activas y algunas métricas agregadas de fees en SOL no tenían un endpoint público estable y sin API key fiable dentro de este job, así que quedan marcadas como n/d.
