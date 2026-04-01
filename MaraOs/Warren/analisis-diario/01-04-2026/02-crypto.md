@@ -1,0 +1,34 @@
+- **Acciones  Crypto**
+	- BTC, ETH, XRP, SOL
+	- **BTC** | Precio actual: $68,564 | %24h: +2.75%
+	  - Market cap: $1.37T | Volumen 24h: $53.49B
+	  - Oferta circulante/total: 20.01M / 20.01M BTC
+	  - Direcciones activas (24h): 485.13K | Transacciones (24h): 523.75K | Fees (24h): 2.47 BTC
+	  - TVL: N/A (L1 monetaria, sin TVL DeFi nativo comparable a ETH/SOL)
+	  - Tokenomics básica: oferta máxima 21M; emisión decreciente por halving; PoW; reserva de valor/collateral.
+	  - Noticias y eventos:
+	    - Key facts: Bitcoin Liquidations; U.S. Rules; Saylor; NRPL; Flows - TradingView <https://news.google.com/rss/articles/CBMiuwFBVV95cUxONHk2VjQ0MXJfWjh1Q2VuQmx5cXNJWlh5VkduSmZNLWdYUW9EQmlYelVVNEdtRmVvT3prem94dTc3QWhhOGZIdFk1RjVxZmRaS1hheEx4TDB3MDdxV0F5ekd6NVNfamgxM2c1NFFIQlhMOUNrd1FvNkdZbWMwY1Z3bU40UFJRYUtuTVRkZy1MRF9ULXBfVGFla2pNY2hUbG1KRE13TlN6ajRIUkFUN3pWN1NBQ3Y1MXFCLTZr?oc=5>
+	    - Spot Ethereum ETF Outflows Spark Concern as BlackRock Leads $42.5 Million Withdrawal - CryptoRank <https://news.google.com/rss/articles/CBMijwFBVV95cUxPS3lUd1U1SkJQN2djbkFrTGJCSm1qZmp5NmM5M2NuUENqS25palZiRUlkOHFTbGdpNkVyUmJ3RFh0RjYxakhiYmo1Mm9ZQzNYS0UwRnB6dldhOXhhcFdndXdaNXRIbFVDaUpFbkNVNktpUU5fQ3JpV1pkdXlQOVpQWWM2c0JzVDh2SS12NEMtTQ?oc=5>
+	    - Digital Asset Funds See Stunning $414 Million Outflow After 5-Week Inflow Streak - CryptoRank <https://news.google.com/rss/articles/CBMigwFBVV95cUxONUhjQ3FfRUllTFlmeHVHcTc3WjI4alRCVjlwVE9GdGdwWmY1REhmZVhJUXFNbTJmanNWUmFGMkF0cC1kUmhfakItbS16elNKYlNucThmclBhRVJvOE40ZUk2UXRIcV9JU2Fkb1h5OXk1V3M0VGlWMnJEZUVsZlFNRnBQaw?oc=5>
+	- **ETH** | Precio actual: $2,133 | %24h: +4.60%
+	  - Market cap: $257.55B | Volumen 24h: $21.59B
+	  - Oferta circulante/total: 120.69M / 120.69M ETH
+	  - Direcciones activas (24h): 848.87K | Transacciones (24h): 2.62M | Fee media (24h): $0.15
+	  - TVL Ethereum: $54.67B
+	  - Tokenomics básica: sin hard cap fijo; EIP-1559 quema fees; staking reduce float líquido; activo base del stack L2/DeFi.
+	  - Noticias y eventos:
+	    - Conoce Todo Sobre Pectra, la Próxima Gran Actualización de Ethereum - Decrypt <https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEpHaGJHRXdHajBJNkVGMlJ3c1ZKbl8yb3ZyQUZDRXdBNVdnNUVuWjJVQlBrX3MtWmU5dWhFZEpraGpRZ2RBUmp4YXFpaWtkSk1Oenh2WUFOM3JyNWhLRGNNQi1jaGdlMlRDazdfTEI3SE1hT3NabDI3RzJuM3V4My1FZ3puRTRMY0VHR0FnQ0RsU2ExSjFTRkRoNDdCS1XSAacBQVVfeXFMTkYwQXgyTDd2UF9yVUZ3RVpwaUJ6d1d1c1VXVHVBVVQ4LWlwUkEwaU9zX09YV3pBUjRMSUtOdXVReVRDNURGeGFuLVVlRkNiMVNtSjljbUhweU9JNWh0ZFhaUkJMcE9JQjA4MVNuaUMyZ1d4RGF1eU1Qa1BwQ1Y1X1M1bjBCQmhtN09aaTd4aFVEZGVIVHpEX0R4bXVNYjBQMzF3QUF0NU0?oc=5>
+	- **XRP** | Precio actual: $1.35 | %24h: +2.91%
+	  - Market cap: $83.00B | Volumen 24h: $2.11B
+	  - Oferta circulante/total: 61.41B / 99.99B XRP
+	  - Direcciones activas (24h): 9.39K | Transacciones (24h): 970.50K | Fees quemadas (24h): 182.70 XRP
+	  - TVL: XRPL AMM/DeFi aún pequeño vs ETH/SOL; no comparable en escala TVL generalista.
+	  - Tokenomics básica: suministro máximo 100B preminado; parte liberada vía escrow histórico; fees se queman; foco en pagos/liquidez.
+	  - Noticias y eventos:
+	- **SOL** | Precio actual: $83.27 | %24h: +3.35%
+	  - Market cap: $47.68B | Volumen 24h: $3.99B
+	  - Oferta circulante/total: 572.61M / 623.46M SOL
+	  - Direcciones activas (24h): N/D fiable sin proveedor analítico abierto | Transacciones aprox. (24h): 189.59K | Fee base: ~0.000005 SOL por signature (+ prioridad variable)
+	  - TVL Solana: $6.35B
+	  - Tokenomics básica: inflación decreciente con staking; sin hard cap fijo; alto throughput y fees bajos; fuerte exposición a DeFi y retail.
+	  - Noticias y eventos:
