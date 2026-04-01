@@ -1,34 +1,88 @@
-- **Acciones  Crypto**
+# Crypto
+
+_Actualizado: 01-04-2026 13:36 Europe/Madrid._
+
+- **Acciones Crypto**
 	- BTC, ETH, XRP, SOL
-	- **BTC** | Precio actual: $68,564 | %24h: +2.75%
-	  - Market cap: $1.37T | Volumen 24h: $53.49B
-	  - Oferta circulante/total: 20.01M / 20.01M BTC
-	  - Direcciones activas (24h): 485.13K | Transacciones (24h): 523.75K | Fees (24h): 2.47 BTC
-	  - TVL: N/A (L1 monetaria, sin TVL DeFi nativo comparable a ETH/SOL)
-	  - Tokenomics básica: oferta máxima 21M; emisión decreciente por halving; PoW; reserva de valor/collateral.
-	  - Noticias y eventos:
-	    - Key facts: Bitcoin Liquidations; U.S. Rules; Saylor; NRPL; Flows - TradingView <https://news.google.com/rss/articles/CBMiuwFBVV95cUxONHk2VjQ0MXJfWjh1Q2VuQmx5cXNJWlh5VkduSmZNLWdYUW9EQmlYelVVNEdtRmVvT3prem94dTc3QWhhOGZIdFk1RjVxZmRaS1hheEx4TDB3MDdxV0F5ekd6NVNfamgxM2c1NFFIQlhMOUNrd1FvNkdZbWMwY1Z3bU40UFJRYUtuTVRkZy1MRF9ULXBfVGFla2pNY2hUbG1KRE13TlN6ajRIUkFUN3pWN1NBQ3Y1MXFCLTZr?oc=5>
-	    - Spot Ethereum ETF Outflows Spark Concern as BlackRock Leads $42.5 Million Withdrawal - CryptoRank <https://news.google.com/rss/articles/CBMijwFBVV95cUxPS3lUd1U1SkJQN2djbkFrTGJCSm1qZmp5NmM5M2NuUENqS25palZiRUlkOHFTbGdpNkVyUmJ3RFh0RjYxakhiYmo1Mm9ZQzNYS0UwRnB6dldhOXhhcFdndXdaNXRIbFVDaUpFbkNVNktpUU5fQ3JpV1pkdXlQOVpQWWM2c0JzVDh2SS12NEMtTQ?oc=5>
-	    - Digital Asset Funds See Stunning $414 Million Outflow After 5-Week Inflow Streak - CryptoRank <https://news.google.com/rss/articles/CBMigwFBVV95cUxONUhjQ3FfRUllTFlmeHVHcTc3WjI4alRCVjlwVE9GdGdwWmY1REhmZVhJUXFNbTJmanNWUmFGMkF0cC1kUmhfakItbS16elNKYlNucThmclBhRVJvOE40ZUk2UXRIcV9JU2Fkb1h5OXk1V3M0VGlWMnJEZUVsZlFNRnBQaw?oc=5>
-	- **ETH** | Precio actual: $2,133 | %24h: +4.60%
-	  - Market cap: $257.55B | Volumen 24h: $21.59B
-	  - Oferta circulante/total: 120.69M / 120.69M ETH
-	  - Direcciones activas (24h): 848.87K | Transacciones (24h): 2.62M | Fee media (24h): $0.15
-	  - TVL Ethereum: $54.67B
-	  - Tokenomics básica: sin hard cap fijo; EIP-1559 quema fees; staking reduce float líquido; activo base del stack L2/DeFi.
-	  - Noticias y eventos:
-	    - Conoce Todo Sobre Pectra, la Próxima Gran Actualización de Ethereum - Decrypt <https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEpHaGJHRXdHajBJNkVGMlJ3c1ZKbl8yb3ZyQUZDRXdBNVdnNUVuWjJVQlBrX3MtWmU5dWhFZEpraGpRZ2RBUmp4YXFpaWtkSk1Oenh2WUFOM3JyNWhLRGNNQi1jaGdlMlRDazdfTEI3SE1hT3NabDI3RzJuM3V4My1FZ3puRTRMY0VHR0FnQ0RsU2ExSjFTRkRoNDdCS1XSAacBQVVfeXFMTkYwQXgyTDd2UF9yVUZ3RVpwaUJ6d1d1c1VXVHVBVVQ4LWlwUkEwaU9zX09YV3pBUjRMSUtOdXVReVRDNURGeGFuLVVlRkNiMVNtSjljbUhweU9JNWh0ZFhaUkJMcE9JQjA4MVNuaUMyZ1d4RGF1eU1Qa1BwQ1Y1X1M1bjBCQmhtN09aaTd4aFVEZGVIVHpEX0R4bXVNYjBQMzF3QUF0NU0?oc=5>
-	- **XRP** | Precio actual: $1.35 | %24h: +2.91%
-	  - Market cap: $83.00B | Volumen 24h: $2.11B
-	  - Oferta circulante/total: 61.41B / 99.99B XRP
-	  - Direcciones activas (24h): 9.39K | Transacciones (24h): 970.50K | Fees quemadas (24h): 182.70 XRP
-	  - TVL: XRPL AMM/DeFi aún pequeño vs ETH/SOL; no comparable en escala TVL generalista.
-	  - Tokenomics básica: suministro máximo 100B preminado; parte liberada vía escrow histórico; fees se queman; foco en pagos/liquidez.
-	  - Noticias y eventos:
-	- **SOL** | Precio actual: $83.27 | %24h: +3.35%
-	  - Market cap: $47.68B | Volumen 24h: $3.99B
-	  - Oferta circulante/total: 572.61M / 623.46M SOL
-	  - Direcciones activas (24h): N/D fiable sin proveedor analítico abierto | Transacciones aprox. (24h): 189.59K | Fee base: ~0.000005 SOL por signature (+ prioridad variable)
-	  - TVL Solana: $6.35B
-	  - Tokenomics básica: inflación decreciente con staking; sin hard cap fijo; alto throughput y fees bajos; fuerte exposición a DeFi y retail.
-	  - Noticias y eventos:
+	- Precio actual
+	- Porcentaje de cambio en las últimas 24 horas
+	- Métricas cripto: market cap, volumen 24h, oferta circulante/total, direcciones activas, transacciones, fees, TVL (en SOL/ETH), tokenomics básica.
+	- Noticias y eventos: upgrades/hard forks, hacks, regulación, partnerships clave, movimientos grandes on-chain hacia/desde exchanges.
+
+## Bitcoin (BTC)
+- Precio actual: **$68,555.00**
+- Cambio 24h: **+2.73%**
+- Market cap: **$1.37T**
+- Volumen 24h: **$53.28B**
+- Oferta circulante / total: **20.01M / 20.01M**
+- Direcciones activas 24h: **113,446**
+- Transacciones 24h: **593,135**
+- Fees: **0.0000046 BTC**
+- TVL: **N/A base layer / no comparable como métrica principal**
+- Tokenomics básica: Oferta máxima 21M; emisión decreciente por halving; activo monetario sin inflación discrecional.
+- Noticias y eventos relevantes:
+  - How Institutional News Is Driving Crypto Markets: A Look at Recent ETF Developments - KuCoin
+  - BlackRock Is Pulling Bitcoin Whales Into Wall Street’s Orbit - Bloomberg.com
+  - BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new flows - CoinDesk
+- Señal técnica/red: última release visible en BitInfoCharts **v30.2 (2026-01-13)**.
+
+## Ethereum (ETH)
+- Precio actual: **$2,134.34**
+- Cambio 24h: **+4.64%**
+- Market cap: **$257.46B**
+- Volumen 24h: **$21.40B**
+- Oferta circulante / total: **120.69M / 120.69M**
+- Direcciones activas 24h: **1,185,382**
+- Transacciones 24h: **2,526,640**
+- Fees: **0.000074 ETH**
+- TVL ecosistema Ethereum: **$112.01B**
+- Fees agregadas cadena (24h): **$406.50K**
+- Tokenomics básica: Sin tope fijo; emisión neta condicionada por burn de EIP-1559 y staking PoS; ETH funciona como gas y colateral.
+- Noticias y eventos relevantes:
+  - New Crypto Entry Emerges as Ethereum Fusaka Hard Fork Improves Scalability and Pepeto Outperforms SUI and LINK - openPR.com
+  - What’s on the Ethereum Roadmap: Glamsterdam, Hegota and Beyond - Decrypt
+  - Fusaka rollout kicks off Ethereum’s new twice-a-year hard-fork schedule - The Block
+- Señal técnica/red: última release visible en BitInfoCharts **v1.17.2 (2026-03-30)**.
+
+## XRP (XRP)
+- Precio actual: **$1.35**
+- Cambio 24h: **+2.86%**
+- Market cap: **$83.02B**
+- Volumen 24h: **$2.11B**
+- Oferta circulante / total: **61.41B / 99.99B**
+- Direcciones activas 24h: **N/D**
+- Transacciones 24h: **677,374**
+- Fees: **0.000485 XRP (~$0.00)**
+- TVL: **N/A base layer / no comparable como métrica principal**
+- Tokenomics básica: Supply máximo 100B preminado; parte en escrow de Ripple con liberaciones programadas; foco en pagos/liquidez.
+- Noticias y eventos relevantes:
+  - What’s Behind XRP’s Institutional Push in Late 2025? - Yahoo Finance
+  - Ripple says Fortress, Citadel Securities invest $500 Million - Fortune
+  - xrp soars 428% - European Business Magazine
+- Señal técnica/red: última release visible en BitInfoCharts **3.1.2 (2026-03-12)**.
+
+## Solana (SOL)
+- Precio actual: **$83.23**
+- Cambio 24h: **+3.18%**
+- Market cap: **$47.67B**
+- Volumen 24h: **$3.96B**
+- Oferta circulante / total: **572.61M / 572.61M**
+- Direcciones activas 24h: **N/D**
+- Transacciones 24h: **N/D**
+- Fees: **$558.16K fees agregadas/día (DefiLlama)**
+- TVL ecosistema Solana: **$13.37B**
+- Fees agregadas cadena (24h): **$558.16K**
+- Tokenomics básica: Inflación desinflacionaria con objetivo de largo plazo cercano al 1.5%; SOL se usa para fees, staking y seguridad de red.
+- Noticias y eventos relevantes:
+  - 2 Game-Changing Updates Coming to Solana in 2026 - The Motley Fool
+  - Jump Crypto's Firedancer hits Solana mainnet as the network aims to unlock 1 million TPS - The Block
+  - Solana's Marinade Labs CEO Eyes Lower Barrier to Entry for Validators After Alpenglow Upgrade - CoinDesk
+- Señal técnica/red: última release visible en BitInfoCharts **v1.18.26 (2024-10-12)**.
+
+## Lectura rápida
+- **BTC** sigue liderando por capitalización y muestra actividad on-chain sólida con fees relativamente contenidos.
+- **ETH** combina tracción de red, TVL dominante y bajas fees spot frente a picos históricos; importante seguir upgrades y staking/ETF flows.
+- **XRP** sigue muy ligado a narrativa regulatoria y adopción en pagos; el price action suele amplificar noticias de Ripple y SEC.
+- **SOL** mantiene buen pulso en TVL y actividad, con sensibilidad alta a estabilidad de red, releases de validadores y rotación de memecoins/DeFi.
+
+> Fuentes usadas: CoinGecko, DeFiLlama, Blockchair, BitInfoCharts y Google News RSS. Algunas métricas on-chain no son perfectamente homogéneas entre cadenas; se prioriza comparabilidad práctica sobre pureza metodológica.
