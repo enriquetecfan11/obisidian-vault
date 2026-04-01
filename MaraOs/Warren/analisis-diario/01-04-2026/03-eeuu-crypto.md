@@ -1,129 +1,129 @@
 # EEUU + Crypto
 
-_Fecha: 01-04-2026_
-
 ## Acciones EEUU
-### AMZN
-- Precio actual: 210.47 USD
-- Cambio 24h: 1.06%
-- Fundamentales acciones:
-  - PER: 29.05
-  - Crecimiento ingresos: 12.38%
-  - Crecimiento beneficios: 31.09%
-  - Márgenes: operativo 11.16%, neto 10.83%
-  - Deuda/equity: 0.43
-  - ROE: 22.29%
-  - EPS: $7.17
-  - Tendencia 1–3 años: Cloud + retail + advertising; el mercado sigue vigilando margen operativo y capex en IA/logística.
-- Noticias y eventos:
-  - Amazon (AMZN): Navigating the Future of E-commerce, Cloud, and AI — FinancialContent
-  - What’s In Store For Amazon Stock? — Trefis
 
-### NVDA
-- Precio actual: 176.13 USD
-- Cambio 24h: 0.99%
-- Fundamentales acciones:
-  - PER: 35.59
-  - Crecimiento ingresos: 65.47%
-  - Crecimiento beneficios: 64.75%
-  - Márgenes: operativo 60.38%, neto 55.60%
-  - Deuda/equity: 0.07
-  - ROE: 101.49%
-  - EPS: $4.90
-  - Tendencia 1–3 años: Dominio en GPUs/datacenter; la tesis depende del ritmo de adopción IA y del mix Blackwell/Hopper.
-- Noticias y eventos:
-  - Nvidia (NVDA) CEO Jensen Huang Says No Plans to Ship Blackwell AI Chips to China — Bloomberg.com
-  - Nvidia shares in spotlight as Trump floats idea of selling H200 GPUs to China: report (NVDA:NASDAQ) — Seeking Alpha
+### AMZN — Amazon
+  - Precio actual: $209.885
+  - Cambio últimas 24h / sesión: +3.45%
+  - Fundamentales:
+    - PER: 29.05
+    - Crecimiento ingresos: 11.75%
+    - Crecimiento beneficio/EPS: 18.52%
+    - Márgenes: margen neto 10.83%
+    - Deuda / equity: 0.43
+    - ROE: 22.29%
+    - EPS: $7.17
+    - Tendencia 1–3 años: alcista con expansión gradual de márgenes
+  - Noticias y eventos:
+    - Home (Apr 1, 2026, 7:30 AM EDT)
+- Mar 31, 2026, 8:00 PM EDT (Mar 31, 2026, 5:32 PM EDT)
 
-### AAPL
-- Precio actual: 254.84 USD
-- Cambio 24h: 0.41%
-- Fundamentales acciones:
-  - PER: 32.19
-  - Crecimiento ingresos: 10.07%
-  - Crecimiento beneficios: 22.49%
-  - Márgenes: operativo 32.38%, neto 27.04%
-  - Deuda/equity: 1.03
-  - ROE: 152.02%
-  - EPS: $7.88
-  - Tendencia 1–3 años: Modelo apoyado en ecosistema y servicios; foco en resiliencia de demanda iPhone y monetización de Services.
-- Noticias y eventos:
-  - Apple shares rise after judge rules Google can continue preload deals in antitrust case — CNBC
-  - The Intelligence Supercycle: Apple’s Record-Shattering Quarter Ignites a New Era for Consumer AI — FinancialContent
+### NVDA — NVIDIA
+  - Precio actual: $176.2901
+  - Cambio últimas 24h / sesión: +3.45%
+  - Fundamentales:
+    - PER: 35.59
+    - Crecimiento ingresos: 25.95%
+    - Crecimiento beneficio/EPS: 22.05%
+    - Márgenes: margen neto 55.60%
+    - Deuda / equity: 0.07
+    - ROE: 101.49%
+    - EPS: $4.90
+    - Tendencia 1–3 años: alcista
+  - Noticias y eventos:
+    - Home (Apr 1, 2026, 8:00 AM EDT)
+- Apr 1, 2026, 7:30 AM EDT (Apr 1, 2026, 6:11 AM EDT)
 
-### ASML
-- Precio actual: 1,365.69 USD
-- Cambio 24h: 3.40%
-- Fundamentales acciones:
-  - PER: 44.07
-  - Crecimiento ingresos: 15.58%
-  - Crecimiento beneficios: 26.91%
-  - Márgenes: operativo 34.60%, neto 29.42%
-  - Deuda/equity: 0.24
-  - ROE: 50.46%
-  - EPS: $29.01
-  - Tendencia 1–3 años: Proveedor crítico de EUV; la demanda de foundries y restricciones de exportación siguen marcando el ciclo.
-- Noticias y eventos:
-  - ASML is prepared for China's rare-earth export controls — finance head says company has stock thanks to long lead times — Tom's Hardware
-  - ASML Holding N.V.: The Indispensable Enabler of the AI Revolution — FinancialContent
+### AAPL — Apple
+  - Precio actual: $255.532
+  - Cambio últimas 24h / sesión: +3.45%
+  - Fundamentales:
+    - PER: 32.19
+    - Crecimiento ingresos: 7.82%
+    - Crecimiento beneficio/EPS: 14.33%
+    - Márgenes: margen neto 27.04%
+    - Deuda / equity: 1.03
+    - ROE: 152.02%
+    - EPS: $7.88
+    - Tendencia 1–3 años: alcista con algo más de madurez
+  - Noticias y eventos:
+    - Home (Apr 1, 2026, 8:00 AM EDT)
+- Apple turns 50, but is it showing its age in the AI race? (Apr 1, 2026, 7:43 AM EDT)
 
-## Acciones Crypto
-### BTC
-- Precio actual: $68,478.00
-- Cambio 24h: 2.40%
-- Métricas cripto:
-  - Market cap: $1,370,386,865,097
-  - Volumen 24h: $56,927,803,858
-  - Oferta circulante/total: 20,009,975 / 20,009,975
-  - Direcciones activas / transacciones: N/D en esta pasada (requiere proveedor on-chain dedicado).
-  - Fees: Fees variables según congestión y liquidaciones; importante vigilar actividad de ETF/custodios.
-  - TVL: No aplica como métrica central de smart contracts; foco principal en liquidez spot y flujos ETF.
-  - Tokenomics básica: Bitcoin is the world's first decentralized cryptocurrency, created in 2009 by the pseudonymous Satoshi Nakamoto…
-- Noticias y eventos:
-  - Bitcoin ETFs Absorb 8,260 BTC in Single Day, Outpacing Mining Supply — Bitcoinsensus
-  - Crypto Market 2025: Year-End Review & Expert Insights — TradingView
+### ASML — ASML
+  - Precio actual: $1164.8
+  - Cambio últimas 24h / sesión: +3.45%
+  - Fundamentales:
+    - PER: 44.07
+    - Crecimiento ingresos: 13.48%
+    - Crecimiento beneficio/EPS: 19.86%
+    - Márgenes: margen neto 29.42%
+    - Deuda / equity: 0.24
+    - ROE: 50.46%
+    - EPS: $29.01
+    - Tendencia 1–3 años: alcista
+  - Noticias y eventos:
+    - Home (2026-03-31T18:03:29.000Z)
+- 2026-03-31T10:00:00.000Z (Mon, 30 Mar 2026 15:08:00 -0400)
 
-### ETH
-- Precio actual: $2,128.27
-- Cambio 24h: 3.26%
-- Métricas cripto:
-  - Market cap: $256,902,261,719
-  - Volumen 24h: $21,897,771,108
-  - Oferta circulante/total: 120,691,362 / 120,691,362
-  - Direcciones activas / transacciones: N/D en esta pasada (requiere proveedor on-chain dedicado).
-  - Fees: Fees ligadas a actividad L1/L2; upgrades y blobs impactan costes y captura de valor.
-  - TVL: TVL líder en DeFi/L2; referencia estructural para lending, DEX y stablecoins.
-  - Tokenomics básica: Ethereum is a global, open-source platform for decentralized applications…
-- Noticias y eventos:
-  - Why Is Ethereum Going Up? Key Factors Behind ETH's Price Surge — MEXC
-  - Ether Dips Below $2,000 as Early 2026 Selloff Continues Amid Recession Fears and Institutional Pullb — AD HOC NEWS
+## Crypto
 
-### XRP
-- Precio actual: $1.35
-- Cambio 24h: 2.51%
-- Métricas cripto:
-  - Market cap: $83,118,320,229
-  - Volumen 24h: $2,154,940,963
-  - Oferta circulante/total: 61,405,531,717 / 99,985,687,636
-  - Direcciones activas / transacciones: N/D en esta pasada (requiere proveedor on-chain dedicado).
-  - Fees: Fees muy bajas; tesis más vinculada a pagos/settlement que a smart contracts.
-  - TVL: TVL limitada frente a ETH/SOL; posicionamiento más claro en pagos.
-  - Tokenomics básica: XRP is a decentralized digital asset and the native token of the XRP Ledger, a Layer 1 blockchain designed for high-performance global payments…
-- Noticias y eventos:
-  - Ripple's XRP Poised to Revolutionize Global Payments Amidst Regulatory Clarity and Strategic Expansion — FinancialContent
-  - xrp soars 428% — European Business Magazine
+### BTC — Bitcoin
+  - Precio actual: $68376
+  - % últimas 24h: +2.00%
+  - Métricas/fundamentales:
+    - Market cap: $1.37T
+    - Volumen 24h: $57.10B
+    - Oferta: circulante 20,009,975 / total 20,009,975
+    - Direcciones activas: n/d en esta pasada (fuentes públicas heterogéneas sin API key)
+    - Transacciones / fees: n/d en esta pasada; seguir dashboard on-chain específico si hace falta precisión operativa
+    - TVL: n/d
+    - Tokenomics básica: emisión máxima de 21M, activo dominante como reserva del ecosistema.
+  - Noticias y eventos:
+    - Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly — research.google
+- Bitcoin, Ethereum or Solana? How Beginners Decide — money.com
 
-### SOL
-- Precio actual: $83.20
-- Cambio 24h: 2.54%
-- Métricas cripto:
-  - Market cap: $47,649,567,666
-  - Volumen 24h: $3,841,034,035
-  - Oferta circulante/total: 572,610,785 / 572,610,842
-  - Direcciones activas / transacciones: N/D en esta pasada (requiere proveedor on-chain dedicado).
-  - Fees: Fees muy bajas y throughput alto; vigilar estabilidad de red y concentración de actividad.
-  - TVL: TVL relevante en DeFi/DEX; muy sensible a actividad retail, stablecoins y memecoins.
-  - Tokenomics básica: Solana is a high-performance Layer 1 blockchain designed for mass adoption by providing a fast, secure, and low-cost environment for decentralized applications…
-- Noticias y eventos:
-  - Solana 2025 Recap: SOL Goes Institutional After Outgrowing Meme Coin Phase — CoinMarketCap
-  - Solana at a Breaking Point: Fading Memecoin Hype and Alameda Unlocks Test the $140 Support Zone — TradingView
+### ETH — Ethereum
+  - Precio actual: $2126.06
+  - % últimas 24h: +3.01%
+  - Métricas/fundamentales:
+    - Market cap: $257.07B
+    - Volumen 24h: $21.99B
+    - Oferta: circulante 120,691,362 / total 120,691,362
+    - Direcciones activas: n/d en esta pasada (fuentes públicas heterogéneas sin API key)
+    - Transacciones / fees: n/d en esta pasada; seguir dashboard on-chain específico si hace falta precisión operativa
+    - TVL: $112.02B
+    - Tokenomics básica: sin tope fijo; quema EIP-1559 y staking sostienen la oferta neta.
+  - Noticias y eventos:
+    - Current price of Ethereum for April 1, 2026 — Fortune
+- Bitcoin, Ethereum or Solana? How Beginners Decide — money.com
+
+### XRP — XRP Ledger
+  - Precio actual: $1.35
+  - % últimas 24h: +2.38%
+  - Métricas/fundamentales:
+    - Market cap: $83.06B
+    - Volumen 24h: $2.16B
+    - Oferta: circulante 61,405,531,717 / total 99,985,687,636
+    - Direcciones activas: n/d en esta pasada (fuentes públicas heterogéneas sin API key)
+    - Transacciones / fees: n/d en esta pasada; seguir dashboard on-chain específico si hace falta precisión operativa
+    - TVL: n/d
+    - Tokenomics básica: suministro máximo de 100B XRP; unlocks y tesorería de Ripple siguen siendo la referencia clave.
+  - Noticias y eventos:
+    - Bitget Wallet Brings XRP Ledger and RLUSD Stablecoin Payments to its 90M Users — WFXG
+- Ripple turns to AI to stress-test the XRP Ledger as institutional use cases scale — CoinDesk
+
+### SOL — Solana
+  - Precio actual: $83.08
+  - % últimas 24h: +2.40%
+  - Métricas/fundamentales:
+    - Market cap: $47.62B
+    - Volumen 24h: $3.83B
+    - Oferta: circulante 572,610,785 / total 572,610,842
+    - Direcciones activas: n/d en esta pasada (fuentes públicas heterogéneas sin API key)
+    - Transacciones / fees: n/d en esta pasada; seguir dashboard on-chain específico si hace falta precisión operativa
+    - TVL: $13.37B
+    - Tokenomics básica: inflación decreciente con emisión para validadores; foco en throughput y actividad de apps.
+  - Noticias y eventos:
+    - Bitcoin, Ethereum or Solana? How Beginners Decide — money.com
+- Should You Forget Dogecoin and Buy a More Serious Cryptocurrency Instead? — The Motley Fool
