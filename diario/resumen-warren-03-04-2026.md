@@ -1,52 +1,81 @@
 # Resumen Warren — 03-04-2026
 
 ## Resumen ejecutivo
-Sesión con tono mixto pero bastante selectivo. La lectura combinada de España, EEUU y cripto apunta a un mercado donde sigue mandando la calidad del flujo de beneficios, la narrativa de IA/semi y la tolerancia al riesgo macro. No parece un día de risk-on limpio: hay tramos de fortaleza táctica, pero conviven con sensibilidad alta a valoración, tipos y titulares regulatorios. En este contexto, lo útil no es perseguir movimientos aislados, sino identificar qué noticias cambian de verdad la tesis de cada activo.
+Sesión mixta con tono constructivo, pero sin anchura total: en España destaca la fortaleza relativa de Repsol e Iberdrola, mientras Santander corrige pese a unos fundamentales todavía sólidos. En EEUU el bloque tech sigue fuerte en calidad, pero el cierre deja rotación selectiva: Nvidia y Apple aguantan, Amazon cede levemente y ASML sufre una toma de beneficios más clara. En cripto, el tono es positivo en los cuatro activos seguidos, con BTC y ETH sosteniendo la estructura macro y SOL/XRP aportando más beta táctica.
 
-## Highlights
-- Noticias y eventos: BlackRock plots staked Ethereum ETF as Vitalik Buterin warns of Wall Street capture - dlnews.com; SEC delays decisions on staking for Ethereum ETFs, along with XRP and SOL funds - The Block; SEC Punts on BlackRock Ethereum ETF Staking, Franklin XRP and Solana Fund Decisions - Yahoo Finance
-- Beneficio de Santander sube un 12% a 14.100 millones de euros en 2025 y anuncia recompra (Wed, 04 Feb 2026 08:00:00 GMT) — https://news.google.com/rss/articles/CBMizgFBVV95cUxOVmJjRGxLX3UxNHJkSmI3NWpBN2xpcnpNV2dfSEZGbXVHX1F3MUNNcGdLSTI2eVNuakRrSHJucDRiWkFxd2p1eEhhZUhvejFidlR4OFlmVVJVQ1N4YldjWGtwQ281ZzNBTU9zUm9RZVRKYUpLNGJrY1dmdVJ1TnY0SVBoZDZaTXRybU5fbmNvLXcyQlZSZEMxUUttOG9kMWk1cXZnVUw3QVF0bVRaZTBCOTVobjhrU3gwNWptZTRQZGZVbTB1WWJYczBtTFhpUQ?oc=5
-- Noticias y eventos: Solana Price Prediction 2026, 2027 and 2030: Will SOL Recover from This Crypto Winter? - Bitget; Solana’s $2.85B Revenue Explosion: Why It Could Outperform Ethereum in 2026 - 24/7 Wall St.; Solana Value Explained: What's Driving SOL and How to Read It - MEXC
-- Noticias y eventos: upgrades/hard forks (p.ej. Ethereum/Solana), hacks, regulación, partnerships clave, movimientos grandes on-chain hacia/desde exchanges.
-- Bitcoin Price Prediction: What To Expect From BTC In April 2026 - BeInCrypto — https://news.google.com/rss/articles/CBMia0FVX3lxTE1yaEpqbmpLQzRlMl9idHRENGVVTVJvVnVSM3NDOWx2VmhoZUY3S2tDV3p0b1JxM1ZraDBnLWh1VjVuWEJSMFpTT1FoYnNHTjBNaWVBOFRRNmN4REM2bzYtd05jTzJ6Q1BsdEJF?oc=5
-- XRP News: Could Ripple’s New Deal With a $190 Billion Payments Giant Help XRP Price Recovery? - Yahoo Finance — https://news.google.com/rss/articles/CBMilgFBVV95cUxPMXpDOHlXU0gyR3JLLW1ERlJJck1RVnNkLUtFdEJqLVNRVFpvSmYzNjNsbzEwalpoejlOY2l1T2FBb1A2NEpNRnRtblRxWGd5bG1DTkxlM3BxbmVZVzZ3TzBrSngyaVp6eU5IRF9LQXdXaDNJS2dpeDF4aXVtcWdHT3RVS2YzX1NDLUJBM0h2X3MtdTRvS2c?oc=5
-
-## Riesgos
-- Noticias y eventos: upgrades/hard forks (p.ej. Ethereum/Solana), hacks, regulación, partnerships clave, movimientos grandes on-chain hacia/desde exchanges.
-- Resultados del tercer trimestre de Repsol en línea; fuerte flujo de caja compensa debilidad en upstream (Thu, 30 Oct 2025 07:00:00 GMT) — https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQVR2MGRXYzY2aEN2RC1BcDdvVHFPMUk3VXFCOENOV2RrSkZoODVVZGVGQWlXN2gyYXNYWGIyNFoxWVVpNHpkY3hkYmh5bEpOLVdrNXl4VHdhVU44T01hVWx1VVFsVUhZUUd6aVFSMnd4a1ZpYVVPM2d0RWt2b0N5WG54ZEtUSlVpUHRMci1HaUhoX2p1ZHMtZDgxZktnNmdlNFhfbEdzcXlKNW8zLWJQVTZkRFlSMk9oUDFPQTNGVXFZblo0VE5LcGpYVkd3cUZWZW9keG1tZjlmODU3UXNvZHB6UQ?oc=5
-- XRP depende bastante del binomio regulación + adopción institucional de RippleNet/ODL.
-- Métricas: market cap $45.48B; volumen 24h $3.06B; oferta circulante/total 572,729,649 circulante / sin tope fijo estricto; direcciones activas/transacciones/fees: actividad on-chain muy alta por DEX, pagos y memecoins; fees bajas; TVL $5.42B; tokenomics inflación descendente y fuerte peso del staking
-- Tokenomics básica: Inflación desinflacionaria con staking; fees bajas; fuerte sensibilidad a actividad on-chain y emisiones de validadores.
+## Highlights del día
+- **España:** Repsol lidera con **+3,90%** e Iberdrola suma **+1,44%**; Santander cae **-1,73%** pero mantiene ROE y crecimiento de beneficio robustos.
+- **EEUU:** **NVDA +0,93%** y **AAPL +0,11%** sostienen el sesgo favorable del mega-cap tech; **ASML -3,13%** es el principal ajuste del día.
+- **Crypto:** las cuatro posiciones monitorizadas están en verde; **SOL +1,65%** lidera, seguida de **ETH +1,43%**, **XRP +1,30%** y **BTC +0,99%**.
+- **Calidad fundamental:** NVDA sigue siendo el activo con mejor combinación de crecimiento + márgenes + balance; ETH continúa dominando TVL dentro del bloque cripto.
 
 ## Cambios clave
-- Noticias y eventos: upgrades/hard forks (p.ej. Ethereum/Solana), hacks, regulación, partnerships clave, movimientos grandes on-chain hacia/desde exchanges.
-- Tendencia 1–3 años: precio 1Y 54.5%, precio 3Y 185.5%; ingresos 2022→2025: 54.2B → 60.7B; beneficio neto 2022→2025: 9.6B → 14.1B
-- Tendencia 1–3 años: precio 1Y 101.2%, precio 3Y 68.2%; ingresos 2022→2025: 75.2B → 54.9B; beneficio neto 2022→2025: 4.3B → 1.9B
-- Resultados del tercer trimestre de Repsol en línea; fuerte flujo de caja compensa debilidad en upstream (Thu, 30 Oct 2025 07:00:00 GMT) — https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQVR2MGRXYzY2aEN2RC1BcDdvVHFPMUk3VXFCOENOV2RrSkZoODVVZGVGQWlXN2gyYXNYWGIyNFoxWVVpNHpkY3hkYmh5bEpOLVdrNXl4VHdhVU44T01hVWx1VVFsVUhZUUd6aVFSMnd4a1ZpYVVPM2d0RWt2b0N5WG54ZEtUSlVpUHRMci1HaUhoX2p1ZHMtZDgxZktnNmdlNFhfbEdzcXlKNW8zLWJQVTZkRFlSMk9oUDFPQTNGVXFZblo0VE5LcGpYVkd3cUZWZW9keG1tZjlmODU3UXNvZHB6UQ?oc=5
-- Tendencia 1–3 años: precio 1Y 34.0%, precio 3Y 79.2%; ingresos 2022→2025: 53.9B → 44.1B; beneficio neto 2022→2025: 4.3B → 6.3B
-- Métricas: market cap $1.33T; volumen 24h $36.47B; oferta circulante/total 19.67M circulante aprox. / 21.00M; direcciones activas/transacciones/fees: fees y actividad on-chain elevadas cuando repunta la demanda por bloques/ordinals; TVL n/a (activo base, no L1 smart-contract dominante); tokenomics rígida y emisión decreciente por halvings
+- **Santander (SAN):** la caída diaria contrasta con una tendencia de 1–3 años muy positiva y con mejora de BPA; parece más consolidación que deterioro estructural.
+- **Repsol (REP):** rebote fuerte apoyado en caja, aunque con ingresos y beneficio más débiles que en 2022–2023; sigue muy expuesta a ciclo energético.
+- **Iberdrola (IBE):** continúa mostrando perfil defensivo con mejora de beneficio y narrativa favorable en renovables.
+- **Amazon (AMZN):** ligera debilidad táctica (**-0,38%**), pero la tesis sigue siendo expansión de márgenes + monetización de IA/cloud.
+- **Nvidia (NVDA):** mantiene momentum; cualquier relajación regulatoria en exportaciones de chips refuerza la tesis.
+- **Apple (AAPL):** avanza poco, pero sigue cerca de zona alta; el mercado sigue vigilando IA + servicios para compensar madurez del iPhone.
+- **ASML:** caída relevante a corto plazo, pero sin romper la tesis estructural: sigue siendo cuello de botella crítico del stack semiconductor.
+- **BTC/ETH:** mantienen sesgo de activo macro/layer base del ecosistema; ETH conserva ventaja clara en TVL y utilidad.
+- **XRP/SOL:** bloque más narrativo/especulativo; XRP depende de institucionalización y regulación, SOL de actividad on-chain y estabilidad de red.
+
+## Riesgos a vigilar
+- **Macro y tipos:** si reaparece presión en tipos o desaceleración, banca y growth podrían sufrir compresión simultánea.
+- **Regulación IA / semis:** NVDA y ASML siguen sensibles a export controls, China y política industrial.
+- **Petróleo / márgenes refino:** Repsol puede girar rápido si cae el crudo o se estrechan márgenes.
+- **Crypto:** volatilidad regulatoria, flujos ETF y rotación de riesgo pueden alterar rápido BTC/ETH; SOL y XRP tienen mayor beta y riesgo narrativo.
+- **Resultados próximos:** AMZN, AAPL y ASML tienen catalizadores de resultados relativamente cerca; cualquier guidance flojo puede pesar más que el spot diario.
 
 ## Acciones mañana
-- Revisar en EEUU si el movimiento en mega caps viene por fundamentales, múltiplos o sensibilidad a tipos; especialmente NVDA y ASML por lectura de ciclo IA/semi.
-- Confirmar en España si SAN/REP/IBE rompen niveles o solo están ajustando beta de mercado; comprobar noticias corporativas y sensibilidad a yields/energía.
-- Actualizar mañana el mapa de riesgos macro: tipos, petróleo, dólar y titulares regulatorios en IA/cripto.
-- Separar ruido de señal: priorizar cambios que alteren tesis, guía, márgenes o asignación de capital frente a simples movimientos de precio.
+- Revisar si la caída de **ASML** continúa o se estabiliza: posible oportunidad si el retroceso no viene con deterioro de tesis.
+- Vigilar si **SAN** recupera la zona de 9,8 EUR o si pierde momentum frente a IBE/REP dentro del bloque España.
+- Confirmar continuidad del momentum en **NVDA** tras titulares sobre chips/exportaciones.
+- Seguir **BTC** sobre la zona de 66k y **ETH** sobre 2,0k: mientras aguanten, el tono general cripto sigue constructivo.
+- Revisar si **SOL** mantiene liderazgo relativo frente a ETH/XRP; si no, podría ser rotación táctica de corto plazo.
 
 ## Precios actuales
 
 ### Empresas España
-- SAN: €9,81 (+4,38%)
-- REP: €24,27 (+0,83%)
-- IBE: €20,36 (+6,46%)
+- **SAN:** 9,814 EUR (**-1,73% 24h**)
+- **REP:** 24,270 EUR (**+3,90% 24h**)
+- **IBE:** 20,360 EUR (**+1,44% 24h**)
 
 ### Empresas EEUU
-- AMZN: $209,77 (+1,07%)
-- NVDA: $177,39 (+3,59%)
-- AAPL: $255,92 (+1,20%)
-- ASML: $1.317,23 (-0,92%)
+- **AMZN:** 209,77 USD (**-0,38%**)
+- **NVDA:** 177,39 USD (**+0,93%**)
+- **AAPL:** 255,92 USD (**+0,11%**)
+- **ASML:** 1.317,23 USD (**-3,13%**)
 
 ### Crypto
-- BTC: $66.869 (-0,16%)
-- ETH: $2.053 (-0,80%)
-- XRP: $1,320 (+0,07%)
-- SOL: $80,25 (+1,37%)
+- **BTC:** 66.981,00 USD (**+0,99% 24h**)
+- **ETH:** 2.062,74 USD (**+1,43% 24h**)
+- **XRP:** 1,32 USD (**+1,30% 24h**)
+- **SOL:** 80,04 USD (**+1,65% 24h**)
+
+## Telegram corto
+**Resumen Warren 03-04-2026**
+
+Día mixto pero razonablemente constructivo. En España tiran **Repsol** e **Iberdrola**, mientras **Santander** corrige sin dañar todavía la tesis. En EEUU, **Nvidia** sigue fuerte, **Apple** aguanta, **Amazon** flojea un poco y **ASML** sufre una corrección más seria. En crypto, tono positivo general con **SOL** liderando y **BTC/ETH** manteniendo estructura.
+
+**Claves**
+- España: REP fuerte, IBE defensiva, SAN corrige pero sigue sólida en fundamentales.
+- EEUU: NVDA mantiene momentum; ASML cae y pasa a vigilancia.
+- Crypto: sesgo risk-on moderado; BTC/ETH sostienen, SOL/XRP añaden beta.
+
+**Precios — España**
+- SAN: 9,814 EUR (-1,73%)
+- REP: 24,270 EUR (+3,90%)
+- IBE: 20,360 EUR (+1,44%)
+
+**Precios — EEUU**
+- AMZN: 209,77 USD (-0,38%)
+- NVDA: 177,39 USD (+0,93%)
+- AAPL: 255,92 USD (+0,11%)
+- ASML: 1.317,23 USD (-3,13%)
+
+**Precios — Crypto**
+- BTC: 66.981,00 USD (+0,99%)
+- ETH: 2.062,74 USD (+1,43%)
+- XRP: 1,32 USD (+1,30%)
+- SOL: 80,04 USD (+1,65%)
