@@ -1,117 +1,55 @@
-# EEUU + Crypto — 03-04-2026
+# EEUU + Crypto
 
-- **Acciones EEUU**
+## Acciones EEUU
+### AMZN
+- Precio actual: $209.77 (-0.80 (-0.38%))
+- Cambio últimas 24h/sesión: -0.80 (-0.38%)
+- Fundamentales: PER 29.26; ingresos TTM 716.92B; beneficio neto TTM 77.67B; márgenes bruto/op./neto 50.29% / 11.16% / 10.83%; deuda/equity 0.43; ROE 22.29%; EPS $7.17
+- Tendencia 1–3 años: 52 semanas +9.16%; 50d 215.00 vs 200d 224.55; consenso analistas Strong Buy; crecimiento esperado ingresos/EPS a 5 años 11.75% / 18.52%
+- Noticias y eventos: próximos resultados estimados Apr 30, 2026; último split Jun 6, 2022 (20:1). Titulares recientes: The Titan of Two Worlds: A Deep-Dive into Amazon’s 2026 Strategic Pivot - The Chronicle-Journal; Amazon’s OpenAI Bet, Antitrust Pressure And AI Turnover Weigh On Valuation - Yahoo Finance; Big Tech Stock Pick of 2026: Amazon - No Mercy / No Malice
 
-- **AMZN (Amazon)**
-  - Precio actual: $209.77
-  - Porcentaje de cambio en las últimas 24 horas: -0.06%
-  - Fundamentales acciones:
-    - PER: 29.256624
-    - Crecimiento ingresos/beneficios: ingresos +13.60%; beneficios +5.00%
-    - Márgenes: neto +10.83%; operativo +10.53%
-    - Deuda/equity: 43.435
-    - ROE: +22.29%
-    - EPS: 7.17
-    - Tendencia 1–3 años: 1 año +13.75%; 3 años +73.97%
-  - Noticias y eventos:
-    - AI Tracker: Ambience Healthcare launches AI tool for nurses - Modern Healthcare
-    - Will Globalstar hit new highs following Amazon acquisition speculation? - TradingView
+### NVDA
+- Precio actual: $177.39 (+1.64 (0.93%))
+- Cambio últimas 24h/sesión: +1.64 (0.93%)
+- Fundamentales: PER 36.20; ingresos TTM 215.94B; beneficio neto TTM 120.07B; márgenes bruto/op./neto 71.07% / 60.38% / 55.60%; deuda/equity 0.07; ROE 101.49%; EPS $4.90
+- Tendencia 1–3 años: 52 semanas +61.04%; 50d 182.65 vs 200d 179.82; consenso analistas Strong Buy; crecimiento esperado ingresos/EPS a 5 años 25.95% / 22.05%
+- Noticias y eventos: próximos resultados estimados Feb 25, 2026; último split Jun 10, 2024 (10:1). Titulares recientes: Government Drops Sweeping AI Chip Export Rules: Can Nvidia Start Growing Again? - 24/7 Wall St.; Nvidia Sales Jump 56%, a Sign the A.I. Boom Isn’t Slowing Down - The New York Times; Nvidia CEO Huang says bringing Blackwell AI chip to China 'is a real possibility' - CNBC
 
-- **NVDA (NVIDIA)**
-  - Precio actual: $177.39
-  - Porcentaje de cambio en las últimas 24 horas: +0.74%
-  - Fundamentales acciones:
-    - PER: 36.20204
-    - Crecimiento ingresos/beneficios: ingresos +73.20%; beneficios +95.60%
-    - Márgenes: neto +55.60%; operativo +65.02%
-    - Deuda/equity: 7.255
-    - ROE: +101.48%
-    - EPS: 4.9
-    - Tendencia 1–3 años: 1 año +62.86%; 3 años +368.86%
-  - Noticias y eventos:
-    - NVIDIA Announces Financial Results for Third Quarter Fiscal 2026 - NVIDIA Newsroom
-    - Nvidia reports earnings and guidance beat as AI boom pushes data center revenue up 75% - CNBC
+### AAPL
+- Precio actual: $255.92 (+0.29 (0.11%))
+- Cambio últimas 24h/sesión: +0.29 (0.11%)
+- Fundamentales: PER 32.46; ingresos TTM 435.62B; beneficio neto TTM 117.78B; márgenes bruto/op./neto 47.33% / 32.38% / 27.04%; deuda/equity 1.03; ROE 152.02%; EPS $7.88
+- Tendencia 1–3 años: 52 semanas +14.67%; 50d 260.36 vs 200d 249.15; consenso analistas Buy; crecimiento esperado ingresos/EPS a 5 años 7.82% / 14.33%
+- Noticias y eventos: próximos resultados estimados Apr 30, 2026; último split Aug 31, 2020 (4:1). Titulares recientes: Apple (AAPL): Can AI and Services Offset iPhone Maturation? - TipRanks; Strong iPhone sales to power Apple's holiday quarter, Google AI deal in focus - Reuters; Apple at $4 Trillion: Navigating the AI Supercycle and Regulatory Storms - FinancialContent
 
-- **AAPL (Apple)**
-  - Precio actual: $255.92
-  - Porcentaje de cambio en las últimas 24 horas: +0.37%
-  - Fundamentales acciones:
-    - PER: 32.35398
-    - Crecimiento ingresos/beneficios: ingresos +15.70%; beneficios +18.30%
-    - Márgenes: neto +27.04%; operativo +35.37%
-    - Deuda/equity: 102.63
-    - ROE: +152.02%
-    - EPS: 7.91
-    - Tendencia 1–3 años: 1 año +20.43%; 3 años +44.38%
-  - Noticias y eventos:
-    - Apple Stock (AAPL) Opinions on AI Model Release and Regulatory Fine | AAPL Stock News - Quiver Quantitative
-    - After Earnings, Is Apple Stock a Buy, a Sell, or Fairly Valued? - Morningstar
+### ASML
+- Precio actual: $1,317.23 (-42.53 (-3.13%))
+- Cambio últimas 24h/sesión: -42.53 (-3.13%)
+- Fundamentales: PER 45.77; ingresos TTM 38.36B; beneficio neto TTM 11.28B; márgenes bruto/op./neto 52.83% / 34.60% / 29.42%; deuda/equity 0.24; ROE 50.46%; EPS $29.01
+- Tendencia 1–3 años: 52 semanas +97.39%; 50d 1,394.93 vs 200d 1,052.11; consenso analistas Buy; crecimiento esperado ingresos/EPS a 5 años 13.48% / 19.86%
+- Noticias y eventos: próximos resultados estimados Apr 15, 2026; último split Oct 1, 2007 (1:1.13). Titulares recientes: ASML Post-Earnings: Too Much Is Still About China (NASDAQ:ASML) - Seeking Alpha; ASML Holding N.V.: The Indispensable Enabler of the AI Revolution - FinancialContent; What To Expect From ASML In 2026? - Trefis
 
-- **ASML (ASML)**
-  - Precio actual: $1,317.23
-  - Porcentaje de cambio en las últimas 24 horas: -3.55%
-  - Fundamentales acciones:
-    - PER: 46.089222
-    - Crecimiento ingresos/beneficios: ingresos +4.90%; beneficios +7.20%
-    - Márgenes: neto +29.42%; operativo +35.30%
-    - Deuda/equity: 23.916
-    - ROE: +50.46%
-    - EPS: 28.58
-    - Tendencia 1–3 años: 1 año +97.17%; 3 años +82.21%
-  - Noticias y eventos:
-    - ASML Stock Climbed 83% Last Year. Here’s Why It Could Deliver 80% More Upside - TIKR.com
-    - ASML Earnings Preview: Facing High Bar for Earnings Beat After Near 30% Rally in 2026 - TradingKey
+## Acciones Crypto
+### BTC
+- Precio actual: $66,617
+- Cambio últimas 24h: 1.05%
+- Métricas: market cap $1.33T; volumen 24h $36.47B; oferta circulante/total 19.67M circulante aprox. / 21.00M; direcciones activas/transacciones/fees: fees y actividad on-chain elevadas cuando repunta la demanda por bloques/ordinals; TVL n/a (activo base, no L1 smart-contract dominante); tokenomics rígida y emisión decreciente por halvings
+- Noticias y eventos: Crypto Market Update: CoinShares Makes Nasdaq Debut via SPAC Deal - investingnews.com; WGMI Product Guide - ETF Trends; Blockchain Accelerates as Innovation Meets Regulatory Clarity - Global X ETFs
 
-- **Acciones Crypto**
+### ETH
+- Precio actual: $2,046
+- Cambio últimas 24h: 0.80%
+- Métricas: market cap $247.18B; volumen 24h $13.81B; oferta circulante/total 120,691,290 circulante / sin tope fijo; direcciones activas/transacciones/fees: fees y direcciones activas ligadas a uso de L2, DeFi y stablecoins; TVL $52.94B; tokenomics emisión neta flexible con quema EIP-1559 y staking
+- Noticias y eventos: BlackRock plots staked Ethereum ETF as Vitalik Buterin warns of Wall Street capture - dlnews.com; SEC delays decisions on staking for Ethereum ETFs, along with XRP and SOL funds - The Block; SEC Punts on BlackRock Ethereum ETF Staking, Franklin XRP and Solana Fund Decisions - Yahoo Finance
 
-- **BTC (Bitcoin)**
-  - Precio actual: $66,645.00
-  - Porcentaje de cambio en las últimas 24 horas: +1.09%
-  - Métricas cripto:
-    - Market cap: $1.33T
-    - Volumen 24h: $36.23B
-    - Oferta circulante/total: 20010912.0 / 20010912.0
-    - Direcciones activas / transacciones / fees: n/d / 484082 / $0.3476733038209436
-    - Tokenomics básica: oferta máxima 21M; activo monetario base sin TVL DeFi comparable
-  - Noticias y eventos:
-    - Saudi Arabia Cryptocurrency Exchange Market: Digital Assets Adoption, Regulatory Evolution & Market Expansion - vocal.media
-    - Stablecoin compromise reveals shift beyond “us versus them” mentality - FinTech Weekly
+### XRP
+- Precio actual: $1.32
+- Cambio últimas 24h: 2.45%
+- Métricas: market cap $80.97B; volumen 24h $1.86B; oferta circulante/total 61,405,531,717 circulante / 100.00B; direcciones activas/transacciones/fees: fees bajas y foco en liquidación/pagos; TVL reducida frente a ETH/SOL; tokenomics oferta preemitida con liberaciones controladas por Ripple
+- Noticias y eventos: Why Ripple Matters in 2026 — And It’s Not About XRP’s Price - CCN.com; XRP Under Fire: Can Ripple Survive Lawsuits, Stablecoins and an ETF Race? - AD HOC NEWS; What’s Behind XRP’s Institutional Push in Late 2025? - Yahoo Finance
 
-- **ETH (Ethereum)**
-  - Precio actual: $2,047.49
-  - Porcentaje de cambio en las últimas 24 horas: +0.86%
-  - Métricas cripto:
-    - Market cap: $247.18B
-    - Volumen 24h: $13.73B
-    - Oferta circulante/total: n/d / n/d
-    - Direcciones activas / transacciones / fees: n/d / n/d / $0.11018829909112492
-    - TVL (en ETH): $19.11B (proxy pública de ecosistema)
-  - Noticias y eventos:
-    - Crypto Market Update: CoinShares Makes Nasdaq Debut via SPAC Deal - investingnews.com
-    - Bank of America upgrades Coinbase (COIN) to 'Buy' as it moves beyond crypto with stocks, prediction markets - CoinDesk
-
-- **XRP (XRP)**
-  - Precio actual: $1.32
-  - Porcentaje de cambio en las últimas 24 horas: +2.45%
-  - Métricas cripto:
-    - Market cap: $80.97B
-    - Volumen 24h: $1.87B
-    - Oferta circulante/total: n/d / n/d
-    - Direcciones activas, transacciones y fees: n/d homogéneo vía fuente pública única usada hoy
-    - Tokenomics básica: oferta y desbloqueos siguen afectando la presión de mercado/liquidez
-  - Noticias y eventos:
-    - XRP Ledger Launches 'Members-Only' Exchange For Banks, But XRP Can't Break $1.50 - Yahoo Finance
-    - XRP Availability By Country: Where It’s Listed (2026 Update) - InvestingHaven
-
-- **SOL (Solana)**
-  - Precio actual: $79.40
-  - Porcentaje de cambio en las últimas 24 horas: +2.50%
-  - Métricas cripto:
-    - Market cap: $45.46B
-    - Volumen 24h: $3.06B
-    - Oferta circulante/total: n/d / n/d
-    - Direcciones activas, transacciones y fees: n/d homogéneo vía fuente pública única usada hoy
-    - TVL (en SOL): n/d (proxy pública de ecosistema)
-  - Noticias y eventos:
-    - ING opens retail access to Bitcoin, Ethereum, Solana ETPs in Germany - The Block
-    - Bank of America upgrades Coinbase (COIN) to 'Buy' as it moves beyond crypto with stocks, prediction markets - CoinDesk
+### SOL
+- Precio actual: $79.41
+- Cambio últimas 24h: 2.52%
+- Métricas: market cap $45.48B; volumen 24h $3.06B; oferta circulante/total 572,729,649 circulante / sin tope fijo estricto; direcciones activas/transacciones/fees: actividad on-chain muy alta por DEX, pagos y memecoins; fees bajas; TVL $5.42B; tokenomics inflación descendente y fuerte peso del staking
+- Noticias y eventos: Solana Price Prediction 2026, 2027 and 2030: Will SOL Recover from This Crypto Winter? - Bitget; Solana’s $2.85B Revenue Explosion: Why It Could Outperform Ethereum in 2026 - 24/7 Wall St.; Solana Value Explained: What's Driving SOL and How to Read It - MEXC
