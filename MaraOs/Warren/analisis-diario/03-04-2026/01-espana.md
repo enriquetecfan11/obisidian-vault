@@ -1,14 +1,49 @@
-- **Acciones  ESPAÑA**
-	- SAN, REP,  IBE
-	- Precio actual 
-    - SAN: 9.442 EUR | REP: 24.27 EUR | IBE: 20.36 EUR.
-	- Porcentaje de cambio en las últimas 24 horas
-    - SAN: +0.24% | REP: +3.90% | IBE: +1.44%.
-    - Fundamentales acciones: PER, crecimiento ingresos/beneficios, márgenes, deuda/equity, ROE, EPS, tendencia 1–3 años.
-        - SAN (Banco Santander): PER 9.14x; ingresos 2025 62,390 M€ (0.29% YoY); beneficio neto 2025 14,101 M€ (12.14% YoY); margen neto 2025 20.21%; deuda/equity n/d como banco; la tabla financiera no reporta net debt y el ratio deuda/equity no es comparable con industriales/utilities.; ROE 2025 13%; EPS 2025 0.77; tendencia 1–3 años: ingresos alcista, beneficio alcista, ROE alcista.
-        - REP (Repsol): PER 7.84x; ingresos 2025 57,218 M€ (0.89% YoY); beneficio neto 2025 1,899 M€ (8.14% YoY); margen neto 2025 3.32%; deuda/equity ~0.24x (aprox. usando net debt 2025 de 5,877 M€ y equity implícito por BVPS 2025); ROE 2025 11.15%; EPS 2025 1.62; tendencia 1–3 años: ingresos alcista, beneficio bajista, ROE bajista.
-        - IBE (Iberdrola): PER 20.7x; ingresos 2025 45,547 M€ (1.8% YoY); beneficio neto 2025 6,285 M€ (11.99% YoY); margen neto 2025 13.8%; deuda/equity ~1.00x (aprox. usando net debt 2025 de 50,182 M€ y equity implícito por BVPS 2025); ROE 2025 12.93%; EPS 2025 0.925; tendencia 1–3 años: ingresos alcista, beneficio alcista, ROE alcista.
-    - Noticias y eventos: earnings, splits, guidance, M&A, regulación sector, cambios directiva, lanzamientos de producto.
-        - SAN: BNP Paribas inició cobertura el 27 Mar con recomendación Outperform y precio objetivo de $15.10. Morgan Stanley subió la recomendación a Overweight el 23 Mar; mejora del tono sell-side en banca española. El 1 Abr el valor apareció en prensa técnica por ruptura de resistencias; catalizador táctico, no fundamental.
-        - REP: Reuters recogió el 2 Abr interés temprano de majors por un stake en un campo deepwater del Golfo de EE.UU.; mantiene foco del mercado en upstream offshore. El 13 Mar se anunció acuerdo de gas en Venezuela con Eni; el 1 Abr seguía el debate sobre la oportunidad y el riesgo país. RBC mejoró la visión el 13 Mar y Goldman Sachs rebajó a Neutral el 19 Mar: consenso mixto, muy sensible a crudo y ejecución internacional.
-        - IBE: El 30 Mar anunció adjudicaciones por €3.5B para el interconector submarino Eastern Green Link 4 en Reino Unido. El 27 Mar comunicó avances en East Anglia TWO; sigue reforzando pipeline de eólica offshore en UK. JP Morgan y Goldman Sachs se mantienen en Neutral; mercado reconoce calidad del activo pero exige disciplina en capex y retorno.
+# ESPAÑA
+
+- **SAN — Banco Santander**
+  - Precio actual: 9.814 EUR
+  - Porcentaje de cambio en las últimas 24 horas: -1.73%
+  - Fundamentales acciones:
+    - PER: 11.68
+    - Crecimiento ingresos: -6.4%
+    - Crecimiento beneficios: 25.3%
+    - Márgenes: neto 30.1%
+    - Deuda/equity: n/d (métrica poco comparable en banca)
+    - ROE: 12.7%
+    - EPS: 0.84 EUR
+    - Tendencia 1–3 años: precio 1Y 54.5%, precio 3Y 185.5%; ingresos 2022→2025: 54.2B → 60.7B; beneficio neto 2022→2025: 9.6B → 14.1B
+  - Noticias y eventos:
+    - Santander logra resultados récord hasta septiembre, suma siete millones de nuevos clientes, hasta 178 millones, y eleva un 16% el beneficio por acción (Wed, 29 Oct 2025 07:00:00 GMT) — https://news.google.com/rss/articles/CBMirAFBVV95cUxNVkxWQ1lKZ2dRa2VQXzFRNF9TX0JvX3VzN0VBbWdpMzhKOVlCRXZrVjljdUhJdGh0R2xPcXZhMkhTM1JOQS16TVItOUg5TkdkdHhNMUduM0xMOUlIdkNiNHNTUjA5bmdkWWZwZ0tvRE9kNDNJUDktWTIyVUZ1cWRfTW5oSHB6WHJuNVVnVFFjS3dkTi1JMV9jclU5bWtqM2EyTmRUc0lHZzV6a3Jf?oc=5
+    - Beneficio de Santander sube un 12% a 14.100 millones de euros en 2025 y anuncia recompra (Wed, 04 Feb 2026 08:00:00 GMT) — https://news.google.com/rss/articles/CBMizgFBVV95cUxOVmJjRGxLX3UxNHJkSmI3NWpBN2xpcnpNV2dfSEZGbXVHX1F3MUNNcGdLSTI2eVNuakRrSHJucDRiWkFxd2p1eEhhZUhvejFidlR4OFlmVVJVQ1N4YldjWGtwQ281ZzNBTU9zUm9RZVRKYUpLNGJrY1dmdVJ1TnY0SVBoZDZaTXRybU5fbmNvLXcyQlZSZEMxUUttOG9kMWk1cXZnVUw3QVF0bVRaZTBCOTVobjhrU3gwNWptZTRQZGZVbTB1WWJYczBtTFhpUQ?oc=5
+
+- **REP — Repsol**
+  - Precio actual: 24.270 EUR
+  - Porcentaje de cambio en las últimas 24 horas: +3.90%
+  - Fundamentales acciones:
+    - PER: 14.98
+    - Crecimiento ingresos: -7.2%
+    - Crecimiento beneficios: n/d
+    - Márgenes: neto 3.9%
+    - Deuda/equity: 47.96
+    - ROE: 7.4%
+    - EPS: 1.62 EUR
+    - Tendencia 1–3 años: precio 1Y 101.2%, precio 3Y 68.2%; ingresos 2022→2025: 75.2B → 54.9B; beneficio neto 2022→2025: 4.3B → 1.9B
+  - Noticias y eventos:
+    - Resultados del tercer trimestre de Repsol en línea; fuerte flujo de caja compensa debilidad en upstream (Thu, 30 Oct 2025 07:00:00 GMT) — https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQVR2MGRXYzY2aEN2RC1BcDdvVHFPMUk3VXFCOENOV2RrSkZoODVVZGVGQWlXN2gyYXNYWGIyNFoxWVVpNHpkY3hkYmh5bEpOLVdrNXl4VHdhVU44T01hVWx1VVFsVUhZUUd6aVFSMnd4a1ZpYVVPM2d0RWt2b0N5WG54ZEtUSlVpUHRMci1HaUhoX2p1ZHMtZDgxZktnNmdlNFhfbEdzcXlKNW8zLWJQVTZkRFlSMk9oUDFPQTNGVXFZblo0VE5LcGpYVkd3cUZWZW9keG1tZjlmODU3UXNvZHB6UQ?oc=5
+    - Indian GP Qualifying Results (Sat, 23 Sep 2023 07:00:00 GMT) — https://news.google.com/rss/articles/CBMid0FVX3lxTE1CaFNKbjliUF9lUmpSbEM0ZUhOOWozRmtBV3BWSG1WR2VacGdtRW96N29Bei05eUxMcjhDNDlOUTh1SHViZndDdXJfXzM1cHNYU0h1WGNFb25HRHRLZC0tTm9DaUFZSzJxQWpJTzU2SVQ5bmNnYlE0?oc=5
+
+- **IBE — Iberdrola**
+  - Precio actual: 20.360 EUR
+  - Porcentaje de cambio en las últimas 24 horas: +1.44%
+  - Fundamentales acciones:
+    - PER: 24.24
+    - Crecimiento ingresos: 0.5%
+    - Crecimiento beneficios: 559.8%
+    - Márgenes: neto 14.3%
+    - Deuda/equity: 93.67
+    - ROE: 10.3%
+    - EPS: 0.84 EUR
+    - Tendencia 1–3 años: precio 1Y 34.0%, precio 3Y 79.2%; ingresos 2022→2025: 53.9B → 44.1B; beneficio neto 2022→2025: 4.3B → 6.3B
+  - Noticias y eventos:
+    - Iberdrola y Caixabank marcan la referencia en percepcion corporativa del IBEX-35, con brechas de hasta 29 puntos según la ia analizada por RepIndex.ai (Wed, 25 Mar 2026 16:32:56 GMT) — https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iMUItOURveXJtS20wUksyUzdBSFRUcDZaSi10akRjSWU0RmtsV3FmcFdCeE5SRE9SM1BOQ3JOWFpHQVJod2lMeHlWWmdWRnhZOVNFbERhVktTNVM1YzFRZ0ppdmhJSW5Y?oc=5
+    - Iberdrola Strom (ES0144580Y14): Energía renovable estratégica para inversores en Sudamérica y Cen (Mon, 30 Mar 2026 10:10:20 GMT) — https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM3ZaNzJnQk5FRTdiSHpTZW56NU1EZW50ajQ5aGVCdVh0aTYtZldqT0VOR0RVSDUtaGRzb1F4UTYzWS1mSzJnS1dTNlo3N1FsUU9NeVdQS20wS3Rta1J4Mmx2M0tET0RfcEV3T29pdjBYTmJfM3RkdUlLWnJnLU55U1hwMWQyM0g5TEhPQ1o4aW4tUTlMeXNLb0FicDhJVUVaanJSeHlyc0Jmd3h1TkFFUWhObVpWcHRN?oc=5
