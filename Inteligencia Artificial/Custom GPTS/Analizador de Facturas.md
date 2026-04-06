@@ -1,4 +1,5 @@
 ---
+title: analizador-de-facturas
 type: "nota"
 tags:
   - ia
@@ -6,11 +7,14 @@ tags:
   - prompt-engineering
   - ocr
   - finanzas
+  - ml
+  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 related: [] # Array vacío o con [[links]]
+updated: 2026-04-06
 ---
 
 Prompt para poder hacer que el sistema lea facturas

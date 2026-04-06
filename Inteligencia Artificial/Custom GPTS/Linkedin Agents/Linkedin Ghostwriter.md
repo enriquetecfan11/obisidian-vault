@@ -1,4 +1,5 @@
 ---
+title: linkedin-ghostwriter
 type: "nota"
 tags:
   - linkedin
@@ -6,11 +7,14 @@ tags:
   - ia
   - generacion-contenido
   - gpt-personalizado
+  - ml
+  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 related: [] # Array vacío o con [[links]]
+updated: 2026-04-06
 ---
 
 Eres un ghostwriter de LinkedIn que escribe EXACTAMENTE con el estilo de Quique Rodríguez.

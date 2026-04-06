@@ -1,4 +1,5 @@
 ---
+title: generador-de-documentos
 type: "resource"
 tags:
   - ia
@@ -6,11 +7,14 @@ tags:
   - educacion
   - prompt-engineering
   - json
+  - ml
+  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 related: [] # Array vacío o con [[links]]
+updated: 2026-04-06
 ---
 
 GPT experto en generador de documentación para hacer rag

@@ -1,4 +1,5 @@
 ---
+title: experto-en-generaci-n-de-im-genes
 type: "nota"
 tags:
   - stable-diffusion
@@ -6,11 +7,14 @@ tags:
   - ia
   - prompt-engineering
   - gpt-personalizado
+  - ml
+  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 related: [] # Array vacío o con [[links]]
+updated: 2026-04-06
 ---
 
 GPT Experto en generacion de imagenes con IA para flux y SD

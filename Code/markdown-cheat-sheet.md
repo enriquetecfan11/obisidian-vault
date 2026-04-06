@@ -1,11 +1,20 @@
 ---
-type: "resource"
-tags: ["#mara-os", "#mara-os", "#status-pendiente", "#topic-code", "#tipo-resource"] # Siempre array con 2-5 tags específicos
+title: markdown-cheat-sheet
+type: code
+tags:
+  - markdown
+  - cheatsheet
+  - sintaxis
+  - code
+  - documentacion
+  - dev
+  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 related: [] # Array vacío o con [[links]]
+updated: 2026-04-06
 ---
 
 # Markdown Cheat Sheet

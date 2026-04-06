@@ -1,4 +1,5 @@
 ---
+title: gu-a-esencial-de-spring-boot-para-principiantes
 type: "project"
 tags:
   - spring-boot
@@ -6,11 +7,15 @@ tags:
   - microservicios
   - backend
   - api-rest
+  - project
+  - work
+  - in-progress
 project: "none"
 status: "en-progreso"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 related: [] # Array vacío o con [[links]]
+updated: 2026-04-06
 ---
 
 ## **1. ¿Qué es Spring Boot?**

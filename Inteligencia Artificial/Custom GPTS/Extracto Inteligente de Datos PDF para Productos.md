@@ -1,4 +1,5 @@
 ---
+title: extracto-inteligente-de-datos-pdf-para-productos
 type: "nota"
 tags:
   - rag
@@ -6,11 +7,14 @@ tags:
   - extraccion-datos
   - ia
   - prompt-engineering
+  - ml
+  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 related: [] # Array vacío o con [[links]]
+updated: 2026-04-06
 ---
 
 Este prompt sirve para generar un extracto de un documento en el que hay productos y servicios para una base de datos vectorial

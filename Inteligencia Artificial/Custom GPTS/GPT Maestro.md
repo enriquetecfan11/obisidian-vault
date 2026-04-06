@@ -1,15 +1,19 @@
 ---
+title: gpt-maestro
 type: "resource"
 tags:
   - gpt-personalizado
   - prompt-engineering
   - ia
   - automatizacion
+  - ml
+  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 related: [] # Array vacío o con [[links]]
+updated: 2026-04-06
 ---
 
 Prompt Original para crear el gpt maestro:

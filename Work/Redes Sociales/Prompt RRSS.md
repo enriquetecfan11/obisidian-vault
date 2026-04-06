@@ -1,4 +1,5 @@
 ---
+title: prompt-rrss
 type: "nota"
 tags:
   - redes-sociales
@@ -6,11 +7,15 @@ tags:
   - prompt-engineering
   - generacion-contenido
   - ia
+  - task
+  - work
+  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 related: [] # Array vacío o con [[links]]
+updated: 2026-04-06
 ---
 
 Prepara contendidos para la semana que viene que no se pisen con los de otras veces solo para 2 días, Martes y Jueves las ultimas entradas y posts han sido estas: 

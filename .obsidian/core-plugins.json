@@ -1,5 +1,5 @@
 {
-  "file-explorer": false,
+  "file-explorer": true,
   "global-search": true,
   "switcher": true,
   "graph": true,
@@ -20,7 +20,7 @@
   "markdown-importer": false,
   "zk-prefixer": false,
   "random-note": false,
-  "outline": false,
+  "outline": true,
   "word-count": true,
   "slides": true,
   "audio-recorder": false,

@@ -1,4 +1,5 @@
 ---
+title: ollama-docker
 type: "resource"
 tags:
   - ollama
@@ -6,14 +7,18 @@ tags:
   - llm
   - n8n
   - configuracion
+  - ia
+  - ml
+  - pending
 project: "N8N Automation"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 related: [] # Array vacío o con [[links]]
+updated: 2026-04-06
 ---
 
-# 🐋 Ollama - Configuración para Docker y Redes
+# 🐋 Ollama - Configuración para [[Docker]] y Redes
 
 ## 🔌 Exponer Ollama en Contenedores Docker
 
@@ -41,7 +46,7 @@ ip -4 addr show docker0 | grep -Po 'inet \K[\d.]+'
 
 ---
 
-### Paso 3: Configurar N8N con la IP de Docker Bridge
+### Paso 3: Configurar [[N8N]] con la IP de Docker Bridge
 
 Usa la IP obtenida seguida del puerto **11434**:
 

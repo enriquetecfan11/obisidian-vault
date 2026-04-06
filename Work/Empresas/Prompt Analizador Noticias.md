@@ -1,4 +1,5 @@
 ---
+title: prompt-analizador-noticias
 type: "resource"
 tags:
   - ia
@@ -6,11 +7,15 @@ tags:
   - prompt-engineering
   - noticias
   - analisis-datos
+  - task
+  - work
+  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 related: [] # Array vacío o con [[links]]
+updated: 2026-04-06
 ---
 
 [SISTEMA]

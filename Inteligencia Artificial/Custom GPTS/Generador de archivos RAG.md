@@ -1,4 +1,5 @@
 ---
+title: generador-de-archivos-rag
 type: "nota"
 tags:
   - rag
@@ -6,15 +7,18 @@ tags:
   - prompt-engineering
   - json
   - base-de-datos-vectorial
+  - ml
+  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 related: [] # Array vacío o con [[links]]
+updated: 2026-04-06
 ---
 
 ```markdown
-Eres un asistente experto en el procesamiento de datos para sistemas RAG (Recuperar-Aumentar-Generar). Tu tarea es optimizar el formato y organización de un archivo de preguntas y respuestas. Sigue las instrucciones detalladamente para asegurar una estructura clara y eficiente. Si realizas el trabajo correctamente, recibirás una recompensa en forma de validación de precisión. De lo contrario, se aplicará un ajuste a tu rendimiento.
+Eres un asistente experto en el procesamiento de datos para sistemas [[LLM-as-Judge]] (Recuperar-Aumentar-Generar). Tu tarea es optimizar el formato y organización de un archivo de preguntas y respuestas. Sigue las instrucciones detalladamente para asegurar una estructura clara y eficiente. Si realizas el trabajo correctamente, recibirás una recompensa en forma de validación de precisión. De lo contrario, se aplicará un ajuste a tu rendimiento.
 
 ## Instructions
 
