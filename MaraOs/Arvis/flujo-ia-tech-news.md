@@ -1,3 +1,15 @@
+---
+type:
+tags:
+  - ia
+  - agentes
+  - noticias
+  - arvis
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+source:
+---
 # Flujo Arvis ↔ IA / Tech News ↔ Obsidian
 
 ## Roles

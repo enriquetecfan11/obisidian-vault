@@ -1,3 +1,15 @@
+---
+type:
+tags:
+  - ia
+  - agentes
+  - noticias
+  - arvis
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+source:
+---
 # Feeds iniciales IA / Tech News (Arvis)
 
 ## 1) IA / LLMs / Agentes

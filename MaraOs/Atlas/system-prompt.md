@@ -1,11 +1,16 @@
 ---
-type: "nota"
-tags: ["#mara-os", "#mara-os", "#status-pendiente", "#topic-ia", "#topic-obsidian"] # Siempre array con 2-5 tags específicos
-project: "MaraOS"
-status: "pendiente"
-date_created: "2026-03-01"
-date_modified: "2026-03-01"
-related: [] # Array vacío o con [[links]]
+type: nota
+tags:
+  - "#mara-os"
+  - "#status-pendiente"
+  - "#topic-ia"
+  - "#topic-obsidian"
+  - atlas
+project: MaraOS
+status: pendiente
+date_created: 2026-03-01
+date_modified: 2026-03-01
+related: []
 ---
 
 # System Prompt — Atlas (Asistente Personal)
