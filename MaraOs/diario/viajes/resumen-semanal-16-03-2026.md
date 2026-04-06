@@ -2,13 +2,18 @@
 Semana: 10-03-2026 → 16-03-2026
 
 ---
-
-# 📝 Registro rápido
-
-- Semana centrada en desplazamientos recurrentes.
-- 12 viajes registrados y 595 km acumulados.
-- Mayor carga de km: miércoles y sábado.
-
+ title: resumen-semanal-16-03-2026
+ type: viaje
+ tags:
+  - "#diario"
+  - "#viajes"
+  - "#travel"
+ status: active
+ created: 2026-04-06
+ updated: 2026-04-06
+ source:
+ related: []
+---
 ---
 
 # 🚗 Viajes estructurados

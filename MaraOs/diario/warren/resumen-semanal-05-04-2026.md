@@ -1,3 +1,17 @@
+---
+ title: resumen-semanal-05-04-2026
+ type: analisis
+ tags:
+  - "#diario"
+  - "#warren"
+  - "#analisis"
+ status: active
+ created: 2026-04-06
+ updated: 2026-04-06
+ source:
+ related: []
+---
+
 # Resumen semanal
 
 Periodo: 30-03-2026 → 05-04-2026

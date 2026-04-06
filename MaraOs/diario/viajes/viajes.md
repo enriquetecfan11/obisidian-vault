@@ -2,21 +2,18 @@
 Semana: 23-03-2026 a 29-03-2026
 
 ---
-
-# 📝 Registro rápido
-
-- 07:15: llegada tras 1 h de viaje y 50 km recorridos.
-- 18:00: llegada tras 1 h de viaje y 45 km recorridos.
-- 07:20: llegada tras 1 h de viaje y 67 km recorridos.
-- 18:00: llegada tras 1 h de viaje y 45 km recorridos.
-- 07:25: llegada tras 45 min de viaje y 45 km recorridos.
-- 07:00: llegada tras 45 min de viaje y 45 km recorridos.
-- 17:10: llegada tras 33 min de viaje y 31 km recorridos (salida 16:37).
-- 23:30: llegada tras 13 h de viaje y 71 km recorridos (salida 10:30).
-- 50 km en 1 h (llegada no especificada).
-- 23:20: llegada tras 1 h de viaje y 60 km recorridos.
-- 20:00: llegada tras 2 h de viaje y 120 km recorridos.
-
+ title: viajes
+ type: viaje
+ tags:
+  - "#diario"
+  - "#viajes"
+  - "#travel"
+ status: active
+ created: 2026-04-06
+ updated: 2026-04-06
+ source:
+ related: []
+---
 ---
 
 # 🚗 Viajes estructurados

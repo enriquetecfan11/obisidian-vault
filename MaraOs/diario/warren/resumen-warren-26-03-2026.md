@@ -1,3 +1,17 @@
+---
+ title: resumen-warren-26-03-2026
+ type: analisis
+ tags:
+  - "#diario"
+  - "#warren"
+  - "#analisis"
+ status: active
+ created: 2026-04-06
+ updated: 2026-04-06
+ source:
+ related: []
+---
+
 # Resumen diario Warren — 26-03-2026
 
 ## 1) Highlights del día

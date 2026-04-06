@@ -2,11 +2,18 @@
 Semana: 
 
 ---
-
-# 📝 Registro rápido
-
--
-
+ title: Plantilla Viajes
+ type: viaje
+ tags:
+  - "#diario"
+  - "#viajes"
+  - "#travel"
+ status: active
+ created: 2026-04-06
+ updated: 2026-04-06
+ source:
+ related: []
+---
 ---
 
 # 🚗 Viajes estructurados

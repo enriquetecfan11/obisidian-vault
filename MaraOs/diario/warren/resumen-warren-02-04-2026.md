@@ -1,3 +1,17 @@
+---
+ title: resumen-warren-02-04-2026
+ type: analisis
+ tags:
+  - "#diario"
+  - "#warren"
+  - "#analisis"
+ status: active
+ created: 2026-04-06
+ updated: 2026-04-06
+ source:
+ related: []
+---
+
 # Resumen Warren — 02-04-2026
 
 ## Resumen ejecutivo
