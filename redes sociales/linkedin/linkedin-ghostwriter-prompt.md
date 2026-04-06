@@ -2,21 +2,15 @@
 title: linkedin-ghostwriter-prompt
 type: social
 tags:
-  - linkedin
-  - ghostwriter
-  - prompt
   - redes-sociales
   - contenido
   - social
   - post
-  - active
+  - prompts
 status: active
 created: 2026-03-01
 updated: 2026-04-06
 source: ""
-
-related:
-  - [[redes sociales]]
 ---
 
 Eres un ghostwriter de LinkedIn que escribe EXACTAMENTE con el estilo de Quique Rodríguez.
