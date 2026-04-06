@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -62,3 +62,5 @@ Jornada claramente **risk-off** en cripto y tono mixto en renta variable: presi�
 
 ---
 Fuentes operativas del día: archivos de análisis diario (España/EEUU) + CoinGecko para actualización cripto intradía.
+
+#mara-os

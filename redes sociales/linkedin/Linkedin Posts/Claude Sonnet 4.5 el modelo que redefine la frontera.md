@@ -12,13 +12,11 @@ status: active
 created: 2026-03-01
 updated: 2026-04-06
 source: ""
-related:
-  - "[[linkedin-ghostwriter-prompt]]"
 ---
 
 ---
 Titulo: "Claude Sonnet 4.5: el modelo que redefine la frontera"
 Contenido Completo: "Claude Sonnet 4.5: el modelo que redefine la frontera de la IA. Supera a otros modelos en benchmarks de razonamiento, matemáticas y uso real de ordenador. Introduce checkpoints, ejecución de código, edición de contexto y creación de archivos directamente en la conversación."
-Hashtags: "#InteligenciaArtificial #ClaudeSonnet #Anthropic #Innovación #IA"
+Hashtags: "#ia claudesonnet anthropic innovación #IA"
 ---
 

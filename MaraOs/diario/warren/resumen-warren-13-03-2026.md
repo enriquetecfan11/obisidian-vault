@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -57,3 +57,5 @@
 
 ---
 Fuente: archivos diarios de Warren + Yahoo Finance + CoinGecko. Precios sujetos a latencia del proveedor.
+
+#mara-os

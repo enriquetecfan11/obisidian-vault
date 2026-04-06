@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -119,3 +119,5 @@ La lectura táctica no cambia demasiado: mantener foco en calidad, crecimiento v
 - ETH: 2,020.98 USD (+0.93% 24h)
 - XRP: 1.32 USD (-0.10% 24h)
 - SOL: 82.71 USD (+0.93% 24h)
+
+#mara-os

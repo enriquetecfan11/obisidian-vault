@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -69,3 +69,5 @@
 
 ---
 **Nota de calidad de dato**: precios y variaciones tomados de los archivos diarios generados hoy (26-03-2026). Si quieres, mañana lo dejo con doble validación de feed en tiempo real antes del cierre.
+
+#mara-os

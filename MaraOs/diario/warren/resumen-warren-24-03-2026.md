@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -69,3 +69,5 @@ Sesión mixta con **rotación de riesgo**: fortaleza en banca española (SAN), d
 
 ---
 Fuentes base del día: 01-espana.md, 02-crypto.md, 03-eeuu-crypto.md (24-03-2026).
+
+#mara-os

@@ -33,7 +33,7 @@ Sesión de tono **constructivo con sesgo risk-on moderado**: fortaleza en growth
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -44,3 +44,5 @@ Sesión de tono **constructivo con sesgo risk-on moderado**: fortaleza en growth
 
 _Fuentes de precios actuales: Yahoo Finance chart API (acciones) y CoinGecko (crypto), consulta 25-03-2026 noche (Europa/Madrid)._ 
 _Fuentes cualitativas/fundamentales: análisis diarios 01-espana.md, 02-crypto.md, 03-eeuu-crypto.md._
+
+#mara-os

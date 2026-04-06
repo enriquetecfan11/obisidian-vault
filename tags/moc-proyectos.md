@@ -7,17 +7,33 @@ tags:
 status: active
 created: 2026-04-06
 updated: 2026-04-06
-source:
 ---
-## Panel general
+# moc Proyectos
+
+Mapa de contenido sobre proyectos activos y trabajo. Para estrategia de contenido, ver [[moc-rrss]]. Para automatizaciones, ver [[moc-n8n]].
+
+---
+
+## Panel de control
+
 - [[kanban-workflow]]
+- [[Kanban-General]]
+
 ## Proyectos activos
+
 - [[chatwoot-activar-usuarios]]
 - [[Prompt Analizador Noticias]]
-- [[Planificación de RRSS]]
-- [[Prompt RRSS]]
-## Renta Variable
+
+## Renta Variable e inversiones
+
 - [[empresas-a-vigilar]]
 - [[Definiciones]]
-## Empresas
-- [[Prompt Analizador Noticias]]
+- [[Analisis Empresas]]
+- [[Crypto]]
+
+## Infraestructura técnica
+
+- [[Tablas PostgreSQL N8N]]
+- [[npm-libs-api-postgres]]
+- [[Docker]]
+- [[Bases de Datos]]

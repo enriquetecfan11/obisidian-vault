@@ -14,10 +14,6 @@ status: active
 created: 2026-03-01
 updated: 2026-04-06
 source: "https://qdrant.tech/documentation/"
-related:
-  - "[[Bases de Datos]]"
-  - "[[npm-libs-api-postgres]]"
-  - "[[Tablas PostgreSQL N8N]]"
 ---
 
 # QDrant — Referencia Completa

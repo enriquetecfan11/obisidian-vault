@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -48,3 +48,5 @@
 
 ---
 Fuente de precios: Yahoo Finance (índices/acciones) y Binance 24h ticker (crypto). Valores orientativos en tiempo real.
+
+#mara-os

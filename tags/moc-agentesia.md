@@ -7,28 +7,46 @@ tags:
 status: active
 created: 2026-04-06
 updated: 2026-04-06
-source:
 ---
-## Frameworks y conceptos
-- [[CAI Framework - Inteligencia Artificial Seguridad]]
-- [[obsidian-segundo-cerebro]]
-- [[gpts-recursos-herramientas]]
-- [[ejercito-empleados-digitales]]
+# moc IA y Agentes
 
-## Custom GPTs
+Mapa de contenido sobre inteligencia artificial, agentes, modelos y tooling. Para el sistema agente personal (MaraOs), ver [[moc-maraos]]. Para automatizaciones N8N, ver [[moc-n8n]].
+
+---
+
+## Core — Conceptos y frameworks
+
+- [[CAI Framework - Inteligencia Artificial Seguridad]]
+- [[ejercito-empleados-digitales]]
+- [[gpts-recursos-herramientas]]
+
+## Custom GPTs — Herramientas construidas
+
 - [[GPT Maestro]]
 - [[LLM-as-Judge]]
-- [[Linkedin Ghostwriter]] 
 - [[Rag Generator Master]]
 - [[Agente Triaje]]
-- [[Analizador de Facturas]]
 - [[Generador de Documentos]]
 - [[Generador de Preguntas y Respuestas Contextuales]]
-- [[Ticket App]]
+- [[Analizador de Facturas]]
 - [[Infografias GPT]]
+- [[Ticket App]]
+- [[crear-podcast-con-ia]]
 
-## Integraciones y tooling
-- [[chatgpt-make-n8n-integracion]]
+## Agentes LinkedIn
+
+- [[Linkedin Ghostwriter]]
+- [[Thumbnail Builder]]
+
+## Imagen y multimedia
+
+- [[Biblioteca de Prompts para Generación de Imágenes IA]]
+- [[Stable Diffusion & AI Art Resources]]
+- [[Experto en generación de imágenes]]
+
+## Infraestructura y tooling
+
 - [[Ollama Docker]]
 - [[Evolution-API]]
-- [[Evolution API.md]]
+- [[chatgpt-make-n8n-integracion]]
+- [[QDrant]]

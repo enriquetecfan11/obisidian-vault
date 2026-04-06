@@ -7,7 +7,7 @@ Semana: 10-03-2026 → 16-03-2026
  tags:
   - "#diario"
   - "#viajes"
-  - "#travel"
+  - "#viajes"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -85,3 +85,5 @@ Semana: 10-03-2026 → 16-03-2026
 
 Generado a partir de: `diario/diario-*.md`
 Periodo analizado: 10-03-2026 → 16-03-2026
+
+#mara-os

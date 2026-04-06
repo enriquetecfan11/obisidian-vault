@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -84,3 +84,5 @@ Precios actuales
 - España → SAN N/D | REP N/D | IBE N/D
 - EEUU → AMZN N/D | NVDA N/D | AAPL N/D | ASML N/D
 - Crypto → BTC 70933.98 (+4.71% 24h) | ETH 2158.22 (+5.69% 24h) | XRP 1.4377 (+4.24% 24h) | SOL 91.7500 (+6.90% 24h)
+
+#mara-os

@@ -7,7 +7,7 @@ Semana:
  tags:
   - "#diario"
   - "#viajes"
-  - "#travel"
+  - "#viajes"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -68,3 +68,5 @@ Semana:
 
 Generado a partir de:  
 Periodo analizado:
+
+#mara-os

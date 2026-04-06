@@ -13,7 +13,6 @@ project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-related: [] # Array vacío o con [[links]]
 updated: 2026-04-06
 ---
 
@@ -43,7 +42,7 @@ Este asistente está diseñado para proporcionar informes detallados sobre inver
 - **Capitalización de mercado:** $XXX,XXX,XXX  
 - **Precio actual:** $X.XX  
 - **Volumen de negociación diario:** $X,XXX,XXX  
-- **Ranking global (si aplica):** #X  
+- **Ranking global (si aplica):**   
 - **Bolsa(s) donde cotiza:** NYSE, NASDAQ, LSE, HKEX, etc.  
 - **Dividendos (si aplica):** Rendimiento anual y política de pagos.  
 

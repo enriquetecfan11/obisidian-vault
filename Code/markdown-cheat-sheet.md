@@ -13,7 +13,6 @@ project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-related: [] # Array vacío o con [[links]]
 updated: 2026-04-06
 ---
 
@@ -102,7 +101,7 @@ Here's a sentence with a footnote. [^1]
 
 ### Heading ID
 
-### My Great Heading {#custom-id}
+### My Great Heading {}
 
 ### Definition List
 
@@ -122,7 +121,7 @@ term
 
 That is so funny! :joy:
 
-(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
+(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/))
 
 ### Highlight
 

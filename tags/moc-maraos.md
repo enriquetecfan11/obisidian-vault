@@ -7,20 +7,38 @@ tags:
 status: active
 created: 2026-04-06
 updated: 2026-04-06
-source:
 ---
+# moc MaraOs
+
+Mapa de contenido del sistema de agentes personales MaraOs. Entrada operativa al sistema; no incluye el diario diario (ver carpeta `MaraOs/diario/`). Para herramientas IA externas, ver [[moc-agentesia]].
+
+---
+
 ## Agentes
-- [[Arvis]]           <!-- carpeta/notas de Arvis -->
-- [[Atlas]]
+
 - [[Mara]]
+- [[Arvis]]
+- [[Atlas]]
 - [[Warren]]
 
-## Diario operativo
-- [[MaraOs/diario]]            <!-- índice diario si lo creas -->
-- [[analisis-diario]]          <!-- si tienes nota resumen -->
-- [[viajes]]                   <!-- si están ligados a MaraOs -->
-- [[warren]]                   <!-- análisis de Warren -->
+## Sistema base
 
-- [[prompts]]
-- [[skills]]
-- [[SystemFiles]]
+- [[AGENTS]]
+- [[IDENTITY]]
+- [[MEMORY]]
+- [[TOOLS]]
+- [[SOUL]]
+- [[USER]]
+
+## Flujos operativos
+
+- [[flujo-ia-tech-news]]
+- [[feeds-ia-tech-news]]
+- [[github-workflow-rule]]
+
+## Análisis financiero (Warren)
+
+- [[Analisis Empresas]]
+- [[Empresas]]
+- [[Crypto]]
+- [[warren]]

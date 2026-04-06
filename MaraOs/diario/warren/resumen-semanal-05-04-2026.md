@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -34,3 +34,5 @@ Semana con 2 días registrados. Temas más repetidos: Diario, 30-03-2026, 31-03-
 
 ## 4) Pendientes detectados
 - No se detectaron pendientes explícitos.
+
+#mara-os

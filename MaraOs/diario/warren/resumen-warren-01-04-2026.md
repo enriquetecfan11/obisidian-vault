@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -88,3 +88,5 @@
 
 ## Conclusión
 Día constructivo. El dinero vuelve a premiar crecimiento y calidad en EEUU, mientras crypto acompaña con rebote amplio y especialmente buen tono en Ethereum. España queda más rezagada, pero sin deterioro estructural. Si mañana hay continuidad, el sesgo sigue siendo claramente favorable para tech/IA y para los majors de crypto; si se enfría, tocará diferenciar mejor entre activos de calidad real y simple beta de mercado.
+
+#mara-os

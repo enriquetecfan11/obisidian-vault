@@ -13,7 +13,6 @@ project: "N8N Automation"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-related: [] # Array vacío o con [[links]]
 updated: 2026-04-06
 ---
 
@@ -24,7 +23,7 @@ updated: 2026-04-06
 ngAfterViewInit(): void {  
     createChat({  
         webhookUrl: 'https://rational-glorious-bedbug.ngrok-free.app/webhook/4b3b1838-d6b3-447e-9d79-d0931eddb9f8/chat',  
-        target: '#n8n-chat',  
+        target: '#n8n',  
         mode: 'window',  
         chatInputKey: 'chatInput',  
         chatSessionKey: 'sessionId',  

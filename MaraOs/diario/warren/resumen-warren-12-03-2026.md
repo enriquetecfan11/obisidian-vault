@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -52,3 +52,5 @@
 - SOL: 75,01 EUR | 86,36 USD (-0.62% 24h)
 
 _Nota: variación diaria según proveedor en el momento de la consulta._
+
+#mara-os

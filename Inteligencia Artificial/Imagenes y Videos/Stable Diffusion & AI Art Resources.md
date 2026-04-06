@@ -13,7 +13,6 @@ project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-related: [] # Array vacío o con [[links]]
 updated: 2026-04-06
 ---
 
@@ -59,7 +58,7 @@ updated: 2026-04-06
 - [Hassan's Stable Diffusion Page (rentry.org)](https://rentry.org/sdhassan)
 
 ## 🎭 **AI Art Special Resources**
-- [Make GIFs with Different Prompts](https://colab.research.google.com/drive/1gj8_EPyntZuaiQuzYOzog5YKA74esoB3#scrollTo=3g5rSm43STsW)
+- [Make GIFs with Different Prompts](https://colab.research.google.com/drive/1gj8_EPyntZuaiQuzYOzog5YKA74esoB3=3g5rSm43STsW)
 - [Clip Interrogator - Hugging Face](https://huggingface.co/spaces/pharma/CLIP-Interrogator)
 - [Vector AI - VectorArt.ai](https://vectorart.ai/)
 - [Resize Images 512x512 - BIRME](https://www.birme.net/)

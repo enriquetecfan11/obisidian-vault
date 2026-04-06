@@ -12,8 +12,6 @@ status: active
 created: 2026-03-01
 updated: 2026-04-06
 source: ""
-related:
-  - "[[linkedin-ghostwriter-prompt]]"
 ---
 
 ---

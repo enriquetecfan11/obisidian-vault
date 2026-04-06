@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -68,3 +68,5 @@ Sesión mixta con mejor tono en energía/utilities en España, cripto en estabil
 - **ETH:** 2,335.42 USD (**+2.99% 24h**)
 - **XRP:** 1.50 USD (**+1.17% 24h**)
 - **SOL:** 94.15 USD (**+1.02% 24h**)
+
+#mara-os

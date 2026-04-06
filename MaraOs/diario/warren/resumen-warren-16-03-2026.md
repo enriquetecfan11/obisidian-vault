@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -82,3 +82,5 @@ _Corte aproximado: 16-03-2026 noche (Europe/Madrid)._
 - ETH 2,345.839 USD (+7.73% 24h)
 - XRP 1.529 USD (+5.62% 24h)
 - SOL 95.824 USD (+3.87% 24h)
+
+#mara-os

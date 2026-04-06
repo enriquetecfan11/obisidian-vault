@@ -1,3 +1,16 @@
+---
+title: github-workflow-rule
+type: rule
+tags:
+  - mara-os
+  - mara
+  - github
+  - operativo
+project: MaraOS
+status: active
+date_created: 2026-03-01
+date_modified: 2026-04-06
+---
 # Regla operativa — GitHub
 
 ## Instrucción de Quique

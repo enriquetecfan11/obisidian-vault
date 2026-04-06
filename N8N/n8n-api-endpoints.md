@@ -13,7 +13,6 @@ project: "N8N Automation"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-related: [] # Array vacío o con [[links]]
 updated: 2026-04-06
 ---
 
@@ -286,7 +285,7 @@ Content-Type: application/json
 
 {
   "name": "Producción",
-  "color": "#FF5733"
+  "color": ""
 }
 ```
 
@@ -304,7 +303,7 @@ Content-Type: application/json
 
 {
   "name": "Producción V2",
-  "color": "#00FF00"
+  "color": ""
 }
 ```
 

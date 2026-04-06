@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -69,3 +69,5 @@
 ---
 ### Nota operativa
 No se detectó archivo `03-eeuu-crypto.md` para hoy en la ruta indicada; resumen construido con `01-espana.md` y `02-crypto.md`, complementado con precios actuales.
+
+#mara-os

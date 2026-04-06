@@ -14,17 +14,16 @@ project: "N8N Automation"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-related: [] # Array vacío o con [[links]]
 updated: 2026-04-06
 ---
 
 ## 📋 Índice
 
-1. [Definir Funcionalidades](https://claude.ai/chat/11c865c3-afc6-4238-8f9b-bbd5735ae48a#1-definir-las-funcionalidades-del-asistente)
-2. [Configurar Automatización en Make](https://claude.ai/chat/11c865c3-afc6-4238-8f9b-bbd5735ae48a#2-configurar-la-automatizaci%C3%B3n-en-make-o-n8n)
-3. [Crear el Asistente en ChatGPT](https://claude.ai/chat/11c865c3-afc6-4238-8f9b-bbd5735ae48a#3-crear-el-asistente-en-chatgpt)
-4. [Configurar Acciones](https://claude.ai/chat/11c865c3-afc6-4238-8f9b-bbd5735ae48a#4-configurar-las-acciones-en-chatgpt)
-5. [Probar el Asistente](https://claude.ai/chat/11c865c3-afc6-4238-8f9b-bbd5735ae48a#5-probando-el-asistente)
+1. [Definir Funcionalidades](https://claude.ai/chat/11c865c3-afc6-4238-8f9b-bbd5735ae48a1-definir-las-funcionalidades-del-asistente)
+2. [Configurar Automatización en Make](https://claude.ai/chat/11c865c3-afc6-4238-8f9b-bbd5735ae48a2-configurar-la-automatizaci%C3%B3n-en-make-o-n8n)
+3. [Crear el Asistente en ChatGPT](https://claude.ai/chat/11c865c3-afc6-4238-8f9b-bbd5735ae48a3-crear-el-asistente-en-chatgpt)
+4. [Configurar Acciones](https://claude.ai/chat/11c865c3-afc6-4238-8f9b-bbd5735ae48a4-configurar-las-acciones-en-chatgpt)
+5. [Probar el Asistente](https://claude.ai/chat/11c865c3-afc6-4238-8f9b-bbd5735ae48a5-probando-el-asistente)
 
 ---
 

@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -40,3 +40,5 @@ Semana 17-03-2026 → 22-03-2026. Se revisaron 5 entradas del diario con activid
 
 ## 4) Pendientes detectados
 - No se detectaron pendientes explícitos.
+
+#mara-os

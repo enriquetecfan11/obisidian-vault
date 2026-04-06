@@ -14,7 +14,6 @@ project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-related: [] # Array vacío o con [[links]]
 updated: 2026-04-06
 ---
 
@@ -22,18 +21,18 @@ updated: 2026-04-06
 
 ## 📋 Tabla de Contenidos
 
-1. [Introducción](#introducción)
-2. [Arquitectura del Sistema](#arquitectura-del-sistema)
-3. [Requisitos Previos](#requisitos-previos)
-4. [Fase 1: Preparación de la Raspberry Pi](#fase-1-preparación-de-la-raspberry-pi)
-5. [Fase 2: Instalación de Tailscale](#fase-2-instalación-de-tailscale)
-6. [Fase 3: Instalación de Pi-hole](#fase-3-instalación-de-pi-hole)
-7. [Fase 4: Instalación de WireGuard](#fase-4-instalación-de-wireguard)
-8. [Fase 5: Configuración de Enrutamiento](#fase-5-configuración-de-enrutamiento)
-9. [Configuración de Clientes](#configuración-de-clientes)
-10. [Verificación y Pruebas](#verificación-y-pruebas)
-11. [Solución de Problemas](#solución-de-problemas)
-12. [Mantenimiento](#mantenimiento)
+1. [Introducción](introducción)
+2. [Arquitectura del Sistema](arquitectura-del-sistema)
+3. [Requisitos Previos](requisitos-previos)
+4. [Fase 1: Preparación de la Raspberry Pi](fase-1-preparación-de-la-raspberry-pi)
+5. [Fase 2: Instalación de Tailscale](fase-2-instalación-de-tailscale)
+6. [Fase 3: Instalación de Pi-hole](fase-3-instalación-de-pi-hole)
+7. [Fase 4: Instalación de WireGuard](fase-4-instalación-de-wireguard)
+8. [Fase 5: Configuración de Enrutamiento](fase-5-configuración-de-enrutamiento)
+9. [Configuración de Clientes](configuración-de-clientes)
+10. [Verificación y Pruebas](verificación-y-pruebas)
+11. [Solución de Problemas](solución-de-problemas)
+12. [Mantenimiento](mantenimiento)
 
 ---
 
@@ -170,7 +169,7 @@ sudo nano /etc/sysctl.conf
 
 Busca la línea:
 ```
-#net.ipv4.ip_forward=1
+.ipv4.ip_forward=1
 ```
 
 Descoméntala (quita el #):

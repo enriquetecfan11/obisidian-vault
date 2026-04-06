@@ -14,11 +14,6 @@ status: active
 created: 2026-03-01
 updated: 2026-04-06
 source: "https://github.com/EvolutionAPI/evolution-api"
-related:
-  - "[[Docker]]"
-  - "[[builderbot-whatsapp-n8n]]"
-  - "[[chatgpt-make-n8n-integracion]]"
-  - "[[N8N]]"
 ---
 
 # Evolution API — Configuración Completa
@@ -172,7 +167,7 @@ CONFIG_SESSION_PHONE_VERSION=2.3000.1028397221
 
 # QR Code
 QRCODE_LIMIT=30
-QRCODE_COLOR=#175197
+QRCODE_COLOR=
 
 # Integraciones (desactivadas por defecto)
 TYPEBOT_ENABLED=false

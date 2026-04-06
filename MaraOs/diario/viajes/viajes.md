@@ -7,7 +7,7 @@ Semana: 23-03-2026 a 29-03-2026
  tags:
   - "#diario"
   - "#viajes"
-  - "#travel"
+  - "#viajes"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -89,3 +89,5 @@ Semana: 23-03-2026 a 29-03-2026
 
 Generado a partir de: diario/diario-23-03-2026.md; diario/diario-24-03-2026.md; diario/diario-25-03-2026.md; diario/diario-26-03-2026.md; diario/diario-27-03-2026.md; diario/diario-28-03-2026.md; diario/diario-29-03-2026.md  
 Periodo analizado: 23-03-2026 a 29-03-2026
+
+#mara-os

@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -66,3 +66,5 @@ Sesión mixta con foco en sensibilidad macro, rotación selectiva y vigilancia d
 
 ## Nota
 Precios capturados al cierre de este resumen desde feeds públicos; pueden variar ligeramente según mercado/fuente.
+
+#mara-os

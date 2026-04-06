@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -106,3 +106,5 @@ Mercado mixto: España en verde (lidera REP), EEUU flojo salvo NVDA y crypto en 
 - ETH: 2220.41 USD (-5.19%)
 - XRP: 1.46 USD (-3.43%)
 - SOL: 89.65 USD (-4.89%)
+
+#mara-os

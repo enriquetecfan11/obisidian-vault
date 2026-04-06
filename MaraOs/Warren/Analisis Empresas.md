@@ -1,3 +1,21 @@
+---
+title: Analisis Empresas
+type: resource
+tags:
+  - mara-os
+  - warren
+  - finanzas
+  - renta-variable
+  - analisis
+project: MaraOS
+status: active
+date_created: 2026-03-01
+date_modified: 2026-04-06
+---
+# Análisis de Empresas
+
+Plantilla de seguimiento de activos que usa Warren para sus informes diarios.
+
 - **Acciones  EEUU**
 	- AMZN, NVDA,  APPL, ASML
 	- Precio actual 

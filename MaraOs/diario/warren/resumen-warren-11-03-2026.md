@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -62,3 +62,5 @@ Fuentes base del día:
 - /Users/enriquetecfan/Documents/obisidian-vault/MaraOs/Warren/analisis-diario/11-03-2026/02-crypto.md
 - /Users/enriquetecfan/Documents/obisidian-vault/MaraOs/Warren/analisis-diario/11-03-2026/03-eeuu-crypto.md
 - CoinGecko (precios spot y variación 24h para BTC/ETH/SOL)
+
+#mara-os

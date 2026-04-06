@@ -4,7 +4,7 @@
  tags:
   - "#diario"
   - "#warren"
-  - "#analisis"
+  - "#warren"
  status: active
  created: 2026-04-06
  updated: 2026-04-06
@@ -73,3 +73,5 @@ Sesión mixta con tono constructivo en bolsa y correctivo en cripto. España cer
 - **ETH**: **2,063.96 USD** (**-0.19% 24h**)
 - **XRP**: **1.32 USD** (**-2.20% 24h**)
 - **SOL**: **81.18 USD** (**-3.70% 24h**)
+
+#mara-os
