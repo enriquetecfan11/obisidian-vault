@@ -8,7 +8,7 @@ tags:
 status: active
 pipeline: wiki
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-04-09
 source:
 ---
 # Pipeline de conocimiento — Karpathy raw → wiki → Q&A → write-back
@@ -64,6 +64,12 @@ Inteligencia Artificial/Custom GPTS/Linkedin Ghostwriter.md  (wiki: agente)
 MaraOs/diario/diario/*.md   (raw: log operativo)
         ↓ si emerge conocimiento duradero
 Inteligencia Artificial/ o Code/ o N8N/  (wiki: nota permanente)
+
+MaraOs/diario/diario/*.md   (raw: daily log de agentes)
+        ↓ síntesis semanal de velocity
+Inteligencia Artificial/Scrum/sprint-*.md   (Q&A: resumen de sprint)
+        ↓ write-back si hay patrón de proceso duradero
+Inteligencia Artificial/Scrum/MARA_SCRUM_v3.md  (wiki: protocolo Scrum de Mara)
 ```
 
 ---
@@ -73,27 +79,27 @@ Inteligencia Artificial/ o Code/ o N8N/  (wiki: nota permanente)
 ```mermaid
 flowchart TD
 
-    subgraph MARAOS["MaraOs Operativo"]
-        J[MaraOs diario log] -->|conocimiento duradero| K[Inteligencia Artificial]
-        J -->|conocimiento duradero| L[Code]
-        J -->|conocimiento duradero| M[N8N]
-    end
+    subgraph MARAOS["MaraOs Operativo"]
+        J[MaraOs diario log] -->|conocimiento duradero| K[Inteligencia Artificial]
+        J -->|conocimiento duradero| L[Code]
+        J -->|conocimiento duradero| M[N8N]
+    end
 ```
 
 ## Diario Personal
 
 ```mermaid
 flowchart TD
-    subgraph DIARIO["Diario Personal"]
-        A[diario/diario] -->|sintesis semanal| B[warren resumen financiero]
-        A -->|sintesis semanal| C[viajes resumen personal]
-        B -->|write-back insight| D[Analisis Empresas]
-        B -->|write-back insight| E[Empresas cartera]
-        B -->|write-back insight| F[empresas-a-vigilar watchlist]
-        C -->|write-back insight| D
-        C -->|write-back insight| E
-        C -->|write-back insight| F
-    end
+    subgraph DIARIO["Diario Personal"]
+        A[diario/diario] -->|sintesis semanal| B[warren resumen financiero]
+        A -->|sintesis semanal| C[viajes resumen personal]
+        B -->|write-back insight| D[Analisis Empresas]
+        B -->|write-back insight| E[Empresas cartera]
+        B -->|write-back insight| F[empresas-a-vigilar watchlist]
+        C -->|write-back insight| D
+        C -->|write-back insight| E
+        C -->|write-back insight| F
+    end
 ```
 
 ## Flujo Linkedin
@@ -102,12 +108,24 @@ flowchart TD
 flowchart TD
 
 subgraph LINKEDIN["Flujo LinkedIn"]
-        G[LinkedIn Posts raw] -->|patrones de escritura| H[ghostwriter-prompt wiki]
-        G -->|patrones de escritura| I[Linkedin Ghostwriter agente]
-    end
+        G[LinkedIn Posts raw] -->|patrones de escritura| H[ghostwriter-prompt wiki]
+        G -->|patrones de escritura| I[Linkedin Ghostwriter agente]
+    end
 ```
 
+## Flujo Scrum — Clawbot/OpenClaw
 
+```mermaid
+flowchart TD
+    subgraph SCRUM["Scrum Clawbot"]
+        S1["MaraOs diario log\n(raw: daily de agentes)"] -->|síntesis semanal de velocity| S2["Inteligencia Artificial/Scrum/sprint-*.md\n(Q&A: resumen de sprint)"]
+        S2 -->|write-back patrón duradero| S3["MARA_SCRUM_v3.md\n(wiki: protocolo Scrum)"]
+        S3 -->|sincroniza issues/velocity| S4["Linear\n(fuente de verdad del trabajo)"]
+        S4 -->|reportes diarios/semanales| S5["Kike CEO\n(Telegram / Mission Control)"]
+    end
+```
+
+---
 
 ## Convención de campos en frontmatter
 
@@ -125,3 +143,4 @@ subgraph LINKEDIN["Flujo LinkedIn"]
 - [[moc-agentesia]] — cluster de wiki sobre IA
 - [[moc-proyectos]] — cluster de wiki sobre proyectos y finanzas
 - [[moc-maraos]] — sistema de agentes (raw + wiki mezclados)
+- [[MARA_SCRUM_v3]] — protocolo Scrum de Mara con Linear MCP

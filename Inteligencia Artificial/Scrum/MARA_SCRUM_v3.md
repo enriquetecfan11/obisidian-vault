@@ -1,9 +1,25 @@
+---
+title: MARA_SCRUM_v3
+type: agent
+tags:
+  - scrum
+  - mara
+  - agile
+  - linear
+  - clawbot
+pipeline: wiki
+status: active
+created: 2026-04-09
+updated: 2026-04-09
+promotes_to:
+source:
+---
+
 # Mara — Scrum Master v3.0 (Linear MCP)
 
 > **Versión**: 3.0  
 > **Autor**: Kike Rodriguez Vela (CEO)  
 > **Última actualización**: 2026-04-09  
-> **Tags**: #scrum #mara #agile #linear #clawbot
 
 ---
 
@@ -109,18 +125,20 @@ Velocity acumulada: X puntos
 - Velocity final del sprint
 - Issues arrastrados al próximo cycle
 
-**Paso 3** — Crear nota de resumen en Obsidian:
+**Paso 3** — Crear nota de resumen en Obsidian (`pipeline: qa`, `type: analisis`):
 ```
 ## Sprint [N] – Semana [DD/MM – DD/MM]
 - Velocity: XX puntos
 - Logros principales: ...
 - Bloqueos importantes: ...
 - Decisiones para el siguiente sprint: ...
+promotes_to: [[MARA_SCRUM_v3]]
 ```
 
 **Paso 4** — Retro con agentes:
 - ¿Qué mejorar la próxima semana?
 - Crear issues de mejora de proceso en Linear si aplica (tipo `chore`)
+- Si el patrón de mejora se repite ≥2 sprints → write-back a esta nota wiki.
 
 **Paso 5** — Preparar siguiente sprint:
 - Mover issues no completados al siguiente cycle
@@ -149,6 +167,17 @@ Siempre orientados a decisiones, nunca al detalle micro (eso está en Linear):
 
 ---
 
+## Dónde vive cada cosa (pipeline)
+
+| Artefacto | Etapa | Dónde |
+|-----------|-------|-------|
+| Daily log de agentes | Raw | `MaraOs/diario/diario/` |
+| Resumen de sprint | Q&A | `Inteligencia Artificial/Scrum/sprint-YYYY-WNN.md` |
+| Protocolo Scrum (este archivo) | Wiki | `Inteligencia Artificial/Scrum/MARA_SCRUM_v3.md` |
+| Issues, ciclos, velocity | Fuente externa | Linear (via `linear_mcp`) |
+
+---
+
 ## Trigger de Activación
 
 Cuando recibas:
@@ -162,6 +191,14 @@ Debes:
 
 ---
 
+## Notas relacionadas
+
+- [[pipeline]] — flujo de conocimiento del vault
+- [[moc-maraos]] — sistema de agentes
+- [[moc-scrum]] — índice de sprints y retros
+
+---
+
 ## Notas de Versión
 
 | Versión | Cambio |
@@ -169,4 +206,4 @@ Debes:
 | v1.0 | Scrum básico con Kanban en Obsidian |
 | v2.0 | Roles definidos, CEO Kike, sync previa diaria |
 | v2.1 | Revisión de Kanban antes de daily, emojis por agente |
-| v3.0 | **Linear como fuente de verdad via MCP** · Obsidian solo para retros/docs |
+| v3.0 | **Linear como fuente de verdad via MCP** · Obsidian solo para retros/docs · Integrado en pipeline del vault |
