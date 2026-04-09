@@ -29,6 +29,7 @@ Mapa de contenido del sistema de agentes personales MaraOs. Entrada operativa al
 - [[TOOLS]]
 - [[SOUL]]
 - [[USER]]
+- [[obsidian-operating-rule]]
 
 ## Flujos operativos
 
