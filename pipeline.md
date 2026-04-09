@@ -68,6 +68,47 @@ Inteligencia Artificial/ o Code/ o N8N/  (wiki: nota permanente)
 
 ---
 
+## MaraOS Operativo
+
+```mermaid
+flowchart TD
+
+    subgraph MARAOS["MaraOs Operativo"]
+        J[MaraOs diario log] -->|conocimiento duradero| K[Inteligencia Artificial]
+        J -->|conocimiento duradero| L[Code]
+        J -->|conocimiento duradero| M[N8N]
+    end
+```
+
+## Diario Personal
+
+```mermaid
+flowchart TD
+    subgraph DIARIO["Diario Personal"]
+        A[diario/diario] -->|sintesis semanal| B[warren resumen financiero]
+        A -->|sintesis semanal| C[viajes resumen personal]
+        B -->|write-back insight| D[Analisis Empresas]
+        B -->|write-back insight| E[Empresas cartera]
+        B -->|write-back insight| F[empresas-a-vigilar watchlist]
+        C -->|write-back insight| D
+        C -->|write-back insight| E
+        C -->|write-back insight| F
+    end
+```
+
+## Flujo Linkedin
+
+```mermaid
+flowchart TD
+
+subgraph LINKEDIN["Flujo LinkedIn"]
+        G[LinkedIn Posts raw] -->|patrones de escritura| H[ghostwriter-prompt wiki]
+        G -->|patrones de escritura| I[Linkedin Ghostwriter agente]
+    end
+```
+
+
+
 ## Convención de campos en frontmatter
 
 | Campo | Raw | Wiki | Q&A |
