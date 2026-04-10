@@ -6,6 +6,7 @@ Semana: 06-04-2026 a 12-04-2026
 # 📝 Registro rápido
 
 - 07:06: llegada tras 1 h de viaje y 50 km recorridos.
+- 07:24: llegada tras 45 min de viaje y 45 km recorridos.
 
 ---
 
@@ -14,6 +15,7 @@ Semana: 06-04-2026 a 12-04-2026
 | Fecha | Km | Duración | Hora llegada |
 |------|----|----------|--------------|
 | 06-04-2026 | 50 | 1 h | 07:06 |
+| 10-04-2026 | 45 | 45 min | 07:24 |
 
 ---
 
@@ -37,7 +39,7 @@ Semana: 06-04-2026 a 12-04-2026
 
 ## Viernes
 
-- Sin viajes registrados todavía.
+- 07:24 → Llegada tras 45 min y 45 km desde el punto de origen.
 
 ## Sábado
 
@@ -51,10 +53,10 @@ Semana: 06-04-2026 a 12-04-2026
 
 # 📊 Métricas de la semana
 
-- Total viajes: 1
-- Total km: 50
-- Tiempo total conduciendo: 1 h
-- Media km por viaje: 50,0 km
+- Total viajes: 2
+- Total km: 95
+- Tiempo total conduciendo: 1 h 45 min
+- Media km por viaje: 47,5 km
 
 ---
 
