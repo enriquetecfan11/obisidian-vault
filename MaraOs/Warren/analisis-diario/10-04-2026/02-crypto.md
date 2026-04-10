@@ -43,7 +43,7 @@
 - Oferta circulante/total: 61,405,531,717 / 99,985,687,636 XRP (máx. 100,000,000,000)
 - Direcciones activas 24h: N/D público fiable sin endpoint autenticado
 - Transacciones 24h: 677,374
-- Fees: 361,989
+- Fees: 0.0014 USD aprox. por transacción
 - TVL: N/D, foco principal en pagos y liquidez más que DeFi nativo
 - Tokenomics básica: Supply máximo 100B preemitido, parte relevante en escrow de Ripple, fees se queman, foco en pagos/liquidez.
 
