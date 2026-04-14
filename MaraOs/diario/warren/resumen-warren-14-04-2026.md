@@ -29,9 +29,9 @@
 
 ## Precios actuales
 ### Empresas España
-- SAN n/d (n/d)
-- REP n/d (n/d)
-- IBE n/d (n/d)
+- SAN €10.70 (+3.3%)
+- REP €21.10 (-2.6%)
+- IBE €19.99 (-0.2%)
 
 ### Empresas EEUU
 - AMZN US$248.99 (-1.26%)
