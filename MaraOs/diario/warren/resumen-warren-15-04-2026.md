@@ -30,7 +30,7 @@ Sesión mixta, con tono más débil en España, dispersión en EEUU y rebote mod
 - **Iberdrola:** múltiplo elevado (**PER 23.68**) y apalancamiento relevante (**deuda/equity 93.67**).
 - **EEUU:** alta dispersión interna; si el mercado rota fuera de mega caps, puede aumentar la volatilidad relativa.
 - **Crypto:** rebote todavía frágil y muy dependiente de momentum; vigilar reversión rápida si cae BTC.
-- **Cobertura informativa:** faltan hoy los archivos  y , así que no hay soporte documental local para noticias/eventos de esos dos bloques.
+- **Cobertura informativa:** faltan hoy los archivos "02-crypto.md" y "03-eeuu-crypto.md", así que no hay soporte documental local para noticias/eventos de esos dos bloques.
 
 ## Cambios clave
 
@@ -93,7 +93,7 @@ Sesión mixta, con tono más débil en España, dispersión en EEUU y rebote mod
 
 ## Acciones mañana
 
-1. **Completar los inputs faltantes** en  y  antes del siguiente resumen para poder valorar noticias, catalizadores y riesgos reales.
+1. **Completar los inputs faltantes** en "02-crypto.md" y "03-eeuu-crypto.md" antes del siguiente resumen para poder valorar noticias, catalizadores y riesgos reales.
 2. **Vigilar si REP prolonga debilidad** o si hoy fue solo un ajuste puntual.
 3. **Revisar ASML**: si la caída viene con noticia/materialidad, puede cambiar el tono del bloque EEUU.
 4. **Seguir liderazgo de AAPL y NVDA** para confirmar si continúa la rotación hacia calidad/megacaps.
