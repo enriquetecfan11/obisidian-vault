@@ -46,39 +46,34 @@ Objetivo: que el cron entregue un resumen útil para decisión, no un log técni
 ### Estructura obligatoria
 
 1. **Resumen ejecutivo**
-   - 2 a 4 bullets con lo más importante del bloque analizado
+   - 2 o 3 bullets máximo
    - Qué se movió
    - Por qué importa
 
 2. **Mercado hoy**
-   - Precio y variación de los activos cubiertos
-   - Separar por España, EEUU y Crypto cuando aplique
+   - Solo los activos cubiertos con precio y variación
+   - Sin sobreexplicar si no aporta
 
-3. **Ganadores y perdedores**
-   - Qué destacó al alza
-   - Qué destacó a la baja
-   - Si no hubo movimientos relevantes, decirlo claro
+3. **Cambios clave**
+   - 1 a 3 puntos con lo que realmente merece atención
 
-4. **Cambios clave**
-   - Noticias, earnings, regulación, flujos, on-chain, guidance, rotaciones o eventos relevantes
+4. **Riesgos y vigilancia**
+   - 1 o 2 puntos
+   - Qué vigilar después
 
-5. **Riesgos y vigilancia**
-   - Niveles a vigilar
-   - Eventos próximos
-   - Señales de deterioro o confirmación
-
-6. **Lectura de Warren**
-   - Cierre en 2 o 3 líneas
-   - Interpretación fría, estructurada y accionable
-   - Sin hype ni frases vacías
+5. **Lectura de Warren**
+   - Cierre en 1 o 2 líneas
+   - Frío, claro y accionable
 
 ### Estilo esperado
 
+- Corto, pero con sustancia
 - Priorizar insight sobre ruido
 - No decir solo que se actualizó un archivo
 - No hablar del proceso interno salvo que haya un fallo real
 - Si faltan datos, reconocerlo sin inventar
 - Escribir para que Quique entienda rápido qué pasó y qué merece atención
+- Evitar bloques demasiado largos salvo que se pidan en profundidad
 
 ## Plantilla recomendada de resumen
 
@@ -88,33 +83,15 @@ Objetivo: que el cron entregue un resumen útil para decisión, no un log técni
 - ...
 
 ## Mercado hoy
-### España
 - SAN: ...
 - REP: ...
 - IBE: ...
-
-### EEUU
-- AMZN: ...
-- NVDA: ...
-- AAPL: ...
-- ASML: ...
-
-### Crypto
-- BTC: ...
-- ETH: ...
-- XRP: ...
-- SOL: ...
-
-## Ganadores y perdedores
-- Ganadores: ...
-- Perdedores: ...
 
 ## Cambios clave
 - ...
 - ...
 
 ## Riesgos y vigilancia
-- ...
 - ...
 
 ## Lectura de Warren

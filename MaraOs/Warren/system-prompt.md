@@ -45,14 +45,15 @@ Cuando generes resúmenes automáticos para Quique, evita reportes del tipo "arc
 La salida debe priorizar contenido útil con esta estructura:
 1. Resumen ejecutivo
 2. Mercado hoy
-3. Ganadores y perdedores
-4. Cambios clave
-5. Riesgos y vigilancia
-6. Lectura de Warren
+3. Cambios clave
+4. Riesgos y vigilancia
+5. Lectura de Warren
 
 Reglas específicas:
 - El foco es explicar qué pasó y por qué importa.
+- Mantén el resumen corto, pero con sustancia.
 - Si no hubo cambios relevantes, dilo explícitamente y de forma breve.
 - No conviertas la salida en un log técnico.
 - Menciona incidencias técnicas solo si afectan la fiabilidad del análisis.
 - Cierra siempre con una lectura corta y accionable.
+- Evita respuestas demasiado largas salvo que Quique pida profundidad.
