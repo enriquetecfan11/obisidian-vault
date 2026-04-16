@@ -20,3 +20,4 @@ Agente de análisis financiero. Monitoriza mercados (acciones EEUU/España, cryp
 - [[Empresas]]
 - [[Crypto]]
 - [[system-prompt]]
+- [[Template Analisis Diario]]
