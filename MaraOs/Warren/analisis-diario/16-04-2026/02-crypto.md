@@ -1,6 +1,40 @@
-## CRYPTO
+---
+title: Crypto · Análisis diario
+source: Mara / Warren
+date: 2026-04-16
+market: Crypto
+window: 13:30
+status: generated
+---
+# CRYPTO
 
-_Actualizado: 16-04-2026 18:02 Europe/Madrid (fuentes públicas consultadas en la corrida)_
+## Resumen ejecutivo
+- **XRP (+4.10%)** y **SOL (+3.08%)** lideraron el bloque, mientras **BTC (+1.11%)** y **ETH (+0.16%)** avanzaron con tono más moderado.
+- La lectura de la sesión es de fortaleza selectiva en altcoins, con Bitcoin todavía marcando el pulso general pero sin explosión de momentum.
+- El mercado sigue muy sensible a narrativa macro, flujos y regulación, aunque la actividad on-chain no refleja estrés fuerte en esta ventana.
+
+## Mercado hoy
+- BTC: $74,764 (+1.11%)
+- ETH: $2,341 (+0.16%)
+- XRP: $1.43 (+4.10%)
+- SOL: $86.76 (+3.08%)
+
+## Cambios clave
+- XRP fue el activo con más fuerza relativa, apoyado por narrativa regulatoria y expansión del ecosistema XRPL.
+- Solana mantuvo buen tono por continuidad en DeFi, stablecoins y percepción de mejora operativa.
+- Bitcoin y Ethereum avanzaron, pero con una lectura más de soporte del bloque que de liderazgo agresivo.
+
+## Riesgos y vigilancia
+- Vigilar si XRP y SOL consolidan la subida o si se trata de un impulso táctico de corto plazo.
+- Seguir el impacto de macro, tipos y flujos institucionales sobre BTC y ETH, que siguen marcando la dirección estructural.
+
+## Lectura de Warren
+- Crypto hoy deja una imagen de **riesgo encendido pero selectivo**: las altcoins fuertes corren más que los activos grandes.
+- Mientras BTC y ETH no aceleren con más claridad, prefiero leer esta sesión como **fortaleza táctica**, no como cambio de régimen confirmado.
+
+---
+
+## Apéndice por activo
 
 ### Bitcoin (BTC)
 - **Precio actual:** $74,764
@@ -16,7 +50,7 @@ _Actualizado: 16-04-2026 18:02 Europe/Madrid (fuentes públicas consultadas en l
 - **Noticias y eventos:**
   - Keep an eye on XRP, Plasma, DOGE as BTC price drifts: Crypto Daily - CoinDesk
   - How a £2m bitcoin order made Nigel Farage the political face of UK crypto - The Guardian
-  - El flujo de ETF spot y la sensibilidad a tipos sigue marcando el corto plazo, con actividad on-chain moderada y fees contenidas.
+  - El flujo de ETF spot y la sensibilidad a tipos sigue marcando el corto plazo, con actividad on-chain moderada y fees contenidas
 
 ### Ethereum (ETH)
 - **Precio actual:** $2,341
@@ -32,7 +66,7 @@ _Actualizado: 16-04-2026 18:02 Europe/Madrid (fuentes públicas consultadas en l
 - **Noticias y eventos:**
   - Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache. - Barron's
   - Charles Schwab to launch direct bitcoin, ethereum trading to compete with Robinhood - CNBC
-  - La lectura clave sigue siendo adopción de L2, burn neto y estabilidad del staking, más que un catalizador puntual aislado.
+  - La lectura clave sigue siendo adopción de L2, burn neto y estabilidad del staking, más que un catalizador puntual aislado
 
 ### XRP (XRP)
 - **Precio actual:** $1.43
@@ -48,7 +82,7 @@ _Actualizado: 16-04-2026 18:02 Europe/Madrid (fuentes públicas consultadas en l
 - **Noticias y eventos:**
   - Keep an eye on XRP, Plasma, DOGE as BTC price drifts: Crypto Daily - CoinDesk
   - XRP leads gains as large cryptocurrencies start mixed - MarketWatch
-  - El foco regulatorio y la expansión de RLUSD/wallet support sigue siendo el principal driver narrativo junto al uso en pagos.
+  - El foco regulatorio y la expansión de RLUSD/wallet support sigue siendo el principal driver narrativo junto al uso en pagos
 
 ### Solana (SOL)
 - **Precio actual:** $86.76
@@ -64,4 +98,4 @@ _Actualizado: 16-04-2026 18:02 Europe/Madrid (fuentes públicas consultadas en l
 - **Noticias y eventos:**
   - Ripple Developers React to Solana's XRP Post, Something to Watch Out For? - Binance
   - Solana's Mysterious XRP Post Goes Viral With Zero Answers - BeInCrypto
-  - El pulso del ecosistema sigue viniendo de DeFi, stablecoins y mejora de fiabilidad de la red, más que de un único evento aislado.
+  - El pulso del ecosistema sigue viniendo de DeFi, stablecoins y mejora de fiabilidad de la red, más que de un único evento aislado
