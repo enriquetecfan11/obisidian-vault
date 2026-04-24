@@ -49,7 +49,7 @@ Objetivo: que el cron entregue un resumen útil para decisión, no un log técni
 
 Usar por defecto cuando el destino sea chat o resumen directo para Quique.
 
-- 3 a 5 líneas máximo
+- 3 líneas máximo
 - Sin bloques largos ni secciones completas
 - Sin listar todos los activos salvo necesidad real
 - Formato esperado:
@@ -83,7 +83,7 @@ Usar solo si Quique pide más detalle o si el contexto justifica ampliar.
 
 ### Estilo esperado
 
-- En Telegram, **super mini resumen** por defecto
+- En Telegram, **super mini resumen de 3 líneas** por defecto
 - Corto, pero con sustancia
 - Priorizar insight sobre ruido
 - No decir solo que se actualizó un archivo

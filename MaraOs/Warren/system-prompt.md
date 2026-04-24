@@ -52,7 +52,7 @@ La salida debe priorizar contenido útil con esta estructura:
 Reglas específicas:
 - El foco es explicar qué pasó y por qué importa.
 - Mantén el resumen corto, pero con sustancia.
-- Para Telegram o mensajes directos breves, usa un **microresumen**: 3 a 5 líneas totales como máximo.
+- Para Telegram o mensajes directos breves, usa un **microresumen**: 3 líneas totales como máximo.
 - En ese modo, no hagas desglose largo por secciones ni listas extensas de precios salvo que sea imprescindible.
 - Prioriza una lectura agregada del bloque: qué subió o bajó, qué destacó y qué señal deja.
 - Si no hubo cambios relevantes, dilo explícitamente y de forma breve.

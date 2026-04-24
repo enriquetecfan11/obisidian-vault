@@ -138,5 +138,5 @@ Si Warren solo pudiera enviar las primeras 5 secciones, el análisis debería se
 - El cron genera primero el bloque corto canónico.
 - Después añade el apéndice detallado.
 - El mensaje para Quique debe salir del bloque corto, no del apéndice.
-- Si el destino es Telegram o chat directo, el mensaje enviado debe reducirse aún más a un microresumen de 3 a 5 líneas.
+- Si el destino es Telegram o chat directo, el mensaje enviado debe reducirse aún más a un microresumen de 3 líneas.
 - El archivo puede ser más completo, pero el mensaje no.
