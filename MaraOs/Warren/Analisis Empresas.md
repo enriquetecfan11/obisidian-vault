@@ -45,6 +45,22 @@ Objetivo: que el cron entregue un resumen útil para decisión, no un log técni
 
 ### Estructura obligatoria
 
+#### Modo 1. Mensaje corto para Telegram
+
+Usar por defecto cuando el destino sea chat o resumen directo para Quique.
+
+- 3 a 5 líneas máximo
+- Sin bloques largos ni secciones completas
+- Sin listar todos los activos salvo necesidad real
+- Formato esperado:
+  1. Qué pasó en el bloque
+  2. Qué destacó
+  3. Qué lectura deja
+
+#### Modo 2. Resumen ampliado
+
+Usar solo si Quique pide más detalle o si el contexto justifica ampliar.
+
 1. **Resumen ejecutivo**
    - 2 o 3 bullets máximo
    - Qué se movió
@@ -67,6 +83,7 @@ Objetivo: que el cron entregue un resumen útil para decisión, no un log técni
 
 ### Estilo esperado
 
+- En Telegram, **super mini resumen** por defecto
 - Corto, pero con sustancia
 - Priorizar insight sobre ruido
 - No decir solo que se actualizó un archivo
