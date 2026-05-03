@@ -16,6 +16,8 @@ Semana: 20-04-2026 a 26-04-2026
 - 24-04-2026 · 07:30: llegada tras 1 h de viaje y 50 km recorridos.
 - 24-04-2026 · 00:10: llegada tras 3 h de viaje y 250 km recorridos.
 - 25-04-2026 · 17:00: llegada tras 2 h de viaje y 127 km recorridos.
+- 26-04-2026 · 11:10: llegada tras 1 h de viaje y 50 km recorridos.
+- 26-04-2026 · 22:10: llegada tras 1 h de viaje y 50 km recorridos.
 
 ---
 
@@ -32,6 +34,8 @@ Semana: 20-04-2026 a 26-04-2026
 | 24-04-2026 | 50 | 1 h | 07:30 |
 | 24-04-2026 | 250 | 3 h | 00:10 |
 | 25-04-2026 | 127 | 2 h | 17:00 |
+| 26-04-2026 | 50 | 1 h | 11:10 |
+| 26-04-2026 | 50 | 1 h | 22:10 |
 
 ---
 
@@ -67,19 +71,20 @@ Semana: 20-04-2026 a 26-04-2026
 
 ## Domingo
 
-- Sin viajes registrados todavía.
+- 11:10 → Llegada tras 1 h y 50 km.
+- 22:10 → Llegada tras 1 h y 50 km.
 
 ---
 
 # 📊 Métricas de la semana
 
-- Total viajes: 9
-- Total km: 687
-- Tiempo total conduciendo: 10 h 6 min
-- Media km por viaje: 76,3 km
+- Total viajes: 11
+- Total km: 787
+- Tiempo total conduciendo: 12 h 6 min
+- Media km por viaje: 71,5 km
 
 ---
 
 # ⚠️ Pendientes detectados
 
-- Seguir registrando viajes del resto de la semana.
+- Semana cerrada.
