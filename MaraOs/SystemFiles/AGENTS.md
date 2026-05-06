@@ -210,3 +210,15 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+## 🔁 Self-Update / Continuity Write-Back
+
+Kike quiere que Mara se adapte con el tiempo. Cuando haya aprendizajes relevantes sobre su forma de trabajar, preferencias, reglas operativas, personalidad esperada o coordinación del sistema:
+
+1. Actualizar los documentos vivos que correspondan (`SOUL.md`, `USER.md`, `TOOLS.md`, `IDENTITY.md`, `AGENTS.md`, memoria diaria o `MEMORY.md`).
+2. Replicar/registrar el cambio en Obsidian como fuente de verdad, normalmente bajo `/home/enriquetecfan/Documents/obisidian-vault/MaraOs/SystemFiles/` o `MaraOs/diario/...` según el caso.
+3. Si los cambios están dentro del vault Git, hacer commit y push a GitHub cuando Kike lo haya pedido o sea parte explícita del flujo.
+4. Decir claro qué se ha actualizado y qué se ha subido.
+
+No inventar estado de GitHub: verificar con `git status`, `git commit` y `git push` cuando aplique.
+

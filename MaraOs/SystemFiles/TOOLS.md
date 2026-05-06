@@ -1,59 +1,25 @@
-# TOOLS.md - Local Notes
+# TOOLS.md - Local Operational Notes
 
-Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
+## Obsidian
 
-## What Goes Here
+- Ruta canónica del vault en este host Ubuntu: `/home/enriquetecfan/Documents/obisidian-vault`
+- Importante: conservar literalmente el nombre `obisidian-vault`; no corregirlo a `obsidian-vault`.
+- Obsidian es la fuente de verdad por defecto para conocimiento operativo: memoria, decisiones, prompts, procedimientos, arquitectura, contexto reutilizable y documentación viva.
+- Si Kike dice “recuerda”, “acuérdate”, “como esta mañana” o pide recuperar algo anterior, consultar primero este vault.
+- Si hay duplicados o conflicto entre notas, priorizar la nota canónica del vault.
+- Regla práctica: si algo importa también mañana, probablemente debe quedar en Obsidian.
 
-Things like:
+## Tasks and calendar
 
-- Camera names and locations
-- SSH hosts and aliases
-- Preferred voices for TTS
-- Speaker/room names
-- Device nicknames
-- Anything environment-specific
+- Tareas y calendario deben ir por las integraciones/MCPs configuradas en la máquina, no por inventos paralelos.
+- Para tareas, usar el sistema de tasks/notes configurado.
+- Para eventos, usar el sistema de calendar configurado.
+- Si una integración falla o no está configurada, decirlo claro y no inventar estados.
 
-## Examples
+## GitHub / write-back de documentación viva
 
-```markdown
-### Cameras
+- Cuando Mara actualice documentos propios importantes (`SOUL.md`, `USER.md`, `TOOLS.md`, `IDENTITY.md`, `AGENTS.md`, memoria operativa o reglas estables), debe dejar copia/registro en Obsidian.
+- El vault canónico tiene remote GitHub configurado: `https://github.com/enriquetecfan11/obisidian-vault.git`.
+- Después de cambios relevantes en el vault, verificar `git status`, hacer commit con mensaje claro y `git push`, salvo que Kike indique lo contrario o haya riesgo/ conflicto que requiera confirmación.
+- No afirmar que algo está subido a GitHub sin verificar el resultado de `git push`.
 
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
-
-### SSH
-
-- home-server → 192.168.1.100, user: admin
-
-### TTS
-
-- Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
-```
-
-## Why Separate?
-
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
-
----
-
-Add whatever helps you do your job. This is your cheat sheet.
-
-## Current Ops Routing (Discord + Telegram)
-
-- Discord channel → agent bindings (guild `413791825607000067`):
-  - `tecnofanaticos` (`1484990924676268145`) → `main`
-  - `#mara-os` (`1484934389228566802`) → `atlas`
-  - `#mara-os` (`1484934357767684096`) → `arvis`
-  - `#warren` (`1484934434674311288`) → `scout` (Warren)
-  - `#mara-os` (`1484934172010217763`) → `main`
-
-- Delivery policy requested by Quique:
-  - Keep Telegram daily summaries.
-  - Also post each agent’s Obsidian/output summaries in its Discord channel.
-
-- Specific override:
-  - `Mara changelog diario Obsidian (Discord)` must post to `1484997198084182186` (NOT `tecnofanaticos`).
-
-- Known issue to remember:
-  - Some cron jobs can fail if OpenAI Codex OAuth token needs refresh.

@@ -1,7 +1,7 @@
 # USER.md - About Your Human
 
-- **Name:** Enrique Rodríguez
-- **What to call them:** Quique
+- **Name:** Kike Rodriguez
+- **What to call them:** Kike
 - **Pronouns:**
 - **Timezone:** Europe/Madrid
 - **Notes:**
@@ -17,5 +17,13 @@
 - Prefiere comunicación cercana y natural, pero directa y estructurada.
 - Nivel técnico alto; usar detalle técnico cuando aporte valor.
 - En temas de producto/negocio, priorizar enfoque estratégico y accionable.
-- Regla de comunicación: no mostrar código por defecto; solo si lo pide explícitamente.
+- Regla de comunicación: no mostrar código por defecto; solo si Kike lo pide explícitamente.
 - Regla crítica: pedir confirmación antes de acciones importantes, decisiones relevantes, configuraciones técnicas o impactos estratégicos.
+
+## Adaptación Mara ↔ Kike
+
+- Kike quiere que Mara evolucione con el tiempo y se adapte mejor a él.
+- Prefiere que Mara actualice por iniciativa propia sus documentos vivos cuando aprenda algo importante: personalidad, reglas, preferencias, memoria operativa y criterios de trabajo.
+- Quiere que esos cambios queden en Obsidian y, cuando aplique, se suban a GitHub para poder revisarlos.
+- Le importa construir un binomio Kike ↔ Mara cada vez más eficaz, natural y coordinado.
+
