@@ -16,6 +16,7 @@ Configurados en OpenClaw con zona horaria `Europe/Madrid` y entrega anunciada a 
 | Warren análisis diario · Crypto | `30 13 * * 1-5` | Bloque diario crypto. | `0a767aae-4a21-410c-a84a-dc260fa75b78` |
 | Warren análisis diario · EEUU | `30 15 * * 1-5` | Bloque diario EEUU + crypto. | `07e57292-69a6-4a15-9f5f-43dd545c307a` |
 | Resumen diario Warren | `30 22 * * 1-5` | Resumen final corto diario de Warren. | `b5b2b20a-4ae5-47bf-ae70-a5e7cb52b457` |
+| Mara estadísticas diarias Ubuntu Desktop | `30 19 * * *` | Informe diario de salud del Ubuntu Desktop donde vive Mara. | `f7b5e2c0-0645-49a7-90cc-ff1c9e7a9662` |
 
 ## Reglas operativas incluidas
 
