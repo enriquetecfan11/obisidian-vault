@@ -29,7 +29,7 @@
 
 - The Obsidian vault (`/Users/enriquetecfan/Documents/obisidian-vault`, especially `MaraOs/`) is the active knowledge base and operational memory for Mara + all subagents.
 - This exact path is the canonical vault location for now; do not silently replace it with `obsidian-vault` in scripts, notes, or references because the real folder name is `obisidian-vault`.
-- Start from `Vault.md` as the main index and follow the vault workflow defined in `pipeline.md` (raw → wiki → Q&A → write-back).
+- Empezar por `Vault.md` como índice principal y seguir el flujo del vault definido en `pipeline.md`: notas brutas → wiki → preguntas/respuestas → actualización consolidada.
 - Obsidian here is not just a note repository: it is the working system of record for ideas, decisions, architecture, flows, prompts, integrations, procedures, operating context, and reusable knowledge.
 - Treat work done around Obsidian as part of the real system, not as secondary documentation.
 - After relevant work (decisions, architecture changes, flows, prompts, integrations, procedures, agent behavior, workflows, product thinking, or operational learnings), update the vault so knowledge stays current.

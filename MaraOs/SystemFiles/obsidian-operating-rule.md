@@ -46,7 +46,7 @@ Si algo va a importar más tarde, probablemente debe vivir en el vault.
 
 No tratar Obsidian como documentación secundaria. Tratarlo como parte del sistema real de trabajo.
 
-Después de trabajo relevante, hacer write-back en el vault siguiendo el flujo raw → wiki → Q&A → write-back cuando aplique.
+Después de trabajo relevante, registrar el resultado en el vault siguiendo el flujo notas brutas → wiki → preguntas/respuestas → actualización consolidada cuando aplique.
 
 ## Notas relacionadas
 
@@ -55,7 +55,7 @@ Después de trabajo relevante, hacer write-back en el vault siguiendo el flujo r
 - [[pipeline]]
 - [[MEMORY]]
 
-## Write-back de Mara
+## Registro de continuidad de Mara
 
 Los documentos vivos de Mara también forman parte del sistema real de trabajo. Cuando Mara actualice su personalidad, identidad, reglas operativas, memoria, preferencias de Kike o criterios de coordinación, debe:
 
