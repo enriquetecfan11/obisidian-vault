@@ -1,6 +1,6 @@
-# Resumen diario Warren - 07-05-2026
-
 #mara-os #warren
+
+# Resumen diario Warren - 07-05-2026
 
 ## Resumen ejecutivo
 - Día de digestión, no de ruptura: España corrigió ligeramente en los tres nombres, EEUU abrió constructivo pero sin euforia, y crypto retrocedió con BTC defendiendo la zona de $80k.
@@ -31,12 +31,33 @@
 4. Sostenibilidad de la relajación del 10Y.
 5. Si SAN mantiene impulso o entra en consolidación.
 
-## Pendientes
-- Ninguno detectado: existen los bloques **España**, **Crypto** y **EEUU + Crypto** del 07-05-2026.
+## Precios actuales
 
----
+### Empresas España
+- **SAN**: 10,58 EUR (-0,08% 24h)
+- **REP**: 21,79 EUR (-0,46% 24h)
+- **IBE**: 19,62 EUR (-0,68% 24h)
 
-Fuentes internas revisadas:
+### Empresas EEUU
+- **AMZN**: 271,17 USD
+- **NVDA**: 211,50 USD
+- **AAPL**: 287,42 USD
+- **ASML**: 1.300,00 EUR
+
+### Crypto
+- **BTC**: 80.122,00 USD (-1,51% 24h)
+- **ETH**: 2.292,57 USD (-2,35% 24h)
+- **XRP**: 1,39 USD (-2,41% 24h)
+- **SOL**: 88,49 USD (-0,89% 24h)
+
+## Acciones mañana
+- Vigilar si BTC convierte la corrección en simple digestión o si pierde claramente $80k.
+- Pedir confirmación a ETH: recuperar $2,35k–$2,40k o asumir que sigue siendo el punto débil del bloque.
+- Revisar continuidad en NVDA y ASML como señal de que el trade IA sigue vivo.
+- Confirmar que el 10Y mantiene alivio. Si rebota, el coste lo pagarán antes tech y crypto.
+- En España, observar si SAN aguanta mejor que REP e IBE en una sesión de menor apetito por riesgo.
+
+## Fuente del análisis diario
 - `MaraOs/Warren/analisis-diario/07-05-2026/01-espana.md`
 - `MaraOs/Warren/analisis-diario/07-05-2026/02-crypto.md`
 - `MaraOs/Warren/analisis-diario/07-05-2026/03-eeuu-crypto.md`
