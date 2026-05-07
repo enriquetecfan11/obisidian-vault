@@ -8,6 +8,7 @@ Semana: 04-05-2026 a 10-05-2026
 # 📝 Registro rápido
 
 - 07-05-2026 · 14:30: llegada tras 1 h de viaje y 50 km recorridos. Nota: último viaje de Renault Clio.
+- 07-05-2026 · 18:30: llegada tras 1 h de viaje y 50 km recorridos. Nota: primer viaje de Clase A 180D.
 
 ---
 
@@ -16,6 +17,7 @@ Semana: 04-05-2026 a 10-05-2026
 | Fecha | Km | Duración | Hora llegada | Nota |
 |------|----|----------|--------------|------|
 | 07-05-2026 | 50 | 1 h | 14:30 | Último viaje de Renault Clio |
+| 07-05-2026 | 50 | 1 h | 18:30 | Primer viaje de Clase A 180D |
 
 ---
 
@@ -36,6 +38,7 @@ Semana: 04-05-2026 a 10-05-2026
 ## Jueves
 
 - 14:30 → Llegada tras 1 h y 50 km. Último viaje de Renault Clio.
+- 18:30 → Llegada tras 1 h y 50 km. Primer viaje de Clase A 180D.
 
 ## Viernes
 
@@ -53,13 +56,13 @@ Semana: 04-05-2026 a 10-05-2026
 
 # 📊 Métricas de la semana
 
-- Total viajes: 1
-- Total km: 50
-- Tiempo total conduciendo: 1 h
+- Total viajes: 2
+- Total km: 100
+- Tiempo total conduciendo: 2 h
 - Media km por viaje: 50,0 km
 
 ---
 
 # ⚠️ Pendientes detectados
 
-- Kike indicó “2 viajes”, pero de momento solo se recibió el primer viaje. Falta registrar el segundo.
+- Semana en curso. Seguir registrando viajes si aplica.
