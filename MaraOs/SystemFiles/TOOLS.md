@@ -17,8 +17,8 @@ Las skills explican cómo usar herramientas generales. Este archivo guarda detal
 
 - Tareas y calendario deben usar las integraciones/MCPs configuradas en esta máquina, no sistemas paralelos inventados.
 - **Regla fija de Kike:** las tareas que él dicte deben apuntarse **solo en el MCP de `agents-notes`**.
-- Al crear tareas en `agents-notes`, usar `Title`, `Notes` y `Due_Date` para la fecha en que debe hacerse/completarse. Formato verificado para `Due_Date`: RFC3339, por ejemplo `2026-05-11T00:00:00.000Z`.
-- La finalización se marca con la herramienta `Complete_a_Task`; el sistema registra la fecha de completado.
+- Al crear tareas en `agents-notes`, usar `Title`, `Notes`, `Due_Date` y `Completion_Date`. `Due_Date` es la fecha de la tarea; `Completion_Date` es la fecha en que debe completarse. Formato verificado: RFC3339, por ejemplo `2026-05-11T00:00:00.000Z`.
+- La finalización real se marca con la herramienta `Complete_a_Task`; el sistema registra la fecha de completado.
 - No guardar tareas en cron, Obsidian ni listas paralelas salvo que Kike pida explícitamente un recordatorio/programación adicional.
 - Para eventos, usar el sistema configurado de calendario.
 - Si una integración falla o no está disponible, decirlo claro; no inventar estados.
