@@ -3,7 +3,7 @@ title: Crypto · Análisis diario
 source: Mara / Warren
 date: 2026-05-08
 market: Crypto
-window: "13:30"
+window: "18:02"
 status: generated
 date_created: 2026-05-08
 date_modified: 2026-05-08
@@ -12,86 +12,99 @@ date_modified: 2026-05-08
 # CRYPTO
 
 ## Resumen ejecutivo
-- Sesión ligeramente negativa: BTC $80.29K (-0.78% 24h), ETH $2.29K (-1.56%), XRP $1.39 (-1.42%) y SOL $88.64 (-0.90%). No hay ruptura fuerte, pero el mercado sigue defendiendo con cautela la zona psicológica de BTC $80K.
-- Sentimiento: **miedo moderado** según Fear & Greed Index 38/100. La lectura encaja con un mercado que rebota a 7 días pero cubre riesgo en el corto plazo.
-- La señal relativa sigue favoreciendo a BTC como ancla macro y a SOL en momentum semanal; ETH mantiene profundidad DeFi, pero va más flojo en precio. XRP tiene catalizador institucional por tokenización, aunque su precio no lo está capitalizando hoy.
+- Sesión mixta y de baja convicción: BTC $80,016.00 (+0.31%), ETH $2,290.69 (+0.04%), XRP $1.39 (+0.42%) y SOL $89.43 (+1.37%). BTC sigue defendiendo la zona de 80K, mientras ETH pierde algo de tracción relativa.
+- En fundamentales de red, Ethereum mantiene la mayor profundidad de actividad económica por TVL ($101.77B) y Solana conserva beta alta con TVL de $12.69B y fees diarios visibles en DeFiLlama. XRP sostiene narrativa institucional, pero su actividad on-chain sigue menos capturada por APIs abiertas.
+- Lectura útil: no hay capitulación, hay consolidación. BTC marca régimen, ETH necesita recuperar fuerza relativa, XRP depende de catalizadores institucionales y SOL sigue siendo el activo más sensible a mejora de apetito por riesgo.
 
 ## Mercado hoy
-- BTC: $80,290 (-0.78% 24h, +3.96% 7d) | rango 24h: $79,287-$81,158
-- ETH: $2,292.78 (-1.56% 24h, +0.53% 7d) | rango 24h: $2,268.68-$2,334.85
-- XRP: $1.39 (-1.42% 24h, +1.20% 7d) | rango 24h: $1.38-$1.41
-- SOL: $88.64 (-0.90% 24h, +5.62% 7d) | rango 24h: $87.69-$89.94
+- BTC: $80,016.00 (+0.31%) | market cap $1.60T | vol. 24h $36.98B
+- ETH: $2,290.69 (+0.04%) | market cap $276.67B | vol. 24h $19.33B
+- XRP: $1.39 (+0.42%) | market cap $86.30B | vol. 24h $1.41B
+- SOL: $89.43 (+1.37%) | market cap $51.67B | vol. 24h $3.08B
 
 ## Cambios clave
-- BTC sigue orbitando $80K: CoinDesk señalaba esta semana que los flujos ayudan, pero el mercado mantiene coberturas y dudas sobre una ruptura limpia. Hoy el rango de CoinGecko confirma consolidación estrecha alrededor de ese nivel.
-- XRP mantiene catalizador de tokenización: Ondo, Kinexys by J.P. Morgan, Mastercard y Ripple completaron una redención transfronteriza casi en tiempo real de Treasuries tokenizados sobre XRP Ledger; es relevante para narrativa institucional, aunque no evita el rojo intradía.
-- SOL conserva mejor momentum semanal del bloque (+5.62% 7d) y vuelve a aparecer en titulares por tracción de desarrolladores, pero la lectura de precio de hoy es lateral-bajista y sensible a beta retail.
+- BTC sigue en compresión cerca de 80K: precio casi plano en 24h, pero con ~557,843 transacciones y fees medianos todavía bajos, señal de uso sostenido sin estrés extremo de red.
+- ETH mantiene la máquina económica del bloque: ~1.85M transacciones 24h, TVL líder y fees diarios visibles. El problema hoy no es uso, es momentum relativo frente a BTC.
+- XRP conserva catalizador institucional por tokenización y pagos, mientras SOL sigue destacando por velocidad/actividad, aunque parte de sus métricas públicas abiertas son menos homogéneas que BTC/ETH.
 
 ## Riesgos y vigilancia
-- BTC: soporte táctico en el mínimo 24h $79.3K / zona psicológica $80K; resistencia inmediata en $81.2K. Perder $79K con volumen elevaría riesgo de falsa recuperación.
-- ETH: vigilar si mantiene $2.27K-$2.30K; debilidad relativa frente a BTC sigue siendo el dato a monitorizar.
-- XRP y SOL: XRP depende más de titulares institucionales/regulatorios; SOL necesita que TVL y actividad acompañen el momentum para no quedarse solo en narrativa.
+- BTC: vigilar si la zona 79K-80K aguanta. Perderla con volumen abriría riesgo de vuelta al rango inferior.
+- ETH: si no recupera fuerza relativa, puede seguir quedándose atrás aunque la actividad fundamental siga fuerte.
+- XRP y SOL: ambos dependen mucho más del flujo narrativo. En XRP pesa regulación/adopción institucional; en SOL, la continuidad de actividad on-chain y de capital en el ecosistema.
 
 ## Lectura de Warren
-- Mercado en digestión, no en capitulación: miedo moderado, caídas pequeñas y rangos estrechos. La decisión útil es no sobreinterpretar el rojo diario: BTC manda el régimen, ETH está rezagado, XRP tiene catalizador real pero precio frío, y SOL sigue siendo la beta más fuerte si vuelve el apetito por riesgo.
+- Mercado de digestión, no de ruptura. Hoy importa más quién mantiene estructura y actividad que el color del día: BTC sostiene el régimen, ETH conserva profundidad, XRP necesita que la narrativa institucional se traduzca en precio y SOL sigue siendo la beta táctica más viva.
 
 ---
 
 ## Apéndice por activo
 
 ### BTC · Bitcoin
-- Precio actual: $80,290
-- Variación: -0.78% 24h / +3.96% 7d
-- Market cap: $1.607T
-- Volumen 24h: $38.38B
-- Oferta circulante / máxima: 20.03M / 21.00M BTC
-- Rango 24h: $79,287-$81,158
-- Transacciones 24h: 545,367
-- Fees: media ~$0.47; mediana ~$0.11
-- Hashrate 24h: ~962.7 EH/s
-- TVL ecosistema Bitcoin: $5.34B
-- Contexto: hard cap 21M, emisión decreciente post-halving y sensibilidad alta a liquidez macro, ETF/flujos institucionales y dólar/tipos.
+- Precio actual: $80,016.00
+- % 24h: +0.31%
+- Market cap: $1.60T
+- Volumen 24h: $36.98B
+- Oferta circulante / total / máxima: 20.03M / 20.03M / 21.00M BTC
+- Direcciones activas / únicas 24h: N/D
+- Transacciones 24h: 557,843
+- Fees 24h: media $0.44, mediana $0.11
+- TVL: N/A como capa base; ecosistema BTC DeFi no es el centro de la tesis de red aquí
+- Tokenomics básica: hard cap 21M, emisión decreciente post-halving, activo monetario escaso con sensibilidad alta a flujos ETF/macroeconomía
+- Noticias/eventos:
+  - Crypto Market Update: Coinbase Slashes Workforce, Strategy Considers Bitcoin Sale
+  - Bitcoin treasury firm Strategy breaks from 'never sell' approach to the flagship crypto
 
 ### ETH · Ethereum
-- Precio actual: $2,292.78
-- Variación: -1.56% 24h / +0.53% 7d
-- Market cap: $276.70B
-- Volumen 24h: $21.22B
+- Precio actual: $2,290.69
+- % 24h: +0.04%
+- Market cap: $276.67B
+- Volumen 24h: $19.33B
 - Oferta circulante / total: 120.69M / 120.69M ETH
-- Rango 24h: $2,268.68-$2,334.85
-- Transacciones 24h: 1.86M
-- Fees: media ~$0.74; mediana ~$0.15; gas sugerido normal ~2 gwei
-- ETH quemado 24h: ~296.54 ETH
-- TVL ecosistema Ethereum: $45.07B
-- Contexto: PoS, EIP-1559, staking y DeFi/stablecoins como núcleo de demanda. La debilidad relativa frente a BTC sigue siendo el principal riesgo táctico.
+- Direcciones activas 24h: N/D en la combinación de APIs públicas abiertas usada hoy, sin extrapolar
+- Transacciones 24h: 1.85M
+- Fees 24h: media $0.76, mediana $0.15, fees diarios DeFiLlama ~$1.45M
+- TVL: $101.77B
+- Tokenomics básica: PoS, emisión parcialmente compensada por burn EIP-1559, staking y DeFi/stablecoins como motores de demanda
+- Noticias/eventos:
+  - Current price of Ethereum for May 8, 2026
+  - Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.18 Million Tokens, and Total Crypto and Total Cash Holdings of $13.1 Billion
 
 ### XRP · XRP Ledger
 - Precio actual: $1.39
-- Variación: -1.42% 24h / +1.20% 7d
-- Market cap: $85.97B
-- Volumen 24h: $1.59B
+- % 24h: +0.42%
+- Market cap: $86.30B
+- Volumen 24h: $1.41B
 - Oferta circulante / total / máxima: 61.80B / 99.99B / 100.00B XRP
-- Rango 24h: $1.38-$1.41
+- Direcciones activas 24h: N/D en fuente pública abierta consistente usada hoy
 - Transacciones 24h: 239,832
-- Fees: media ~$0.0010; mediana ~$0.000023
-- Catalizador: redención transfronteriza de Treasuries tokenizados con Ondo, Kinexys/J.P. Morgan, Mastercard y Ripple sobre XRP Ledger.
-- Contexto: tesis más ligada a pagos, tokenización institucional y regulación que a TVL DeFi nativo.
+- Fees 24h: media $0.00, mediana $0.00
+- TVL: N/A para la tesis principal; XRPL no compite hoy por profundidad DeFi con ETH/SOL
+- Tokenomics básica: suministro máximo 100B, distribución histórica centralizada y tesis más ligada a pagos, liquidez y tokenización institucional que a yield/DeFi
+- Noticias/eventos:
+  - Ondo, JPMorgan, Mastercard and Ripple Team to Settle Tokenized Treasuries on XRP Ledger
+  - Ripple, JPMorgan settle first cross-border tokenized Treasury redemption on XRP Ledger
 
 ### SOL · Solana
-- Precio actual: $88.64
-- Variación: -0.90% 24h / +5.62% 7d
-- Market cap: $51.19B
-- Volumen 24h: $3.35B
+- Precio actual: $89.43
+- % 24h: +1.37%
+- Market cap: $51.67B
+- Volumen 24h: $3.08B
 - Oferta circulante / total: 577.45M / 625.96M SOL
-- Rango 24h: $87.69-$89.94
-- Muestra RPC reciente: 179,349 transacciones en 60s, de las cuales 69,960 no-vote; ~2,989 tx/s brutas en la muestra
-- TVL ecosistema Solana: $5.60B
-- Contexto: PoS con inflación descendente, sensibilidad alta a actividad retail, stablecoins, memecoins, pagos y tracción de desarrolladores.
+- Direcciones activas 24h: N/D en API pública abierta estable usada hoy, sin inventar proxy
+- Transacciones 24h: ~71.29M no-vote estimadas a partir de 12h recientes RPC
+- Fees 24h: ~$534,360.00 en dataset de DeFiLlama fees
+- TVL: $12.69B
+- Tokenomics básica: PoS con inflación descendente, alto throughput, fuerte dependencia de actividad retail, pagos, stablecoins y apps de consumo
+- Noticias/eventos:
+  - Solana’s 'Alpenglow' upgrade could arrive next quarter, co-founder Yakovenko says
+  - Solana Prez Touts Blockchain’s Usefulness for Payments
 
 ## Fuentes operativas
-- CoinGecko markets API, consulta 2026-05-08 11:30 UTC.
-- DeFiLlama chains API, consulta 2026-05-08 11:30 UTC.
-- Blockchair stats API para BTC/ETH/XRP, consulta 2026-05-08 11:30 UTC.
-- Solana public RPC `getRecentPerformanceSamples`, consulta 2026-05-08 11:30 UTC.
-- Alternative.me Fear & Greed Index, valor 38/100 Fear.
-- Google News / web search para catalizadores: CoinDesk, PR Newswire, Yahoo Finance/FXLeaders. Donde una fuente abierta no aporta dato fiable, no se extrapola.
+- Plantilla base: /Users/enriquetecfan/Documents/obisidian-vault/MaraOs/Warren/Analisis Empresas.md
+- Lista de seguimiento: /Users/enriquetecfan/Documents/obisidian-vault/MaraOs/Warren/Crypto.md
+- CoinGecko Markets API, consulta 2026-05-08 16:02 UTC.
+- Blockchair Stats API para BTC/ETH/XRP, consulta 2026-05-08 16:02 UTC.
+- Blockchain.info stats para direcciones únicas BTC, consulta 2026-05-08 16:02 UTC.
+- DeFiLlama chains/fees APIs para TVL y fees ETH/SOL, consulta 2026-05-08 16:02 UTC.
+- Solana public RPC (getSupply, getRecentPerformanceSamples), consulta 2026-05-08 16:02 UTC.
+- Google News RSS para titulares/catalizadores recientes. Donde no hubo API pública abierta fiable para una métrica concreta, queda marcado como N/D.
