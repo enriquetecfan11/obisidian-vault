@@ -16,7 +16,8 @@ Las skills explican cómo usar herramientas generales. Este archivo guarda detal
 ## Tareas y calendario
 
 - Tareas y calendario deben usar las integraciones/MCPs configuradas en esta máquina, no sistemas paralelos inventados.
-- Para tareas, usar el sistema configurado de tareas/notas.
+- **Regla fija de Kike:** las tareas que él dicte deben apuntarse **solo en el MCP de `agents-notes`**.
+- No guardar tareas en cron, Obsidian ni listas paralelas salvo que Kike pida explícitamente un recordatorio/programación adicional.
 - Para eventos, usar el sistema configurado de calendario.
 - Si una integración falla o no está disponible, decirlo claro; no inventar estados.
 
