@@ -11,6 +11,8 @@ Semana: 04-05-2026 a 10-05-2026
 - 07-05-2026 · 18:30: llegada tras 1 h de viaje y 50 km recorridos. Nota: primer viaje de Clase A 180D.
 - 08-05-2026 · 08:03: llegada tras 45 min de viaje y 50 km recorridos.
 - 08-05-2026 · 15:55: llegada tras 45 min de viaje y 45 km recorridos.
+- 09-05-2026 · 08:20: llegada tras 1 h de viaje y 64 km recorridos. Nota: hora estimada.
+- 09-05-2026 · 18:45: llegada tras 1 h de viaje y 64 km recorridos. Nota: hora estimada.
 
 ---
 
@@ -22,6 +24,8 @@ Semana: 04-05-2026 a 10-05-2026
 | 07-05-2026 | 50 | 1 h | 18:30 | Primer viaje de Clase A 180D |
 | 08-05-2026 | 50 | 45 min | 08:03 | — |
 | 08-05-2026 | 45 | 45 min | 15:55 | — |
+| 09-05-2026 | 64 | 1 h | 08:20 | Hora estimada |
+| 09-05-2026 | 64 | 1 h | 18:45 | Hora estimada |
 
 ---
 
@@ -51,7 +55,8 @@ Semana: 04-05-2026 a 10-05-2026
 
 ## Sábado
 
-- Sin viajes registrados todavía.
+- 08:20 → Llegada tras 1 h y 64 km. Hora estimada.
+- 18:45 → Llegada tras 1 h y 64 km. Hora estimada.
 
 ## Domingo
 
@@ -61,10 +66,10 @@ Semana: 04-05-2026 a 10-05-2026
 
 # 📊 Métricas de la semana
 
-- Total viajes: 4
-- Total km: 195
-- Tiempo total conduciendo: 3 h 30 min
-- Media km por viaje: 48,8 km
+- Total viajes: 6
+- Total km: 323
+- Tiempo total conduciendo: 5 h 30 min
+- Media km por viaje: 53,8 km
 
 ---
 
