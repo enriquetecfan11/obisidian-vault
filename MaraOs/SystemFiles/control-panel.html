@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OpenClaw + Obsidian Control Panel</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --panel: #111827;
+      --panel-soft: #1f2937;
+      --text: #e5e7eb;
+      --muted: #9ca3af;
+      --border: #374151;
+      --accent: #38bdf8;
+      --accent-dark: #0284c7;
+      --danger: #f87171;
+      --radius: 14px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+
+    header {
+      padding: 28px 20px;
+      border-bottom: 1px solid var(--border);
+      background: linear-gradient(135deg, #111827, #0f172a);
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0 0 8px;
+      font-size: 1.8rem;
+    }
+
+    header p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    main {
+      width: min(1100px, 100%);
+      margin: 0 auto;
+      padding: 24px 16px 48px;
+    }
+
+    .tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 20px;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 10px;
+    }
+
+    .tab-button {
+      border: 1px solid var(--border);
+      background: var(--panel);
+      color: var(--text);
+      padding: 10px 14px;
+      border-radius: 999px;
+      cursor: pointer;
+      font-weight: 600;
+    }
+
+    .tab-button.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #082f49;
+    }
+
+    .tab-panel {
+      display: none;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+
+    .tab-panel.active {
+      display: block;
+    }
+
+    .section-title {
+      margin-top: 0;
+      margin-bottom: 16px;
+      font-size: 1.25rem;
+    }
+
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 16px;
+    }
+
+    .agent-card,
+    .subsection {
+      background: var(--panel-soft);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px;
+    }
+
+    .agent-card h3,
+    .subsection h3 {
+      margin-top: 0;
+      margin-bottom: 14px;
+      text-transform: capitalize;
+    }
+
+    .form-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      gap: 14px;
+    }
+
+    label {
+      display: block;
+      color: var(--muted);
+      font-size: 0.92rem;
+      margin-bottom: 6px;
+    }
+
+    input[type="text"],
+    input[type="url"],
+    input[type="number"] {
+      width: 100%;
+      padding: 10px 11px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      background: #020617;
+      color: var(--text);
+      outline: none;
+    }
+
+    input:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 2px rgba(56, 189, 248, 0.16);
+    }
+
+    .checkbox-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin: 4px 0 14px;
+      color: var(--text);
+    }
+
+    .checkbox-row label {
+      margin: 0;
+      color: var(--text);
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 22px 0 14px;
+    }
+
+    button.primary,
+    button.secondary {
+      border: none;
+      padding: 11px 15px;
+      border-radius: 10px;
+      cursor: pointer;
+      font-weight: 700;
+    }
+
+    button.primary {
+      background: var(--accent);
+      color: #082f49;
+    }
+
+    button.primary:hover {
+      background: #7dd3fc;
+    }
+
+    button.secondary {
+      background: var(--panel-soft);
+      color: var(--text);
+      border: 1px solid var(--border);
+    }
+
+    #copy-status {
+      color: var(--muted);
+      min-height: 24px;
+    }
+
+    pre {
+      white-space: pre-wrap;
+      overflow-x: auto;
+      background: #020617;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px;
+      color: #d1fae5;
+      min-height: 180px;
+    }
+
+    .hint {
+      color: var(--muted);
+      font-size: 0.92rem;
+      margin-top: -6px;
+      margin-bottom: 18px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>OpenClaw + Obsidian Control Panel</h1>
+    <p>Panel manual para preparar configuración legible por Mara.</p>
+  </header>
+
+  <main>
+    <nav class="tabs" aria-label="Secciones de configuración">
+      <button class="tab-button active" type="button" data-tab="agents">Agentes</button>
+      <button class="tab-button" type="button" data-tab="orchestration">Orquestación</button>
+      <button class="tab-button" type="button" data-tab="memory">Memoria / Obsidian</button>
+    </nav>
+
+    <section id="tab-agents" class="tab-panel active">
+      <h2 class="section-title">Agentes</h2>
+      <p class="hint">Define qué agentes están activos y qué rol operativo tiene cada uno.</p>
+
+      <div class="cards-grid">
+        <article class="agent-card" data-agent="mara">
+          <h3>Mara</h3>
+          <div class="checkbox-row">
+            <input id="mara-enabled" type="checkbox" data-field="enabled" checked />
+            <label for="mara-enabled">enabled</label>
+          </div>
+          <label for="mara-model">model</label>
+          <input id="mara-model" type="text" data-field="model" value="claude-3-7-sonnet" />
+
+          <label for="mara-role">role</label>
+          <input id="mara-role" type="text" data-field="role" value="orchestrator" />
+
+          <label for="mara-workspace">workspace</label>
+          <input id="mara-workspace" type="text" data-field="workspace" value="/home/enriquetecfan/.openclaw/workspace" />
+
+          <label for="mara-temperature">temperature</label>
+          <input id="mara-temperature" type="number" data-field="temperature" min="0" max="1" step="0.1" value="0.3" />
+        </article>
+
+        <article class="agent-card" data-agent="atlas">
+          <h3>Atlas</h3>
+          <div class="checkbox-row">
+            <input id="atlas-enabled" type="checkbox" data-field="enabled" checked />
+            <label for="atlas-enabled">enabled</label>
+          </div>
+          <label for="atlas-model">model</label>
+          <input id="atlas-model" type="text" data-field="model" value="claude-3-7-sonnet" />
+
+          <label for="atlas-role">role</label>
+          <input id="atlas-role" type="text" data-field="role" value="executor" />
+
+          <label for="atlas-workspace">workspace</label>
+          <input id="atlas-workspace" type="text" data-field="workspace" value="/home/enriquetecfan/.openclaw/workspace" />
+
+          <label for="atlas-temperature">temperature</label>
+          <input id="atlas-temperature" type="number" data-field="temperature" min="0" max="1" step="0.1" value="0.2" />
+        </article>
+
+        <article class="agent-card" data-agent="warren">
+          <h3>Warren</h3>
+          <div class="checkbox-row">
+            <input id="warren-enabled" type="checkbox" data-field="enabled" checked />
+            <label for="warren-enabled">enabled</label>
+          </div>
+          <label for="warren-model">model</label>
+          <input id="warren-model" type="text" data-field="model" value="claude-3-7-sonnet" />
+
+          <label for="warren-role">role</label>
+          <input id="warren-role" type="text" data-field="role" value="research" />
+
+          <label for="warren-workspace">workspace</label>
+          <input id="warren-workspace" type="text" data-field="workspace" value="/home/enriquetecfan/.openclaw/workspace" />
+
+          <label for="warren-temperature">temperature</label>
+          <input id="warren-temperature" type="number" data-field="temperature" min="0" max="1" step="0.1" value="0.4" />
+        </article>
+      </div>
+    </section>
+
+    <section id="tab-orchestration" class="tab-panel">
+      <h2 class="section-title">Orquestación</h2>
+      <p class="hint">Parámetros generales para ejecución, modelos y flujos externos.</p>
+
+      <div class="form-grid">
+        <div>
+          <label for="default-model">default_model</label>
+          <input id="default-model" type="text" value="claude-3-7-sonnet" />
+        </div>
+        <div>
+          <label for="max-tokens">max_tokens</label>
+          <input id="max-tokens" type="number" min="1" step="100" value="4096" />
+        </div>
+        <div>
+          <label for="n8n-endpoint">n8n_endpoint</label>
+          <input id="n8n-endpoint" type="url" value="https://core-n8n.832gky.easypanel.host" />
+        </div>
+      </div>
+
+      <div class="checkbox-row">
+        <input id="use-n8n" type="checkbox" checked />
+        <label for="use-n8n">use_n8n</label>
+      </div>
+
+      <div class="checkbox-row">
+        <input id="allow-parallel-runs" type="checkbox" checked />
+        <label for="allow-parallel-runs">allow_parallel_runs</label>
+      </div>
+    </section>
+
+    <section id="tab-memory" class="tab-panel">
+      <h2 class="section-title">Memoria / Obsidian</h2>
+      <p class="hint">Rutas del vault y carpetas que Mara debe usar como fuente de verdad.</p>
+
+      <div class="form-grid">
+        <div>
+          <label for="obsidian-vault-path">obsidian_vault_path</label>
+          <input id="obsidian-vault-path" type="text" value="/home/enriquetecfan/Documents/obisidian-vault" />
+        </div>
+      </div>
+
+      <div class="subsection">
+        <h3>Folders</h3>
+        <div class="form-grid">
+          <div>
+            <label for="folder-diario">diario</label>
+            <input id="folder-diario" type="text" value="MaraOs/diario/diario" />
+          </div>
+          <div>
+            <label for="folder-viajes">viajes</label>
+            <input id="folder-viajes" type="text" value="MaraOs/diario/viajes" />
+          </div>
+          <div>
+            <label for="folder-warren">warren</label>
+            <input id="folder-warren" type="text" value="MaraOs/Warren" />
+          </div>
+          <div>
+            <label for="folder-redes-sociales">redes_sociales</label>
+            <input id="folder-redes-sociales" type="text" value="MaraOs/redes_sociales" />
+          </div>
+        </div>
+      </div>
+
+      <div class="subsection">
+        <h3>Daily summary</h3>
+        <div class="checkbox-row">
+          <input id="daily-summary-enabled" type="checkbox" checked />
+          <label for="daily-summary-enabled">daily_summary_enabled</label>
+        </div>
+        <label for="daily-summary-hour">daily_summary_hour</label>
+        <input id="daily-summary-hour" type="number" min="0" max="23" step="1" value="7" />
+      </div>
+    </section>
+
+    <section class="tab-panel active" aria-label="Exportación">
+      <h2 class="section-title">Exportación a JSON</h2>
+      <p class="hint">Pulsa el botón para generar el objeto exacto que Mara puede leer y guardar en Obsidian.</p>
+
+      <div class="actions">
+        <button class="primary" type="button" id="export-button">Exportar configuración para Mara</button>
+        <button class="secondary" type="button" id="copy-button">Copiar JSON</button>
+      </div>
+
+      <div id="copy-status" aria-live="polite"></div>
+      <pre id="export-output">Pulsa “Exportar configuración para Mara” para generar el JSON.</pre>
+    </section>
+  </main>
+
+  <script>
+    function getInputValue(id) {
+      return document.getElementById(id).value.trim();
+    }
+
+    function getNumberValue(id) {
+      return Number(document.getElementById(id).value);
+    }
+
+    function getCheckboxValue(id) {
+      return document.getElementById(id).checked;
+    }
+
+    function setupTabs() {
+      const buttons = document.querySelectorAll(".tab-button");
+      const panels = document.querySelectorAll(".tab-panel[id^='tab-']");
+
+      buttons.forEach((button) => {
+        button.addEventListener("click", () => {
+          const tabName = button.dataset.tab;
+
+          buttons.forEach((item) => item.classList.remove("active"));
+          panels.forEach((panel) => panel.classList.remove("active"));
+
+          button.classList.add("active");
+          document.getElementById(`tab-${tabName}`).classList.add("active");
+        });
+      });
+    }
+
+    // Recorre las tarjetas de agentes y construye la configuración de mara, atlas y warren.
+    function collectAgentsConfig() {
+      const agents = {};
+      const cards = document.querySelectorAll(".agent-card");
+
+      cards.forEach((card) => {
+        const agentName = card.dataset.agent;
+        agents[agentName] = {
+          enabled: card.querySelector('[data-field="enabled"]').checked,
+          model: card.querySelector('[data-field="model"]').value.trim(),
+          role: card.querySelector('[data-field="role"]').value.trim(),
+          workspace: card.querySelector('[data-field="workspace"]').value.trim(),
+          temperature: Number(card.querySelector('[data-field="temperature"]').value)
+        };
+      });
+
+      return agents;
+    }
+
+    // Lee los campos globales de orquestación: modelo por defecto, tokens, n8n y paralelismo.
+    function collectOrchestrationConfig() {
+      return {
+        default_model: getInputValue("default-model"),
+        max_tokens: getNumberValue("max-tokens"),
+        use_n8n: getCheckboxValue("use-n8n"),
+        n8n_endpoint: getInputValue("n8n-endpoint"),
+        allow_parallel_runs: getCheckboxValue("allow-parallel-runs")
+      };
+    }
+
+    // Agrupa la configuración de Obsidian: vault, carpetas y resumen diario.
+    function collectMemoryConfig() {
+      return {
+        obsidian_vault_path: getInputValue("obsidian-vault-path"),
+        folders: {
+          diario: getInputValue("folder-diario"),
+          viajes: getInputValue("folder-viajes"),
+          warren: getInputValue("folder-warren"),
+          redes_sociales: getInputValue("folder-redes-sociales")
+        },
+        daily_summary: {
+          enabled: getCheckboxValue("daily-summary-enabled"),
+          hour_local: getNumberValue("daily-summary-hour")
+        }
+      };
+    }
+
+    function buildConfig() {
+      const config = {
+        openclaw: {
+          agents: collectAgentsConfig(),
+          orchestration: collectOrchestrationConfig(),
+          memory: collectMemoryConfig()
+        }
+      };
+
+      return config;
+    }
+
+    function exportConfig() {
+      const config = buildConfig();
+      const json = JSON.stringify(config, null, 2);
+      document.getElementById("export-output").textContent = json;
+      document.getElementById("copy-status").textContent = "Configuración exportada.";
+    }
+
+    async function copyExportedJson() {
+      const output = document.getElementById("export-output").textContent;
+      const status = document.getElementById("copy-status");
+
+      if (!output || output.startsWith("Pulsa")) {
+        status.textContent = "Primero exporta la configuración.";
+        return;
+      }
+
+      try {
+        await navigator.clipboard.writeText(output);
+        status.textContent = "JSON copiado al portapapeles.";
+      } catch (error) {
+        status.textContent = "No se pudo copiar automáticamente. Puedes copiarlo manualmente desde el bloque JSON.";
+      }
+    }
+
+    function setupExportActions() {
+      document.getElementById("export-button").addEventListener("click", exportConfig);
+      document.getElementById("copy-button").addEventListener("click", copyExportedJson);
+    }
+
+    setupTabs();
+    setupExportActions();
+  </script>
+</body>
+</html>
