@@ -10,7 +10,7 @@ Las skills explican cómo usar herramientas generales. Este archivo guarda detal
 - Si Kike dice “recuerda”, “acuérdate”, “como esta mañana” o pide recuperar contexto anterior, consultar primero Obsidian.
 - Si hay notas duplicadas o en conflicto, priorizar la nota canónica del vault.
 - Regla práctica: si algo importa mañana, probablemente debe quedar en Obsidian.
-- Cuando Kike pida generar un artefacto reutilizable para su sistema —por ejemplo HTML, paneles, prompts, configuraciones, documentación o plantillas— guardarlo directamente en Obsidian como destino principal, no solo en el workspace temporal.
+- Cuando Kike pida generar un artefacto reutilizable para su sistema —por ejemplo HTML, paneles, prompts, configuraciones, documentación o plantillas— guardarlo directamente en Obsidian como destino principal, no solo en el workspace temporal. Si el artefacto no es Markdown, crear además una nota `.md` índice visible que enlace o indique la ruta del archivo.
 - Área operativa principal: `/home/enriquetecfan/Documents/obisidian-vault/MaraOs/`.
 - Archivos canónicos del sistema: `/home/enriquetecfan/Documents/obisidian-vault/MaraOs/SystemFiles/`.
 
