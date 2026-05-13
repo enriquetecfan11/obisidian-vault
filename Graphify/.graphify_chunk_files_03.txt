@@ -1,0 +1,22 @@
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/npm-libs-api-postgres.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/Tablas PostgreSQL N8N.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/Bases de Datos.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/markdown-template.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/Docker.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/markdown-cheat-sheet.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/Guía Esencial de Spring Boot para Principiantes.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/gis-programacion-cartografia.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/Devops/Wazuh - Casos de automatización.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/Devops/Wazuh - Server API (operación).md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/Devops/Check Mk.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/Devops/Checkmk  Hosts y Servicios Todos los filtros API.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/Devops/Checkmk REST API – Endpoints de Monitoring.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/Devops/Wazuh - Indexer API Alerts.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/Devops/Wazuh Server API.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/Devops/Checkmk – Estados de servicios.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/Devops/Wazuh - Queries útiles (cheat‑sheet).md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/Devops/Checkmk – Endpoints API “top” para dashboards.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/OpenClaw/control-panel.html
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/redes sociales/linkedin/linkedin-ghostwriter-prompt.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/redes sociales/linkedin/Linkedin Posts/Este año he pasado mucho tiempo hablando con inteligencia artificial.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/redes sociales/linkedin/Linkedin Posts/Codox Asistente de programación de OpenAI.md

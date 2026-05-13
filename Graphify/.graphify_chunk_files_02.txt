@@ -1,0 +1,22 @@
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Generador de Documentos.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/GPT Maestro.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Rag Generator Master.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Experto en RRHH.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Generador de archivos RAG.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Asistente Inversiones Financieras.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Analizador de Facturas.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Infografias GPT.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Extracto Inteligente de Datos PDF para Productos.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Generador de Preguntas y Respuestas Contextuales.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Meteorólogo Experto.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/crear-podcast-con-ia.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Linkedin Agents/Thumbnail Builder.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Linkedin Agents/Linkedin Ghostwriter.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Work/chatwoot-activar-usuarios.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Work/kanban-workflow.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Work/Renta Variable/Definiciones.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Work/Renta Variable/empresas-a-vigilar.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Work/Redes Sociales/Planificación de RRSS.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Work/Redes Sociales/Prompt RRSS.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Work/Empresas/Prompt Analizador Noticias.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Geek/QDrant.md

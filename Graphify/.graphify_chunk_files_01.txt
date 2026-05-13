@@ -1,0 +1,22 @@
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Evolution-API.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/obsidian-segundo-cerebro.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/LLM Prompts - Notas.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Perfil Personal.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Ollama Docker.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/ejercito-empleados-digitales.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/CAI Framework - Inteligencia Artificial Seguridad.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/gpts-recursos-herramientas.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/chatgpt-make-n8n-integracion.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Imagenes y Videos/Biblioteca de Prompts para Generación de Imágenes IA.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Imagenes y Videos/Stable Diffusion & AI Art Resources.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Scrum/MARA_SCRUM_PROMPT.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Scrum/Documentación MCP Linear — ClawdBot.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Scrum/MARA_SCRUM_v3.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/LLM-as-Judge.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Agente Triaje.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Ticket App.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Experto en Arduino.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Experto Fraseologia Aérea.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Experto en generación de imágenes.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/Instructor de Drones.md
+/home/enriquetecfan/Documents/obisidian-vault/graphify-out/scope_input/Inteligencia Artificial/Custom GPTS/preguntas-y-respuestas.md
