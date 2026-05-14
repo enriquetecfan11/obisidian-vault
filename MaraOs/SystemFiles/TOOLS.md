@@ -23,6 +23,7 @@ Las skills explican cómo usar herramientas generales. Este archivo guarda detal
 - La finalización real se marca con la herramienta `Complete_a_Task`; el sistema registra la fecha de completado.
 - No guardar tareas en cron, Obsidian ni listas paralelas salvo que Kike pida explícitamente un recordatorio/programación adicional.
 - Para eventos, usar el sistema configurado de calendario.
+- Cuando Kike diga “añade el viaje”, “un viaje” o similar sin fecha, interpretarlo como **para hoy** por defecto. No volver a pedir la fecha salvo ambigüedad real o conflicto horario.
 - Si una integración falla o no está disponible, decirlo claro; no inventar estados.
 
 ## GitHub / registro de documentación viva
