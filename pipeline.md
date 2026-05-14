@@ -143,4 +143,4 @@ flowchart TD
 - [[moc-agentesia]] — cluster de wiki sobre IA
 - [[moc-proyectos]] — cluster de wiki sobre proyectos y finanzas
 - [[moc-maraos]] — sistema de agentes (raw + wiki mezclados)
-- [[MARA_SCRUM_v3]] — protocolo Scrum de Mara con Linear MCP
+- [[Inteligencia Artificial/Scrum/MARA_SCRUM_v3]] — protocolo Scrum de Mara con Linear MCP

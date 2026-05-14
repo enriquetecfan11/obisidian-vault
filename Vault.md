@@ -30,9 +30,9 @@ Entrada principal al sistema de conocimiento. Navega por los MOCs para acceder a
 
 - **Diario hoy →** `MaraOs/diario/diario/`
 - **Kanban →** [[kanban-workflow]]
-- **Perfil personal →** [[Perfil Personal]]
+- **Perfil personal →** [[Inteligencia Artificial/Perfil Personal]]
 - **Templates →** [[nota-base]]
-- **Scrum Mara v3 →** [[MARA_SCRUM_v3]]
+- **Scrum Mara v3 →** [[Inteligencia Artificial/Scrum/MARA_SCRUM_v3]]
 
 ---
 

@@ -1,0 +1,114 @@
+{
+  "time": "2026-05-13T16:00:57.664125+02:00",
+  "cpu": 20.4,
+  "mem_pct": 13.8,
+  "load1": 0.57,
+  "root_pct": 5,
+  "vault_pct": 5,
+  "containers": {
+    "grafana": {
+      "state": "running",
+      "status": "Up 3 days",
+      "image": "grafana/grafana:latest",
+      "ports": "0.0.0.0:3001->3000/tcp, [::]:3001->3000/tcp",
+      "restart": null,
+      "health": null
+    },
+    "prometheus": {
+      "state": "running",
+      "status": "Up 3 days",
+      "image": "prom/prometheus:latest",
+      "ports": "0.0.0.0:9090->9090/tcp, [::]:9090->9090/tcp",
+      "restart": null,
+      "health": null
+    },
+    "homer": {
+      "state": "running",
+      "status": "Up 3 days (healthy)",
+      "image": "ia-stack-homer",
+      "ports": "0.0.0.0:8081->8080/tcp, [::]:8081->8080/tcp",
+      "restart": null,
+      "health": null
+    },
+    "redisinsight": {
+      "state": "running",
+      "status": "Up 3 days",
+      "image": "redis/redisinsight:2.54.0",
+      "ports": "5000/tcp, 0.0.0.0:5540->5540/tcp, [::]:5540->5540/tcp",
+      "restart": null,
+      "health": null
+    },
+    "n8n": {
+      "state": "running",
+      "status": "Up 3 days",
+      "image": "n8nio/n8n:latest",
+      "ports": "0.0.0.0:5678->5678/tcp, [::]:5678->5678/tcp",
+      "restart": null,
+      "health": null
+    },
+    "nocodb": {
+      "state": "running",
+      "status": "Up 3 days",
+      "image": "nocodb/nocodb:latest",
+      "ports": "0.0.0.0:8080->8080/tcp, [::]:8080->8080/tcp",
+      "restart": null,
+      "health": null
+    },
+    "flowise": {
+      "state": "running",
+      "status": "Up 3 days",
+      "image": "flowiseai/flowise:latest",
+      "ports": "0.0.0.0:3000->3000/tcp, [::]:3000->3000/tcp",
+      "restart": null,
+      "health": null
+    },
+    "postgres": {
+      "state": "running",
+      "status": "Up 3 days (healthy)",
+      "image": "postgres:16-alpine",
+      "ports": "0.0.0.0:5432->5432/tcp, [::]:5432->5432/tcp",
+      "restart": null,
+      "health": null
+    },
+    "redis": {
+      "state": "running",
+      "status": "Up 3 days",
+      "image": "redis:7.2",
+      "ports": "0.0.0.0:6379->6379/tcp, [::]:6379->6379/tcp",
+      "restart": null,
+      "health": null
+    },
+    "flowise-db": {
+      "state": "running",
+      "status": "Up 3 days (healthy)",
+      "image": "postgres:16-alpine",
+      "ports": "5432/tcp",
+      "restart": null,
+      "health": null
+    },
+    "qdrant": {
+      "state": "running",
+      "status": "Up 3 days",
+      "image": "qdrant/qdrant",
+      "ports": "0.0.0.0:6333->6333/tcp, [::]:6333->6333/tcp, 6334/tcp",
+      "restart": null,
+      "health": null
+    },
+    "ngrok": {
+      "state": "running",
+      "status": "Up 3 days",
+      "image": "ngrok/ngrok:latest",
+      "ports": "4040/tcp",
+      "restart": null,
+      "health": null
+    },
+    "dockge": {
+      "state": "running",
+      "status": "Up 3 days (healthy)",
+      "image": "louislam/dockge:1",
+      "ports": "0.0.0.0:5001->5001/tcp, [::]:5001->5001/tcp",
+      "restart": null,
+      "health": null
+    }
+  }
+}

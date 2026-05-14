@@ -16,7 +16,7 @@ source: ""
 ---
 
 ## Idea central
-- Pasar de usar chat (pregunta → respuesta) a [[gpts-recursos-herramientas]] (objetivo → resultado) para multiplicar x10–x20 la productividad diaria.[page:1]
+- Pasar de usar chat (pregunta → respuesta) a [[Inteligencia Artificial/gpts-recursos-herramientas]] (objetivo → resultado) para multiplicar x10–x20 la productividad diaria.[page:1]
 - El “stack” real no es una app, sino una estructura de carpetas con markdown: `agents.md`, `memory.md`, skills y conexiones MCP que puedes mover entre harnesses.[page:1]
 
 ---

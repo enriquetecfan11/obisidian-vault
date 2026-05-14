@@ -17,7 +17,7 @@ source: "https://huggingface.co/learn/cookbook/llm_judge"
 
 # LLM as Judge — Evaluación Automática con IA
 
-Técnica para usar un LLM como juez que evalúa de forma automática las respuestas de otros modelos de IA. Útil para pipelines de [[gpts-recursos-herramientas]], [[Generador de archivos RAG]] y evaluación sin supervisión humana.
+Técnica para usar un LLM como juez que evalúa de forma automática las respuestas de otros modelos de IA. Útil para pipelines de [[Inteligencia Artificial/gpts-recursos-herramientas]], [[Inteligencia Artificial/Custom GPTS/Generador de archivos RAG]] y evaluación sin supervisión humana.
 
 ---
 
