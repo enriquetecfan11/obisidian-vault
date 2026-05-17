@@ -24,6 +24,7 @@ Las skills explican cómo usar herramientas generales. Este archivo guarda detal
 - No guardar tareas en cron, Obsidian ni listas paralelas salvo que Kike pida explícitamente un recordatorio/programación adicional.
 - Para eventos, usar el sistema configurado de calendario.
 - Cuando Kike diga “añade el viaje”, “un viaje” o similar sin fecha, interpretarlo como **para hoy** por defecto. No volver a pedir la fecha salvo ambigüedad real o conflicto horario.
+- Los viajes **no se añaden al calendario**: se registran en Obsidian, principalmente en `MaraOs/diario/diario/diario-DD-MM-YYYY.md` y `MaraOs/diario/viajes/resumen-semanal-DD-MM-YYYY.md`.
 - Si una integración falla o no está disponible, decirlo claro; no inventar estados.
 
 ## GitHub / registro de documentación viva
