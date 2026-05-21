@@ -1,3 +1,13 @@
+---
+type: nota
+tags:
+  - check-mk
+  - devops
+  - geek
+  - automation
+status: active
+updated: 2026-05-13
+---
 Aquí tienes el `.md` completo listo para Obsidian con todos los filtros para hosts y servicios:
 
 > Base URL: `http://10.18.95.12/monitoring/check_mk/api/1.0`  
