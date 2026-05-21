@@ -13,6 +13,7 @@ Semana: 11-05-2026 a 17-05-2026
 - 13-05-2026 · 07:17: llegada tras 41 min de viaje y 45 km recorridos.
 - 13-05-2026 · 17:36: llegada tras 41 min de viaje y 45 km recorridos.
 - 17-05-2026 · 13:00: llegada tras 52 min de viaje y 62 km recorridos. Salida estimada: 12:08.
+- 17-05-2026 · 22:56: llegada tras 52 min de viaje y 62 km recorridos. Salida estimada: 22:04.
 
 ---
 
@@ -26,6 +27,7 @@ Semana: 11-05-2026 a 17-05-2026
 | 13-05-2026 | 45 | 41 min | 07:17 | — |
 | 13-05-2026 | 45 | 41 min | 17:36 | — |
 | 17-05-2026 | 62 | 52 min | 13:00 | Salida estimada: 12:08 |
+| 17-05-2026 | 62 | 52 min | 22:56 | Salida estimada: 22:04 |
 
 ---
 
@@ -60,15 +62,16 @@ Semana: 11-05-2026 a 17-05-2026
 ## Domingo
 
 - 13:00 → Llegada tras 52 min y 62 km. Salida estimada: 12:08.
+- 22:56 → Llegada tras 52 min y 62 km. Salida estimada: 22:04.
 
 ---
 
 # 📊 Métricas de la semana
 
-- Total viajes: 6
-- Total km: 287
-- Tiempo total conduciendo: 4 h 16 min
-- Media km por viaje: 47,8 km
+- Total viajes: 7
+- Total km: 349
+- Tiempo total conduciendo: 5 h 08 min
+- Media km por viaje: 49,9 km
 
 ---
 
