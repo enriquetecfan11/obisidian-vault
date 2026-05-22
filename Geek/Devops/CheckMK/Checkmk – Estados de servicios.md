@@ -26,9 +26,7 @@ Estos estados aparecen igual en la GUI, en Livestatus, en la REST API y en los c
 | 2     | CRIT     | Crítico, requiere acción inmediata                  |
 | 3     | UNKNOWN  | Estado desconocido / error del check / sin datos    |
 
-[web:137][web:143]
-
-Estos valores son los mismos que usas en checks locales, agentes especiales, active checks, etc. [web:137][web:143].
+Estos valores son los mismos que usas en checks locales, agentes especiales, active checks, etc.
 
 ---
 
@@ -36,15 +34,15 @@ Estos valores son los mismos que usas en checks locales, agentes especiales, act
 
 Cuando consultas servicios vía REST:
 
-`GET /check_mk/api/1.0/domain-types/service/collections/all` [web:26][web:80]
+`GET /check_mk/api/1.0/domain-types/service/collections/all`
 
 Las columnas importantes para “modo monitor”:
 
-- `host_name` – nombre del host donde vive el servicio [web:26][web:71]
-- `description` – nombre del servicio (“CPU load”, “HTTP 443”, etc.) [web:26][web:143]
-- `state` – el código numérico 0–3 de la tabla anterior [web:26][web:71]
-- `plugin_output` o `summary` – frase corta con el estado actual (“HTTP OK – 120 ms”, “Disk 95% used…”) [web:26][web:71]
-- `perf_data` – métricas crudas (para gráficos, umbrales) [web:26][web:137]
+- `host_name` – nombre del host donde vive el servicio
+- `description` – nombre del servicio (“CPU load”, “HTTP 443”, etc.) 
+- `state` – el código numérico 0–3 de la tabla anterior
+- `plugin_output` o `summary` – frase corta con el estado actual (“HTTP OK – 120 ms”, “Disk 95% used…”) 
+- `perf_data` – métricas crudas (para gráficos, umbrales)
 
 Ejemplo de estructura típica de respuesta (recortado):
 

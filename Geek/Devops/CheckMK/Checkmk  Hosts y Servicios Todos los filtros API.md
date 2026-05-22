@@ -2,9 +2,9 @@
 type: nota
 tags:
   - check-mk
+  - devops
   - geek
   - automation
-  - devops
 status: active
 updated: 2026-05-13
 ---
