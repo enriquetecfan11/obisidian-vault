@@ -1,3 +1,13 @@
+---
+type: nota
+tags:
+  - check-mk
+  - devops
+  - geek
+  - automation
+status: active
+updated: 2026-05-13
+---
 
 ## API - Referencia de Endpoints
 

@@ -1,3 +1,13 @@
+---
+type: nota
+tags:
+  - check-mk
+  - devops
+  - geek
+  - automation
+status: active
+updated: 2026-05-13
+---
 
 > Base URL: `http://10.18.95.12/monitoring/check_mk/api/1.0`  
 > Auth: `Authorization: Bearer automation TU_SECRET`  

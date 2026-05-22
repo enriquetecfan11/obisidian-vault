@@ -1,25 +1,15 @@
 ---
-title: raspberry-pi-tailscale-wireguard-pihole
-type: "resource"
+type: resource
 tags:
   - raspberry-pi
-  - networking
-  - vpn
-  - wireguard
-  - pi-hole
   - tailscale
   - personal
-  - note
-project: "none"
-status: "pendiente"
-date_created: "2026-03-01"
-date_modified: "2026-03-01"
-updated: 2026-04-06
+  - devops
+project: none
+status: pendiente
+date_modified: 2026-03-01
 ---
-
-# Guía Completa - Raspberry Pi Gateway con Tailscale, WireGuard y Pi-hole
-
-## 📋 Tabla de Contenidos
+### 📋 Tabla de Contenidos
 
 1. [Introducción](introducción)
 2. [Arquitectura del Sistema](arquitectura-del-sistema)

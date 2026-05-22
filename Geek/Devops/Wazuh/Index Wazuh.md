@@ -1,5 +1,13 @@
-
-
+---
+type: nota
+tags:
+  - geek
+  - devops
+  - automation
+  - wazuh
+status: active
+updated: 2026-05-13
+---
 ## Server API (puerto 55000)
 
 ### Wazuh - Server API (operación)

@@ -1,3 +1,13 @@
+---
+type: nota
+tags:
+  - geek
+  - automation
+  - wazuh
+  - devops
+status: active
+updated: 2026-05-13
+---
 
 
 Esta nota resume los endpoints de la **Wazuh Server API** (puerto 55000) que son útiles para operación: estado de agentes, manager y cluster, más algunos patrones de automatización. [web:53][web:66]

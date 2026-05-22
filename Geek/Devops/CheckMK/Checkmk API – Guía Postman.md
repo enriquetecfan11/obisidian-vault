@@ -1,3 +1,13 @@
+---
+type: nota
+tags:
+  - check-mk
+  - automation
+  - devops
+  - geek
+status: active
+updated: 2026-05-13
+---
 
 > Swagger UI: `http://10.18.95.12/monitoring/check_mk/api/1.0/ui/#/`  
 > Base URL: `http://10.18.95.12/monitoring/check_mk/api/1.0`  

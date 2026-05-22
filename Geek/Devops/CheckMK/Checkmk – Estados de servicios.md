@@ -1,3 +1,13 @@
+---
+type: nota
+tags:
+  - check-mk
+  - devops
+  - geek
+  - automation
+status: active
+updated: 2026-05-13
+---
 En Checkmk cada **servicio** tiene siempre:
 - Un **estado numérico** (`state`)
 - Un **estado textual** (OK, WARN, CRIT, UNKNOWN)
