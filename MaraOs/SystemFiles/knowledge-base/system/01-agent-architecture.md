@@ -4,29 +4,39 @@
 - Mara
   - Atlas
   - Arvis
-  - Scout
+  - Warren
+  - Scout (legacy)
 
 ## Responsabilidades
 ### Mara
-- Routing de tareas.
-- Priorización y trade-offs.
-- QA final y cierre.
-- Escalado entre agentes.
+- Recibe a Kike y entiende contexto.
+- Decide prioridades, routing y trade-offs.
+- Coordina agentes/sistemas.
+- Valida y entrega limpio.
 
 ### Atlas
 - Calendario y agenda.
-- Notas/tareas operativas.
-- Estado personal de pendientes.
+- Tareas y notas operativas por MCP.
+- Organización diaria, resúmenes Atlas y soporte práctico.
+- Viajes registrados en Obsidian, no en calendario.
 
 ### Arvis
 - Ideas y líneas creativas.
 - Copies, hooks y estructuración de contenido.
-- Iteración y mejora de mensajes.
+- Storytelling, posts y vigilancia IA/tech.
+- Iteración y mejora de mensajes y piezas.
+
+### Warren
+- Mercados España/EEUU.
+- Crypto y activos volátiles.
+- Empresas, señales y análisis accionable.
+- Crons breves: WatchDog solo alertas y resumen diario consolidado.
 
 ### Scout
-- Research y benchmarking.
-- Señales del mercado/ecosistema.
-- Síntesis con fuentes y conclusiones.
+- Research en documentación antigua.
+- Estado actual: legacy/no vivo.
+- No tiene carpeta propia ni crons activos claros.
+- No usar como agente activo salvo reactivación explícita de Kike.
 
 ## Contrato de salida recomendado (todos)
 1. Objetivo entendido
@@ -34,4 +44,3 @@
 3. Resultado
 4. Riesgos/Dudas
 5. Siguiente paso
-

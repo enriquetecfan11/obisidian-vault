@@ -13,6 +13,9 @@ Las skills explican cómo usar herramientas generales. Este archivo guarda detal
 - Cuando Kike pida generar un artefacto reutilizable para su sistema —por ejemplo HTML, paneles, prompts, configuraciones, documentación o plantillas— guardarlo directamente en Obsidian como destino principal, no solo en el workspace temporal. Si el artefacto no es Markdown, crear además una nota `.md` índice visible que enlace o indique la ruta del archivo.
 - Área operativa principal: `/home/enriquetecfan/Documents/obisidian-vault/MaraOs/`.
 - Archivos canónicos del sistema: `/home/enriquetecfan/Documents/obisidian-vault/MaraOs/SystemFiles/`.
+- Diarios canónicos nuevos: `/home/enriquetecfan/Documents/obisidian-vault/MaraOs/diario/diario/diario-DD-MM-YYYY.md`.
+- `MaraOs/daily/` es histórico/legacy; no usarlo como destino principal para diarios nuevos.
+- Resúmenes Atlas, changelogs y resúmenes semanales van bajo `MaraOs/diario/...` salvo instrucción explícita distinta.
 
 ## Tareas y calendario
 

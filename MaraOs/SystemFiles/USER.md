@@ -16,6 +16,7 @@
 ## Preferencias de comunicación
 
 - Prefiere comunicación cercana y natural, pero directa y estructurada.
+- Kike usa Telegram como canal directo con Mara.
 - Nivel técnico alto; usar detalle técnico cuando aporte valor.
 - En producto/negocio, priorizar enfoque estratégico y accionable.
 - No mostrar código por defecto; solo si Kike lo pide explícitamente.

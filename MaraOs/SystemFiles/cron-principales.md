@@ -2,29 +2,39 @@
 
 #mara-os #cron #automatizaciones
 
-Actualizado: 06-05-2026
+Actualizado: 08-06-2026
 
 Configurados en OpenClaw con zona horaria `Europe/Madrid` y entrega anunciada a Kike por Telegram.
 
-| Nombre | Cron | Descripción | Job ID |
+## Activos principales
+
+| Nombre | Cron | Descripción | Estado |
 |---|---:|---|---|
-| Atlas resumen diario | `0 7 * * *` | Resumen automático de eventos y tareas del día usando calendario + tasks por MCP. | `5874c37b-bd74-4ceb-96f9-bed70af3f441` |
-| Mara changelog diario Obsidian | `0 20 * * *` | Genera/actualiza el changelog diario en Obsidian. | `a54851c9-9679-4181-bd98-278896c0807e` |
-| Crear archivo diario Obsidian | `5 0 * * *` | Crea el archivo diario del día en Obsidian si no existe. | `448e9b39-9c3c-4bde-9a2f-a15a36e01bcd` |
-| Resumen semanal diario | `0 20 * * 0` | Genera resumen semanal del diario los domingos. | `d1f91f6b-124e-4cc3-924d-ef7df5bf4333` |
-| Warren análisis diario · España | `0 9 * * 1-5` | Bloque diario de mercado España. | `d718cf8b-f6df-42c5-b6f8-e1f8065fff3b` |
-| Warren análisis diario · Crypto | `30 13 * * 1-5` | Bloque diario crypto. | `0a767aae-4a21-410c-a84a-dc260fa75b78` |
-| Warren análisis diario · EEUU | `30 15 * * 1-5` | Bloque diario EEUU + crypto. | `07e57292-69a6-4a15-9f5f-43dd545c307a` |
-| Resumen diario Warren | `30 22 * * 1-5` | Resumen final corto diario de Warren. | `b5b2b20a-4ae5-47bf-ae70-a5e7cb52b457` |
-| Mara estadísticas diarias Ubuntu Desktop | `30 19 * * *` | Informe diario de salud del Ubuntu Desktop donde vive Mara. | `f7b5e2c0-0645-49a7-90cc-ff1c9e7a9662` |
+| Atlas resumen diario | `0 7 * * *` | 3-5 bullets con tareas, eventos y slots clave. | Activo |
+| Crear archivo diario Obsidian | `5 0 * * *` | Crea el diario canónico en `MaraOs/diario/diario/`. | Activo |
+| Mara changelog diario Obsidian | `0 20 * * *` | Actualiza changelog en Obsidian; Telegram corto. | Activo |
+| Resumen semanal diario | `0 20 * * 0` | Genera resumen semanal bajo `MaraOs/diario/...`. | Activo |
+| WatchDog Warren | `0 9,11,13,15,17,19,21 * * 1-5` | Solo alertas de mercado relevantes. | Activo |
+| Resumen diario Warren | `30 22 * * 1-5` | Brief único España + EEUU + Crypto. | Activo |
+| Ubuntu Ops | `30 8,14,20 * * *` | Salud del Ubuntu Desktop; si OK, una línea. | Activo |
+
+## Consolidados/desactivados
+
+| Nombre anterior | Motivo |
+|---|---|
+| Warren análisis diario · Crypto 13:30 | Desactivado por consolidación en Warren 22:30 y WatchDog. |
+| Warren análisis diario · EEUU 15:30 | Desactivado por consolidación en Warren 22:30 y WatchDog. |
+| Ubuntu Ops 11:00/16:00/21:00 | Desactivado por consolidación en 08:30/14:30/20:30. |
 
 ## Reglas operativas incluidas
 
 - Fuente de verdad: `/home/enriquetecfan/Documents/obisidian-vault`.
 - Mantener literalmente `obisidian-vault`.
-- Usar rutas canónicas dentro de `MaraOs/diario/...`.
+- Usar diarios canónicos en `MaraOs/diario/diario/diario-DD-MM-YYYY.md`.
+- `MaraOs/daily/` es histórico/legacy, no destino principal para diarios nuevos.
 - MCPs indicados:
   - Tareas: `https://core-n8n.832gky.easypanel.host/mcp/agents-notes`
   - Calendario: `https://core-n8n.832gky.easypanel.host/mcp/calendar`
   - Linear: `https://core-n8n.832gky.easypanel.host/mcp/agents-linear`
 - Si un MCP/fuente falla o no está disponible, decirlo claro y no inventar estado.
+- Política de estilo vigente: [[cron-politica-brief-radio-2026-06-08]].

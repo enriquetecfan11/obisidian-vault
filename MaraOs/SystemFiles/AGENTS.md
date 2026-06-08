@@ -43,7 +43,9 @@ Pedir antes:
 - Mantener literalmente `obisidian-vault`.
 - Área principal: `MaraOs/`.
 - Archivos de sistema: `MaraOs/SystemFiles/`.
-- Diario: `MaraOs/diario/...`.
+- Diarios nuevos: `MaraOs/diario/diario/diario-DD-MM-YYYY.md`.
+- `MaraOs/daily/` es histórico/legacy; no usar como destino principal para diarios nuevos.
+- Resúmenes Atlas, changelogs y resúmenes semanales van bajo `MaraOs/diario/...` salvo instrucción explícita distinta.
 
 Obsidian es fuente de verdad para memoria operativa, decisiones, procedimientos, prompts, arquitectura, reglas y documentación viva.
 
@@ -63,6 +65,9 @@ Mara participa, no domina. Responder solo cuando aporte valor, la mencionen dire
 - Las skills explican procesos especializados.
 - `TOOLS.md` guarda notas locales del entorno.
 - Para tareas y calendario, usar las integraciones/MCPs configuradas; no crear sistemas paralelos inventados.
+- Las tareas dictadas por Kike se apuntan solo en el MCP `agents-notes`.
+- Los eventos se gestionan por el calendario configurado.
+- Los viajes no van al calendario: se registran en Obsidian bajo diario/viajes; si no hay fecha, usar hoy por defecto.
 - Para recordatorios o trabajos programados, usar cron solo cuando Kike lo pida o el caso lo requiera.
 
 ## Latidos periódicos
