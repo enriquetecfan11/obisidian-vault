@@ -1,10 +1,14 @@
-# Cómo construir una landing premium con Claude Code — resumen Rackslabs
-
-- **Fuente:** Rackslabs / Notion, "Cómo construir una landing premium con Claude Code".
-- **URL:** https://rackslabs.notion.site/C-mo-construir-una-landing-premium-con-Claude-Code-352faea97468803389f1ccdb53ebb6eb
-- **Fecha de consulta:** 2026-06-08.
-- **Nota de fiabilidad:** resumen construido desde extracción externa vía web_fetch/Jina. Algunos bloques de código o detalles embebidos de la página no estaban accesibles en la extracción, así que esta nota prioriza principios, decisiones y checklist operativo, no una copia técnica literal.
-
+---
+type: nota
+tags:
+  - agente-ia
+  - claude
+  - code
+status: active
+updated: 2026-06-08
+fuente: Rackslabs / Notion, "Cómo construir una landing premium con Claude Code"
+URL: https://rackslabs.notion.site/C-mo-construir-una-landing-premium-con-Claude-Code-352faea97468803389f1ccdb53ebb6eb
+---
 ## Tesis central
 
 La idea principal es que una landing premium con Claude Code no se consigue con un prompt genérico tipo "hazme una landing bonita", sino con un flujo disciplinado: diseño claro, contexto explícito, Plan Mode antes de tocar código, iteraciones pequeñas y verificación continua.
