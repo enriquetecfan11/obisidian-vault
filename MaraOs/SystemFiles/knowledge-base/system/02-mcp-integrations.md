@@ -3,7 +3,8 @@
 ## Atlas — MCPs principales
 
 ### Calendar MCP
-- Endpoint: `https://core-n8n.832gky.easypanel.host/mcp/agents-calendar`
+- MCP configurado: `calendar-mara` cuando esté disponible.
+- Endpoint histórico/documentado: `https://core-n8n.832gky.easypanel.host/mcp/agents-calendar`.
 - Uso: crear, consultar, editar y borrar eventos.
 - Estado: operativo.
 
@@ -17,7 +18,7 @@
 - Mara interviene solo para coordinación, conflictos o decisiones.
 - Tareas y calendario se gestionan siempre por MCP cuando Kike las dicte o pida gestionarlas.
 - Las tareas dictadas por Kike se apuntan solo en MCP `agents-notes`.
-- Los eventos van por el calendario configurado.
+- Los eventos van por el calendario configurado y se verifican por respuesta/listado del MCP.
 - Los viajes no van al calendario: se registran en Obsidian bajo diario/viajes; si no hay fecha, usar hoy por defecto.
 
 ## Troubleshooting rápido

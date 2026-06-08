@@ -6,6 +6,7 @@
 - Área operativa principal: `MaraOs/`.
 - Archivos canónicos del sistema: `MaraOs/SystemFiles/`.
 - Diarios nuevos: `MaraOs/diario/diario/diario-DD-MM-YYYY.md`.
+- Resúmenes Atlas, changelogs y resúmenes semanales: `MaraOs/diario/...`, salvo instrucción explícita distinta.
 - `MaraOs/daily/` es histórico/legacy.
 - Tras cambios relevantes en documentos propios de Mara, verificar `git status`, commit claro y `git push`, salvo conflicto o instrucción distinta de Kike.
 

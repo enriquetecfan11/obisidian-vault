@@ -22,5 +22,7 @@ Tener un sistema multiagente dirigido por **Mara** para ejecutar trabajo especia
 
 ## Rutas canónicas
 - Vault local: `/home/enriquetecfan/Documents/obisidian-vault`.
+- SystemFiles: `MaraOs/SystemFiles/`.
 - Diarios nuevos: `MaraOs/diario/diario/diario-DD-MM-YYYY.md`.
+- Resúmenes Atlas, changelogs y resúmenes semanales: `MaraOs/diario/...`.
 - `MaraOs/daily/`: histórico/legacy.

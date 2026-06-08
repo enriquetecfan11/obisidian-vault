@@ -4,6 +4,15 @@
 
 Actualizar documentos propios/importantes de Mara dentro de `MaraOs/SystemFiles` para reflejar el estado operativo actual en Ubuntu y la política consolidada de crons.
 
+## Pull remoto
+
+- Inspección inicial ejecutada: `git status --short`, `git remote -v`, `git branch --show-current`.
+- Remoto: `origin https://github.com/enriquetecfan11/obisidian-vault.git`.
+- Rama: `main`.
+- Pull realizado el 2026-06-08: `git fetch --all --prune` y `git pull --rebase --autostash`.
+- Resultado del pull: remoto ya estaba al día; sin conflictos.
+- Se preservaron cambios locales ajenos en diario, `.mobiai/` y `MaraOs/SystemFiles/ops/`.
+
 ## Actualizado
 
 - Rutas canónicas: vault `/home/enriquetecfan/Documents/obisidian-vault`, área `MaraOs/`, sistema `MaraOs/SystemFiles/`.
@@ -19,12 +28,9 @@ Actualizar documentos propios/importantes de Mara dentro de `MaraOs/SystemFiles`
 
 - `AGENTS.md`
 - `TOOLS.md`
-- `MEMORY.md`
 - `README.md`
-- `USER.md`
 - `cron-principales.md`
 - `team-operating-model.md`
-- `knowledge-base/README.md`
 - `knowledge-base/system/00-overview.md`
 - `knowledge-base/system/01-agent-architecture.md`
 - `knowledge-base/system/02-mcp-integrations.md`
@@ -32,8 +38,21 @@ Actualizar documentos propios/importantes de Mara dentro de `MaraOs/SystemFiles`
 - `knowledge-base/system/04-governance.md`
 - `systemfiles-update-2026-06-08.md`
 
+## Archivos tocados por esta ejecución
+
+- `README.md`
+- `knowledge-base/system/00-overview.md`
+- `knowledge-base/system/02-mcp-integrations.md`
+- `knowledge-base/system/03-repos-and-ops.md`
+- `systemfiles-update-2026-06-08.md`
+
+## Commit
+
+- Pendiente en el momento de escribir esta nota: `Update MaraOS system files after pull`.
+
 ## Limitaciones
 
 - No se han tocado cambios previos ajenos fuera de `MaraOs/SystemFiles`.
+- No se ha tocado `MaraOs/SystemFiles/ops/`, que aparece como cambio local ajeno/no versionado.
 - `cron-principales.md` documenta el estado operativo consolidado, no conserva todos los Job ID antiguos porque algunos crons fueron desactivados/consolidados.
 - Durante el rebase, el remoto ya había eliminado `MaraOs/SystemFiles/prompts/README.md`; se respetó ese borrado y no se reintrodujo.
