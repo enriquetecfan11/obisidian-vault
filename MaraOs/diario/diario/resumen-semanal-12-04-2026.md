@@ -1,3 +1,16 @@
+---
+ title: resumen-semanal-12-04-2026
+ type: diario
+ tags:
+  - "#diario"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
+
 #mara-os #diario
 
 # Resumen semanal 12-04-2026

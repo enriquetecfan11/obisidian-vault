@@ -1,3 +1,16 @@
+---
+ title: resumen-semanal-03-05-2026
+ type: diario
+ tags:
+  - "#diario"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
+
 #mara-os #diario
 
 # Resumen semanal 27-04-2026 a 03-05-2026

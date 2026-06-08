@@ -1,15 +1,17 @@
 ---
-title: Resumen diario Warren - 08-06-2026
-type: analisis
-tags:
+ title: resumen-warren-08-06-2026
+ type: analisis
+ tags:
   - "#diario"
   - "#warren"
-status: final
-created: 2026-06-08
-updated: 2026-06-08 11:05 Europe/Madrid
-source: Mara / Warren
-related:
-  - MaraOs/diario/warren
+  - "#analisis"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
 ---
 
 Warren Diario — 08-06-2026

@@ -1,14 +1,19 @@
 #mara-os #warren
 
 ---
-title: Resumen Warren 15-04-2026
-type: daily-note
-tags:
-  - mara-os
-  - warren
-  - resumen
-  - mercados
-date: 2026-04-15
+ title: resumen-warren-15-04-2026
+ type: analisis
+ tags:
+  - "#diario"
+  - "#warren"
+  - "#analisis"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
 ---
 
 # Resumen ejecutivo

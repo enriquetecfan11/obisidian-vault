@@ -1,3 +1,18 @@
+---
+ title: contexto-operativo-viajes
+ type: viaje
+ tags:
+  - "#diario"
+  - "#viajes"
+  - "#travel"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
+
 # Contexto operativo — viajes
 
 #mara-os #diario #viajes

@@ -1,14 +1,17 @@
 ---
-title: Resumen diario Warren - 14-05-2026
-source: Mara / Warren
-date: 2026-05-14
-status: generated
-tags:
-  - mara-os
-  - warren
-  - diario
-  - resumen
-project: MaraOS
+ title: resumen-warren-14-05-2026
+ type: analisis
+ tags:
+  - "#diario"
+  - "#warren"
+  - "#analisis"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
 ---
 
 #mara-os #warren

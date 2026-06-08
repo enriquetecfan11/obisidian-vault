@@ -1,3 +1,16 @@
+---
+ title: 2026-05-06-estadisticas-ubuntu
+ type: diario
+ tags:
+  - "#diario"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
+
 # Estadísticas Ubuntu Desktop - 2026-05-06 19:30 CEST
 
 - Uptime: 7 h 31 min

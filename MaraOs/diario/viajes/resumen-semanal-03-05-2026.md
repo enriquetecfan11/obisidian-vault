@@ -4,11 +4,19 @@
 Semana: 27-04-2026 a 03-05-2026
 
 ---
-
-# 📝 Registro rápido
-
-- 27-04-2026 · 07:10: llegada tras 45 min de viaje y 45 km recorridos.
-
+ title: resumen-semanal-03-05-2026
+ type: viaje
+ tags:
+  - "#diario"
+  - "#viajes"
+  - "#travel"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
 ---
 
 # 🚗 Viajes estructurados

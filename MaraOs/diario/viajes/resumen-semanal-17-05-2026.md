@@ -4,17 +4,19 @@
 Semana: 11-05-2026 a 17-05-2026
 
 ---
-
-# 📝 Registro rápido
-
-- 11-05-2026 · 07:00: llegada tras 40 min de viaje y 45 km recorridos.
-- 11-05-2026 · 17:20: llegada tras 41 min de viaje y 45 km recorridos.
-- 12-05-2026 · 17:36: llegada tras 41 min de viaje y 45 km recorridos.
-- 13-05-2026 · 07:17: llegada tras 41 min de viaje y 45 km recorridos.
-- 13-05-2026 · 17:36: llegada tras 41 min de viaje y 45 km recorridos.
-- 17-05-2026 · 13:00: llegada tras 52 min de viaje y 62 km recorridos. Salida estimada: 12:08.
-- 17-05-2026 · 22:56: llegada tras 52 min de viaje y 62 km recorridos. Salida estimada: 22:04.
-
+ title: resumen-semanal-17-05-2026
+ type: viaje
+ tags:
+  - "#diario"
+  - "#viajes"
+  - "#travel"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
 ---
 
 # 🚗 Viajes estructurados

@@ -4,21 +4,19 @@
 Semana: 20-04-2026 a 26-04-2026
 
 ---
-
-# 📝 Registro rápido
-
-- 20-04-2026 · 07:20: llegada tras 41 min de viaje y 45 km recorridos.
-- 20-04-2026 · 18:12: llegada tras 41 min de viaje y 45 km recorridos.
-- 21-04-2026 · 07:15: llegada tras 41 min de viaje y 45 km recorridos.
-- 21-04-2026 · 18:08: llegada tras 41 min de viaje y 45 km recorridos.
-- 23-04-2026 · 07:21: llegada tras 41 min de viaje y 40 km recorridos.
-- 23-04-2026 · 17:30: llegada tras 41 min de viaje y 40 km recorridos.
-- 24-04-2026 · 07:30: llegada tras 1 h de viaje y 50 km recorridos.
-- 24-04-2026 · 00:10: llegada tras 3 h de viaje y 250 km recorridos.
-- 25-04-2026 · 17:00: llegada tras 2 h de viaje y 127 km recorridos.
-- 26-04-2026 · 11:10: llegada tras 1 h de viaje y 50 km recorridos.
-- 26-04-2026 · 22:10: llegada tras 1 h de viaje y 50 km recorridos.
-
+ title: resumen-semanal-26-04-2026
+ type: viaje
+ tags:
+  - "#diario"
+  - "#viajes"
+  - "#travel"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
 ---
 
 # 🚗 Viajes estructurados

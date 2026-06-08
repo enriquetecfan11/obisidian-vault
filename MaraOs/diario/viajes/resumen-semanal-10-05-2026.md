@@ -4,16 +4,19 @@
 Semana: 04-05-2026 a 10-05-2026
 
 ---
-
-# 📝 Registro rápido
-
-- 07-05-2026 · 14:30: llegada tras 1 h de viaje y 50 km recorridos. Nota: último viaje de Renault Clio.
-- 07-05-2026 · 18:30: llegada tras 1 h de viaje y 50 km recorridos. Nota: primer viaje de Clase A 180D.
-- 08-05-2026 · 08:03: llegada tras 45 min de viaje y 50 km recorridos.
-- 08-05-2026 · 15:55: llegada tras 45 min de viaje y 45 km recorridos.
-- 09-05-2026 · 08:20: llegada tras 1 h de viaje y 64 km recorridos. Nota: hora estimada.
-- 09-05-2026 · 18:45: llegada tras 1 h de viaje y 64 km recorridos. Nota: hora estimada.
-
+ title: resumen-semanal-10-05-2026
+ type: viaje
+ tags:
+  - "#diario"
+  - "#viajes"
+  - "#travel"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
 ---
 
 # 🚗 Viajes estructurados

@@ -1,3 +1,16 @@
+---
+ title: resumen-atlas-18-05-2026
+ type: diario
+ tags:
+  - "#diario"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
+
 # Resumen Atlas - 18-05-2026
 
 Generado: 2026-05-18 07:00 Europe/Madrid

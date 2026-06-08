@@ -33,12 +33,14 @@ Sesión de tono **constructivo con sesgo risk-on moderado**: fortaleza en growth
  tags:
   - "#diario"
   - "#warren"
-  - "#warren"
+  - "#analisis"
  status: active
- created: 2026-04-06
- updated: 2026-04-06
+ created: 2026-06-08
+ updated: 2026-06-08
  source:
  related: []
+---
+---
 ---
 ---
 

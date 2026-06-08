@@ -4,13 +4,19 @@
 Semana: 18-05-2026 a 24-05-2026
 
 ---
-
-# 📝 Registro rápido
-
-- 18-05-2026 · 07:25: llegada tras 41 min de viaje y 41 km recorridos. Salida estimada: 06:44.
-- 19-05-2026 · 07:20: llegada tras 50 min de viaje y 45 km recorridos. Salida estimada: 06:30.
-- 19-05-2026 · 17:20: llegada con duración no indicada y 45 km recorridos.
-
+ title: resumen-semanal-24-05-2026
+ type: viaje
+ tags:
+  - "#diario"
+  - "#viajes"
+  - "#travel"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
 ---
 
 # 🚗 Viajes estructurados

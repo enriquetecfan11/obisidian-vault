@@ -1,14 +1,17 @@
 ---
-title: Resumen Plantilla
-type: analisis
-tags:
+ title: Resumen Plantilla
+ type: analisis
+ tags:
   - "#diario"
   - "#warren"
-status: active
-created: 2026-04-06
-updated: 2026-04-06
-source:
-related: []
+  - "#analisis"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
 ---
 
 # Resumen diario Warren -

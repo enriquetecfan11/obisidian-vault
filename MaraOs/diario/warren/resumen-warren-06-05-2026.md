@@ -1,3 +1,18 @@
+---
+ title: resumen-warren-06-05-2026
+ type: analisis
+ tags:
+  - "#diario"
+  - "#warren"
+  - "#analisis"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
+
 #mara-os #warren
 
 ## Resumen ejecutivo

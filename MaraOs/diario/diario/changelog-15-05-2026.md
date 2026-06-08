@@ -1,3 +1,16 @@
+---
+ title: changelog-15-05-2026
+ type: diario
+ tags:
+  - "#diario"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
+
 #mara-os #diario #changelog
 
 # Changelog diario — 15-05-2026

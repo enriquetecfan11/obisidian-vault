@@ -1,15 +1,17 @@
 ---
-title: Resumen diario Warren - 19-05-2026
-type: analisis
-tags:
+ title: resumen-warren-19-05-2026
+ type: analisis
+ tags:
   - "#diario"
   - "#warren"
-status: pending-source
-created: 2026-05-19
-updated: 2026-05-19
-source: Mara / Warren
-related:
-  - MaraOs/Warren/analisis-diario/19-05-2026
+  - "#analisis"
+ status: active
+ created: 2026-06-08
+ updated: 2026-06-08
+ source:
+ related: []
+---
+---
 ---
 
 # Resumen diario Warren - 19-05-2026
