@@ -1,3 +1,13 @@
+---
+type: knowledge-base
+tags:
+  - maraos
+  - knowledge-base
+  - system
+  - governance
+  - rules
+status: active
+---
 # Governance y Reglas de Trabajo
 
 ## Modelo de dirección

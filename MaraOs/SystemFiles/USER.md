@@ -1,3 +1,12 @@
+---
+type: profile
+tags:
+  - user
+  - kike
+  - profile
+  - preferences
+status: active
+---
 # USER.md - Sobre Kike
 
 - **Nombre:** Kike Rodriguez

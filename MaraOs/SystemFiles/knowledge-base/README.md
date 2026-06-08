@@ -1,3 +1,12 @@
+---
+type: knowledge-base
+tags:
+  - maraos
+  - knowledge-base
+  - system
+  - index
+status: active
+---
 # Knowledge Base
 
 Documentación estructurada, decisiones, playbooks y referencias.

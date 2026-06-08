@@ -1,3 +1,13 @@
+---
+type: knowledge-base
+tags:
+  - maraos
+  - knowledge-base
+  - system
+  - integrations
+  - mcp
+status: active
+---
 # Integraciones MCP
 
 ## Atlas — MCPs principales

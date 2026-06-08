@@ -1,3 +1,12 @@
+---
+type: config
+tags:
+  - maraos
+  - cron
+  - automations
+  - schedule
+status: active
+---
 # Cron principales MaraOS
 
 #mara-os #cron #automatizaciones

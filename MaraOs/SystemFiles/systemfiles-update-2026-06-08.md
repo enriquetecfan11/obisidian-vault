@@ -1,3 +1,12 @@
+---
+type: update
+tags:
+  - maraos
+  - system
+  - update
+  - changelog
+status: completed
+---
 # Actualización SystemFiles 2026-06-08
 
 ## Objetivo

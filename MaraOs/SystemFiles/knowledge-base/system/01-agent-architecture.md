@@ -1,3 +1,13 @@
+---
+type: knowledge-base
+tags:
+  - maraos
+  - knowledge-base
+  - system
+  - architecture
+  - agents
+status: active
+---
 # Arquitectura de Agentes
 
 ## Organigrama funcional

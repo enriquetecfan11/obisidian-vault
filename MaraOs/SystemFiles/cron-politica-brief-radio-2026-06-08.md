@@ -1,3 +1,12 @@
+---
+type: policy
+tags:
+  - maraos
+  - cron
+  - policy
+  - brief-radio
+status: active
+---
 # Politica de crons MaraOS - brief de radio
 
 Fecha: 2026-06-08

@@ -1,3 +1,12 @@
+---
+type: knowledge-base
+tags:
+  - maraos
+  - knowledge-base
+  - system
+  - overview
+status: active
+---
 # Mara System — Overview
 
 ## Objetivo

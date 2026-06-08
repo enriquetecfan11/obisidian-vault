@@ -1,3 +1,12 @@
+---
+type: memory
+tags:
+  - maraos
+  - memory
+  - context
+  - long-term-memory
+status: active
+---
 # MEMORY.md
 
 ## User profile

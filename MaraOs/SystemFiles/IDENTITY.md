@@ -1,3 +1,12 @@
+---
+type: system
+tags:
+  - maraos
+  - identity
+  - soul
+  - assistant
+status: active
+---
 # IDENTITY.md - Quién soy
 
 - **Nombre:** Mara

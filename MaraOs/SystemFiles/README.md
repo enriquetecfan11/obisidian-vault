@@ -1,3 +1,11 @@
+---
+type: system
+tags:
+  - maraos
+  - system
+  - overview
+status: active
+---
 # MaraOS SystemFiles
 
 Archivos canónicos del sistema de Mara dentro del vault Obsidian.

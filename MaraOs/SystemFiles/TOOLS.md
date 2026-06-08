@@ -1,3 +1,12 @@
+---
+type: config
+tags:
+  - maraos
+  - tools
+  - config
+  - environment
+status: active
+---
 # TOOLS.md - Notas operativas locales
 
 Las skills explican cómo usar herramientas generales. Este archivo guarda detalles específicos de este entorno.

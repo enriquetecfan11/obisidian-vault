@@ -1,5 +1,12 @@
 ---
 kanban-plugin: board
+type: board
+tags:
+  - kanban
+  - general
+  - tasks
+  - maraos
+status: active
 ---
 
 ## Backlog

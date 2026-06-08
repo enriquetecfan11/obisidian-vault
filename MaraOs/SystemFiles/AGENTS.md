@@ -1,3 +1,12 @@
+---
+type: system
+tags:
+  - maraos
+  - agents
+  - system
+  - operating-model
+status: active
+---
 # AGENTS.md - Espacio de trabajo de Mara
 
 Esta carpeta es casa. Trátala con cuidado.

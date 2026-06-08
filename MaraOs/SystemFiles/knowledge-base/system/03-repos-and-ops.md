@@ -1,3 +1,13 @@
+---
+type: knowledge-base
+tags:
+  - maraos
+  - knowledge-base
+  - system
+  - ops
+  - git
+status: active
+---
 # Repositorios y Operación
 
 ## `obisidian-vault`

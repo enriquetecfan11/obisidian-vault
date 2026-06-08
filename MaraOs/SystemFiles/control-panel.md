@@ -1,3 +1,12 @@
+---
+type: config
+tags:
+  - openclaw
+  - obsidian
+  - config
+  - control-panel
+status: active
+---
 # Control Panel OpenClaw + Obsidian
 
 Archivo HTML del panel de control para configurar OpenClaw + Obsidian manualmente y exportar JSON para Mara.
