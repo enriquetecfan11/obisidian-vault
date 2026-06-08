@@ -309,5 +309,5 @@ Para futuras tareas, Mara puede usar esta nota como referencia de:
 ## Estado
 
 - **Fecha:** 2026-06-08.
-- **Estado local:** nota creada en Obsidian.
-- **Commit:** pendiente de registrar tras commit/push del vault.
+- **Estado local:** nota creada en Obsidian y subida al remoto del vault.
+- **Commit de creación:** `2ad09aa` (`Añade resumen Rackslabs landing premium Claude Code`).
