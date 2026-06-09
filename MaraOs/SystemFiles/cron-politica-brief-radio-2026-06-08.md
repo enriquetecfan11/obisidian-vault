@@ -31,6 +31,13 @@ Los crons de MaraOS deben enviar mensajes cortos, tipo brief de radio. No articu
 - Ventana: lunes a viernes, 09:00-21:00 Europe/Madrid.
 - Frecuencia actual: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00 y 21:00.
 - Rol: solo alertas, nunca informes largos.
+- Zona operativa: `Europe/Madrid`.
+- Para activos USA (acciones, ETFs e indices), calcular cada dia la apertura/cierre de NYSE/Nasdaq convirtiendo `09:30-16:00 America/New_York` a `Europe/Madrid`; no hardcodear 14:30 ni 15:30.
+- Si la hora local Madrid es anterior a la apertura USA calculada para ese dia, etiquetar como `premarket EEUU`.
+- Desde la apertura USA calculada hasta el cierre USA calculado, etiquetar como `mercado regular EEUU`.
+- Despues del cierre USA calculado, usar `after-hours EEUU` solo si el dato corresponde claramente a after-hours; si no esta claro, omitir etiqueta.
+- Crypto, petroleo, futuros y commodities no deben llevar nunca `premarket` porque cotizan casi continuo.
+- Las semanas de desfase de cambio horario entre EEUU y Europa quedan cubiertas por la conversion diaria `America/New_York` -> `Europe/Madrid`.
 - Si no hay movimiento relevante ni noticia muy grande: silencio o `WatchDog Warren: sin novedades relevantes.`
 - Si hay evento: maximo 3 bullets, cada bullet 1 linea, con ticker/activo + porcentaje + motivo corto.
 - Umbrales actuales: >=2% en indices/acciones grandes/ETFs; >=5% en crypto/activos volatiles; cualquier noticia muy grande.

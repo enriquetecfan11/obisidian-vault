@@ -11,7 +11,7 @@ status: active
 
 #mara-os #cron #automatizaciones
 
-Actualizado: 08-06-2026
+Actualizado: 09-06-2026
 
 Configurados en OpenClaw con zona horaria `Europe/Madrid` y entrega anunciada a Kike por Telegram.
 
@@ -47,3 +47,4 @@ Configurados en OpenClaw con zona horaria `Europe/Madrid` y entrega anunciada a 
   - Linear: `https://core-n8n.832gky.easypanel.host/mcp/agents-linear`
 - Si un MCP/fuente falla o no está disponible, decirlo claro y no inventar estado.
 - Política de estilo vigente: [[cron-politica-brief-radio-2026-06-08]].
+- WatchDog Warren debe etiquetar activos USA con horario calculado cada día: convertir `09:30-16:00 America/New_York` a `Europe/Madrid`; antes de apertura usar `premarket EEUU`, durante apertura usar `mercado regular EEUU`, y nunca aplicar `premarket` a crypto, petróleo, futuros ni commodities.
