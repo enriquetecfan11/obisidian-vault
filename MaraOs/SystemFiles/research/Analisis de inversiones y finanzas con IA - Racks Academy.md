@@ -1,9 +1,13 @@
-# Analisis de inversiones y finanzas con IA - Racks Academy
-
-Fecha: 2026-06-08
-Fuente: https://media2-production.mightynetworks.com/asset/87e80062-bf63-4203-af68-3997ad2c3928/Analisis_definitivo_Racks_academy.pdf
-Tipo: PDF, 22 paginas
-Titulo del PDF: Analisis de inversiones y finanzas con IA
+---
+type: nota
+tags:
+  - agente-ia
+  - inversiones
+  - finanzas
+status: active
+updated: 2026-06-08
+fuente: https://media2-production.mightynetworks.com/asset/87e80062-bf63-4203-af68-3997ad2c3928/Analisis_definitivo_Racks_academy.pdf
+---
 
 > Nota: resumen operativo para estudio. No es recomendacion de inversion.
 
