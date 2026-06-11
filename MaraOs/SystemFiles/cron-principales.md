@@ -48,3 +48,4 @@ Configurados en OpenClaw con zona horaria `Europe/Madrid` y entrega anunciada a 
 - Si un MCP/fuente falla o no está disponible, decirlo claro y no inventar estado.
 - Política de estilo vigente: [[cron-politica-brief-radio-2026-06-08]].
 - WatchDog Warren debe etiquetar activos USA con horario calculado cada día: convertir `09:30-16:00 America/New_York` a `Europe/Madrid`; antes de apertura usar `premarket EEUU`, durante apertura usar `mercado regular EEUU`, y nunca aplicar `premarket` a crypto, petróleo, futuros ni commodities.
+- WatchDog Warren debe usar internet/fuentes actuales y mostrar referencias: no emitir señales concretas sin fuente razonable; si hay alerta, cada bullet debe llevar referencia corta y cerrar con `Refs: ...`.

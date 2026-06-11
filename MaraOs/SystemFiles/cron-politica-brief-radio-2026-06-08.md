@@ -40,6 +40,9 @@ Los crons de MaraOS deben enviar mensajes cortos, tipo brief de radio. No articu
 - Las semanas de desfase de cambio horario entre EEUU y Europa quedan cubiertas por la conversion diaria `America/New_York` -> `Europe/Madrid`.
 - Si no hay movimiento relevante ni noticia muy grande: silencio o `WatchDog Warren: sin novedades relevantes.`
 - Si hay evento: maximo 3 bullets, cada bullet 1 linea, con ticker/activo + porcentaje + motivo corto.
+- Debe usar internet y fuentes actuales. Priorizar Reuters, CNBC, MarketWatch, Yahoo Finance, Investing.com, TradingView, Nasdaq/NYSE, CoinMarketCap/CoinGecko y fuentes oficiales.
+- No emitir senales concretas sin una fuente razonable. No inventar porcentajes, motivos ni referencias.
+- Si hay alerta, cada bullet debe llevar referencia corta y el mensaje debe terminar con una linea `Refs: ...`.
 - Umbrales actuales: >=2% en indices/acciones grandes/ETFs; >=5% en crypto/activos volatiles; cualquier noticia muy grande.
 - Prohibido: repetir resumen diario, dar vision global o escribir analisis largo.
 
