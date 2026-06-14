@@ -1,1 +1,0 @@
-Resumen de la integración con Hermes Agent. Este documento sirve como nota de prueba para confirmar su funcionamiento y contener un resumen conciso de todas las capacidades implementadas por el agente.
