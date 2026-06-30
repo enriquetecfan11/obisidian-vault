@@ -1,5 +1,9 @@
 # Configuracion de Mara
 
+> Archivo legado. La version viva y canonica esta en `MaraOs/Documentacion Operativa/configuracion.md`.
+
+> Este archivo se conserva solo como referencia historica.
+
 ## Skills
 
 Skills disponibles en el contexto de OpenClaw de esta sesion:

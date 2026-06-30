@@ -1,5 +1,9 @@
 # Migracion de Mara
 
+> Archivo legado. La version viva y canonica esta en `MaraOs/Documentacion Operativa/migracion.md`.
+
+> Este archivo se conserva solo como referencia historica.
+
 Checklist para replicar a Mara en otra maquina sin perder contexto ni configuracion conocida.
 
 ## Que copiar
@@ -118,4 +122,3 @@ La migracion se considera completa cuando:
 - Cronjobs principales estan restaurados y activos.
 - Git del vault puede hacer commit y push.
 - No hay secretos reales guardados en archivos Markdown.
-

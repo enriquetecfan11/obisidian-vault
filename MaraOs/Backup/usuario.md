@@ -1,5 +1,9 @@
 # Usuario
 
+> Archivo legado. La version viva y canonica esta en `MaraOs/Documentacion Operativa/usuario.md`.
+
+> Este archivo se conserva solo como referencia historica.
+
 ## Identidad
 
 - Nombre: Kike Rodriguez.
@@ -49,4 +53,3 @@
 - Cronjobs de OpenClaw.
 - Docker: usado en comprobaciones Ubuntu Ops; detalles de servicios no especificados.
 - Tailscale: mencionado en comprobaciones Ubuntu Ops; estado/configuracion no especificados.
-

@@ -1,26 +1,22 @@
 # Mara - Backup y Migracion
 
-Carpeta para documentar como replicar a Mara en otra maquina sin perder contexto operativo ni configuracion conocida.
+Carpeta legacy. La documentacion viva y canonica de OpenClaw ahora vive en:
 
-## Contenido
+- `MaraOs/Documentacion Operativa/README.md`
+- `MaraOs/Documentacion Operativa/identidad.md`
+- `MaraOs/Documentacion Operativa/usuario.md`
+- `MaraOs/Documentacion Operativa/configuracion.md`
+- `MaraOs/Documentacion Operativa/migracion.md`
+- `MaraOs/Documentacion Operativa/agentes.md`
+- `MaraOs/Documentacion Operativa/prompts.md`
+- `MaraOs/Documentacion Operativa/memoria.md`
 
-- `identidad.md`: identidad, rol, tono y reglas base de Mara.
-- `usuario.md`: contexto conocido de Kike, preferencias y herramientas habituales.
-- `configuracion.md`: skills, agentes, MCPs, cronjobs, rutas y servicios documentados.
-- `migracion.md`: checklist para copiar, instalar, configurar y comprobar una migracion.
+## Proposito de esta carpeta
 
-## Como usarla para migrar
+- Servir como archivo historico de la migracion anterior.
+- Mantener punteros hacia la estructura viva sin duplicar la fuente de verdad.
+- Evitar que alguien tenga que adivinar cual es la version correcta.
 
-1. Leer primero `identidad.md` y `usuario.md` para recuperar el comportamiento esperado.
-2. Revisar `configuracion.md` para preparar rutas, skills, MCPs, automatizaciones y servicios.
-3. Seguir `migracion.md` como checklist operativo.
-4. Copiar solo archivos y configuraciones necesarias. No copiar secretos en claro.
-5. En la maquina destino, comprobar que OpenClaw, Obsidian, MCPs, Telegram y cronjobs funcionan antes de considerar terminada la migracion.
+## Recomendacion
 
-## Reglas de seguridad
-
-- No guardar tokens, passwords ni secretos reales en esta carpeta.
-- Usar placeholders como `<TOKEN>`, `<PASSWORD>`, `<API_KEY>` o `<SECRET>`.
-- Si un dato no esta verificado, dejarlo como `No especificado`.
-- Obsidian es la fuente de verdad operativa cuando algo debe sobrevivir al chat.
-
+Si necesitas operar OpenClaw hoy, usa la carpeta nueva. Si necesitas entender como se llego aqui, usa esta carpeta como contexto historico.
