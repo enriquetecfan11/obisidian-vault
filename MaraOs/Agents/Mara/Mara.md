@@ -15,5 +15,5 @@ date_modified: 2026-04-06
 Agente principal del sistema MaraOs. Coordina el resto de agentes y gestiona el flujo de trabajo general.
 
 ## Notas relacionadas
-- [[system-prompt]]
+- [[MaraOs/Agents/Mara/system-prompt]]
 - [[github-workflow-rule]]

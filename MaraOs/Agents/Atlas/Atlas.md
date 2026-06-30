@@ -15,4 +15,4 @@ date_modified: 2026-04-06
 Agente de conocimiento y documentación dentro del sistema MaraOs.
 
 ## Notas relacionadas
-- [[system-prompt]]
+- [[MaraOs/Agents/Atlas/system-prompt]]

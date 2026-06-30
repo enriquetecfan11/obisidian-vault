@@ -17,4 +17,4 @@ Agente de vigilancia tecnológica. Monitoriza feeds de noticias de IA y tech, la
 ## Notas relacionadas
 - [[flujo-ia-tech-news]]
 - [[feeds-ia-tech-news]]
-- [[system-prompt]]
+- [[MaraOs/Agents/Arvis/system-prompt]]

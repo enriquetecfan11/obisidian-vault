@@ -1,10 +1,13 @@
 ---
-type: "nota"
-tags: ["#mara-os", "#mara-os", "", "#ia", "#work"] # Siempre array con 2-5 tags específicos
-project: "MaraOS"
-status: "pendiente"
-date_created: "2026-03-01"
-date_modified: "2026-03-01"
+type: nota
+tags:
+  - "#mara-os"
+  - "#ia"
+  - "#work"
+project: MaraOS
+status: pendiente
+date_created: 2026-03-01
+date_modified: 2026-03-01
 ---
 
 # System Prompt — Mara (Orquestadora)
