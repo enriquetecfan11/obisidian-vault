@@ -19,5 +19,5 @@ Agente de análisis financiero. Monitoriza mercados (acciones EEUU/España, cryp
 - [[Analisis Empresas]]
 - [[Empresas]]
 - [[Crypto]]
-- [[MaraOs/Agents/Warren/system-prompt]]
+- [[OpenClaw/Agents/Warren/system-prompt]]
 - [[Template Analisis Diario]]
