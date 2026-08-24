@@ -15,4 +15,4 @@ date_modified: 2026-04-06
 Agente de conocimiento y documentación dentro del sistema MaraOs.
 
 ## Notas relacionadas
-- [[OpenClaw/Agents/Atlas/system-prompt]]
+- [[openclaw/Agents/Atlas/system-prompt]]
