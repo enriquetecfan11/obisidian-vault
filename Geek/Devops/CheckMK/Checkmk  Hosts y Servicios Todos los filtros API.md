@@ -7,6 +7,10 @@ tags:
   - automation
 status: active
 updated: 2026-05-13
+title: checkmk-hosts-y-servicios-todos-los-filtros-api
+project: none
+date_created: 2026-05-13
+date_modified: 2026-05-13
 ---
 Aquí tienes el `.md` completo listo para Obsidian con todos los filtros para hosts y servicios:
 

@@ -7,6 +7,10 @@ tags:
   - geek
 status: active
 updated: 2026-05-13
+title: checkmk-api-guia-postman
+project: none
+date_created: 2026-05-13
+date_modified: 2026-05-13
 ---
 
 > Swagger UI: `http://10.18.95.12/monitoring/check_mk/api/1.0/ui/#/`  

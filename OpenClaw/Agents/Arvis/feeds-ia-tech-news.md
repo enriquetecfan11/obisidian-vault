@@ -1,5 +1,4 @@
 ---
-type:
 tags:
   - ia
   - agentes
@@ -9,6 +8,11 @@ status: active
 created: 2026-04-06
 updated: 2026-04-06
 source:
+title: feeds-ia-tech-news
+type: nota
+project: none
+date_created: 2026-04-06
+date_modified: 2026-04-06
 ---
 # Feeds iniciales IA / Tech News (Arvis)
 

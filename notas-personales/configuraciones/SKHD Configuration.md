@@ -1,3 +1,18 @@
+---
+title: skhd-configuration
+type: resource
+tags:
+  - skhd
+  - atajos
+  - macos
+  - configuracion
+  - personal
+project: none
+status: active
+date_created: 2026-08-23
+date_modified: 2026-08-23
+---
+
 # SKHD - Simple Hotkey Daemon 🔥
 
 Atajos de teclado a nivel del sistema operativo integrados con Yabai.

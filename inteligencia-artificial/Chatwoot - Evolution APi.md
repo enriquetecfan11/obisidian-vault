@@ -1,5 +1,4 @@
 ---
-type:
 tags:
   - chatwoot
   - evolution-api
@@ -8,6 +7,11 @@ tags:
   - automatizacion
 status: active
 updated: 2026-05-13
+title: chatwoot-evolution-api
+type: nota
+project: none
+date_created: 2026-05-13
+date_modified: 2026-05-13
 ---
 # Cómo conectar Chatwoot con Evolution API
 

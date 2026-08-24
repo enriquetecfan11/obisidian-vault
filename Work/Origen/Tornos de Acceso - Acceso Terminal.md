@@ -1,3 +1,14 @@
+---
+title: tornos-de-acceso-acceso-terminal
+type: nota
+tags:
+  - work
+  - origen
+project: none
+status: active
+date_created: 2026-08-13
+date_modified: 2026-08-23
+---
 Este tutorial explica cómo usar el terminal de tornos de acceso para entrar o salir mediante **QR** o **pulsera NFC**. [file:1]
 
 ---

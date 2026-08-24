@@ -7,6 +7,10 @@ tags:
   - automation
 status: active
 updated: 2026-05-13
+title: checkmk-rest-api-endpoints-de-monitoring
+project: none
+date_created: 2026-05-13
+date_modified: 2026-05-13
 ---
 
 > Base URL: `http://10.18.95.12/monitoring/check_mk/api/1.0`  

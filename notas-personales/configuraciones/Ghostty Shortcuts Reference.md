@@ -1,3 +1,18 @@
+---
+title: ghostty-shortcuts-reference
+type: resource
+tags:
+  - ghostty
+  - atajos
+  - terminal
+  - configuracion
+  - personal
+project: none
+status: active
+date_created: 2026-08-23
+date_modified: 2026-08-23
+---
+
 # Ghostty Shortcuts Reference 🔥
 
 Cheat sheet de los atajos principales para Ghostty.

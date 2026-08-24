@@ -10,6 +10,10 @@ status: active
 pipeline: raw
 updated: 2026-05-13
 source:
+title: wazuh-casos-de-automatizacion
+project: none
+date_created: 2026-05-13
+date_modified: 2026-05-13
 ---
 Esta nota recoge patrones prácticos para automatizar operación y seguridad con la Wazuh Server API e Indexer API (scripts, n8n, agentes, etc.). [web:66][web:58][web:81]
 

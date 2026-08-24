@@ -1,3 +1,18 @@
+---
+title: skhd-shortcuts-cheat-sheet
+type: resource
+tags:
+  - skhd
+  - atajos
+  - cheatsheet
+  - macos
+  - personal
+project: none
+status: active
+date_created: 2026-08-23
+date_modified: 2026-08-23
+---
+
 # SKHD Shortcuts Cheat Sheet ⚡
 
 Quick reference de atajos a nivel del sistema.

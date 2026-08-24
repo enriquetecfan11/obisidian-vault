@@ -13,6 +13,9 @@ status: active
 created: 2026-03-01
 updated: 2026-04-06
 source: "https://huggingface.co/learn/cookbook/llm_judge"
+project: none
+date_created: 2026-03-01
+date_modified: 2026-04-06
 ---
 
 # LLM as Judge — Evaluación Automática con IA

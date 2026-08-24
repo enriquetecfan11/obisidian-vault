@@ -1,13 +1,17 @@
 ---
+title: raspberry-pi-gateway-tailscale-wireguard-pihole
 type: resource
 tags:
   - raspberry-pi
   - tailscale
+  - wireguard
+  - pi-hole
   - personal
   - devops
 project: none
-status: pendiente
-date_modified: 2026-03-01
+status: active
+date_created: 2026-03-01
+date_modified: 2026-08-23
 ---
 ### 📋 Tabla de Contenidos
 
@@ -1543,4 +1547,3 @@ sudo systemctl restart ssh
 ## Notas Personales
 
 <!-- Añade aquí tus notas personales, IPs específicas, contraseñas (¡en un gestor seguro!), etc. -->
-

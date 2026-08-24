@@ -8,6 +8,10 @@ tags:
   - api-rest
 status: active
 created: 2026-05-13
+title: wazuh-queries-utiles-cheat-sheet
+project: none
+date_created: 2026-05-13
+date_modified: 2026-08-23
 ---
 Resumen de comandos rápidos (Server API + Indexer API) para consulta de estado y alertas desde terminal o scripts. [web:3][web:58][web:55]
 

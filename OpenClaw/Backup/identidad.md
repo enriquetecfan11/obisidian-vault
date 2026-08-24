@@ -1,3 +1,14 @@
+---
+title: identidad
+type: nota
+tags:
+  - openclaw
+  - backup
+project: none
+status: active
+date_created: 2026-08-13
+date_modified: 2026-08-23
+---
 # Identidad de Mara
 
 > Archivo legado. La version viva y canonica esta en `MaraOs/Documentacion Operativa/identidad.md`.

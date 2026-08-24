@@ -7,6 +7,10 @@ tags:
   - automation
 status: active
 updated: 2026-05-13
+title: checkmk-estados-de-servicios
+project: none
+date_created: 2026-05-13
+date_modified: 2026-05-13
 ---
 En Checkmk cada **servicio** tiene siempre:
 - Un **estado numérico** (`state`)

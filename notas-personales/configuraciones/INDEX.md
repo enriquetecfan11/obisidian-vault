@@ -1,3 +1,16 @@
+---
+title: configuraciones-indice
+type: index
+tags:
+  - configuracion
+  - indice
+  - personal
+project: none
+status: active
+date_created: 2026-08-23
+date_modified: 2026-08-23
+---
+
 # Configuraciones - Índice 📚
 
 Mi segundo cerebro con todas las configuraciones del sistema.

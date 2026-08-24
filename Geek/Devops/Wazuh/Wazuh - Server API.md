@@ -8,6 +8,10 @@ tags:
   - api-rest
 status: active
 updated: 2026-05-13
+title: wazuh-server-api
+project: none
+date_created: 2026-05-13
+date_modified: 2026-05-13
 ---
 Este documento recoge los endpoints y patrones de consulta que sí sirven para **ver alertas** en Wazuh desde terminal, pensados para documentarlos en Obsidian y reutilizarlos con `curl`.[1][2]
 

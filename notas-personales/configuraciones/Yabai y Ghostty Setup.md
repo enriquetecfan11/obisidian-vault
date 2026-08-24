@@ -1,3 +1,18 @@
+---
+title: yabai-y-ghostty-setup
+type: resource
+tags:
+  - yabai
+  - ghostty
+  - macos
+  - configuracion
+  - personal
+project: none
+status: active
+date_created: 2026-08-23
+date_modified: 2026-08-23
+---
+
 # Yabai & Ghostty Setup 🎯
 
 Mi configuración de window manager + terminal para macOS optimizada para desarrollo.

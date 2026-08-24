@@ -1,3 +1,14 @@
+---
+title: migracion
+type: nota
+tags:
+  - openclaw
+  - backup
+project: none
+status: active
+date_created: 2026-08-13
+date_modified: 2026-08-23
+---
 # Migracion de Mara
 
 > Archivo legado. La version viva y canonica esta en `MaraOs/Documentacion Operativa/migracion.md`.

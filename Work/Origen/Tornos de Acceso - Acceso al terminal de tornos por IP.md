@@ -1,3 +1,14 @@
+---
+title: tornos-de-acceso-acceso-al-terminal-de-tornos-por-ip
+type: nota
+tags:
+  - work
+  - origen
+project: none
+status: active
+date_created: 2026-08-13
+date_modified: 2026-08-23
+---
 > NOTA: Este procedimiento asume que el terminal de tornos expone una interfaz web o de administración accesible por IP. Adapta IP, puerto y credenciales a tu entorno.
 
 ---

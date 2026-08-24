@@ -1,3 +1,14 @@
+---
+title: readme
+type: index
+tags:
+  - openclaw
+  - documentacion-operativa
+project: none
+status: active
+date_created: 2026-08-13
+date_modified: 2026-08-23
+---
 # Documentacion Operativa de OpenClaw
 
 Carpeta canonica para centralizar la documentacion operativa de OpenClaw dentro de MaraOS.

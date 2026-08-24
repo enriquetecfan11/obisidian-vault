@@ -7,6 +7,10 @@ tags:
   - automation
 status: active
 updated: 2026-05-13
+title: checkmk-resolver-incidencias-gestionadas-mendiante-api
+project: none
+date_created: 2026-05-13
+date_modified: 2026-05-13
 ---
 ## Qué significa “resolver” en Checkmk
 En Checkmk, la REST API devuelve códigos HTTP para indicar si la petición se ha transmitido correctamente, pero la propia documentación aclara que eso no garantiza por sí solo que la acción haya producido el efecto operativo esperado; la verificación del resultado debe hacerse después.[1]

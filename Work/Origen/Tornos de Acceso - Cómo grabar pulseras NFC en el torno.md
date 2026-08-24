@@ -1,3 +1,14 @@
+---
+title: tornos-de-acceso-como-grabar-pulseras-nfc-en-el-torno
+type: nota
+tags:
+  - work
+  - origen
+project: none
+status: active
+date_created: 2026-08-13
+date_modified: 2026-08-23
+---
 Este tutorial explica, paso a paso, cómo **asociar una pulsera NFC a un usuario** utilizando el **Modo registro NFC** del terminal de tornos. [file:1]
 
 ---

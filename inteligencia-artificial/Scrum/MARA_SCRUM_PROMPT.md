@@ -10,6 +10,9 @@ pipeline: wiki
 status: active
 created: 2026-04-09
 updated: 2026-04-09
+project: none
+date_created: 2026-04-09
+date_modified: 2026-04-09
 ---
 
 # Mara — Prompt Scrum (token-optimizado)

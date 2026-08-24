@@ -1,5 +1,15 @@
 ---
 sticker: emoji//1f4c8
+title: system-prompt
+type: nota
+tags:
+  - openclaw
+  - agents
+  - warren
+project: none
+status: active
+date_created: 2026-08-13
+date_modified: 2026-08-23
 ---
 # System Prompt — Warren (Value Investor)
 
