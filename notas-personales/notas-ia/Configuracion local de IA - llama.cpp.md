@@ -1,5 +1,3 @@
-# Configuración local de IA — llama.cpp
-
 ## Equipo
 
 | Componente | Configuración |
