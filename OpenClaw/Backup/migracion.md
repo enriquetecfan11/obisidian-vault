@@ -2,8 +2,8 @@
 title: migracion
 type: nota
 tags:
-  - openclaw
   - backup
+  - openclaw
 project: none
 status: active
 date_created: 2026-08-13
@@ -133,3 +133,7 @@ La migracion se considera completa cuando:
 - Cronjobs principales estan restaurados y activos.
 - Git del vault puede hacer commit y push.
 - No hay secretos reales guardados en archivos Markdown.
+
+## Relacionado
+- [[openclaw/Documentacion Operativa/migracion]] — versión canónica
+- [[MOC OpenClaw]] — índice

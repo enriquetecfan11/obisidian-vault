@@ -2,10 +2,10 @@
 title: Template Analisis Diario
 type: template
 tags:
+  - diaria
   - mara-os
+  - plantilla
   - warren
-  - template
-  - analisis-diario
 project: MaraOS
 status: active
 date_created: 2026-04-16
@@ -140,3 +140,7 @@ Si Warren solo pudiera enviar las primeras 5 secciones, el análisis debería se
 - El mensaje para Quique debe salir del bloque corto, no del apéndice.
 - Si el destino es Telegram o chat directo, el mensaje enviado debe reducirse aún más a un microresumen de 3 líneas.
 - El archivo puede ser más completo, pero el mensaje no.
+
+## Relacionado
+- [[Warren]] — agente
+- [[Analisis Empresas]] — análisis

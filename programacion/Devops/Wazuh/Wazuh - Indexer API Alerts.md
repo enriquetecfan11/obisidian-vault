@@ -1,10 +1,9 @@
 ---
 type: nota
 tags:
-  - wazuh
-  - geek
   - api-rest
   - devops
+  - wazuh
 status: active
 created: 2026-05-13
 updated: 2026-05-13
@@ -244,3 +243,6 @@ v
 - Piensa en el indexer como tu capa de **analytics** en tiempo casi real para alertas y eventos. [web:148][web:81]
 - Estos patrones se pueden enchufar fácilmente a scripts, n8n o servicios propios para enviar notificaciones, generar informes o alimentar Grafana. [web:89][web:151]
 - Ajusta `ALERT_INDEX` según tu versión: en muchos despliegues es `wazuh-alerts-4.x-*`. [web:86][web:12]
+
+## Relacionado
+- [[Index Wazuh]] — índice

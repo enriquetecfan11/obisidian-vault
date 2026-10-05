@@ -1,9 +1,9 @@
 ---
 tags:
-  - ia
-  - agentes
-  - noticias
+  - agentes-ia
   - arvis
+  - ia
+  - noticias
 status: active
 created: 2026-04-06
 updated: 2026-04-06
@@ -38,3 +38,8 @@ date_modified: 2026-04-06
 - `categoria`: IA-LLMs | DevTools | Cloud-Infra | Negocio-Startups
 - `canal_objetivo`: X | LinkedIn | Ambos | Descartado
 - `estado_borrador`: pendiente_redacción | borrador_en_obsidian | revisado_por_kike
+
+## Relacionado
+- [[flujo-ia-tech-news]] — flujo de procesamiento
+- [[Arvis]] — agente
+- [[MOC OpenClaw]] — índice

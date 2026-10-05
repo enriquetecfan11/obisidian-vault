@@ -2,9 +2,9 @@
 title: Mara OS
 type: document
 tags:
-  - mara-os
   - arquitectura
   - indice
+  - mara-os
 project: MaraOS
 status: active
 date_created: 2026-08-13
@@ -49,3 +49,7 @@ mara-ui/README.md      # incluye el contrato de comunicación y el modo kiosko
 ```
 
 Aviso importante: **`mara-os/docs/` tiene deriva significativa** respecto al código actual. Antes de fiarte de un dato de ahí, contrástalo con la tabla de [[Estado y pendientes]].
+
+## Relacionado
+- [[MOC OpenClaw]] — capa de agentes (distinta de este software)
+- [[MOC IA Local]] — Ollama / llama.cpp

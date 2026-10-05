@@ -2,17 +2,15 @@
 title: skhd-configuration
 type: resource
 tags:
-  - skhd
-  - atajos
-  - macos
   - configuracion
+  - macos
   - personal
+  - skhd
 project: none
 status: active
 date_created: 2026-08-23
 date_modified: 2026-08-23
 ---
-
 # SKHD - Simple Hotkey Daemon 🔥
 
 Atajos de teclado a nivel del sistema operativo integrados con Yabai.
@@ -438,3 +436,8 @@ skhd --version
 
 **Última actualización:** 2026-08-17
 **Status:** ✅ Funcionando correctamente
+
+## Relacionado
+- [[INDEX]] — índice de configuraciones macOS
+- [[SKHD Shortcuts Cheat Sheet]] — chuleta de atajos SKHD
+- [[Yabai y Ghostty Setup]] — Yabai (gestor de ventanas que controla SKHD)

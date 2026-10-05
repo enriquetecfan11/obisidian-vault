@@ -2,21 +2,18 @@
 title: agente-triaje
 type: "nota"
 tags:
-  - chatbot
-  - agente-ia
-  - prompt-engineering
+  - agentes-ia
   - automatizacion
+  - chatbot
   - gpt-personalizado
   - ia
-  - ml
-  - pending
+  - prompt-engineering
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 Quiero crear un agente de triaje, en el contexto de un chatbot o un sistema de atención al cliente automatizado, es una entidad que se encarga de clasificar las consultas de los usuarios y dirigirlas al agente o categoría especializada adecuada. Para crearlo correctamente, necesitas definir los siguientes parámetros:
 
 - Objetivo: Describe claramente la función del agente de triaje. Debe entender que su propósito principal es analizar las consultas entrantes y determinar a qué categoría o agente especializado pertenecen.
@@ -95,3 +92,6 @@ Detectar tono urgente o de frustración para priorizar la atención.
 
 # IMPORTANTE: SOLAMENTE Indica la categoría a la que debe asignarse la consulta.
 ```
+
+## Relacionado
+- [[MOC Custom GPTs]] — catálogo de Custom GPTs

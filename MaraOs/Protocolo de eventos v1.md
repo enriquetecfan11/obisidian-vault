@@ -3,7 +3,6 @@ title: Protocolo de eventos v1
 type: document
 tags:
   - mara-os
-  - protocolo
   - websocket
 project: MaraOS
 status: active

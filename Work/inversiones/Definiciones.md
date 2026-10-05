@@ -4,19 +4,13 @@ type: "resource"
 tags:
   - finanzas
   - inversiones
-  - renta-variable
-  - definiciones
-  - bolsa
-  - task
   - work
-  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 - **ROE (Return  on Equity):** Mide la rentabilidad que obtiene una empresa sobre el capital de sus accionistas.
 
 - **ROIC (Return on Invested Capital):** Indica la rentabilidad generada por cada euro invertido en el negocio, descontando la deuda.
@@ -102,3 +96,8 @@ Equivalente al ROCE with Goodwill 5Y, pero ajustado para incluir el goodwill en 
 - **ROIC (Return on Invested Capital):** Indica la rentabilidad generada por cada euro invertido en el negocio, descontando la deuda.
 
 - **Margen Operativo:** Porcentaje de ingresos que queda como beneficio tras los costes operativos.
+
+## Relacionado
+- [[empresas-a-vigilar]] — watchlist
+- [[Warren]] — agente finanzas OpenClaw
+- [[Asistente Inversiones Financieras]] — Custom GPT inversiones

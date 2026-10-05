@@ -1,11 +1,9 @@
 ---
 type: nota
 tags:
-  - wazuh
-  - devops
-  - geek
-  - ordenador
   - api-rest
+  - devops
+  - wazuh
 status: active
 pipeline: raw
 updated: 2026-05-13
@@ -191,3 +189,7 @@ Aquí `flushIpTables` es un script de ejemplo que limpia reglas de iptables, reg
 - **n8n / agentes**: Encadenar health check de agentes + query de alertas críticas + envío de resumen diario a Obsidian o a un canal de chat. [web:66][web:81]
 - **Mara/OpenClaw**: Agente que, al pedirle “estado de seguridad”, llame a tus scripts de indexer y server API y escriba un resumen en una nota diaria en Obsidian. [web:58][web:159]
 - **Tuning continuo**: Job semanal que calcula top reglas y top agentes ruidosos y abre una “tarea de tuning” con la lista de reglas a revisar. [web:81][web:150]
+
+## Relacionado
+- [[Index Wazuh]] — índice
+- [[MOC Automatizaciones]] — automatizaciones

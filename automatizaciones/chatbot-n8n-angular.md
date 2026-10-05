@@ -2,20 +2,17 @@
 title: chatbot-n8n-angular
 type: "nota"
 tags:
-  - n8n
-  - chatbot
   - angular
-  - frontend
   - automatizacion
-  - automation
-  - pending
+  - chatbot
+  - frontend
+  - n8n
 project: "N8N Automation"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 ## Componente ts angular
 
 ```js
@@ -46,3 +43,8 @@ ngAfterViewInit(): void {
 }
 
 ```
+
+## Relacionado
+- [[n8n-api-endpoints]] — API n8n
+- [[Tablas PostgreSQL N8N]] — memoria de chat en Postgres
+- [[MOC Automatizaciones]] — índice

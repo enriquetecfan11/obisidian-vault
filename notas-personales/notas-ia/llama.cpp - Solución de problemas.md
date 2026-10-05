@@ -2,17 +2,15 @@
 title: llama-cpp-solucion-de-problemas
 type: resource
 tags:
-  - llama-cpp
-  - troubleshooting
-  - gpu
+  - hardware
   - ia-local
+  - llama-cpp
   - personal
 project: none
 status: active
 date_created: 2026-08-23
 date_modified: 2026-08-23
 ---
-
 # llama.cpp — Solución de problemas
 
 Volver a [[Configuracion local de IA - llama.cpp]].
@@ -46,3 +44,6 @@ Usar `--port 8081` y abrir <http://localhost:8081>.
 - Cerrar aplicaciones que estén usando mucha VRAM.
 - Evitar el modelo de 27B en este equipo.
 - Para priorizar velocidad, usar un modelo de 8B/9B en `Q4_K_M` o `Q5_K_M`.
+
+## Relacionado
+- [[MOC IA Local]] — índice

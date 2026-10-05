@@ -1,9 +1,8 @@
 ---
 type: nota
 tags:
-  - geek
+  - automatizacion
   - devops
-  - automation
   - wazuh
 status: active
 updated: 2026-05-13
@@ -26,7 +25,7 @@ date_modified: 2026-05-13
 > Aclara que las alertas no están en la Server API sino en el Indexer, y documenta endpoints clave para verlas.
 > Sirve como punto de entrada para entender qué API usar según el objetivo.
 
-[[Wazuh Server API]]
+[[Wazuh - Server API]]
 
 ---
 
@@ -55,3 +54,9 @@ date_modified: 2026-05-13
 > Incluye autenticación, consultas de estado y búsqueda de alertas.
 
 [[Wazuh - Queries útiles (cheat‑sheet)]]
+
+## Relacionado
+- [[MOC DevOps]] — índice DevOps padre
+- [[Index CheckMK]] — monitorización hermana
+- [[Wazuh - Vulnerabilidades]] — vulnerabilidades
+- [[Wazuh Indexer - opensearch.yml]] — config Indexer

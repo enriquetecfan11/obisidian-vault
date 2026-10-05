@@ -2,11 +2,11 @@
 title: Analisis Empresas
 type: resource
 tags:
+  - analisis-datos
+  - finanzas
+  - inversiones
   - mara-os
   - warren
-  - finanzas
-  - renta-variable
-  - analisis
 project: MaraOS
 status: active
 date_created: 2026-03-01
@@ -114,3 +114,8 @@ Usar solo si Quique pide más detalle o si el contexto justifica ampliar.
 ## Lectura de Warren
 - ...
 ```
+
+## Relacionado
+- [[Warren]] — agente
+- [[Empresas]] — lista empresas
+- [[Template Analisis Diario]] — plantilla

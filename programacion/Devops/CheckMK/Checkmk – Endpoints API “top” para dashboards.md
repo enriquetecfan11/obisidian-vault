@@ -1,10 +1,9 @@
 ---
 type: nota
 tags:
+  - automatizacion
   - check-mk
   - devops
-  - geek
-  - automation
 status: active
 updated: 2026-05-13
 title: checkmk-endpoints-api-top-para-dashboards
@@ -12,7 +11,6 @@ project: none
 date_created: 2026-05-13
 date_modified: 2026-05-13
 ---
-
 > Base:
 > - Sitio: `https://IP_O_HOSTNAME/monitoring`
 > - REST base: `https://IP_O_HOSTNAME/monitoring/check_mk/api/1.0`
@@ -183,3 +181,6 @@ curl "$CHECKMK_SITE/check_mk/view.py?view_name=host&output_format=json&_username
 ---
 
 ¿Quieres que te genere otro `.md` con ejemplos de payloads (requests) típicos para crear/modificar hosts y servicios?
+
+## Relacionado
+- [[Index CheckMK]] — índice

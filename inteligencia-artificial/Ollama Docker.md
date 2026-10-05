@@ -2,21 +2,18 @@
 title: ollama-docker
 type: "resource"
 tags:
-  - ollama
+  - configuracion
   - docker
+  - ia
   - llm
   - n8n
-  - configuracion
-  - ia
-  - ml
-  - pending
+  - ollama
 project: "N8N Automation"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 # 🐋 Ollama - Configuración para [[Docker]] y Redes
 
 ## 🔌 Exponer Ollama en Contenedores Docker
@@ -45,7 +42,7 @@ ip -4 addr show docker0 | grep -Po 'inet \K[\d.]+'
 
 ---
 
-### Paso 3: Configurar [[N8N]] con la IP de Docker Bridge
+### Paso 3: Configurar N8N con la IP de Docker Bridge
 
 Usa la IP obtenida seguida del puerto **11434**:
 
@@ -245,3 +242,8 @@ docker run --rm alpine ping -c 4 172.17.0.1
 ---
 
 **Última actualización:** Febrero 2026  
+
+## Relacionado
+- [[MOC IA Local]] — índice IA local
+- [[Configuracion local de IA - llama.cpp]] — alternativa llama.cpp
+- [[Mara OS]] — usa Ollama

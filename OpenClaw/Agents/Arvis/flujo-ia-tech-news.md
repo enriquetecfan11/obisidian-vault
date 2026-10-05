@@ -1,9 +1,9 @@
 ---
 tags:
-  - ia
-  - agentes
-  - noticias
+  - agentes-ia
   - arvis
+  - ia
+  - noticias
 status: active
 created: 2026-04-06
 updated: 2026-04-06
@@ -83,3 +83,8 @@ Esto actualiza el **Panel C** (estado de borradores).
 ## Regla de supervisión (Mara)
 - Mara no redacta por defecto; supervisa calidad y coherencia del flujo.
 - Mara ajusta categorías/feeds/criterios cuando cambie la estrategia.
+
+## Relacionado
+- [[feeds-ia-tech-news]] — fuentes RSS
+- [[Arvis]] — agente
+- [[MOC LinkedIn]] — salida a LinkedIn

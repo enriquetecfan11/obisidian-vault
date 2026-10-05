@@ -2,20 +2,16 @@
 title: stable-diffusion-ai-art-resources
 type: "resource"
 tags:
-  - stable-diffusion
   - generacion-imagenes
   - ia
-  - recursos
   - midjourney
-  - ml
-  - pending
+  - stable-diffusion
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 ## 🎨 **Prompt Libraries & Generators**
 - [PromptHero - Search prompts for Stable Diffusion, DALL-E & Midjourney](https://prompthero.com/)
 - [promptoMANIA - AI Art Community with Prompt Generator](https://promptomania.com/)
@@ -73,3 +69,7 @@ updated: 2026-04-06
 - [STABLE DIFFUSION MIXING EMPORIUM (rentry.org)](https://rentry.org/lftbl)
 - [209 Celebrities in Stable Diffusion - Google Drive](https://docs.google.com/spreadsheets/u/0/d/1IqXkYDXux97aU8Y5kqqBrBvCn3CLRDhMZ7lEWsAtwUc/htmlview)
 - [WAIFU MASTER PROMPT DANBOORU LIST - Google Docs](https://docs.google.com/document/u/0/d/1Vw-OCUKNJHKZi7chUtjpDEIus112XBVSYHIATKi1q7s/mobilebasic)
+
+## Relacionado
+- [[Biblioteca de Prompts para Generación de Imágenes IA]] — biblioteca de prompts
+- [[Experto en generación de imágenes]] — Custom GPT

@@ -1,10 +1,10 @@
 ---
 type: agent
 tags:
-  - scrum
-  - mara
-  - prompt
   - linear
+  - mara
+  - prompt-engineering
+  - scrum
 status: active
 pipeline: raw
 created: 2026-04-09
@@ -255,3 +255,8 @@ Usar: Linear → list_projects
 ---
 
 _Documentación generada el 09/04/2026 — Workspace: tecfan-os / QuiqueOS_
+
+## Relacionado
+- [[MOC OpenClaw]] — OpenClaw / ClawdBot
+- [[MCP y skills]] — MCP en Mara OS
+- [[Mara]] — agente Mara

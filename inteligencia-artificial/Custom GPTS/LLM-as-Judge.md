@@ -2,13 +2,11 @@
 title: llm-as-judge
 type: ia
 tags:
-  - llm
   - evaluacion-ia
-  - prompt-engineering
-  - ia
   - fine-tuning
-  - ml
-  - active
+  - ia
+  - llm
+  - prompt-engineering
 status: active
 created: 2026-03-01
 updated: 2026-04-06
@@ -17,10 +15,9 @@ project: none
 date_created: 2026-03-01
 date_modified: 2026-04-06
 ---
-
 # LLM as Judge — Evaluación Automática con IA
 
-Técnica para usar un LLM como juez que evalúa de forma automática las respuestas de otros modelos de IA. Útil para pipelines de [[Inteligencia Artificial/gpts-recursos-herramientas]], [[Inteligencia Artificial/Custom GPTS/Generador de archivos RAG]] y evaluación sin supervisión humana.
+Técnica para usar un LLM como juez que evalúa de forma automática las respuestas de otros modelos de IA. Útil para pipelines de [[gpts-recursos-herramientas]], [[Generador de archivos RAG]] y evaluación sin supervisión humana.
 
 ---
 
@@ -90,3 +87,6 @@ Formato de salida:
     "resultado": <suma de los criterios de evaluación>
 }
 ```
+
+## Relacionado
+- [[MOC Custom GPTs]] — catálogo de Custom GPTs

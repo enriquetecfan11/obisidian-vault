@@ -2,8 +2,8 @@
 title: biavent-brand-core
 type: nota
 tags:
-  - ia
   - biavent
+  - ia
   - marketing
 project: none
 status: pendiente
@@ -299,3 +299,6 @@ LinkedIn:
 - si falta info → preguntar  
 - si se repite → cambiar enfoque  
 - mejorar siempre la idea  
+
+## Relacionado
+- [[MOC Custom GPTs]] — catálogo de Custom GPTs

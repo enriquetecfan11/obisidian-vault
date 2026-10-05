@@ -2,8 +2,8 @@
 title: readme
 type: index
 tags:
+  - documentacion
   - openclaw
-  - documentacion-operativa
 project: none
 status: active
 date_created: 2026-08-13
@@ -40,3 +40,7 @@ Los archivos `AGENTS-ARCHITECTURE.md` e `IDENTITY.md` se conservan tambien como 
 3. Si cambia una ruta, MCP o flujo operativo, se refleja en `configuracion.md` y `migracion.md`.
 4. Si hay una leccion estable, se anota en `memoria.md`.
 
+
+## Relacionado
+- [[MOC OpenClaw]] — mapa wikilinks del proyecto
+- [[Mara OS]] — software relacionado

@@ -1,10 +1,9 @@
 ---
 type: nota
 tags:
+  - automatizacion
   - check-mk
   - devops
-  - geek
-  - automation
 status: active
 updated: 2026-05-13
 title: checkmk-estados-de-servicios
@@ -154,3 +153,6 @@ Y a nivel de API:
 
 - Endpoint base: `/check_mk/api/1.0/domain-types/service/collections/all`
 - Filtros con `query` sobre `state` para agrupar por OK/WARN/CRIT/UNKNOWN [web:26][web:80].
+
+## Relacionado
+- [[Index CheckMK]] — índice

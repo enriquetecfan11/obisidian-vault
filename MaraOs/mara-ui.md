@@ -2,8 +2,8 @@
 title: mara-ui
 type: document
 tags:
-  - mara-os
   - frontend
+  - mara-os
   - react
 project: MaraOS
 status: active

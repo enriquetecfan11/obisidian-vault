@@ -2,17 +2,16 @@
 title: configuracion-local-ia-llama-cpp
 type: index
 tags:
-  - llama-cpp
-  - inteligencia-artificial
-  - ia-local
   - configuracion
+  - ia
+  - ia-local
+  - llama-cpp
   - personal
 project: none
 status: active
 date_created: 2026-08-23
 date_modified: 2026-08-23
 ---
-
 # Configuración local de IA — llama.cpp
 
 Índice de la configuración de `llama.cpp` para ejecutar modelos locales en este equipo.
@@ -40,3 +39,7 @@ llama-server `
 ```
 
 Después abrir <http://localhost:8080>.
+
+## Relacionado
+- [[MOC IA Local]] — mapa IA local
+- [[Ollama Docker]] — Ollama en Docker

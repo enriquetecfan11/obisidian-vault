@@ -1,18 +1,16 @@
 ---
 type: nota
 tags:
-  - "#mara-os"
-  - ""
-  - "#ia"
-  - "#topic-obsidian"
   - atlas
+  - ia
+  - mara-os
+  - pkm
 project: MaraOS
 status: pendiente
 date_created: 2026-03-01
 date_modified: 2026-03-01
 title: system-prompt
 ---
-
 # System Prompt — Atlas (Asistente Personal)
 
 ## Identidad

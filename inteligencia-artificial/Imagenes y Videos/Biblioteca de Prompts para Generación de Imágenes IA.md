@@ -4,18 +4,15 @@ type: "nota"
 tags:
   - generacion-imagenes
   - ia
-  - stable-diffusion
-  - prompts
   - midjourney
-  - ml
-  - pending
+  - prompt-engineering
+  - stable-diffusion
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 # 🎨 Biblioteca de Prompts para Generación de Imágenes IA
 
 ## 🌃 1. Ciencia Ficción Futurista
@@ -153,3 +150,8 @@ Un pequeño dragón azul con ojos enormes y expresivos explora un bosque encanta
 - `trending on ArtStation` → Estilo artístico popular
 - `unreal engine` → Render 3D realista
 - `octane render` → Calidad de render profesional
+
+## Relacionado
+- [[Stable Diffusion & AI Art Resources]] — recursos SD / AI art
+- [[Experto en generación de imágenes]] — Custom GPT de imagen
+- [[MOC Custom GPTs]] — catálogo

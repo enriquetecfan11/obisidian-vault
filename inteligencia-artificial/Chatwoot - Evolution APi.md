@@ -1,10 +1,9 @@
 ---
 tags:
+  - automatizacion
   - chatwoot
   - evolution-api
   - whatsapp
-  - crm
-  - automatizacion
 status: active
 updated: 2026-05-13
 title: chatwoot-evolution-api
@@ -303,3 +302,8 @@ Para tener una referencia breve dentro de Obsidian, aquí queda una versión ult
 Este documento está deliberadamente centrado en el contenido real del vídeo y en su transcripción, por lo que sirve bien como manual de referencia rápida para repetir exactamente el proceso mostrado por el autor. La parte más importante para recordar al volver a este tutorial dentro de Obsidian es que la conexión depende primero de la variable de entorno en Evolution API y, después, de un filtrado correcto en Chatwoot para visualizar lo ya conectado. [youtube](https://www.youtube.com/watch?v=M2tG1LAodZM)
 
 Si replicando estos pasos el inbox se crea pero la operación no fluye, el siguiente nivel razonable de revisión ya no aparece cubierto en el vídeo y requeriría inspeccionar versión de servicios, logs, credenciales, compatibilidad de la instancia y comportamiento específico de la integración desplegada. [youtube](https://www.youtube.com/watch?v=M2tG1LAodZM)
+
+## Relacionado
+- [[Evolution-API]] — configuración base Evolution API
+- [[chatwoot-activar-usuarios]] — activar usuarios Chatwoot
+- [[MOC Automatizaciones]] — índice

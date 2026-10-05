@@ -2,13 +2,9 @@
 title: obsidian-segundo-cerebro
 type: ia
 tags:
-  - obsidian
-  - segundo-cerebro
   - ia
-  - productividad
   - pkm
-  - ml
-  - active
+  - productividad
 status: active
 created: 2026-03-01
 updated: 2026-04-06
@@ -18,7 +14,6 @@ project: none
 date_created: 2026-03-01
 date_modified: 2026-04-06
 ---
-
 
 ## Idea principal
 - El truco es que el agente de IA y las notas compartan **exactamente** la misma carpeta.
@@ -67,3 +62,7 @@ date_modified: 2026-04-06
 ## 9. Mensaje final
 - Tus notas ya existen y tu agente también; solo faltaba la carpeta compartida.
 - Montar el sistema lleva unos 20 minutos, pero el apalancamiento que genera dura años.[page:1]
+
+## Relacionado
+- [[MOC Inteligencia Artificial]] — índice IA
+- [[ejercito-empleados-digitales]] — agentes + markdown workspace

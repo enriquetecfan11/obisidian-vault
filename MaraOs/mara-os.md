@@ -2,10 +2,10 @@
 title: mara-os
 type: document
 tags:
-  - mara-os
   - backend
-  - telegram
+  - mara-os
   - ollama
+  - telegram
 project: MaraOS
 status: active
 date_created: 2026-08-13

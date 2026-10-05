@@ -2,9 +2,9 @@
 title: github-workflow-rule
 type: rule
 tags:
-  - mara-os
-  - mara
   - github
+  - mara
+  - mara-os
   - operativo
 project: MaraOS
 status: active
@@ -25,3 +25,7 @@ Siempre que Quique pida que se cambie algo, después de aplicar los cambios se d
 ## Excepciones
 - Si Quique indica explícitamente no subir todavía.
 - Si hay bloqueo de permisos/credenciales (avisar y resolver).
+
+## Relacionado
+- [[Mara]] — agente
+- [[MOC OpenClaw]] — índice

@@ -2,13 +2,10 @@
 title: ejercito-empleados-digitales
 type: ia
 tags:
-  - ia
-  - agentes
-  - empleados-digitales
+  - agentes-ia
   - automatizacion
+  - ia
   - llm
-  - ml
-  - active
 status: active
 created: 2026-03-01
 updated: 2026-04-06
@@ -17,9 +14,8 @@ project: none
 date_created: 2026-03-01
 date_modified: 2026-04-06
 ---
-
 ## Idea central
-- Pasar de usar chat (pregunta → respuesta) a [[Inteligencia Artificial/gpts-recursos-herramientas]] (objetivo → resultado) para multiplicar x10–x20 la productividad diaria.[page:1]
+- Pasar de usar chat (pregunta → respuesta) a [[gpts-recursos-herramientas]] (objetivo → resultado) para multiplicar x10–x20 la productividad diaria.[page:1]
 - El “stack” real no es una app, sino una estructura de carpetas con markdown: `agents.md`, `memory.md`, skills y conexiones MCP que puedes mover entre harnesses.[page:1]
 
 ---
@@ -179,3 +175,8 @@ Recomendación:
 
 # Link Original
 https://x.com/startupideaspod/status/2033993454653743191
+
+## Relacionado
+- [[MOC OpenClaw]] — agentes propios OpenClaw
+- [[Mara OS]] — software del asistente
+- [[MOC Inteligencia Artificial]] — índice IA

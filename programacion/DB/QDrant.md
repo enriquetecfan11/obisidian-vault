@@ -2,14 +2,11 @@
 title: qdrant-referencia-completa
 type: code
 tags:
-  - qdrant
-  - base-de-datos-vectorial
   - api-rest
-  - embeddings
-  - comandos
+  - base-de-datos-vectorial
+  - desarrollo
   - ia
-  - code
-  - dev
+  - qdrant
 status: active
 created: 2026-03-01
 updated: 2026-04-06
@@ -18,7 +15,6 @@ project: none
 date_created: 2026-03-01
 date_modified: 2026-04-06
 ---
-
 # QDrant — Referencia Completa
 
 [[QDrant]] es una base de datos vectorial optimizada para búsquedas de similitud y recuperación de información a gran escala. Sus comandos y funcionalidades se gestionan principalmente a través de una API REST y un SDK disponible en varios lenguajes como Python, Node.js y Rust.
@@ -228,3 +224,8 @@ GET /metrics
 ## Extras
 
 Qdrant soporta WebSockets para streaming en tiempo real y tiene SDKs oficiales en **Python**, **Node.js** y **Rust**.
+
+## Relacionado
+- [[Generador de archivos RAG]] — RAG / embeddings
+- [[MOC Inteligencia Artificial]] — índice IA
+- [[Bases de Datos]] — otras DBs

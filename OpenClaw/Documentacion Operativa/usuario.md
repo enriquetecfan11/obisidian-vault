@@ -10,7 +10,6 @@ status: active
 date_created: 2026-06-30
 date_modified: 2026-06-30
 ---
-
 # Usuario
 
 ## Identidad
@@ -44,3 +43,7 @@ date_modified: 2026-06-30
 - MCP `agents-notes`.
 - Git/GitHub para sincronizacion.
 
+
+## Relacionado
+- [[MOC OpenClaw]] — índice
+- [[openclaw/Backup/usuario]] — versión legacy Backup

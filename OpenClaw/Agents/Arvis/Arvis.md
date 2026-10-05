@@ -2,9 +2,9 @@
 title: Arvis
 type: agent
 tags:
-  - mara-os
   - arvis
-  - ia-tech-news
+  - mara-os
+  - noticias
 project: MaraOS
 status: active
 date_created: 2026-03-01
@@ -18,3 +18,8 @@ Agente de vigilancia tecnológica. Monitoriza feeds de noticias de IA y tech, la
 - [[flujo-ia-tech-news]]
 - [[feeds-ia-tech-news]]
 - [[openclaw/Agents/Arvis/system-prompt]]
+
+## Relacionado
+- [[MOC OpenClaw]] — índice
+- [[Mara]] — orquestadora
+- [[MOC LinkedIn]] — archivo de posts

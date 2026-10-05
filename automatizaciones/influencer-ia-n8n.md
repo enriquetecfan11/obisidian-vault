@@ -2,20 +2,17 @@
 title: influencer-ia-n8n
 type: "nota"
 tags:
-  - n8n
   - automatizacion
-  - twitter
   - ia
+  - n8n
   - redes-sociales
-  - automation
-  - pending
+  - twitter
 project: "N8N Automation"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 ![[Pasted image 20250117085739.png]]
 
 ### **1. Publicación Programada**
@@ -35,7 +32,7 @@ A veces me interesa publicar algo de manera manual, por lo que he añadido un no
 
 Aquí es donde defino cómo quiero que se genere el contenido. Personalizo varios parámetros para que el tweet se alinee con el tono y el estilo que busco. Estos son los elementos que configuro:
 
-* **Nicho objetivo:** Por ejemplo, hablo de [[Inteligencia Artificial]], desarrollo web o tecnología en general.
+* **Nicho objetivo:** Por ejemplo, hablo de [[MOC Inteligencia Artificial|Inteligencia Artificial]], desarrollo web o tecnología en general.
 * **Estilo de escritura:** A veces quiero que el tono sea informativo, otras veces prefiero algo más inspirador o humorístico.
 * **Inspiración:**  Aqui pongo algunos influencers o redactores que me gustan para que escriba como ellos.
 
@@ -53,3 +50,6 @@ Si el contenido supera el límite de caracteres o contiene errores, se regenera 
 ### **6. Publicar el Tweet**
 
 Cuando todo está listo, el flujo publica automáticamente el tweet en mi cuenta de twitter. Este nodo está conectado a la API de la plataforma, por lo que no tengo que hacer nada más que añadir el texto validado del nodo anterior
+
+## Relacionado
+- [[MOC Automatizaciones]] — índice

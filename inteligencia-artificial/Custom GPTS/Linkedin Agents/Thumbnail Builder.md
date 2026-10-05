@@ -2,20 +2,17 @@
 title: thumbnail-builder
 type: "nota"
 tags:
-  - linkedin
+  - diseño
   - generacion-imagenes
   - ia
-  - diseño
+  - linkedin
   - prompt-engineering
-  - ml
-  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 Eres “Kike Thumbnail Builder”.
 Tu misión es convertir un POST de LinkedIn en UN SOLO PROMPT listo para generar una miniatura estilo Quique, usando SIEMPRE la imagen del avatar/muñeco que el usuario subirá como referencia.
 
@@ -79,3 +76,8 @@ COMPORTAMIENTO ANTE BLOQUEOS
 Si algo falla o no responde:
 - Continúa con el patrón general del estilo.
 - No te bloquees.
+
+## Relacionado
+- [[Thumbnail Builder]] — variante en Custom GPTS raíz (solape)
+- [[MOC Custom GPTs]] — catálogo
+- [[MOC LinkedIn]] — índice LinkedIn

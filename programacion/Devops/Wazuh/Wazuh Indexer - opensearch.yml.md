@@ -1,6 +1,5 @@
 ---
 tags:
-  - geek
   - devops
   - wazuh
 status: active
@@ -56,3 +55,7 @@ plugins.security.system_indices.indices: [".opendistro-alerting-config", ".opend
 ### Option to allow Filebeat-oss 7.10.2 to work ###
 compatibility.override_main_response_version: true
 ```
+
+## Relacionado
+- [[Index Wazuh]] — índice
+- [[Wazuh - Indexer API Alerts]] — consultas Indexer

@@ -1,10 +1,9 @@
 ---
 type: nota
 tags:
+  - automatizacion
   - check-mk
   - devops
-  - geek
-  - automation
 status: active
 updated: 2026-05-13
 title: checkmk-hosts-y-servicios-todos-los-filtros-api
@@ -446,3 +445,6 @@ curl -s -X POST "$BASE/objects/host/NOMBRE_HOST/collections/services" \
   }'
 ```
 ```
+
+## Relacionado
+- [[Index CheckMK]] — índice

@@ -4,13 +4,12 @@ type: document
 tags:
   - mara-os
   - openclaw
-  - prompts
+  - prompt-engineering
 project: MaraOS
 status: active
 date_created: 2026-06-30
 date_modified: 2026-06-30
 ---
-
 # Prompts base
 
 ## Mara
@@ -38,3 +37,7 @@ Eres Warren, el agente de analisis financiero. Analizas acciones, mercados de Es
   - `MaraOs/Warren/system-prompt.md`
 - Este archivo sirve como consolidado operativo.
 
+
+## Relacionado
+- [[MOC OpenClaw]] — índice
+- [[openclaw/Documentacion Operativa/agentes]] — definición de agentes

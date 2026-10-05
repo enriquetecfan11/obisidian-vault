@@ -2,20 +2,17 @@
 title: analizador-de-facturas
 type: "nota"
 tags:
-  - ia
   - facturas
-  - prompt-engineering
-  - ocr
   - finanzas
-  - ml
-  - pending
+  - ia
+  - ocr
+  - prompt-engineering
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 Prompt para poder hacer que el sistema lea facturas
 
 ```markdown
@@ -88,3 +85,7 @@ Sigue estos pasos:
 
 Antes de finalizar, revisa que el JSON esté completo, organizado y estructurado de acuerdo con los requisitos. Si hay errores o datos faltantes, corrígelos.
 ```
+
+## Relacionado
+- [[MOC Custom GPTs]] — catálogo de Custom GPTs
+- [[Ticket App]] — extracción de datos de tickets de compra

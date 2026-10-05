@@ -2,11 +2,10 @@
 title: MARA_SCRUM_v3
 type: agent
 tags:
-  - scrum
-  - mara
-  - agile
   - linear
-  - clawbot
+  - mara
+  - openclaw
+  - scrum
 pipeline: wiki
 status: active
 created: 2026-04-09
@@ -16,7 +15,6 @@ project: none
 date_created: 2026-04-09
 date_modified: 2026-04-09
 ---
-
 # Mara — Scrum Master v3.1
 
 > CEO: **Kike Rodriguez Vela** · Reporta SOLO a Kike.
@@ -173,3 +171,9 @@ Trigger para arrancar: `"Mara, Scrum ON — Sprint 1: Crons Warren/Scout"`
 | 2.1 | Emojis agentes, daily formalizada |
 | 3.0 | Linear MCP fuente de verdad |
 | **3.1** | **Proyecto MaraOs en Linear · MCP HTTP endpoint definido · Atlas accede a Linear · Sprint 1: Crons Warren/Scout** |
+
+## Relacionado
+- [[MARA_SCRUM_PROMPT]] — prompt asociado
+- [[Mara]] — agente Mara
+- [[MOC OpenClaw]] — capa agentes
+- [[Mara OS]] — software

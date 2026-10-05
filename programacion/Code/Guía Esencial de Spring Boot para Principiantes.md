@@ -2,21 +2,17 @@
 title: gu-a-esencial-de-spring-boot-para-principiantes
 type: "project"
 tags:
-  - spring-boot
-  - java
-  - microservicios
-  - backend
   - api-rest
-  - project
+  - backend
+  - java
+  - spring-boot
   - work
-  - in-progress
 project: "none"
 status: "en-progreso"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 ## **1. ¿Qué es Spring Boot?**
 
 - **Spring Boot** es un framework de Java que simplifica el desarrollo de aplicaciones al proporcionar configuraciones predeterminadas.
@@ -174,3 +170,7 @@ spring.datasource.password=password
 ---
 ## **10. Recursos Adicionales**
 - **Documentación oficial**: [spring.io/docs](https://spring.io/docs)
+
+## Relacionado
+- [[MOC DevOps]] — contexto backend/ops
+- [[Bases de Datos]] — persistencia

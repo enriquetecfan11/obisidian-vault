@@ -2,8 +2,8 @@
 title: configuracion
 type: nota
 tags:
-  - openclaw
   - backup
+  - openclaw
 project: none
 status: active
 date_created: 2026-08-13
@@ -138,3 +138,7 @@ Cronjobs desactivados documentados:
 - Cron/Gateway de OpenClaw.
 - Docker: usado por Ubuntu Ops; servicios concretos no especificados.
 - Tailscale: comprobado por Ubuntu Ops si existe; configuracion no especificada.
+
+## Relacionado
+- [[openclaw/Documentacion Operativa/configuracion]] — versión canónica
+- [[MOC OpenClaw]] — índice

@@ -2,10 +2,10 @@
 title: Warren
 type: agent
 tags:
+  - finanzas
+  - inversiones
   - mara-os
   - warren
-  - finanzas
-  - renta-variable
 project: MaraOS
 status: active
 date_created: 2026-03-01
@@ -21,3 +21,9 @@ Agente de análisis financiero. Monitoriza mercados (acciones EEUU/España, cryp
 - [[Crypto]]
 - [[openclaw/Agents/Warren/system-prompt]]
 - [[Template Analisis Diario]]
+
+## Relacionado
+- [[MOC OpenClaw]] — índice
+- [[Mara]] — orquestadora
+- [[Definiciones]] — glosario inversiones (work)
+- [[empresas-a-vigilar]] — watchlist

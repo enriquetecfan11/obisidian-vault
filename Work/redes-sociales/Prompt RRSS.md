@@ -2,21 +2,18 @@
 title: prompt-rrss
 type: "nota"
 tags:
-  - redes-sociales
+  - contenido
+  - ia
   - marketing
   - prompt-engineering
-  - generacion-contenido
-  - ia
-  - task
+  - redes-sociales
   - work
-  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 Prepara contendidos para la semana que viene que no se pisen con los de otras veces solo para 2 días, Martes y Jueves las ultimas entradas y posts han sido estas: 
 - Automatización de software 
 - Web 3.0, 
@@ -29,3 +26,8 @@ Tu salida tiene que ser en una lista con estos campos:
 - Keyword Principal 
 - Keywords Secundarias (separadas por comas) 
 - buyer persona (El post va orientado a este tipo de personas, ej: programadores, geeks, no tiene que ser una persona en concreto si no un grupo de personas) 
+
+## Relacionado
+- [[Planificación de RRSS]] — planificación
+- [[MOC LinkedIn]] — índice LinkedIn
+- [[linkedin-ghostwriter-prompt]] — ghostwriter

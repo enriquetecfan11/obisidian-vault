@@ -2,10 +2,9 @@
 title: Empresas
 type: resource
 tags:
+  - inversiones
   - mara-os
   - warren
-  - renta-variable
-  - cartera
 project: MaraOS
 status: active
 date_created: 2026-03-01
@@ -26,3 +25,8 @@ Acciones en seguimiento por Warren.
 - REP
 - IBE
 - BBVA
+
+## Relacionado
+- [[Warren]] — agente
+- [[Analisis Empresas]] — análisis
+- [[empresas-a-vigilar]] — watchlist work

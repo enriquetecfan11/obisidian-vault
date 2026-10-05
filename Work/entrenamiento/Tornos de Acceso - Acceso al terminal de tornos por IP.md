@@ -2,8 +2,8 @@
 title: tornos-de-acceso-acceso-al-terminal-de-tornos-por-ip
 type: nota
 tags:
-  - work
   - origen
+  - work
 project: none
 status: active
 date_created: 2026-08-13
@@ -142,3 +142,7 @@ Si el acceso es por **SSH**:
 - No compartas tus **credenciales** con terceros.  
 - Registra en la documentación interna cualquier cambio relevante que hagas en la configuración.  
 - Si el terminal no responde ni físicamente (QR/pulsera) ni por IP, aplica el **reset físico** (C y luego D) y vuelve a probar. [file:1]
+
+## Relacionado
+- [[Tornos de Acceso - Acceso Terminal]] — acceso terminal
+- [[Tornos de Acceso – Manual de Usuario (resumen)]] — manual

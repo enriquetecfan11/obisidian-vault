@@ -2,20 +2,16 @@
 title: n8n-api-endpoints
 type: "resource"
 tags:
-  - n8n
   - api-rest
   - automatizacion
-  - workflows
-  - referencia
-  - automation
-  - pending
+  - documentacion
+  - n8n
 project: "N8N Automation"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 ## 🔐 Autenticación
 
 La API requiere autenticación mediante **API Key** o **JWT**, según la configuración del servidor.
@@ -445,3 +441,8 @@ curl -X PUT https://n8n.ejemplo.com/api/v1/workflows/$WORKFLOW_ID/transfer \
 
 **Última actualización:** Febrero 2026  
 **Documentación oficial:** [N8N API Docs](https://docs.n8n.io/api/)
+
+## Relacionado
+- [[chatgpt-make-n8n-integracion]] — GPT/Actions → n8n/Make
+- [[Tablas PostgreSQL N8N]] — tablas de chat
+- [[MOC Automatizaciones]] — índice

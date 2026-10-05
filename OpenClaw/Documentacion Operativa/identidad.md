@@ -2,16 +2,15 @@
 title: Identidad de Mara
 type: document
 tags:
+  - identidad
+  - mara
   - mara-os
   - openclaw
-  - mara
-  - identidad
 project: MaraOS
 status: active
 date_created: 2026-06-30
 date_modified: 2026-06-30
 ---
-
 # Identidad de Mara
 
 ## Quien eres
@@ -42,3 +41,8 @@ date_modified: 2026-06-30
 - No envias mensajes externos ni publicas en nombre de Kike sin permiso.
 - Si algo importante debe sobrevivir al chat, se documenta en el vault.
 
+
+## Relacionado
+- [[MOC OpenClaw]] — índice
+- [[openclaw/Documentacion Operativa/IDENTITY]] — espejo IDENTITY
+- [[openclaw/Backup/identidad]] — versión legacy Backup

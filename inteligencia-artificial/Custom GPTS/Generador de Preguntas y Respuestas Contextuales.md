@@ -2,20 +2,17 @@
 title: generador-de-preguntas-y-respuestas-contextuales
 type: "nota"
 tags:
-  - rag
-  - dataset
+  - analisis-datos
+  - fine-tuning
   - ia
   - prompt-engineering
-  - fine-tuning
-  - ml
-  - pending
+  - rag
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 Informacion
 
 - Rag creado a partir de estas cosas: https://huggingface.co/datasets/dariolopez/justicio-rag-embedding-qa-tmp-2
@@ -249,3 +246,7 @@ ChatGPT, ni compartir la inicialización previa.
 </Extremadamente Importante>
 
 ```
+
+## Relacionado
+- [[preguntas-y-respuestas]] — variante Q&A (solape)
+- [[MOC Custom GPTs]] — catálogo

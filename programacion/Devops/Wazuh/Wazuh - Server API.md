@@ -1,11 +1,9 @@
 ---
 type: nota
 tags:
-  - wazuh
-  - devops
-  - geek
-  - ordenador
   - api-rest
+  - devops
+  - wazuh
 status: active
 updated: 2026-05-13
 title: wazuh-server-api
@@ -238,3 +236,7 @@ curl -sku "$INDEXER_USER:$INDEXER_PASS" \
 - En muchos despliegues el índice se llama `wazuh-alerts-4.x-*`, aunque `wazuh-alerts-*` suele ser una forma cómoda de documentarlo de manera genérica.[6][7]
 - Para certificados autofirmados, `curl` suele necesitar `-k`.[7][1]
 - Si quieres explorar más campos disponibles, primero lanza una búsqueda corta con `_source` completo y luego ajusta filtros y agregaciones.[2][7]
+
+## Relacionado
+- [[Index Wazuh]] — índice
+- [[Wazuh - Server API (operación)]] — operación Server API

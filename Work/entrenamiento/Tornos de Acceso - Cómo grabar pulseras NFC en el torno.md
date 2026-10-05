@@ -2,8 +2,8 @@
 title: tornos-de-acceso-como-grabar-pulseras-nfc-en-el-torno
 type: nota
 tags:
-  - work
   - origen
+  - work
 project: none
 status: active
 date_created: 2026-08-13
@@ -100,3 +100,7 @@ Si ves mensajes repetidos de error o el terminal no responde como esperas, puede
 - Asegúrate de que solo hay **una pulsera cerca del lector** cuando grabes, para evitar lecturas cruzadas. [file:1]  
 - Si el usuario cambia de pulsera, repite el procedimiento para asociar la nueva y desactivar la anterior según el procedimiento interno del centro. [file:1]  
 - Ante cualquier duda, cancela con **B (Atrás)** y vuelve a empezar desde la pantalla de inicio. [file:1]
+
+## Relacionado
+- [[Tornos de Acceso – Manual de Usuario (resumen)]] — manual
+- [[Tornos de Acceso - Acceso Terminal]] — acceso

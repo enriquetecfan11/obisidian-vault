@@ -2,21 +2,17 @@
 title: docker
 type: "resource"
 tags:
-  - docker
-  - contenedores
+  - desarrollo
   - devops
+  - docker
   - infraestructura
   - linux
-  - code
-  - dev
-  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 | Acción                         | Comando                                                     |
 | ------------------------------ | ----------------------------------------------------------- |
 | Parar y eliminar contenedores  | `docker stop $(docker ps -q) && docker rm $(docker ps -aq)` |
@@ -83,3 +79,7 @@ docker run -e WORDPRESS_DB_USER=root -e WORDPRESS_DB_PASSWORD=mondejar --name wo
 ## Node + PostgreSQL
 
 [https://codewithhugo.com/node-postgres-express-docker-compose/](https://codewithhugo.com/node-postgres-express-docker-compose/)
+
+## Relacionado
+- [[Ollama Docker]] — Ollama + Docker
+- [[MOC DevOps]] — índice DevOps

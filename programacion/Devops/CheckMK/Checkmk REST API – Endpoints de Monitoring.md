@@ -1,10 +1,9 @@
 ---
 type: nota
 tags:
+  - automatizacion
   - check-mk
   - devops
-  - geek
-  - automation
 status: active
 updated: 2026-05-13
 title: checkmk-rest-api-endpoints-de-monitoring
@@ -12,7 +11,6 @@ project: none
 date_created: 2026-05-13
 date_modified: 2026-05-13
 ---
-
 > Base URL: `http://10.18.95.12/monitoring/check_mk/api/1.0`  
 > Auth: `Authorization: Bearer automation TU_SECRET`  
 > Swagger UI: `http://10.18.95.12/monitoring/check_mk/api/1.0/ui/#/`
@@ -197,3 +195,6 @@ curl -s -X GET "$BASE/domain-types/downtime/collections/all" \
 | `and` | Y lógico (combina varios filtros) |
 | `or` | O lógico (combina varios filtros) |
 | `not` | Negación |
+
+## Relacionado
+- [[Index CheckMK]] — índice

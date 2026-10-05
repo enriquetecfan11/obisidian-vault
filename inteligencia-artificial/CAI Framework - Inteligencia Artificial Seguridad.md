@@ -4,18 +4,14 @@ type: "resource"
 tags:
   - ciberseguridad
   - ia
-  - ollama
-  - auditoria
   - llm
-  - ml
-  - pending
+  - ollama
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 # CAI Framework - Guía de Instalación y Configuración
 
 ## 📦 Instalación Inicial
@@ -139,3 +135,7 @@ ollama pull qwen3:latest
 ---
 
 **Última actualización:** Febrero 2026  
+
+## Relacionado
+- [[MOC Inteligencia Artificial]] — índice IA
+- [[Index Wazuh]] — seguridad operativa / SIEM

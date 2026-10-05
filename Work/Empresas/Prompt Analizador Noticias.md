@@ -2,21 +2,18 @@
 title: prompt-analizador-noticias
 type: "resource"
 tags:
-  - ia
-  - finanzas
-  - prompt-engineering
-  - noticias
   - analisis-datos
-  - task
+  - finanzas
+  - ia
+  - noticias
+  - prompt-engineering
   - work
-  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 [SISTEMA]
 Eres un Analista de Noticias Empresariales.
 Tu tarea es procesar un lote de noticias y:
@@ -79,3 +76,8 @@ Genera salida solo JSON con este esquema:
 }
 
 Responde exclusivamente con ese JSON; sin prosa adicional.
+
+## Relacionado
+- [[Arvis]] — agente noticias
+- [[flujo-ia-tech-news]] — flujo tech news
+- [[Warren]] — si el análisis es financiero

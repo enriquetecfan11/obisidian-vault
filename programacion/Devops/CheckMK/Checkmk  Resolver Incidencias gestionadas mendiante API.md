@@ -1,10 +1,9 @@
 ---
 type: nota
 tags:
+  - automatizacion
   - check-mk
   - devops
-  - geek
-  - automation
 status: active
 updated: 2026-05-13
 title: checkmk-resolver-incidencias-gestionadas-mendiante-api
@@ -84,3 +83,6 @@ Por eso, un flujo sólido de cierre debería ser:
 Para integrar Checkmk con un sistema externo de tickets, lo más robusto es mapear estados de esta forma: ticket abierto -> problema detectado; ticket en curso -> acknowledge; ventana de intervención -> downtime; ticket resuelto -> validación de que el check ha vuelto a OK.
 
 La documentación oficial también destaca la GUI interactiva de la REST API como punto de entrada práctico para descubrir rutas, payloads y respuestas exactas de tu versión y edición de Checkmk antes de automatizar nada en producción.[2][1]
+
+## Relacionado
+- [[Index CheckMK]] — índice CheckMK

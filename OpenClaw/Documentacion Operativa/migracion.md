@@ -4,13 +4,11 @@ type: document
 tags:
   - mara-os
   - openclaw
-  - migracion
 project: MaraOS
 status: active
 date_created: 2026-06-30
 date_modified: 2026-06-30
 ---
-
 # Migracion de OpenClaw
 
 Checklist para replicar OpenClaw y MaraOS en otra maquina sin perder contexto operativo.
@@ -48,3 +46,8 @@ Checklist para replicar OpenClaw y MaraOS en otra maquina sin perder contexto op
 4. Comprobar que Mara, Atlas, Arvis y Warren siguen la documentacion viva.
 5. Sincronizar cambios pendientes.
 
+
+## Relacionado
+- [[MOC OpenClaw]] — índice
+- [[openclaw/Documentacion Operativa/configuracion]] — configuración viva
+- [[openclaw/Backup/migracion]] — checklist legacy

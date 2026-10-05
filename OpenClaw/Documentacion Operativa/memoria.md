@@ -3,14 +3,13 @@ title: Memoria operativa
 type: document
 tags:
   - mara-os
-  - openclaw
   - memoria
+  - openclaw
 project: MaraOS
 status: active
 date_created: 2026-06-30
 date_modified: 2026-06-30
 ---
-
 # Memoria operativa
 
 ## Decisiones vigentes
@@ -36,3 +35,7 @@ date_modified: 2026-06-30
 - Cambios en agentes o prompts.
 - Cambios en cronjobs o automatizaciones.
 
+
+## Relacionado
+- [[MOC OpenClaw]] — índice
+- [[Memoria y contexto]] — memoria en Mara OS

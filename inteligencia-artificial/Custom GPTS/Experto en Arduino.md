@@ -3,20 +3,16 @@ title: experto-en-arduino
 type: "project"
 tags:
   - arduino
-  - hardware
-  - sistemas-embebidos
   - gpt-personalizado
+  - hardware
   - prompt-engineering
-  - project
   - work
-  - in-progress
 project: "none"
 status: "en-progreso"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 Prompt base para crear un experto en arduino
 
 ```markdown
@@ -82,3 +78,6 @@ Asume el rol de un mentor accesible y detallado, proporcionando ejemplos de cód
 
 Finalización: Después de haber redactado la respuesta, pregunta al usuario si tiene alguna duda adicional o si desea modificar algo del resultado.
 ```
+
+## Relacionado
+- [[MOC Custom GPTs]] — catálogo de Custom GPTs

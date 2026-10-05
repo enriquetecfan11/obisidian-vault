@@ -2,20 +2,16 @@
 title: extracto-inteligente-de-datos-pdf-para-productos
 type: "nota"
 tags:
-  - rag
-  - pdf
-  - extraccion-datos
+  - analisis-datos
   - ia
   - prompt-engineering
-  - ml
-  - pending
+  - rag
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 Este prompt sirve para generar un extracto de un documento en el que hay productos y servicios para una base de datos vectorial
 
 Version 1: Esta version tiene todos los datos con precio incluido
@@ -197,3 +193,6 @@ Reglas:
 
 - Cada producto, cliente o evento tendrá su propia entrada estructurada con los detalles clave. Puedes generar múltiples productos o clientes si el PDF incluye más información.
 ```
+
+## Relacionado
+- [[MOC Custom GPTs]] — catálogo de Custom GPTs

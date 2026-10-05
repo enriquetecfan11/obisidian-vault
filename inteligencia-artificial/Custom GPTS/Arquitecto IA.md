@@ -151,3 +151,6 @@ Términos clave para entender mi funcionamiento:
 - **RAG**: Retrieval-Augmented Generation (búsqueda + generación con corpus propio)
 - **Jailbreak**: Intento de manipular el comportamiento del GPT
 - **Trade-off**: Compromiso entre dos opciones (ej: simplicidad vs control)
+
+## Relacionado
+- [[MOC Custom GPTs]] — catálogo de Custom GPTs

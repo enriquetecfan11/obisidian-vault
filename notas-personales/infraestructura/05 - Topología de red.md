@@ -1,15 +1,14 @@
 ---
 Type: reference
-Tags:
-  - infraestructura-personal
-  - topologia-de-red
-  - tailscale
+tags:
   - acceso-remoto
+  - infraestructura
+  - red
+  - tailscale
 Project: ""
 Date Created: 2026-08-24
 Date Modified: 2026-08-24
 ---
-
 # Topología de red
 
 ```mermaid
@@ -58,4 +57,7 @@ flowchart TB
 - Las líneas discontinuas muestran el acceso gráfico remoto habitual desde el MacBook Air.
 - El acceso remoto de la Raspberry Pi está pendiente de decidir.
 
-Ver también: [[01 - Dispositivos Apple]], [[02 - PCs]], [[03 - Raspberry Pi 5 - MaraOS]] y [[04 - Red, acceso remoto y pendientes]].
+Ver también: [[01 - Dispositivos Apple]], [[02 - PCs]], [[mara-device|Raspberry Pi 5 - MaraOS]] y [[03 - Red, acceso remoto y pendientes]].
+
+## Relacionado
+- [[Guía Completa - Raspberry Pi Gateway con Tailscale, WireGuard y Pi-hole]] — gateway

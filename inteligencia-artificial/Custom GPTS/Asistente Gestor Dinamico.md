@@ -3,8 +3,8 @@ title: biavent-brand-core
 type: nota
 tags:
   - ia
-  - marketing
   - linkedin
+  - marketing
 project: none
 status: pendiente
 date_created: 2026-10-05
@@ -66,3 +66,6 @@ Solo necesitas indicarme el tema del post, y te devolveré los siguientes elemen
 
 No genero el contenido final. Solo entrego la base estratégica para que puedas usarla directamente en el sistema.  
 Cuando lo tengas listo, puedes generar tu publicación entrando en: https://contenidodinamico.nundusoft.com
+
+## Relacionado
+- [[MOC Custom GPTs]] — catálogo de Custom GPTs

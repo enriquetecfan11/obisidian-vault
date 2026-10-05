@@ -2,8 +2,8 @@
 title: identidad
 type: nota
 tags:
-  - openclaw
   - backup
+  - openclaw
 project: none
 status: active
 date_created: 2026-08-13
@@ -67,3 +67,7 @@ Flujo esperado:
 2. Mara entiende, ordena y orquesta.
 3. Agentes o sistemas especializados ejecutan cuando existen.
 4. Mara valida y entrega el resultado final.
+
+## Relacionado
+- [[openclaw/Documentacion Operativa/identidad]] — versión canónica
+- [[MOC OpenClaw]] — índice

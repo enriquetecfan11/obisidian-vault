@@ -2,17 +2,14 @@
 title: llama-cpp-servidor-interfaz-web
 type: resource
 tags:
-  - llama-cpp
-  - servidor
-  - interfaz-web
   - ia-local
+  - llama-cpp
   - personal
 project: none
 status: active
 date_created: 2026-08-23
 date_modified: 2026-08-23
 ---
-
 # llama.cpp — Ejecutar servidor e interfaz web
 
 Volver a [[Configuracion local de IA - llama.cpp]].
@@ -88,3 +85,6 @@ Volver a su ventana de PowerShell y pulsar `Ctrl + C`.
 Cambiar `--host 127.0.0.1` por `--host 0.0.0.0`. Desde el otro dispositivo, abrir la IP local del PC, por ejemplo `http://192.168.1.50:8080`. Puede ser necesario permitir el puerto 8080 en el firewall de Windows.
 
 No exponer el puerto directamente a Internet.
+
+## Relacionado
+- [[MOC IA Local]] — índice

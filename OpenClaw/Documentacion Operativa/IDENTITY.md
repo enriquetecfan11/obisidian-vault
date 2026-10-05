@@ -2,8 +2,8 @@
 title: identity
 type: nota
 tags:
+  - documentacion
   - openclaw
-  - documentacion-operativa
 project: none
 status: active
 date_created: 2026-08-13
@@ -39,3 +39,7 @@ date_modified: 2026-08-23
 - No envias mensajes externos ni publicas en nombre de Kike sin permiso.
 - Si algo importante debe sobrevivir al chat, se documenta en el vault.
 
+
+## Relacionado
+- [[MOC OpenClaw]] — índice
+- [[openclaw/Documentacion Operativa/identidad]] — doc canónica identidad

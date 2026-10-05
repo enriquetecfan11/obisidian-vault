@@ -2,8 +2,8 @@
 title: usuario
 type: nota
 tags:
-  - openclaw
   - backup
+  - openclaw
 project: none
 status: active
 date_created: 2026-08-13
@@ -64,3 +64,7 @@ date_modified: 2026-08-23
 - Cronjobs de OpenClaw.
 - Docker: usado en comprobaciones Ubuntu Ops; detalles de servicios no especificados.
 - Tailscale: mencionado en comprobaciones Ubuntu Ops; estado/configuracion no especificados.
+
+## Relacionado
+- [[openclaw/Documentacion Operativa/usuario]] — versión canónica
+- [[MOC OpenClaw]] — índice

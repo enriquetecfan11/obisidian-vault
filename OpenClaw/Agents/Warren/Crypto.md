@@ -2,10 +2,10 @@
 title: Crypto
 type: resource
 tags:
+  - finanzas
+  - inversiones
   - mara-os
   - warren
-  - crypto
-  - finanzas
 project: MaraOS
 status: active
 date_created: 2026-03-01
@@ -19,3 +19,7 @@ Activos cripto monitorizados por Warren.
 2. Ethereum (ETH)
 3. XRP (XRP)
 4. Solana (SOL)
+
+## Relacionado
+- [[Warren]] — agente
+- [[Definiciones]] — glosario

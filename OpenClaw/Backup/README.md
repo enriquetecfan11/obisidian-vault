@@ -2,8 +2,8 @@
 title: readme
 type: index
 tags:
-  - openclaw
   - backup
+  - openclaw
 project: none
 status: active
 date_created: 2026-08-13
@@ -31,3 +31,7 @@ Carpeta legacy. La documentacion viva y canonica de OpenClaw ahora vive en:
 ## Recomendacion
 
 Si necesitas operar OpenClaw hoy, usa la carpeta nueva. Si necesitas entender como se llego aqui, usa esta carpeta como contexto historico.
+
+## Relacionado
+- [[MOC OpenClaw]] — mapa actual
+- [[openclaw/Documentacion Operativa/README]] — doc canónica

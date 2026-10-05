@@ -1,10 +1,9 @@
 ---
 type: nota
 tags:
+  - automatizacion
   - check-mk
-  - automation
   - devops
-  - geek
 status: active
 updated: 2026-05-13
 title: checkmk-api-guia-postman
@@ -12,7 +11,6 @@ project: none
 date_created: 2026-05-13
 date_modified: 2026-05-13
 ---
-
 > Swagger UI: `http://10.18.95.12/monitoring/check_mk/api/1.0/ui/#/`  
 > Base URL: `http://10.18.95.12/monitoring/check_mk/api/1.0`  
 > **Cómo importar en Postman**: Import → Raw text → pega el curl → Continue → Import
@@ -481,3 +479,6 @@ curl --location --request POST 'http://10.18.95.12/monitoring/check_mk/api/1.0/d
 | `state` | Estado 0–3 |
 | `plugin_output` | Texto resultado del check |
 | `perf_data` | Métricas
+
+## Relacionado
+- [[Index CheckMK]] — índice

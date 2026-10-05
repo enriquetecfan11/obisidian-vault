@@ -2,15 +2,14 @@
 title: Configuracion OpenClaw
 type: document
 tags:
+  - configuracion
   - mara-os
   - openclaw
-  - configuracion
 project: MaraOS
 status: active
 date_created: 2026-06-30
 date_modified: 2026-06-30
 ---
-
 # Configuracion de OpenClaw
 
 ## Rutas clave
@@ -47,3 +46,7 @@ date_modified: 2026-06-30
 - OpenClaw.
 - MCP de notas y calendario.
 
+
+## Relacionado
+- [[MOC OpenClaw]] — índice
+- [[openclaw/Documentacion Operativa/migracion]] — checklist migración

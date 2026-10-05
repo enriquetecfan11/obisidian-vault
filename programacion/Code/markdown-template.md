@@ -2,20 +2,16 @@
 title: markdown-template
 type: "resource"
 tags:
-  - markdown
-  - sintaxis
-  - code
+  - desarrollo
   - documentacion
+  - markdown
   - plantilla
-  - dev
-  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 
 
 ## Introducción
@@ -104,3 +100,7 @@ model: local@gemma3:4b---
 ## Recursos Adicionales
 - Markdown Guide: https://www.markdownguide.org/
 - Obsidian: https://obsidian.md/
+
+## Relacionado
+- [[markdown-cheat-sheet]] — cheatsheet
+- [[nota-base]] — plantilla de nota del vault

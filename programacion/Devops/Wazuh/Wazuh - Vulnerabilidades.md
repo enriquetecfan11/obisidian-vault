@@ -1,8 +1,7 @@
 ---
 tags:
-  - geek
+  - automatizacion
   - devops
-  - automation
   - wazuh
 status: active
 updated: 2026-05-13
@@ -129,3 +128,6 @@ curl -k -u admin:PASSWORD \
     }
   }'
 ```
+
+## Relacionado
+- [[Index Wazuh]] — índice

@@ -1,9 +1,9 @@
 ---
 type: article
 tags:
-  - ia
   - claude-code
-  - landing
+  - frontend
+  - ia
   - nextjs
   - threejs
 status: active
@@ -17,7 +17,6 @@ project: none
 date_created: 2026-07-07
 date_modified: 2026-07-07
 ---
-
 # Cómo construir una landing premium con Claude Code
 
 > Guía práctica basada en construir `racks.group`: Next.js + Three.js, un rack 3D animado por scroll, modal de contacto y SEO completo, todo con Claude Code en una sola sesión.
@@ -176,3 +175,6 @@ La idea no es memorizar prompts, sino obligar al agente a analizar antes de toca
 ## Referencia
 
 - Fuente: [Notion - Cómo construir una landing premium con Claude Code](https://rackslabs.notion.site/C-mo-construir-una-landing-premium-con-Claude-Code-352faea97468803389f1ccdb53ebb6eb)
+
+## Relacionado
+- [[MOC Inteligencia Artificial]] — índice IA

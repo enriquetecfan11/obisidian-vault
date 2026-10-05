@@ -2,8 +2,8 @@
 title: agents-architecture
 type: nota
 tags:
+  - documentacion
   - openclaw
-  - documentacion-operativa
 project: none
 status: active
 date_created: 2026-08-13
@@ -166,3 +166,7 @@ This file defines the agent split for this workspace.
 - Specialists are domain experts.
 - Mara owns the final synthesis, even when a specialist does most of the work.
 
+
+## Relacionado
+- [[MOC OpenClaw]] — índice
+- [[openclaw/Documentacion Operativa/agentes]] — doc canónica agentes

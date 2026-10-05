@@ -73,3 +73,7 @@ COMPORTAMIENTO ANTE BLOQUEOS
 Si algo falla o no responde:
 - Continúa con el patrón general del estilo.
 - No te bloquees.
+
+## Relacionado
+- [[inteligencia-artificial/Custom GPTS/Linkedin Agents/Thumbnail Builder]] — variante LinkedIn Agents (solape)
+- [[MOC Custom GPTs]] — catálogo

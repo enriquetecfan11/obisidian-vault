@@ -2,12 +2,12 @@
 title: raspberry-pi-gateway-tailscale-wireguard-pihole
 type: resource
 tags:
+  - devops
+  - personal
+  - pi-hole
   - raspberry-pi
   - tailscale
   - wireguard
-  - pi-hole
-  - personal
-  - devops
 project: none
 status: active
 date_created: 2026-03-01
@@ -1547,3 +1547,9 @@ sudo systemctl restart ssh
 ## Notas Personales
 
 <!-- Añade aquí tus notas personales, IPs específicas, contraseñas (¡en un gestor seguro!), etc. -->
+
+## Relacionado
+- [[05 - Topología de red]] — topología
+- [[03 - Red, acceso remoto y pendientes]] — acceso remoto
+- [[MOC DevOps]] — índice infra
+- [[mara-device]] — capa hardware Mara OS / Pi

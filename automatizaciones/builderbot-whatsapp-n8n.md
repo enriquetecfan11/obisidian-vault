@@ -2,20 +2,17 @@
 title: builderbot-whatsapp-n8n
 type: "resource"
 tags:
-  - n8n
-  - whatsapp
   - api-rest
   - automatizacion
   - builderbot
-  - automation
-  - pending
+  - n8n
+  - whatsapp
 project: "N8N Automation"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 ## 🔗 Endpoint Base
 
 ```
@@ -465,3 +462,7 @@ curl -I https://ejemplo.com/imagen.jpg
 | `404`  | Not Found         | Verificar endpoint            |
 | `429`  | Too Many Requests | Implementar rate limiting     |
 | `500`  | Server Error      | Reintentar más tarde          |
+
+## Relacionado
+- [[Evolution-API]] — alternativa WhatsApp self-hosted
+- [[MOC Automatizaciones]] — índice del tema

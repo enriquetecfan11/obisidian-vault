@@ -1,11 +1,9 @@
 ---
 type: nota
 tags:
-  - wazuh
-  - devops
-  - geek
-  - ordenador
   - api-rest
+  - devops
+  - wazuh
 status: active
 created: 2026-05-13
 title: wazuh-queries-utiles-cheat-sheet
@@ -211,3 +209,6 @@ curl -sku "$INDEXER_USER:$INDEXER_PASS" \
 | Volumen        | `_count` con rango de tiempo        | Métrica para dashboards. [web:86][web:60] |
 
 Para ampliar o afinar cualquier query, la referencia completa está en la documentación oficial de la Server API y de la Indexer API. [web:53][web:58]
+
+## Relacionado
+- [[Index Wazuh]] — índice

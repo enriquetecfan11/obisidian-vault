@@ -2,8 +2,8 @@
 title: Arquitectura del sistema
 type: document
 tags:
-  - mara-os
   - arquitectura
+  - mara-os
 project: MaraOS
 status: active
 date_created: 2026-08-13

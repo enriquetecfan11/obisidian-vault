@@ -2,21 +2,18 @@
 title: npm-libs-api-postgres
 type: "resource"
 tags:
-  - nodejs
   - api-rest
-  - postgresql
-  - npm
   - backend
-  - seguridad
-  - code
-  - dev
+  - ciberseguridad
+  - desarrollo
+  - nodejs
+  - postgresql
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 # Librerías NPM para API con [[Bases de Datos]]
 
 ## express
@@ -55,3 +52,6 @@ updated: 2026-04-06
 - [https://dev.to/tienbku/react-node-js-postgresql-crud-example-nbm](https://dev.to/tienbku/react-node-js-postgresql-crud-example-nbm)
 - [https://dev.to/ozenero/reactjs-nodejs-postgresql-example-c9m](https://dev.to/ozenero/reactjs-nodejs-postgresql-example-c9m)
 - [https://loizenai.com/reactjs-nodejs-postgresql-example/](https://loizenai.com/reactjs-nodejs-postgresql-example/)
+
+## Relacionado
+- [[gis-programacion-cartografia]] — cartografía

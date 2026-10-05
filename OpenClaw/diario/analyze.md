@@ -1,3 +1,21 @@
+---
+tags:
+  - openclaw
+  - documentacion
+type: nota
+status: active
+date_created: 2026-10-05
+date_modified: 2026-10-05
+title: analyze.py (OpenClaw diario)
+---
+
+# Script `analyze.py` (OpenClaw diario)
+
+Script Python que vivía como `.py` en el vault; contenido conservado en Markdown para mantener el vault en notas `.md`.
+
+Relacionado: [[MOC OpenClaw]]
+
+```python
 #!/usr/bin/env python3
 # analyze.py - Automatiza frontmatter y tags para notas en diario / viajes / warren
 
@@ -150,3 +168,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+```

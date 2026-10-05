@@ -2,9 +2,9 @@
 title: Mara
 type: agent
 tags:
-  - mara-os
-  - mara
   - ia
+  - mara
+  - mara-os
 project: MaraOS
 status: active
 date_created: 2026-03-01
@@ -17,3 +17,11 @@ Agente principal del sistema MaraOs. Coordina el resto de agentes y gestiona el 
 ## Notas relacionadas
 - [[openclaw/Agents/Mara/system-prompt]]
 - [[github-workflow-rule]]
+
+## Relacionado
+- [[MOC OpenClaw]] — índice OpenClaw
+- [[openclaw/Documentacion Operativa/agentes|Agentes OpenClaw]] — roles y reparto
+- [[Mara OS]] — software distinto de la capa agentes
+- [[Atlas]] — agente organización
+- [[Arvis]] — agente noticias/LinkedIn
+- [[Warren]] — agente finanzas

@@ -1,10 +1,9 @@
 ---
 type: nota
 tags:
+  - automatizacion
   - check-mk
   - devops
-  - geek
-  - automation
 status: active
 updated: 2026-05-13
 title: index-checkmk
@@ -12,7 +11,6 @@ project: none
 date_created: 2026-05-13
 date_modified: 2026-05-13
 ---
-
 ## API - Referencia de Endpoints
 
 ### Checkmk REST API – Endpoints de Monitoring
@@ -27,7 +25,7 @@ date_modified: 2026-05-13
 > Selección de los endpoints más útiles para construir dashboards: hosts, servicios, grupos y métricas.
 > Incluye base URL, autenticación y ejemplos de uso.
 
-[[Checkmk – Endpoints API "top" para dashboards]]
+[[Checkmk – Endpoints API “top” para dashboards]]
 
 ---
 
@@ -56,3 +54,12 @@ date_modified: 2026-05-13
 > Explica cómo aparecen en GUI, Livestatus, REST API y checks locales.
 
 [[Checkmk – Estados de servicios]]
+
+## Relacionado
+- [[MOC DevOps]] — índice DevOps padre
+- [[Index Wazuh]] — SIEM hermano
+
+### Checkmk  Resolver Incidencias gestionadas mendiante API
+> Resolución de incidencias gestionadas vía API.
+
+[[Checkmk  Resolver Incidencias gestionadas mendiante API]]

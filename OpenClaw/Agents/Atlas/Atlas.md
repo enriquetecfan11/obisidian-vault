@@ -2,9 +2,9 @@
 title: Atlas
 type: agent
 tags:
-  - mara-os
   - atlas
   - ia
+  - mara-os
 project: MaraOS
 status: active
 date_created: 2026-03-01
@@ -16,3 +16,7 @@ Agente de conocimiento y documentación dentro del sistema MaraOs.
 
 ## Notas relacionadas
 - [[openclaw/Agents/Atlas/system-prompt]]
+
+## Relacionado
+- [[MOC OpenClaw]] — índice
+- [[Mara]] — orquestadora

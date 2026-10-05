@@ -10,7 +10,6 @@ status: active
 date_created: 2026-08-23
 date_modified: 2026-08-23
 ---
-
 # Configuraciones - Índice 📚
 
 Mi segundo cerebro con todas las configuraciones del sistema.
@@ -111,3 +110,7 @@ yabai --start-service
 ---
 
 **Última actualización:** 2026-08-17
+
+## Relacionado
+- [[MOC DevOps]] — infra más amplia
+- [[01 - Dispositivos Apple]] — inventario Apple

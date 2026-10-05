@@ -2,20 +2,16 @@
 title: generador-de-documentos
 type: "resource"
 tags:
-  - ia
-  - rag
   - educacion
+  - ia
   - prompt-engineering
-  - json
-  - ml
-  - pending
+  - rag
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 GPT experto en generador de documentación para hacer rag
 
 ```markdown
@@ -63,3 +59,6 @@ Las pistas deben ser accesibles para niños y no contener lenguaje técnico comp
 Si el documento no tiene suficiente contenido para 20 preguntas, genera tantas como sea posible de manera lógica y coherente.
 Procesa ahora el documento y devuelve el JSON completo.
 ```
+
+## Relacionado
+- [[MOC Custom GPTs]] — catálogo de Custom GPTs

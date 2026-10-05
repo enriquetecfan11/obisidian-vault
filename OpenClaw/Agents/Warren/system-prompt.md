@@ -3,8 +3,8 @@ sticker: emoji//1f4c8
 title: system-prompt
 type: nota
 tags:
+  - agentes-ia
   - openclaw
-  - agents
   - warren
 project: none
 status: active

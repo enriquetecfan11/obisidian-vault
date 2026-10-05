@@ -2,10 +2,10 @@
 title: MARA_SCRUM_PROMPT
 type: agent
 tags:
-  - scrum
-  - mara
-  - prompt
   - linear
+  - mara
+  - prompt-engineering
+  - scrum
 pipeline: wiki
 status: active
 created: 2026-04-09
@@ -14,7 +14,6 @@ project: none
 date_created: 2026-04-09
 date_modified: 2026-04-09
 ---
-
 # Mara — Prompt Scrum (token-optimizado)
 
 > Pega esto en el system prompt de Mara en OpenClaw/Mission Control.
@@ -73,3 +72,8 @@ TRIGGER: "Mara, Scrum ON usando Linear"
 
 ERROR MCP → reportar a Kike con detalle y sugerir reintento.
 ```
+
+## Relacionado
+- [[MARA_SCRUM_v3]] — framework Scrum v3
+- [[Mara]] — agente Mara
+- [[MOC OpenClaw]] — índice

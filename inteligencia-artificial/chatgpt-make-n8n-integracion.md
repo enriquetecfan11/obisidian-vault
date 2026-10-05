@@ -3,20 +3,17 @@ title: chatgpt-make-n8n-integracion
 type: "nota"
 tags:
   - automatizacion
-  - chatgpt
-  - n8n
-  - make
   - gpt-personalizado
   - ia
-  - ml
-  - pending
+  - make
+  - n8n
+  - openai
 project: "N8N Automation"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 ## 📋 Índice
 
 1. [Definir Funcionalidades](https://claude.ai/chat/11c865c3-afc6-4238-8f9b-bbd5735ae48a1-definir-las-funcionalidades-del-asistente)
@@ -48,7 +45,7 @@ Identifica tareas que cumplan estos criterios:
 
 ---
 
-## 2. Configurar la Automatización en Make o [[N8N]]
+## 2. Configurar la Automatización en Make o N8N
 
 ### Requisitos Previos
 
@@ -492,3 +489,8 @@ La URL del webhook es: https://hook.eu2.make.com/u63igzuw7ygjmd9m2sp8cpp34h
 
 **Última actualización:** Febrero 2026  
 **Autor:** Kike - Nundu Desarrollos
+
+## Relacionado
+- [[n8n-api-endpoints]] — referencia API n8n
+- [[gpts-recursos-herramientas]] — GPTs de Make/n8n
+- [[MOC Automatizaciones]] — índice

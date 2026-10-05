@@ -2,22 +2,18 @@
 title: gpts-recursos-herramientas
 type: "nota"
 tags:
+  - automatizacion
   - gpt-personalizado
   - ia
-  - automatizacion
   - prompt-engineering
-  - herramientas
-  - ml
-  - pending
 project: "N8N Automation"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 ### 🔧 **Automatizaciones**
-- [[[N8N]] Assistant (By Nskha)](https://chatgpt.com/g/g-SVatmGSdQ-n8n-assistant-by-nskha)
+- [N8N Assistant (By Nskha)](https://chatgpt.com/g/g-SVatmGSdQ-n8n-assistant-by-nskha)
 - [Asistente de Flujos n8n](https://chatgpt.com/g/g-6840a79abd348191966dd06abd7236c8-asistente-de-flujos-n8n)
 - [MongeN8N](https://chatgpt.com/g/g-6763ff0904a88191bd8e2e79e88f8686-monje-n8n)
 - [El Automatizador](https://chatgpt.com/g/g-68275fca036881918ecceaba5d5ff2cf-el-automatizador)
@@ -45,3 +41,8 @@ updated: 2026-04-06
 - [BIG GPT](https://chatgpt.com/g/g-Ev1yLgneI-big-gpt)
 - [Waha GPT](https://chatgpt.com/g/g-pgnsaOg6W-waha-gpt)
 - [Picasso](https://chatgpt.com/g/g-67be1045f5f481918c5aa39392e6e437-picasso)
+
+## Relacionado
+- [[MOC Custom GPTs]] — GPTs propios del vault
+- [[chatgpt-make-n8n-integracion]] — integración GPT↔n8n/Make
+- [[MOC Automatizaciones]] — índice automatizaciones

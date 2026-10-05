@@ -2,9 +2,9 @@
 title: Puesta en marcha
 type: document
 tags:
+  - devops
+  - documentacion
   - mara-os
-  - operaciones
-  - runbook
 project: MaraOS
 status: active
 date_created: 2026-08-13

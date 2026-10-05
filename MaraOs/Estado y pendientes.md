@@ -2,9 +2,9 @@
 title: Estado y pendientes
 type: document
 tags:
-  - mara-os
+  - desarrollo
   - estado
-  - deuda-tecnica
+  - mara-os
 project: MaraOS
 status: active
 date_created: 2026-08-13

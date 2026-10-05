@@ -2,20 +2,16 @@
 title: crear-podcast-con-ia
 type: "nota"
 tags:
+  - contenido
   - ia
   - podcast
   - prompt-engineering
-  - generacion-contenido
-  - audio
-  - ml
-  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 Primero separamos el PDF o el texto en varios para poder hacerlo mejor y que tarde menos en hacerlo
 
 ```markdown
@@ -113,3 +109,6 @@ LA CONVERSACIÓN TIENE QUE ESTAR EXPORTADA EN FORMATO JSON
 ```
 
 Prompt mejorado para que SUNO use risas, llantos, destacados y demas
+
+## Relacionado
+- [[MOC Custom GPTs]] — catálogo de Custom GPTs

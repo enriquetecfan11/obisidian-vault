@@ -2,17 +2,15 @@
 title: llama-cpp-descargar-modelos-gguf
 type: resource
 tags:
-  - llama-cpp
-  - gguf
   - hugging-face
   - ia-local
+  - llama-cpp
   - personal
 project: none
 status: active
 date_created: 2026-08-23
 date_modified: 2026-08-23
 ---
-
 # llama.cpp — Descargar modelos GGUF
 
 Volver a [[Configuracion local de IA - llama.cpp]].
@@ -34,3 +32,6 @@ C:\llama\models\Qwen3-14B-Uncensored.Q4_K_S.gguf
 El archivo debe estar en formato `GGUF`, que es el formato que carga `llama.cpp`.
 
 Siguiente paso: [[llama.cpp - Ejecutar servidor e interfaz web]].
+
+## Relacionado
+- [[MOC IA Local]] — índice

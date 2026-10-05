@@ -2,15 +2,14 @@
 title: Agentes OpenClaw
 type: document
 tags:
+  - agentes-ia
   - mara-os
   - openclaw
-  - agentes
 project: MaraOS
 status: active
 date_created: 2026-06-30
 date_modified: 2026-06-30
 ---
-
 # Agentes OpenClaw
 
 ## Punto de entrada
@@ -117,3 +116,10 @@ date_modified: 2026-06-30
 - Mercados, finanzas y crypto -> Warren.
 - Peticiones ambiguas o mixtas -> Mara.
 
+
+## Relacionado
+- [[MOC OpenClaw]] — índice
+- [[Mara]] — nota del agente
+- [[Atlas]] — nota del agente
+- [[Arvis]] — nota del agente
+- [[Warren]] — nota del agente

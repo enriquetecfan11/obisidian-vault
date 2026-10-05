@@ -2,14 +2,13 @@
 title: evolution-api
 type: ia
 tags:
-  - evolution-api
-  - whatsapp
-  - docker
+  - automatizacion
   - configuracion
   - devops
-  - automatizacion
+  - docker
+  - evolution-api
   - ia
-  - ml
+  - whatsapp
 status: active
 created: 2026-03-01
 updated: 2026-04-06
@@ -18,10 +17,9 @@ project: none
 date_created: 2026-03-01
 date_modified: 2026-04-06
 ---
-
 # Evolution API — Configuración Completa
 
-[[Evolution API]] es una API de WhatsApp basada en Baileys. Se despliega con [[Docker]] y se configura mediante variables de entorno.
+Evolution API es una API de WhatsApp basada en Baileys. Se despliega con [[Docker]] y se configura mediante variables de entorno.
 
 ---
 
@@ -217,3 +215,9 @@ PROXY_PROTOCOL=http
 PROXY_USERNAME=
 PROXY_PASSWORD=
 ```
+
+## Relacionado
+- [[Chatwoot - Evolution APi]] — integración Chatwoot
+- [[builderbot-whatsapp-n8n]] — otra vía WhatsApp + n8n
+- [[chatwoot-activar-usuarios]] — ops Chatwoot
+- [[MOC Automatizaciones]] — índice

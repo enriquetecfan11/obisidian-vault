@@ -2,17 +2,15 @@
 title: skhd-shortcuts-cheat-sheet
 type: resource
 tags:
-  - skhd
-  - atajos
-  - cheatsheet
+  - documentacion
   - macos
   - personal
+  - skhd
 project: none
 status: active
 date_created: 2026-08-23
 date_modified: 2026-08-23
 ---
-
 # SKHD Shortcuts Cheat Sheet ⚡
 
 Quick reference de atajos a nivel del sistema.
@@ -174,3 +172,7 @@ YABAI (automático)    → Organiza ventanas
 ---
 
 **Tip:** Memoriza primero `Ctrl + 1-5` para espacios. Es lo más útil. Luego aprende navegación.
+
+## Relacionado
+- [[INDEX]] — índice de configuraciones macOS
+- [[SKHD Configuration]] — configuración SKHD

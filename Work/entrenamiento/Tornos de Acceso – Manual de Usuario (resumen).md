@@ -2,8 +2,8 @@
 title: tornos-de-acceso-manual-de-usuario-resumen
 type: nota
 tags:
-  - work
   - origen
+  - work
 project: none
 status: active
 date_created: 2026-08-13
@@ -193,3 +193,8 @@ Pasos:
 - **Si el dispositivo no responde**: hacer reset con C y luego D. [file:1]
 
 Si los mensajes de error se repiten varias veces, se debe indicar al usuario que contacte con el responsable o soporte interno del centro. [file:1]
+
+## Relacionado
+- [[Tornos de Acceso - Acceso Terminal]] — acceso terminal
+- [[Tornos de Acceso - Cómo grabar pulseras NFC en el torno]] — NFC
+- [[Tornos de Acceso - Acceso al terminal de tornos por IP]] — por IP

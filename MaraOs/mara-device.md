@@ -2,8 +2,8 @@
 title: mara-device
 type: document
 tags:
-  - mara-os
   - hardware
+  - mara-os
   - raspberry-pi
 project: MaraOS
 status: pendiente

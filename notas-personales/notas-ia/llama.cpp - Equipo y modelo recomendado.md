@@ -2,17 +2,16 @@
 title: llama-cpp-equipo-modelo-recomendado
 type: resource
 tags:
-  - llama-cpp
-  - modelos-ia
-  - gpu
+  - hardware
   - ia-local
+  - llama-cpp
+  - llm
   - personal
 project: none
 status: active
 date_created: 2026-08-23
 date_modified: 2026-08-23
 ---
-
 # llama.cpp — Equipo y modelo recomendado
 
 Volver a [[Configuracion local de IA - llama.cpp]].
@@ -38,3 +37,6 @@ El modelo de 14B en `Q4_K_S` es el punto de equilibrio recomendado para este equ
 Evitar `Qwen3-27B` en esta configuración: requiere una parte significativa del trabajo en RAM/CPU, por lo que la generación puede caer a alrededor de 1 tok/s.
 
 Como alternativa si se prioriza la velocidad por encima de la calidad, usar un modelo de 8B/9B en `Q4_K_M` o `Q5_K_M`.
+
+## Relacionado
+- [[MOC IA Local]] — índice

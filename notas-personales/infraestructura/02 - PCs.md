@@ -1,16 +1,14 @@
 ---
 Type: reference
-Tags:
-  - infraestructura-personal
-  - pc
+tags:
   - desarrollo
-  - inteligencia-artificial
-  - servidor
+  - hardware
+  - ia
+  - infraestructura
 Project: ""
 Date Created: 2026-08-24
 Date Modified: 2026-08-24
 ---
-
 # PCs
 
 > Estado común: los tres PCs se configurarán **desde cero**. Las instalaciones actuales no forman parte del diseño objetivo.
@@ -35,3 +33,7 @@ Date Modified: 2026-08-24
 - **Rol:** servidor doméstico para servicios persistentes, Docker y un agente personal.
 - **Servicios candidatos:** OpenClaw o Hermes Agent.
 
+
+## Relacionado
+- [[01 - Dispositivos Apple]] — Apple
+- [[05 - Topología de red]] — red

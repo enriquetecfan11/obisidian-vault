@@ -2,17 +2,16 @@
 title: yabai-y-ghostty-setup
 type: resource
 tags:
-  - yabai
+  - configuracion
   - ghostty
   - macos
-  - configuracion
   - personal
+  - yabai
 project: none
 status: active
 date_created: 2026-08-23
 date_modified: 2026-08-23
 ---
-
 # Yabai & Ghostty Setup 🎯
 
 Mi configuración de window manager + terminal para macOS optimizada para desarrollo.
@@ -314,3 +313,8 @@ yabai -m config window_gap 20  # Aumentar espacios
 
 **Última actualización:** 2026-08-17
 **Status:** ✅ Funcionando correctamente
+
+## Relacionado
+- [[INDEX]] — índice de configuraciones macOS
+- [[Ghostty Shortcuts Reference]] — atajos de Ghostty
+- [[SKHD Configuration]] — SKHD: atajos para controlar Yabai

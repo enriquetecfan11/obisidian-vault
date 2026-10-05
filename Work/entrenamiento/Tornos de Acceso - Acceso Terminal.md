@@ -2,8 +2,8 @@
 title: tornos-de-acceso-acceso-terminal
 type: nota
 tags:
-  - work
   - origen
+  - work
 project: none
 status: active
 date_created: 2026-08-13
@@ -98,3 +98,8 @@ Si el terminal no responde, no cambia de pantalla o se queda colgado, puede hace
 3. Aparecerá una **pantalla de reset** y el dispositivo se reiniciará. [file:1]  
 
 Una vez que vuelva a la pantalla de inicio, se puede reintentar el acceso con QR o pulsera. [file:1]
+
+## Relacionado
+- [[Tornos de Acceso - Acceso al terminal de tornos por IP]] — acceso por IP
+- [[Tornos de Acceso – Manual de Usuario (resumen)]] — manual usuario
+- [[Tornos de Acceso - Cómo grabar pulseras NFC en el torno]] — NFC

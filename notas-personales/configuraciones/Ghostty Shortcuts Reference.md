@@ -2,17 +2,15 @@
 title: ghostty-shortcuts-reference
 type: resource
 tags:
-  - ghostty
-  - atajos
-  - terminal
   - configuracion
+  - ghostty
+  - macos
   - personal
 project: none
 status: active
 date_created: 2026-08-23
 date_modified: 2026-08-23
 ---
-
 # Ghostty Shortcuts Reference 🔥
 
 Cheat sheet de los atajos principales para Ghostty.
@@ -127,3 +125,7 @@ Cheat sheet de los atajos principales para Ghostty.
 ---
 
 **Tip:** Memoriza `Alt + H/J/K/L` y `Alt + V/D` primero - todo lo demás fluye de ahí.
+
+## Relacionado
+- [[INDEX]] — índice de configuraciones macOS
+- [[Yabai y Ghostty Setup]] — setup de Ghostty con Yabai

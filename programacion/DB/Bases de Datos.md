@@ -2,21 +2,16 @@
 title: bases-de-datos
 type: "resource"
 tags:
-  - postgresql
   - bases-de-datos
-  - sql
+  - desarrollo
   - devops
-  - comandos
-  - code
-  - dev
-  - pending
+  - postgresql
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 # PostgreSQL
 
 PostgreSQL, comúnmente conocido como Postgres, es un sistema de administración de bases de datos relacionales de código abierto y gratuito.
@@ -46,3 +41,8 @@ Postgres + Nodejs → [https://ed.team/blog/como-usar-bases-de-datos-postgres-co
 - Para ver lo que hay dentro de una base de datos → \d+ nombre tabla
 - Para ver lo que hay dentro de dicha tabla → TABLE nombre de tabla
 - Eliminar tabla → DROP TABLE table name;
+
+## Relacionado
+- [[Tablas PostgreSQL N8N]] — ejemplo Postgres/n8n
+- [[QDrant]] — vector DB
+- [[MOC DevOps]] — índice

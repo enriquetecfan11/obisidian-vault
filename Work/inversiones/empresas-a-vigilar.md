@@ -4,18 +4,12 @@ type: task
 tags:
   - finanzas
   - inversiones
-  - renta-variable
-  - bolsa
-  - empresas
-  - task
-  - pending
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 #### Tecnología e Internet
 - **Alphabet Inc-Cl A** (GOOGL)
 - **Meta Platforms Inc A** (META)
@@ -107,3 +101,8 @@ updated: 2026-04-06
 - **Keysight Technologies In**
 #### Servicios de Bienes Raíces y Propiedad
 - **Rightmove PLC**
+
+## Relacionado
+- [[Definiciones]] — glosario
+- [[Empresas]] — lista Warren
+- [[Warren]] — agente

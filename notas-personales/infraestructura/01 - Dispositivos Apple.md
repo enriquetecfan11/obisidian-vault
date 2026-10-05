@@ -1,14 +1,12 @@
 ---
 Type: reference
-Tags:
-  - infraestructura-personal
-  - apple
-  - mac
+tags:
+  - infraestructura
+  - macos
 Project: ""
 Date Created: 2026-08-24
 Date Modified: 2026-08-24
 ---
-
 # Dispositivos Apple
 
 ## Mac mini M4
@@ -23,3 +21,8 @@ Date Modified: 2026-08-24
 - **Rol:** equipo diario y portátil.
 - **Uso:** acceso remoto al resto de equipos; desarrollo puntual cuando no hay conexión o no es posible trabajar en remoto.
 
+
+## Relacionado
+- [[02 - PCs]] — PCs
+- [[05 - Topología de red]] — red
+- [[INDEX]] — configs macOS

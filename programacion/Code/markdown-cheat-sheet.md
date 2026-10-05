@@ -2,20 +2,15 @@
 title: markdown-cheat-sheet
 type: code
 tags:
-  - markdown
-  - cheatsheet
-  - sintaxis
-  - code
+  - desarrollo
   - documentacion
-  - dev
-  - pending
+  - markdown
 project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-
 # Markdown Cheat Sheet
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
@@ -134,3 +129,6 @@ H~2~O
 ### Superscript
 
 X^2^
+
+## Relacionado
+- [[markdown-template]] — plantilla markdown

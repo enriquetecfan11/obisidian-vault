@@ -1,10 +1,9 @@
 ---
 type: nota
 tags:
-  - geek
-  - automation
-  - wazuh
+  - automatizacion
   - devops
+  - wazuh
 status: active
 updated: 2026-05-13
 title: wazuh-server-api-operacion
@@ -12,7 +11,6 @@ project: none
 date_created: 2026-05-13
 date_modified: 2026-05-13
 ---
-
 
 Esta nota resume los endpoints de la **Wazuh Server API** (puerto 55000) que son útiles para operación: estado de agentes, manager y cluster, más algunos patrones de automatización. [web:53][web:66]
 
@@ -174,3 +172,7 @@ echo "WAZUH_MANAGER_STATUS{status=\"$STATUS\"} 1"
 ```
 
 Puedes usar esta salida como métrica simple para Prometheus, Zabbix o cualquier sistema de monitorización externo. [web:66][web:107]
+
+## Relacionado
+- [[Index Wazuh]] — índice
+- [[Wazuh - Server API]] — complemento Server API
