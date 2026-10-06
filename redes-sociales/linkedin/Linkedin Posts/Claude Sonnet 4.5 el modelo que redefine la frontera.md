@@ -1,7 +1,7 @@
 ---
-title: claude-sonnet-4-5-el-modelo-que-redefine-la-frontera
+title: "Claude Sonnet 4.5 el modelo que redefine la frontera"
 type: social
-tags:
+topics:
   - claude
   - ia
   - linkedin

@@ -1,5 +1,5 @@
 ---
-title: prompt-rrss
+title: "Prompt de RRSS"
 type: "nota"
 tags:
   - contenido

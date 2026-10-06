@@ -1,5 +1,5 @@
 ---
-title: agents-architecture
+title: "OpenClaw — arquitectura de agentes"
 type: nota
 tags:
   - documentacion

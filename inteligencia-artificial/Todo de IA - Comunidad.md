@@ -2,7 +2,7 @@
 source: https://www.tododeia.com/community
 consulted: 2026-10-05
 type: web-resource
-title: Todo de IA - Comunidad
+title: "Todo de IA — comunidad"
 tags:
   - agentes-ia
   - automatizacion
@@ -15,6 +15,9 @@ tags:
 status: active
 created: 2026-10-05
 updated: 2026-10-05
+project: ninguno
+date_created: 2026-10-05
+date_modified: 2026-10-05
 ---
 # Todo de IA — Comunidad (índice para segundo cerebro)
 

@@ -1,13 +1,15 @@
 ---
-Type: reference
+title: "Topología de red"
+type: nota
 tags:
   - acceso-remoto
   - infraestructura
   - red
   - tailscale
-Project: ""
-Date Created: 2026-08-24
-Date Modified: 2026-08-24
+status: active
+project: personal
+date_created: 2026-08-24
+date_modified: 2026-08-24
 ---
 # Topología de red
 

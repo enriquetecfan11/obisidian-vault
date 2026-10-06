@@ -11,6 +11,7 @@ tags:
 project: none
 date_created: 2026-10-05
 date_modified: 2026-10-05
+status: active
 ---
 # MOC IA Local
 

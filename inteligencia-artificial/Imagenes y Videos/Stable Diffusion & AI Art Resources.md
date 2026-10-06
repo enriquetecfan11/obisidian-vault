@@ -1,5 +1,5 @@
 ---
-title: stable-diffusion-ai-art-resources
+title: "Stable Diffusion y recursos de AI Art"
 type: "resource"
 tags:
   - generacion-imagenes

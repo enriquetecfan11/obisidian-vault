@@ -1,5 +1,5 @@
 ---
-title: chatgpt-make-n8n-integracion
+title: "Integración de ChatGPT, Make y n8n"
 type: "nota"
 tags:
   - automatizacion

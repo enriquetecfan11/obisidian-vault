@@ -1,7 +1,7 @@
 ---
-title: singularidad-suave
+title: "Singularidad suave"
 type: social
-tags:
+topics:
   - ia
   - linkedin
   - openai

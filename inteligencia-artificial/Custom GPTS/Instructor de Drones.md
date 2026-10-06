@@ -1,5 +1,5 @@
 ---
-title: instructor-de-drones
+title: "Instructor de Drones"
 type: "resource"
 tags:
   - aviacion

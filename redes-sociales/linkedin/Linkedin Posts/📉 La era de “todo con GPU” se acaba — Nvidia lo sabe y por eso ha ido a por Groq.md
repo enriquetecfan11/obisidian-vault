@@ -1,7 +1,7 @@
 ---
-title: la-era-de-todo-con-gpu-se-acaba-nvidia-lo-sabe-y-por-eso-ha-
+title: "📉 La era de “todo con GPU” se acaba — Nvidia lo sabe y por eso ha ido a por Groq"
 type: social
-tags:
+topics:
   - google
   - ia
   - infraestructura

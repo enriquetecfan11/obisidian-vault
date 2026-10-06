@@ -1,7 +1,7 @@
 ---
-title: notebooklm-para-android-e-ios
+title: "NotebookLM para Android e iOS"
 type: social
-tags:
+topics:
   - google
   - ia
   - linkedin

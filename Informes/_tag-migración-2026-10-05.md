@@ -6,7 +6,8 @@ type: nota
 status: active
 date_created: 2026-10-05
 date_modified: 2026-10-05
-title: Tag migración 2026-10-05
+title: "Migración de tags del vault — 2026-10-05"
+project: ninguno
 ---
 
 # Migración de tags Obsidian — 2026-10-05

@@ -1,8 +1,8 @@
 ---
-title: thumbnail-builder
+title: "Thumbnail Builder para LinkedIn"
 type: "nota"
 tags:
-  - diseño
+  - diseno
   - generacion-imagenes
   - ia
   - linkedin

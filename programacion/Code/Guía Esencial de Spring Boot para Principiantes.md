@@ -1,5 +1,5 @@
 ---
-title: gu-a-esencial-de-spring-boot-para-principiantes
+title: "Guía Esencial de Spring Boot para Principiantes"
 type: "project"
 tags:
   - api-rest

@@ -1,5 +1,5 @@
 ---
-title: biavent-brand-core
+title: "Asistente gestor dinámico"
 type: nota
 tags:
   - ia

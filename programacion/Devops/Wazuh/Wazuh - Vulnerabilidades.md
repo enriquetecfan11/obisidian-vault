@@ -5,7 +5,7 @@ tags:
   - wazuh
 status: active
 updated: 2026-05-13
-title: wazuh-vulnerabilidades
+title: "Wazuh - Vulnerabilidades"
 type: nota
 project: none
 date_created: 2026-05-13

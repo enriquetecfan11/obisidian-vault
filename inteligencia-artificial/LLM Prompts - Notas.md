@@ -9,7 +9,7 @@ created: 2026-04-09
 updated: 2026-04-09
 source:
 promotes_to:
-title: llm-prompts-notas
+title: "LLM Prompts — notas"
 project: none
 date_created: 2026-04-09
 date_modified: 2026-04-09

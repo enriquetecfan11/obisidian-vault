@@ -1,7 +1,7 @@
 ---
-title: cursor-elegir-modelo-ia
+title: "Elegir modelo de IA en Cursor"
 type: social
-tags:
+topics:
   - claude
   - desarrollo
   - ia

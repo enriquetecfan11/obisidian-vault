@@ -1,7 +1,7 @@
 ---
-title: gpt-oss-modelos-open-source-de-openai
+title: "GPT-OSS modelos open source de OpenAI"
 type: social
-tags:
+topics:
   - ia
   - linkedin
   - openai

@@ -1,5 +1,5 @@
 ---
-title: llama-cpp-solucion-de-problemas
+title: "llama.cpp — solución de problemas"
 type: resource
 tags:
   - hardware

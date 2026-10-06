@@ -1,5 +1,5 @@
 ---
-title: ollama-docker
+title: "Ollama — configuración con Docker"
 type: "resource"
 tags:
   - configuracion

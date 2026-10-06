@@ -1,7 +1,7 @@
 ---
-title: probando-ai-agent-tool-de-n8n
+title: "Probando AI Agent Tool de N8N"
 type: social
-tags:
+topics:
   - agentes-ia
   - automatizacion
   - ia

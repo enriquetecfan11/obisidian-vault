@@ -1,7 +1,7 @@
 ---
-title: hackathon-goodbarber-segundo-lugar-con-synapse
+title: "Hackathon GoodBarber segundo lugar con Synapse"
 type: social
-tags:
+topics:
   - hackathon
   - ia
   - linkedin

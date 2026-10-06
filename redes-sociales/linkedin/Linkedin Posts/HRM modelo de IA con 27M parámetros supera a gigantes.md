@@ -1,7 +1,7 @@
 ---
-title: hrm-modelo-de-ia-con-27m-par-metros-supera-a-gigantes
+title: "HRM modelo de IA con 27M parámetros supera a gigantes"
 type: social
-tags:
+topics:
   - claude
   - ia
   - linkedin

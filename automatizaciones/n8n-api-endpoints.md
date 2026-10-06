@@ -1,5 +1,5 @@
 ---
-title: n8n-api-endpoints
+title: "Endpoints de la API de n8n"
 type: "resource"
 tags:
   - api-rest

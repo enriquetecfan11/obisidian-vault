@@ -1,14 +1,16 @@
 ---
-Type: reference
+title: "Red, acceso remoto y pendientes"
+type: nota
 tags:
   - infraestructura
   - parsec
   - red
   - rustdesk
   - tailscale
-Project: ""
-Date Created: 2026-08-24
-Date Modified: 2026-08-24
+status: active
+project: personal
+date_created: 2026-08-24
+date_modified: 2026-08-24
 ---
 # Red, acceso remoto y pendientes
 

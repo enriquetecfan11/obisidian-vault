@@ -1,5 +1,5 @@
 ---
-title: raspberry-pi-gateway-tailscale-wireguard-pihole
+title: "Guía Completa - Raspberry Pi Gateway con Tailscale, WireGuard y Pi-hole"
 type: resource
 tags:
   - devops

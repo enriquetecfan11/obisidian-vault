@@ -1,7 +1,7 @@
 ---
-title: gemma-3n-ia-potente-sin-depender-de-la-nube
+title: "Gemma 3n IA potente sin depender de la nube"
 type: social
-tags:
+topics:
   - google
   - ia
   - linkedin

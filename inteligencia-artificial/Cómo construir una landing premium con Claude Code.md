@@ -12,7 +12,7 @@ created: 2026-07-07
 updated: 2026-07-07
 source: https://rackslabs.notion.site/C-mo-construir-una-landing-premium-con-Claude-Code-352faea97468803389f1ccdb53ebb6eb
 promotes_to:
-title: como-construir-una-landing-premium-con-claude-code
+title: "Cómo construir una landing premium con Claude Code"
 project: none
 date_created: 2026-07-07
 date_modified: 2026-07-07

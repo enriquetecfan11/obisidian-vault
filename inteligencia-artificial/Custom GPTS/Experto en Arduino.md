@@ -1,5 +1,5 @@
 ---
-title: experto-en-arduino
+title: "Experto en Arduino"
 type: "project"
 tags:
   - arduino

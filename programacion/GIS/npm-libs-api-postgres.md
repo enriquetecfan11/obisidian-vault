@@ -1,5 +1,5 @@
 ---
-title: npm-libs-api-postgres
+title: "Librerías NPM para una API con PostgreSQL"
 type: "resource"
 tags:
   - api-rest

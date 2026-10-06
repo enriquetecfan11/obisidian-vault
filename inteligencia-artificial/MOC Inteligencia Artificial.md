@@ -1,5 +1,5 @@
 ---
-title: MOC Inteligencia Artificial
+title: "MOC Inteligencia Artificial"
 type: moc
 tags:
   - documentacion
@@ -8,6 +8,7 @@ tags:
 project: none
 date_created: 2026-10-05
 date_modified: 2026-10-05
+status: active
 ---
 # MOC Inteligencia Artificial
 
@@ -21,6 +22,7 @@ date_modified: 2026-10-05
 - [[Documentación MCP Linear — ClawdBot]] — MCP Linear en contexto ClawdBot/OpenClaw
 - [[MARA_SCRUM_v3]] — framework Scrum para Mara
 - [[MARA_SCRUM_PROMPT]] — prompt Scrum asociado
+- [[OpenCode - Orquestador de agentes]] — orquestador OpenCode: frontera decide, local/barato ejecutan
 
 ## Custom GPTs y prompts
 
@@ -52,4 +54,4 @@ date_modified: 2026-10-05
 
 ## Ver también
 
-- [[_tag-migración-2026-10-05]] — migración de tags del vault
+- [[Informes/_tag-migración-2026-10-05]] — migración de tags del vault

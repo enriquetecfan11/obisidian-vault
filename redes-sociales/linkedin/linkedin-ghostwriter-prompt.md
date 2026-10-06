@@ -1,5 +1,5 @@
 ---
-title: linkedin-ghostwriter-prompt
+title: "LinkedIn Ghostwriter — prompt base"
 type: social
 tags:
   - contenido

@@ -1,7 +1,7 @@
 ---
-title: qwen3-coder-el-nuevo-rey-de-la-programaci-n
+title: "Qwen3-Coder el nuevo rey de la programación"
 type: social
-tags:
+topics:
   - desarrollo
   - ia
   - linkedin

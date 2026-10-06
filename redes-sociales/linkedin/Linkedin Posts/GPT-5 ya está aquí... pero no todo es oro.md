@@ -1,7 +1,7 @@
 ---
-title: gpt-5-ya-est-aqu-pero-no-todo-es-oro
+title: "GPT-5 ya está aquí... pero no todo es oro"
 type: social
-tags:
+topics:
   - ia
   - linkedin
   - openai

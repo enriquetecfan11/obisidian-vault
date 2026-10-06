@@ -6,7 +6,7 @@ tags:
   - wazuh
 status: active
 created: 2026-05-13
-title: wazuh-queries-utiles-cheat-sheet
+title: "Wazuh — queries útiles (cheat sheet)"
 project: none
 date_created: 2026-05-13
 date_modified: 2026-08-23

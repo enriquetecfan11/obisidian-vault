@@ -1,5 +1,5 @@
 ---
-title: tablas-postgresql-n8n
+title: "Tablas PostgreSQL de N8N"
 type: "nota"
 tags:
   - automatizacion

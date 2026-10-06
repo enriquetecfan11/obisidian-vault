@@ -1,5 +1,5 @@
 ---
-title: llama-cpp-equipo-modelo-recomendado
+title: "llama.cpp — equipo y modelo recomendado"
 type: resource
 tags:
   - hardware

@@ -1,5 +1,5 @@
 ---
-title: ghostty-shortcuts-reference
+title: "Ghostty — referencia de atajos"
 type: resource
 tags:
   - configuracion

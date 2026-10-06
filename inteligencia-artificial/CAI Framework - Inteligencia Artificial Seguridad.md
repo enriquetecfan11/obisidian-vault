@@ -1,5 +1,5 @@
 ---
-title: cai-framework-inteligencia-artificial-seguridad
+title: "CAI Framework — inteligencia artificial para seguridad"
 type: "resource"
 tags:
   - ciberseguridad

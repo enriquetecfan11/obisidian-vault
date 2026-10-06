@@ -1,106 +1,88 @@
 ---
-title: markdown-template
-type: "resource"
+title: "Referencia rápida de Markdown"
+type: nota
 tags:
   - desarrollo
   - documentacion
   - markdown
   - plantilla
-project: "none"
-status: "pendiente"
-date_created: "2026-03-01"
-date_modified: "2026-03-01"
-updated: 2026-04-06
+status: pendiente
+project: ninguno
+date_created: 2026-03-01
+date_modified: 2026-10-05
 ---
+# Referencia rápida de Markdown
 
+Cheatsheet de sintaxis Markdown. Referencia original: https://www.markdownguide.org/cheat-sheet/
 
-## Introducción
-Markdown es un lenguaje de marcado ligero para formatear texto. Es ampliamente utilizado en documentos, sitios web, y herramientas de desarrollo como Obsidian.
+## 1. Estilos de texto
 
-Referencia rápida basada en Markdown Cheat Sheet: https://www.markdownguide.org/cheat-sheet/
-
-
-
-## 2. Estilos de texto
 - Negrita: **Texto** o __Texto__
 - Cursiva: *Texto* o _Texto_
 - Tachado: ~~Texto~~
+- Resaltado: ==Texto==
 
-Ejemplo:
+## 2. Encabezados
 
-**Negrita**
-*Cursiva*
-~~Tachado~~
+```
+# H1
+## H2
+### H3
+```
 
+## 3. Listas
 
+- Primer nivel
+- Primer nivel
+  - Segundo nivel
+    - Tercer nivel
 
-## 4. Enlaces y imágenes
+1. Uno
+2. Dos
 
-### Enlace:
-Texto del enlace: https://www.example.com
+## 4. Enlaces e imágenes
 
-### Imagen:
-Texto alternativo: https://www.example.com/imagen.png
+- Enlace: [texto](https://www.example.com)
+- Enlace con alias: [Obsidian](https://obsidian.md "Ir a Obsidian")
+- Imagen: ![texto alternativo](https://www.example.com/imagen.png)
 
+## 5. Citas
 
+> Cita en bloque.
+> Puede tener varias líneas.
 
 ## 6. Tablas
 
 | Columna 1 | Columna 2 | Columna 3 |
-|---
-tags:
-  - Programación
-  - programacion
-
-model: local@gemma3:4b------
-tags:
-  - Programación
-  - programacion
-
-model: local@gemma3:4b------
-tags:
-  - Programación
-  - programacion
-
-model: local@gemma3:4b-----|---
-tags:
-  - Programación
-  - programacion
-
-model: local@gemma3:4b------
-tags:
-  - Programación
-  - programacion
-
-model: local@gemma3:4b---
+| --- | --- | --- |
+| Dato A | Dato B | Dato C |
+| Dato D | Dato E | Dato F |
 
 ## 7. Código
 
-### Código en línea:
-Este es un código en línea.
+- En línea: `` `código` ``
+- Bloque delimitado por tres backticks
 
-### Bloque de código:
-# Código de ejemplo en Python
+```python
+# Comentario
 print("Hola, Markdown!")
+```
 
+## 8. Separadores
 
-tags:
-  - Programación
-  - programacion
+Tres guiones en su propia línea: `---`
 
-model: local@gemma3:4b---
+## 9. Notas al pie y resaltados
 
-## 10. Extra
-- Texto en HTML: Usa etiquetas HTML directamente si es necesario:
-  Texto en negrita
-- Escapar caracteres especiales: Usa \ antes de caracteres como * o _.
+- Resaltado: `==importante==`
+- Tachado: `~~eliminado~~`
 
----
+## 10. Escapar caracteres
 
-## Recursos Adicionales
-- Markdown Guide: https://www.markdownguide.org/
-- Obsidian: https://obsidian.md/
+Usa `\` antes de caracteres con significado: `\*no es cursiva\*`
 
 ## Relacionado
-- [[markdown-cheat-sheet]] — cheatsheet
+
+- [[markdown-cheat-sheet]] — cheatsheet equivalente más extensa
 - [[nota-base]] — plantilla de nota del vault
+- [[MOC Programacion]] — índice

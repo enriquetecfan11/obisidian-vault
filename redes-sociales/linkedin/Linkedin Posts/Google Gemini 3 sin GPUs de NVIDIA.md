@@ -1,7 +1,7 @@
 ---
-title: google-gemini-3-sin-gpus-de-nvidia
+title: "Google Gemini 3 sin GPUs de NVIDIA"
 type: social
-tags:
+topics:
   - google
   - ia
   - infraestructura

@@ -1,5 +1,5 @@
 ---
-title: extracto-inteligente-de-datos-pdf-para-productos
+title: "Extracto Inteligente de Datos PDF para Productos"
 type: "nota"
 tags:
   - analisis-datos

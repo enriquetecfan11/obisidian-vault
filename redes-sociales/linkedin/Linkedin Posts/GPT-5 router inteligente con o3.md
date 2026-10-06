@@ -1,7 +1,7 @@
 ---
-title: gpt-5-router-inteligente-con-o3
+title: "GPT-5 router inteligente con o3"
 type: social
-tags:
+topics:
   - ia
   - linkedin
   - openai

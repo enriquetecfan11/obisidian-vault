@@ -1,7 +1,7 @@
 ---
-title: apple-integra-mcp-en-ios-26-1
+title: "Apple integra MCP en iOS 26.1"
 type: social
-tags:
+topics:
   - ia
   - linkedin
 linkedin_hashtags:

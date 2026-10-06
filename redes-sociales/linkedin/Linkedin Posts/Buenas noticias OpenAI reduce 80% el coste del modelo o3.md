@@ -1,7 +1,7 @@
 ---
-title: buenas-noticias-openai-reduce-80-el-coste-del-modelo-o3
+title: "Buenas noticias OpenAI reduce 80% el coste del modelo o3"
 type: social
-tags:
+topics:
   - agentes-ia
   - ia
   - linkedin

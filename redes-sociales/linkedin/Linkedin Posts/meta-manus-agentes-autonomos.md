@@ -1,7 +1,7 @@
 ---
-title: meta-manus-agentes-autonomos
+title: "Meta compra Manus — agentes autónomos"
 type: social
-tags:
+topics:
   - agentes-ia
   - ia
   - linkedin

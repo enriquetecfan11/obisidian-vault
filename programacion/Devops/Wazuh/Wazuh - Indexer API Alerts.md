@@ -7,7 +7,7 @@ tags:
 status: active
 created: 2026-05-13
 updated: 2026-05-13
-title: wazuh-indexer-api-alerts
+title: "Wazuh - Indexer API Alerts"
 project: none
 date_created: 2026-05-13
 date_modified: 2026-05-13

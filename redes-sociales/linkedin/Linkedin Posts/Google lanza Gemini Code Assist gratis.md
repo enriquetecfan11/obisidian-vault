@@ -1,7 +1,7 @@
 ---
-title: google-lanza-gemini-code-assist-gratis
+title: "Google lanza Gemini Code Assist gratis"
 type: social
-tags:
+topics:
   - desarrollo
   - google
   - ia

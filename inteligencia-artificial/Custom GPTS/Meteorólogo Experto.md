@@ -1,5 +1,5 @@
 ---
-title: meteor-logo-experto
+title: "Meteorólogo Experto"
 type: "nota"
 tags:
   - analisis-datos

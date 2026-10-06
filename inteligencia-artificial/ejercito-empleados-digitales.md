@@ -1,5 +1,5 @@
 ---
-title: ejercito-empleados-digitales
+title: "Ejército de empleados digitales"
 type: ia
 tags:
   - agentes-ia

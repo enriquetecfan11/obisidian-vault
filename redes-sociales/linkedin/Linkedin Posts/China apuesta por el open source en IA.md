@@ -1,7 +1,7 @@
 ---
-title: china-apuesta-por-el-open-source-en-ia
+title: "China apuesta por el open source en IA"
 type: social
-tags:
+topics:
   - ia
   - linkedin
 linkedin_hashtags:

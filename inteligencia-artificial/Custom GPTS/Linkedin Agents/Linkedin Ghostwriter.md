@@ -1,5 +1,5 @@
 ---
-title: linkedin-ghostwriter
+title: "Linkedin Ghostwriter"
 type: "nota"
 tags:
   - contenido

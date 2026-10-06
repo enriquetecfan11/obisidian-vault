@@ -1,7 +1,7 @@
 ---
-title: perplexity-labs-el-asistente-de-proyectos
+title: "Perplexity Labs el asistente de proyectos"
 type: social
-tags:
+topics:
   - ia
   - linkedin
   - productividad

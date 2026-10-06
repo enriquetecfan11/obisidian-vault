@@ -1,6 +1,6 @@
 ---
 sticker: emoji//1f4c8
-title: system-prompt
+title: "System Prompt — Warren"
 type: nota
 tags:
   - agentes-ia

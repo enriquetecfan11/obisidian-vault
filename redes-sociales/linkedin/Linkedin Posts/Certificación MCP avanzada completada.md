@@ -1,7 +1,7 @@
 ---
-title: certificaci-n-mcp-avanzada-completada
+title: "Certificación MCP avanzada completada"
 type: social
-tags:
+topics:
   - claude
   - ia
   - linkedin

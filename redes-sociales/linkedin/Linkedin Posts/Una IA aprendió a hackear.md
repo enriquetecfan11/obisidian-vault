@@ -1,7 +1,7 @@
 ---
-title: una-ia-aprendi-a-hackear
+title: "Una IA aprendió a hackear"
 type: social
-tags:
+topics:
   - ia
   - linkedin
 linkedin_hashtags:

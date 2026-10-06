@@ -1,5 +1,5 @@
 ---
-title: planificaci-n-de-rrss
+title: "Planificación de RRSS"
 type: "project"
 tags:
   - contenido

@@ -1,7 +1,7 @@
 ---
-title: ia-problema-chip-infraestructura
+title: "IA — el problema del chip y la infraestructura"
 type: social
-tags:
+topics:
   - ia
   - infraestructura
   - linkedin

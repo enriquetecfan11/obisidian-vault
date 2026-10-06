@@ -1,7 +1,7 @@
 ---
-title: y-si-la-pr-xima-revoluci-n-cripto-la-lideran-las-ias
+title: "📈 ¿Y si la próxima revolución cripto la lideran las IAs"
 type: social
-tags:
+topics:
   - google
   - ia
   - inversiones

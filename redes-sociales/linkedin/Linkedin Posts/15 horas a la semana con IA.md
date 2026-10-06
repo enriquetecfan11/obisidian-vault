@@ -1,7 +1,7 @@
 ---
-title: 15-horas-a-la-semana-con-ia
+title: "15 horas a la semana con IA"
 type: social
-tags:
+topics:
   - desarrollo
   - ia
   - linkedin

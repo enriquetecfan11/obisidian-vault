@@ -1,5 +1,5 @@
 ---
-title: mara-device
+title: "mara-device — la capa de hardware"
 type: document
 tags:
   - hardware

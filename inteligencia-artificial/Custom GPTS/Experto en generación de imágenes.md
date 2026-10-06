@@ -1,5 +1,5 @@
 ---
-title: experto-en-generaci-n-de-im-genes
+title: "Experto en generación de imágenes"
 type: "nota"
 tags:
   - generacion-imagenes

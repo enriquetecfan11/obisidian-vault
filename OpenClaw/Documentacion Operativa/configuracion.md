@@ -1,5 +1,5 @@
 ---
-title: Configuracion OpenClaw
+title: "Configuración de OpenClaw"
 type: document
 tags:
   - configuracion

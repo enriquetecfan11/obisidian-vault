@@ -1,5 +1,5 @@
 ---
-title: biavent-brand-core
+title: "Ghostwriter de LinkedIn"
 type: nota
 tags:
   - ia

@@ -1,5 +1,5 @@
 ---
-title: configuraciones-indice
+title: "Configuraciones — índice"
 type: index
 tags:
   - configuracion

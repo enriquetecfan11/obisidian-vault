@@ -1,7 +1,7 @@
 ---
-title: gpt-5-el-router-inteligente
+title: "GPT-5 el router inteligente"
 type: social
-tags:
+topics:
   - ia
   - linkedin
   - openai

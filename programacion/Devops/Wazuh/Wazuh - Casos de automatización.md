@@ -8,7 +8,7 @@ status: active
 pipeline: raw
 updated: 2026-05-13
 source:
-title: wazuh-casos-de-automatizacion
+title: "Wazuh - Casos de automatización"
 project: none
 date_created: 2026-05-13
 date_modified: 2026-05-13

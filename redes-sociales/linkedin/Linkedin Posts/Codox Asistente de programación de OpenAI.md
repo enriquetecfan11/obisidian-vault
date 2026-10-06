@@ -1,7 +1,7 @@
 ---
-title: codox-asistente-de-programaci-n-de-openai
+title: "Codox Asistente de programación de OpenAI"
 type: social
-tags:
+topics:
   - desarrollo
   - ia
   - linkedin

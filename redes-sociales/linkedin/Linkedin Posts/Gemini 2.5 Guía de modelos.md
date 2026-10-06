@@ -1,7 +1,7 @@
 ---
-title: gemini-2-5-gu-a-de-modelos
+title: "Gemini 2.5 Guía de modelos"
 type: social
-tags:
+topics:
   - google
   - ia
   - linkedin

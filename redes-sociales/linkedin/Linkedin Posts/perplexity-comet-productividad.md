@@ -1,7 +1,7 @@
 ---
-title: perplexity-comet-productividad
+title: "Perplexity Comet — productividad"
 type: social
-tags:
+topics:
   - ia
   - linkedin
   - productividad

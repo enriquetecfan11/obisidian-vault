@@ -1,5 +1,5 @@
 ---
-title: tornos-de-acceso-acceso-al-terminal-de-tornos-por-ip
+title: "Tornos de Acceso - Acceso al terminal de tornos por IP"
 type: nota
 tags:
   - origen

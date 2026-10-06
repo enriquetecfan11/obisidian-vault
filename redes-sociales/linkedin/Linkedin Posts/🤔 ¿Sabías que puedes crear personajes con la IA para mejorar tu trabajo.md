@@ -1,7 +1,7 @@
 ---
-title: sab-as-que-puedes-crear-personajes-con-la-ia-para-mejorar-tu
+title: "🤔 ¿Sabías que puedes crear personajes con la IA para mejorar tu trabajo"
 type: social
-tags:
+topics:
   - automatizacion
   - ia
   - linkedin

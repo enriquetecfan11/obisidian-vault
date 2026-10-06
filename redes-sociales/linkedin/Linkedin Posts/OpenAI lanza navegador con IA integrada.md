@@ -1,7 +1,7 @@
 ---
-title: openai-lanza-navegador-con-ia-integrada
+title: "OpenAI lanza navegador con IA integrada"
 type: social
-tags:
+topics:
   - agentes-ia
   - ia
   - linkedin

@@ -1,5 +1,5 @@
 ---
-title: Memoria operativa
+title: "Memoria operativa"
 type: document
 tags:
   - mara-os

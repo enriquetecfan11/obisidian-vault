@@ -1,5 +1,5 @@
 ---
-title: influencer-ia-n8n
+title: "Influencer con IA y n8n"
 type: "nota"
 tags:
   - automatizacion
@@ -13,7 +13,9 @@ date_created: "2026-03-01"
 date_modified: "2026-03-01"
 updated: 2026-04-06
 ---
-![[Pasted image 20250117085739.png]]
+> [!warning] Imagen perdida
+> El archivo `Pasted image 20250117085739.png` no está en el vault. El esquema de
+> publicación queda descrito en el texto de abajo.
 
 ### **1. Publicación Programada**
 

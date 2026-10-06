@@ -1,5 +1,5 @@
 ---
-title: biavent-brand-core
+title: "Thumbnail Builder"
 type: nota
 tags:
   - ia

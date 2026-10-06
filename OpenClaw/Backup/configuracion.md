@@ -1,5 +1,5 @@
 ---
-title: configuracion
+title: "Configuración (backup)"
 type: nota
 tags:
   - backup

@@ -1,5 +1,5 @@
 ---
-title: obsidian-segundo-cerebro
+title: "Obsidian como segundo cerebro"
 type: ia
 tags:
   - ia

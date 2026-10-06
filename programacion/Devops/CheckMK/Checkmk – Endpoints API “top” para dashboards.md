@@ -6,7 +6,7 @@ tags:
   - devops
 status: active
 updated: 2026-05-13
-title: checkmk-endpoints-api-top-para-dashboards
+title: "CheckMK – Endpoints API “top” para dashboards"
 project: none
 date_created: 2026-05-13
 date_modified: 2026-05-13

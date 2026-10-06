@@ -1,5 +1,5 @@
 ---
-title: configuracion-local-ia-llama-cpp
+title: "Configuración local de IA con llama.cpp"
 type: index
 tags:
   - configuracion

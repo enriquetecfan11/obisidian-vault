@@ -1,5 +1,5 @@
 ---
-title: prompt-analizador-noticias
+title: "Prompt analizador de noticias"
 type: "resource"
 tags:
   - analisis-datos

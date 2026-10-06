@@ -1,5 +1,5 @@
 ---
-title: analizador-de-facturas
+title: "Analizador de facturas"
 type: "nota"
 tags:
   - facturas

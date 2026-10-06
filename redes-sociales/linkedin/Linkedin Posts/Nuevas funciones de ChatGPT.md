@@ -1,7 +1,7 @@
 ---
-title: nuevas-funciones-de-chatgpt
+title: "Nuevas funciones de ChatGPT"
 type: social
-tags:
+topics:
   - ia
   - linkedin
   - openai

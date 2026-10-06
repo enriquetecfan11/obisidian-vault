@@ -1,5 +1,5 @@
 ---
-title: gis-programacion-cartografia
+title: "GIS — programación y cartografía"
 type: "nota"
 tags:
   - desarrollo

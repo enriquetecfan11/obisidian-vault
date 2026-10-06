@@ -1,5 +1,5 @@
 ---
-title: llama-cpp-servidor-interfaz-web
+title: "llama.cpp — servidor e interfaz web"
 type: resource
 tags:
   - ia-local

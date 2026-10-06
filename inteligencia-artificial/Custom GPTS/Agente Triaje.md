@@ -1,5 +1,5 @@
 ---
-title: agente-triaje
+title: "Agente Triaje"
 type: "nota"
 tags:
   - agentes-ia

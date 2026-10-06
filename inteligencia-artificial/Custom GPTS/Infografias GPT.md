@@ -1,8 +1,8 @@
 ---
-title: infografias-gpt
+title: "Infografías GPT"
 type: "resource"
 tags:
-  - diseño
+  - diseno
   - generacion-imagenes
   - ia
   - prompt-engineering

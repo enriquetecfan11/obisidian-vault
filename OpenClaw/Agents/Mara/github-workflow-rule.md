@@ -1,5 +1,5 @@
 ---
-title: github-workflow-rule
+title: "Regla operativa — GitHub"
 type: rule
 tags:
   - github

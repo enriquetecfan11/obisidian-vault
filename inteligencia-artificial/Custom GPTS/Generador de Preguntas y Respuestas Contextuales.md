@@ -1,5 +1,5 @@
 ---
-title: generador-de-preguntas-y-respuestas-contextuales
+title: "Generador de Preguntas y Respuestas Contextuales"
 type: "nota"
 tags:
   - analisis-datos

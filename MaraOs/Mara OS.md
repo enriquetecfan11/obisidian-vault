@@ -1,5 +1,5 @@
 ---
-title: Mara OS
+title: "Mara OS"
 type: document
 tags:
   - arquitectura

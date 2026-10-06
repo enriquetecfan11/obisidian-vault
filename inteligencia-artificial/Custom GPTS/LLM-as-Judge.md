@@ -1,5 +1,5 @@
 ---
-title: llm-as-judge
+title: "LLM as Judge — evaluación automática con IA"
 type: ia
 tags:
   - evaluacion-ia

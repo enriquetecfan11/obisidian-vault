@@ -1,5 +1,5 @@
 ---
-title: preguntas-y-respuestas
+title: "Preguntas y respuestas"
 type: "nota"
 tags:
   - contenido

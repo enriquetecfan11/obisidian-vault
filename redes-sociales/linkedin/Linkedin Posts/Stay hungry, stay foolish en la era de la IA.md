@@ -1,7 +1,7 @@
 ---
-title: stay-hungry-stay-foolish-en-la-era-de-la-ia
+title: "Stay hungry, stay foolish en la era de la IA"
 type: social
-tags:
+topics:
   - ia
   - linkedin
 linkedin_hashtags:

@@ -1,7 +1,7 @@
 ---
-title: este-a-o-he-pasado-mucho-tiempo-hablando-con-inteligencia-ar
+title: "Este año he pasado mucho tiempo hablando con inteligencia artificial"
 type: social
-tags:
+topics:
   - ia
   - linkedin
   - openai

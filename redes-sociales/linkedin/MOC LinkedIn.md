@@ -9,10 +9,23 @@ tags:
 project: none
 date_created: 2026-10-05
 date_modified: 2026-10-05
+status: active
 ---
 # MOC LinkedIn
 
 Índice de prompts de ghostwriting y archivo de posts de LinkedIn.
+
+Los posts no llevan tags: sus temas están en el campo `topics:` y sus hashtags
+literales en `linkedin_hashtags:`. Ninguno de los dos campos los indexa Obsidian,
+así que no ensucian el panel de tags. Para consultarlos usa las consultas de abajo.
+
+## Posts por tema (consulta automática)
+
+```dataview
+TABLE topics, date_created
+FROM "redes-sociales/linkedin/Linkedin Posts"
+SORT date_created DESC
+```
 
 ## Ghostwriters y prompts
 
@@ -83,6 +96,10 @@ date_modified: 2026-10-05
 
 - [[Una IA aprendió a hackear]]
 - [[cursor-elegir-modelo-ia]]
+
+## Datos
+
+- [[linkedin_posts_full_analytics]] — tabla con métricas de las 47 publicaciones
 
 ## Relacionado con agentes
 

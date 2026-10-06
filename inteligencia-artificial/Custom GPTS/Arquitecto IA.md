@@ -1,5 +1,5 @@
 ---
-title: biavent-brand-core
+title: "Arquitecto IA"
 type: nota
 tags:
   - ia

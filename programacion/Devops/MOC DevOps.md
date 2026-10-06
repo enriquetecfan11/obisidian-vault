@@ -9,6 +9,7 @@ tags:
 project: none
 date_created: 2026-10-05
 date_modified: 2026-10-05
+status: active
 ---
 # MOC DevOps
 
@@ -54,10 +55,11 @@ date_modified: 2026-10-05
 
 ## Proxmox
 
-- [[Sin título]] — nota Proxmox (stub; revisar título)
+- [[Proxmox]] — máquinas virtuales del homelab (nota vacía, pendiente de contenido)
 
 ## Ver también
 
+- [[MOC Programacion]] — índice de toda la carpeta `programacion/`
 - [[MOC Automatizaciones]]
 - [[MOC IA Local]]
 - [[Evolution-API]]

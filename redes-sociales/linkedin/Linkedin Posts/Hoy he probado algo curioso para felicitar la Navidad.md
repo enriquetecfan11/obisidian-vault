@@ -1,7 +1,7 @@
 ---
-title: hoy-he-probado-algo-curioso-para-felicitar-la-navidad
+title: "Hoy he probado algo curioso para felicitar la Navidad"
 type: social
-tags:
+topics:
   - ia
   - linkedin
   - openai

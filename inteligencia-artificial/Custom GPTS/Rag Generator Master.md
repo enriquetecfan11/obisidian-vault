@@ -1,5 +1,5 @@
 ---
-title: rag-generator-master
+title: "RAG Generator Master"
 type: "nota"
 tags:
   - base-de-datos-vectorial

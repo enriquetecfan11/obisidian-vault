@@ -1,5 +1,5 @@
 ---
-title: definiciones
+title: "Definiciones de inversión"
 type: "resource"
 tags:
   - finanzas

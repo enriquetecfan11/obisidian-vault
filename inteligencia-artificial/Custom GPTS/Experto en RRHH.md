@@ -1,5 +1,5 @@
 ---
-title: experto-en-rrhh
+title: "Experto en RRHH"
 type: "nota"
 tags:
   - gpt-personalizado

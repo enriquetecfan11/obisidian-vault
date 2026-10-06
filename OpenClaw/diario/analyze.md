@@ -6,7 +6,8 @@ type: nota
 status: active
 date_created: 2026-10-05
 date_modified: 2026-10-05
-title: analyze.py (OpenClaw diario)
+title: "analyze.py — script del diario de OpenClaw"
+project: ninguno
 ---
 
 # Script `analyze.py` (OpenClaw diario)

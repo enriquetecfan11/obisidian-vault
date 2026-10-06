@@ -6,7 +6,7 @@ tags:
   - devops
 status: active
 updated: 2026-05-13
-title: checkmk-resolver-incidencias-gestionadas-mendiante-api
+title: "CheckMK Resolver Incidencias gestionadas mendiante API"
 project: none
 date_created: 2026-05-13
 date_modified: 2026-05-13

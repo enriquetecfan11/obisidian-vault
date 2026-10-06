@@ -1,7 +1,7 @@
 ---
-title: puede-una-ia-mirarse-a-s-misma
+title: "¿Puede una IA mirarse a sí misma"
 type: social
-tags:
+topics:
   - claude
   - ia
   - linkedin

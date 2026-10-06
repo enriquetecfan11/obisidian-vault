@@ -10,6 +10,7 @@ tags:
 project: MaraOS
 date_created: 2026-10-05
 date_modified: 2026-10-05
+status: active
 ---
 # MOC OpenClaw
 
@@ -53,6 +54,7 @@ Mapa de la capa de agentes OpenClaw (Mara, Atlas, Arvis, Warren) y su documentac
 - [[Crypto]]
 - [[Empresas]]
 - [[Template Analisis Diario]]
+- [[Prompt Analizador Noticias]] — prompt para procesar lotes de noticias empresariales
 - [[openclaw/Agents/Warren/system-prompt|system-prompt (Warren)]]
 
 ## Backup legacy
@@ -64,6 +66,10 @@ Carpeta histórica; la doc viva está en Documentación Operativa.
 - [[openclaw/Backup/identidad|Backup identidad]]
 - [[openclaw/Backup/usuario|Backup usuario]]
 - [[openclaw/Backup/migracion|Backup migracion]]
+
+## Scripts
+
+- [[analyze]] — script Python que automatiza frontmatter y tags de las notas
 
 ## Scrum / Linear
 

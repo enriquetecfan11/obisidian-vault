@@ -1,7 +1,7 @@
 ---
-title: claude-haiku-4-5-ia-m-s-r-pida-eficiente-y-accesible
+title: "Claude Haiku 4.5 IA más rápida, eficiente y accesible"
 type: social
-tags:
+topics:
   - claude
   - ia
   - linkedin

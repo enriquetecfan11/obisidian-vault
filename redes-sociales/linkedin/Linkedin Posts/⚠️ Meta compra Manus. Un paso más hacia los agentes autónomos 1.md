@@ -1,7 +1,7 @@
 ---
-title: meta-compra-manus-un-paso-m-s-hacia-los-agentes-aut-nomos-1
+title: "⚠️ Meta compra Manus. Un paso más hacia los agentes autónomos 1"
 type: social
-tags:
+topics:
   - agentes-ia
   - ia
   - linkedin

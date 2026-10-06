@@ -1,5 +1,5 @@
 ---
-title: skhd-configuration
+title: "SKHD — Simple Hotkey Daemon"
 type: resource
 tags:
   - configuracion

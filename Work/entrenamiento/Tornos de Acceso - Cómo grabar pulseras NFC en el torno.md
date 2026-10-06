@@ -1,5 +1,5 @@
 ---
-title: tornos-de-acceso-como-grabar-pulseras-nfc-en-el-torno
+title: "Tornos de Acceso - Cómo grabar pulseras NFC en el torno"
 type: nota
 tags:
   - origen

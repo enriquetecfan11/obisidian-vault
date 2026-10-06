@@ -1,5 +1,5 @@
 ---
-title: gpts-recursos-herramientas
+title: "GPTs — recursos y herramientas"
 type: "nota"
 tags:
   - automatizacion

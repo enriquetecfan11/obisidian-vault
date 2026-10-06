@@ -1,5 +1,5 @@
 ---
-title: bases-de-datos
+title: "Bases de Datos"
 type: "resource"
 tags:
   - bases-de-datos

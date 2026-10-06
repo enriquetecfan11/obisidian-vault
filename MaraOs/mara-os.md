@@ -1,5 +1,5 @@
 ---
-title: mara-os
+title: "mara-os — el cerebro"
 type: document
 tags:
   - backend

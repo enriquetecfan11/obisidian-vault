@@ -1,5 +1,5 @@
 ---
-title: mara-ui
+title: "mara-ui — la cara"
 type: document
 tags:
   - frontend

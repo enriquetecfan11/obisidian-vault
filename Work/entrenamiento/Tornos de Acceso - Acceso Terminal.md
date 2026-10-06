@@ -1,5 +1,5 @@
 ---
-title: tornos-de-acceso-acceso-terminal
+title: "Tornos de Acceso - Acceso Terminal"
 type: nota
 tags:
   - origen

@@ -1,5 +1,5 @@
 ---
-title: generador-de-documentos
+title: "Generador de Documentos"
 type: "resource"
 tags:
   - educacion

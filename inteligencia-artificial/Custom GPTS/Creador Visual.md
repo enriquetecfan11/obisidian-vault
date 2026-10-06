@@ -1,5 +1,5 @@
 ---
-title: biavent-brand-core
+title: "Creador visual"
 type: nota
 tags:
   - ia

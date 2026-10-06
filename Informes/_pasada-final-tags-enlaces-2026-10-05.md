@@ -1,15 +1,17 @@
 ---
-title: pasada-final-tags-enlaces-2026-10-05
+title: "Pasada final de tags y enlaces internos — 2026-10-05"
 type: changelog
 tags:
   - documentacion
   - pkm
 date_created: 2026-10-05
 date_modified: 2026-10-05
+status: active
+project: ninguno
 ---
 # Pasada final de tags y enlaces internos (2026-10-05)
 
-Revisión final tras [[_tag-migración-2026-10-05]] y [[_enlaces-moc-2026-10-05]]. Backup previo: `(eliminado; el registro queda solo en esta nota y en `_tag-migración-2026-10-05.md` / `_enlaces-moc-2026-10-05.md`)`.
+Revisión final tras [[Informes/_tag-migración-2026-10-05]] y [[Informes/_enlaces-moc-2026-10-05]]. Backup previo: `(eliminado; el registro queda solo en esta nota y en `Informes/_tag-migración-2026-10-05.md` / `Informes/_enlaces-moc-2026-10-05.md`)`.
 
 ## Tags (frontmatter)
 

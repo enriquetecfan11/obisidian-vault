@@ -1,5 +1,5 @@
 ---
-title: gpt-maestro
+title: "GPT Maestro"
 type: "resource"
 tags:
   - automatizacion

@@ -1,5 +1,5 @@
 ---
-title: biavent-brand-core
+title: "Experto SEO para WordPress"
 type: nota
 tags:
   - ia

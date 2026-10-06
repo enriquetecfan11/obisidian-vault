@@ -1,5 +1,5 @@
 ---
-title: tornos-de-acceso-manual-de-usuario-resumen
+title: "Tornos de Acceso – Manual de Usuario (resumen)"
 type: nota
 tags:
   - origen

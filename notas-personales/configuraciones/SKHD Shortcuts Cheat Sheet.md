@@ -1,5 +1,5 @@
 ---
-title: skhd-shortcuts-cheat-sheet
+title: "SKHD — cheat sheet de atajos"
 type: resource
 tags:
   - documentacion

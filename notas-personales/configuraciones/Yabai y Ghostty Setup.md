@@ -1,5 +1,5 @@
 ---
-title: yabai-y-ghostty-setup
+title: "Yabai y Ghostty — configuración"
 type: resource
 tags:
   - configuracion

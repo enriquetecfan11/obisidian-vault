@@ -6,7 +6,7 @@ tags:
   - devops
 status: active
 updated: 2026-05-13
-title: checkmk-estados-de-servicios
+title: "CheckMK – Estados de servicios"
 project: none
 date_created: 2026-05-13
 date_modified: 2026-05-13

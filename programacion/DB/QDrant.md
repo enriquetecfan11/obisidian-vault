@@ -1,5 +1,5 @@
 ---
-title: qdrant-referencia-completa
+title: "QDrant — referencia completa"
 type: code
 tags:
   - api-rest

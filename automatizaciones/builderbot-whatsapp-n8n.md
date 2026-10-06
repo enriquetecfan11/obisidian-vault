@@ -1,5 +1,5 @@
 ---
-title: builderbot-whatsapp-n8n
+title: "Builderbot para WhatsApp con n8n"
 type: "resource"
 tags:
   - api-rest

@@ -1,5 +1,5 @@
 ---
-title: Prompts OpenClaw
+title: "Prompts de OpenClaw"
 type: document
 tags:
   - mara-os

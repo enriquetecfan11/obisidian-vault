@@ -1,5 +1,5 @@
 ---
-title: generador-de-archivos-rag
+title: "Generador de archivos RAG"
 type: "nota"
 tags:
   - base-de-datos-vectorial

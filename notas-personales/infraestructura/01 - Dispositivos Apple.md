@@ -1,11 +1,13 @@
 ---
-Type: reference
+title: "Dispositivos Apple"
+type: nota
 tags:
   - infraestructura
   - macos
-Project: ""
-Date Created: 2026-08-24
-Date Modified: 2026-08-24
+status: active
+project: personal
+date_created: 2026-08-24
+date_modified: 2026-08-24
 ---
 # Dispositivos Apple
 

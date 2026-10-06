@@ -1,5 +1,5 @@
 ---
-title: biblioteca-de-prompts-para-generaci-n-de-im-genes-ia
+title: "Biblioteca de prompts para generación de imágenes con IA"
 type: "nota"
 tags:
   - generacion-imagenes

@@ -1,11 +1,13 @@
 ---
-title: enlaces-moc-2026-10-05
+title: "Changelog de enlaces internos y MOCs — 2026-10-05"
 type: changelog
 tags:
   - documentacion
   - pkm
 date_created: 2026-10-05
 date_modified: 2026-10-05
+status: active
+project: ninguno
 ---
 # Changelog enlaces internos y MOCs — 2026-10-05
 
@@ -50,7 +52,7 @@ Reorganización del grafo de wikilinks del vault: MOCs temáticos + secciones «
 
 ## Ver también
 
-- [[_tag-migración-2026-10-05]]
+- [[Informes/_tag-migración-2026-10-05]]
 - [[MOC Inteligencia Artificial]]
 
 ## Resultado del re-escaneo
