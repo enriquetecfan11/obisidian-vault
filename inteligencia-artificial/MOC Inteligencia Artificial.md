@@ -23,6 +23,7 @@ status: active
 - [[MARA_SCRUM_v3]] — framework Scrum para Mara
 - [[MARA_SCRUM_PROMPT]] — prompt Scrum asociado
 - [[OpenCode - Orquestador de agentes]] — orquestador OpenCode: frontera decide, local/barato ejecutan
+- [[Beatdeck - Presentaciones como software]] — Beatdeck: charlas como beats + skill para agentes
 
 ## Custom GPTs y prompts
 
