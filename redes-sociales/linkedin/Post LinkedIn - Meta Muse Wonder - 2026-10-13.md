@@ -38,9 +38,15 @@ La pregunta ya no es si los agentes de IA llegarán a nuestro trabajo diario, si
 #InteligenciaArtificial #IA #Meta #AgentesIA #Innovación
 ```
 
+## Prompt de imagen
+
+```text
+Use the attached reference image (my character) as the main character of this image, keeping its exact look, style and features. Create a professional LinkedIn image, 1200x627 px landscape. The character stands confidently on the left, looking at a glowing abstract AI core shaped like an infinity loop in Meta's blue gradient (#0081FB to #0064E0), on a dark navy background, with thin luminous network lines connecting it to two softer, distant light orbs, suggesting competition. Subtle hints of agents and code: faint floating code snippets and small interface cards. Bold clean sans-serif headline at the top: "Meta entra en la carrera de la IA", smaller subtitle: "Muse Wonder y Muse Wonder Full". Minimalist, high contrast, modern tech editorial style, plenty of negative space, no real logos, no other people.
+```
+
 ## Imagen
 
-![[Pasted image 20261015124252.png]]
+![[Post LinkedIn - Meta Muse Wonder - 2026-10-13.png]]
 
 
 ## Relacionado
