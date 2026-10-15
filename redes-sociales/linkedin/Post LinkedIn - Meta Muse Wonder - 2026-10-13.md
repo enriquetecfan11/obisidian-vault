@@ -38,6 +38,11 @@ La pregunta ya no es si los agentes de IA llegarán a nuestro trabajo diario, si
 #InteligenciaArtificial #IA #Meta #AgentesIA #Innovación
 ```
 
+## Imagen
+
+![[Pasted image 20261015124252.png]]
+
+
 ## Relacionado
 - [[MOC LinkedIn]]
 - [[MOC Inteligencia Artificial]]
