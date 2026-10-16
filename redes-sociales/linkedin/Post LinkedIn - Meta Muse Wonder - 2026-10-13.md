@@ -10,7 +10,6 @@ tags:
   - meta
   - agentes-ia
 ---
-
 # Post LinkedIn - Meta Muse Wonder
 
 **Fecha:** 13 oct 2026
