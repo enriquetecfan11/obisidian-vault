@@ -52,7 +52,7 @@ Usa la imagen de referencia que te adjunto (mi personaje) como protagonista prin
 
 ## Imagen
 
-<!-- Añadir la imagen en redes-sociales/linkedin/adjuntos/Post LinkedIn - DeepSeek V4.1 Flash - 2026-10-17.png -->
+![[Post LinkedIn - DeepSeek V4.1 Flash - 2026-10-17.png]]
 
 ## Relacionado
 - [[MOC LinkedIn]]
