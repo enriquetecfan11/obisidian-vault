@@ -24,6 +24,7 @@ Nota de control de las publicaciones en redes. Al publicarse un post, se mueve d
 ## Borradores pendientes
 
 - [[Post LinkedIn - Meta Muse Wonder - 2026-10-13]] (LinkedIn, sin publicar)
+- [[Post LinkedIn - DeepSeek V4.1 Flash - 2026-10-17]] (LinkedIn, borrador)
 
 ## Estadísticas
 
