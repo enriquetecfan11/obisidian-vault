@@ -3,7 +3,8 @@ title: Post LinkedIn - DeepSeek V4.1 Flash
 created: 2026-10-17
 fecha_noticia: 2026-10-17
 red: LinkedIn
-estado: borrador
+estado: programado
+programado_para: 2026-10-21 14:00 (Madrid)
 sources:
   - https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
   - https://api-docs.deepseek.com/quick_start/pricing/
@@ -17,7 +18,7 @@ tags:
 
 # Post LinkedIn - DeepSeek V4.1 Flash
 
-**Estado:** borrador
+**Estado:** programado para el 21/10/2026 a las 14:00 (Madrid)
 **Red:** LinkedIn
 **Fecha de la noticia:** 17/10/2026
 **Fuentes:**

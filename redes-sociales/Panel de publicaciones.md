@@ -15,6 +15,7 @@ Nota de control de las publicaciones en redes. Al publicarse un post, se mueve d
 | Fecha y hora (Madrid) | Red | Post | Estado |
 | --- | --- | --- | --- |
 | 19/10/2026 14:00 | LinkedIn | [[Post LinkedIn - Meta Muse Spark Open - 2026-10-16]] | Programado |
+| 21/10/2026 14:00 | LinkedIn | [[Post LinkedIn - DeepSeek V4.1 Flash - 2026-10-17]] | Programado |
 
 ## Publicados
 
@@ -24,7 +25,6 @@ Nota de control de las publicaciones en redes. Al publicarse un post, se mueve d
 ## Borradores pendientes
 
 - [[Post LinkedIn - Meta Muse Wonder - 2026-10-13]] (LinkedIn, sin publicar)
-- [[Post LinkedIn - DeepSeek V4.1 Flash - 2026-10-17]] (LinkedIn, borrador)
 
 ## Estadísticas
 
