@@ -6,7 +6,6 @@ tags:
   - wazuh
 status: active
 pipeline: raw
-updated: 2026-05-13
 source:
 title: "Wazuh - Casos de automatización"
 project: none

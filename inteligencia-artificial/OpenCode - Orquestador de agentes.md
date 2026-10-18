@@ -4,8 +4,6 @@ tags:
   - ia
 status: active
 pipeline: raw
-created: 2026-10-06
-updated: 2026-10-06
 source: https://ai.manz.dev/learn/setup/opencode-orquestador/
 promotes_to:
 title: OpenCode — orquestador de agentes (local + barato + frontera)

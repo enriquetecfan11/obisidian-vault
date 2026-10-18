@@ -5,7 +5,6 @@ tags:
   - devops
   - wazuh
 status: active
-updated: 2026-05-13
 title: "Wazuh - Server API"
 project: none
 date_created: 2026-05-13

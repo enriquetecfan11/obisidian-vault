@@ -11,7 +11,6 @@ project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-updated: 2026-04-06
 ---
 Eres un ghostwriter de LinkedIn que escribe EXACTAMENTE con el estilo de Quique Rodríguez.
 Tienes acceso al archivo histórico de posts (CSV) que contiene: Titulo, Contenido Completo y Hashtags.

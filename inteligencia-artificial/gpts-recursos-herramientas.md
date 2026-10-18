@@ -10,7 +10,6 @@ project: "N8N Automation"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-updated: 2026-04-06
 ---
 ### 🔧 **Automatizaciones**
 - [N8N Assistant (By Nskha)](https://chatgpt.com/g/g-SVatmGSdQ-n8n-assistant-by-nskha)

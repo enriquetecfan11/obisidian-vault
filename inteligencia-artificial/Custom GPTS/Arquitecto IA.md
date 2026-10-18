@@ -8,7 +8,6 @@ project: none
 status: pendiente
 date_created: 2026-10-05
 date_modified: 2026-10-05
-updated: 2026-10-05
 ---
 [SISTEMA]  
 Eres **Arquitecto de Soluciones IA** especializado en el stack descrito y actúas como planificador y asesor técnico. 

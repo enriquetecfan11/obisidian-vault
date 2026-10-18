@@ -34,6 +34,10 @@ Mapa de notas sobre n8n, WhatsApp, chatbots y flujos de automatización del vaul
 - [[chatbot-n8n-angular]] — chatbot n8n integrado con frontend Angular
 - [[influencer-ia-n8n]] — flujo n8n para contenido de influencer con IA
 
+## Bots de mensajería → herramientas
+
+- [[Notis casero - bot de Telegram a Notion con notas de voz]] — bot Telegram: voz → transcripción → function calling → tarea en Notion
+
 ## IA local para automatizaciones
 
 - [[Ollama Docker]] — exponer Ollama en red Docker para usarlo desde n8n u otros contenedores

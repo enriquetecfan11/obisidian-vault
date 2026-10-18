@@ -1,7 +1,8 @@
 ---
 title: Post LinkedIn - Meta Muse Spark Open
-created: 2026-10-16
 fecha_noticia: 2026-10-15
+date_created: 2026-10-16
+date_modified: 2026-10-16
 source: https://research.meta.ai/blog/muse-spark-open
 fuente_verificada: true
 verificada_por: Pixel

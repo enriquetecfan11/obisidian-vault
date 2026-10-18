@@ -24,6 +24,7 @@ status: active
 - [[MARA_SCRUM_PROMPT]] — prompt Scrum asociado
 - [[OpenCode - Orquestador de agentes]] — orquestador OpenCode: frontera decide, local/barato ejecutan
 - [[Beatdeck - Presentaciones como software]] — Beatdeck: charlas como beats + skill para agentes
+- [[Company brain - El cerebro de tu empresa]] — el conocimiento del negocio en markdown con el LLM enchufado
 
 ## Custom GPTs y prompts
 
@@ -32,6 +33,10 @@ status: active
 - [[LLM Prompts - Notas]] — colección de prompts LLM
 - [[Biblioteca de Prompts para Generación de Imágenes IA]] — prompts de imagen
 - [[Stable Diffusion & AI Art Resources]] — recursos Stable Diffusion / AI art
+
+## Contenido y multimedia
+
+- [[Motion graphics con IA - Brag, Hyperframes y Remotion]] — video por código: Brag, Hyperframes y Remotion
 
 ## Infraestructura y APIs de IA
 

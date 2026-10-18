@@ -8,6 +8,8 @@ created: 2026-10-17
 description: "Comunidad de desarrollo, automatización y AI. Aprende Python, JavaScript, automatización y más con Erik Taveras. Cursos, foro y recursos gratuitos."
 tags:
   - "clippings"
+status: pendiente
+promoted_to:
 ---
 ## 4 modelos, una máquina, 0 suscripciones: así trabaja mi IA mientras duermo
 

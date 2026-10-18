@@ -1,7 +1,8 @@
 ---
 title: Guardados de X - 2026-10-10
+date_created: 2026-10-10
+date_modified: 2026-10-10
 source: X (posts guardados)
-created: 2026-10-10
 tags:
   - x
   - guardados

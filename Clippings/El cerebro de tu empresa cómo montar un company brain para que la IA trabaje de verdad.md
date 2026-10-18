@@ -8,6 +8,8 @@ created: 2026-10-17
 description: "La guía completa para montar el company brain de tu empresa: qué es, cómo está hecho el nuestro por dentro (740 notas, ocho capas, cifras reales), las plantillas y el código para construirlo, un plan de noventa días con quince jugadas para meterlo en una empresa que ya funciona, y cómo se alimenta solo y se enchufa al chat y las herramientas del equipo."
 tags:
   - "clippings"
+status: procesado
+promoted_to: "[[Company brain - El cerebro de tu empresa]]"
 ---
 **Qué es esto.** La guía completa para montar el cerebro de tu empresa: una carpeta con todo lo que sabe tu negocio, escrita para que la lea y la mantenga una IA, y no solo las personas. No es teoría. Es exactamente lo que usamos nosotros cada día: un cerebro de 740 notas que hoy mueve el contenido, los productos, los correos y las decisiones de toda la marca, con agentes que lo leen, lo escriben y trabajan sobre él mientras dormimos.
 

@@ -8,6 +8,8 @@ created: 2026-10-17
 description: "Comunidad de desarrollo, automatización y AI. Aprende Python, JavaScript, automatización y más con Erik Taveras. Cursos, foro y recursos gratuitos."
 tags:
   - "clippings"
+status: procesado
+promoted_to: "[[Ornith en tu homelab - instalar y conectar a n8n y Hermes]]"
 ---
 ## Pon Ornith-1.5 a trabajar en tu homelab y conéctalo a n8n y a Hermes
 

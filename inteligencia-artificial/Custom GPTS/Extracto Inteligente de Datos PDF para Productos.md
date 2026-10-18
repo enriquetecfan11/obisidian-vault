@@ -10,7 +10,6 @@ project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-updated: 2026-04-06
 ---
 Este prompt sirve para generar un extracto de un documento en el que hay productos y servicios para una base de datos vectorial
 

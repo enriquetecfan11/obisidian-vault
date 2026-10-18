@@ -5,7 +5,6 @@ tags:
   - devops
   - wazuh
 status: active
-created: 2026-05-13
 title: "Wazuh — queries útiles (cheat sheet)"
 project: none
 date_created: 2026-05-13

@@ -4,9 +4,9 @@ type: article
 tags:
   - automatizacion
   - telegram
-  - notion
   - ia
-  - bots
+  - api-rest
+  - openai
 status: active
 project: none
 date_created: 2026-10-17

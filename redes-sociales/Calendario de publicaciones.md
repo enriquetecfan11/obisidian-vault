@@ -1,9 +1,10 @@
 ---
 title: Calendario de publicaciones
-created: 2026-10-17
 tags:
   - redes-sociales
   - linkedin
+date_created: 2026-10-17
+date_modified: 2026-10-17
 ---
 
 # Calendario de publicaciones

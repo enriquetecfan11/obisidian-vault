@@ -1,12 +1,10 @@
 ---
 title: "Motion graphics con IA — Brag, Hyperframes y Remotion"
-type: article
+type: resource
 tags:
   - ia
-  - motion-graphics
-  - remotion
-  - video
   - claude-code
+  - contenido
 status: active
 project: none
 date_created: 2026-10-17
@@ -42,4 +40,5 @@ La página que se enlaza es el resumen; la guía completa (con prompts, capturas
 
 - [[MOC Inteligencia Artificial]] — índice del área
 - [[Todo de IA - Comunidad]] — mapa general de la comunidad Todo de IA
+- [[Beatdeck - Presentaciones como software]] — presentaciones como software (mismo patrón: contenido generado por código)
 - [[Biblioteca de Prompts para Generación de Imágenes IA]] — prompts de imagen (complementario a video)

@@ -7,8 +7,6 @@ tags:
   - presentaciones
 status: active
 pipeline: raw
-created: 2026-10-07
-updated: 2026-10-07
 source: https://x.com/borjaperfra/status/2107767562020761763
 promotes_to:
 title: "Beatdeck — presentaciones como software, no como slides"

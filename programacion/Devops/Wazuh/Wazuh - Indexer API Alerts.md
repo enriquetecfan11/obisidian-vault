@@ -5,8 +5,6 @@ tags:
   - devops
   - wazuh
 status: active
-created: 2026-05-13
-updated: 2026-05-13
 title: "Wazuh - Indexer API Alerts"
 project: none
 date_created: 2026-05-13

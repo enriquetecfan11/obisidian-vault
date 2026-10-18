@@ -30,6 +30,11 @@ Ejecutar modelos LLM en local (llama.cpp y Ollama) sin depender solo de APIs clo
 - [[Ollama Docker]] — exponer Ollama a contenedores / n8n
 - [[Docker]] — cheatsheet Docker
 
+## Modelos locales y su montaje
+
+- [[Ornith en tu homelab - instalar y conectar a n8n y Hermes]] — Ornith-1.5 en llama.cpp/Ollama, servido a n8n y Hermes
+- [[Tamagotchi de Meta - Muse Gadgets (repo, placas y montaje)]] — gadget ESP32/Pi que da «manos» a tu agente Muse en la red local
+
 ## Contexto en proyectos
 
 - [[Mara OS]] — Mara OS usa Ollama como backend LLM

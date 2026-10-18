@@ -41,6 +41,10 @@ Notas de recursos y enlaces, sin desarrollo todavía.
 - [[markdown-cheat-sheet]] — referencia de sintaxis Markdown
 - [[markdown-template]] — la misma referencia, en formato esqueleto de nota
 
+## Web y despliegue
+
+- [[Crea webs con IA (ChatGPT + v0 + Cursor + Vercel)]] — web completa sin programar: ChatGPT, v0, Cursor, Vercel y dominio
+
 ## Orden de lectura sugerido
 
 1. [[markdown-cheat-sheet]] si vienes de Obsidian y quieres refrescar Markdown

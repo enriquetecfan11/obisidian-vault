@@ -13,8 +13,6 @@ tags:
   - mcp
   - skills
 status: active
-created: 2026-10-05
-updated: 2026-10-05
 project: ninguno
 date_created: 2026-10-05
 date_modified: 2026-10-05

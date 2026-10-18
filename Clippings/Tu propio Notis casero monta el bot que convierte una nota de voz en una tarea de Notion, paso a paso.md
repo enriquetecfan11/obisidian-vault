@@ -8,6 +8,8 @@ created: 2026-10-17
 description: "El montaje completo, pieza por pieza: la petición a tu ayudante de IA por etapas, el código real de cada pieza, cuánto cuesta operarlo por mensaje, por qué la entrada es Telegram y no WhatsApp, y cómo venderlo a quien ya cobra por Notion."
 tags:
   - "clippings"
+status: procesado
+promoted_to: "[[Notis casero - bot de Telegram a Notion con notas de voz]]"
 ---
 En el reel te di el plan entero y gratis: **abres un bot de Telegram, le mandas una nota de voz, un modelo la transcribe y decide qué tarea es, y la crea sola en tu Notion, sin que abras la app.** Eso ya lo tienes, sin pedir nada.
 

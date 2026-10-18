@@ -8,6 +8,8 @@ created: 2026-10-17
 description: "El proceso entero para montar cualquier web con IA, sin saber programar: el contenido con ChatGPT, el diseño con v0, publicada en Vercel con dominio propio y con funcionalidades de verdad. Con los prompts exactos de cada paso."
 tags:
   - "clippings"
+status: procesado
+promoted_to: "[[Crea webs con IA (ChatGPT + v0 + Cursor + Vercel)]]"
 ---
 Esta guía te saca una web real, online y con dominio propio, sin saber programar. Da igual para qué: tu proyecto, tu negocio, un portfolio, una idea que quieres probar. El proceso es el mismo de principio a fin.
 

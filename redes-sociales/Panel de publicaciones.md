@@ -1,9 +1,10 @@
 ---
 title: Panel de publicaciones
-created: 2026-10-17
 tags:
   - linkedin
   - redes-sociales
+date_created: 2026-10-17
+date_modified: 2026-10-17
 ---
 
 # Panel de publicaciones

@@ -12,7 +12,6 @@ project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-updated: 2026-04-06
 ---
 Quiero crear un agente de triaje, en el contexto de un chatbot o un sistema de atención al cliente automatizado, es una entidad que se encarga de clasificar las consultas de los usuarios y dirigirlas al agente o categoría especializada adecuada. Para crearlo correctamente, necesitas definir los siguientes parámetros:
 

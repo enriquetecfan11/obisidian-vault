@@ -1,7 +1,8 @@
 ---
 title: Post LinkedIn - Meta Muse Wonder
-created: 2026-10-13
 fecha_post: 2026-10-13
+date_created: 2026-10-13
+date_modified: 2026-10-13
 source: https://research.meta.ai/blog/muse-wonder
 fuente_verificada: false
 tags:

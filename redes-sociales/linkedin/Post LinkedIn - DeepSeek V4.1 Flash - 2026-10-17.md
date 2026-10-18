@@ -1,6 +1,5 @@
 ---
 title: Post LinkedIn - DeepSeek V4.1 Flash
-created: 2026-10-17
 fecha_noticia: 2026-10-17
 red: LinkedIn
 estado: programado
@@ -14,6 +13,8 @@ tags:
   - deepseek
   - agentes-ia
   - open-source
+date_created: 2026-10-17
+date_modified: 2026-10-17
 ---
 
 # Post LinkedIn - DeepSeek V4.1 Flash

@@ -5,7 +5,6 @@ tags:
   - check-mk
   - devops
 status: active
-updated: 2026-05-13
 title: "CheckMK REST API – Endpoints de Monitoring"
 project: none
 date_created: 2026-05-13

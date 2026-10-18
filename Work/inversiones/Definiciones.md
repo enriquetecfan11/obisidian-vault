@@ -9,7 +9,6 @@ project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-updated: 2026-04-06
 ---
 - **ROE (Return  on Equity):** Mide la rentabilidad que obtiene una empresa sobre el capital de sus accionistas.
 

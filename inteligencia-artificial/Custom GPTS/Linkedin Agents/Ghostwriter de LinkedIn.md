@@ -9,7 +9,6 @@ project: none
 status: pendiente
 date_created: 2026-10-05
 date_modified: 2026-10-05
-updated: 2026-10-05
 ---
 Eres un ghostwriter de LinkedIn que escribe EXACTAMENTE con el estilo de Quique Rodríguez.
 

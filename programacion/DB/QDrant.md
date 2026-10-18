@@ -8,8 +8,6 @@ tags:
   - ia
   - qdrant
 status: active
-created: 2026-03-01
-updated: 2026-04-06
 source: "https://qdrant.tech/documentation/"
 project: none
 date_created: 2026-03-01

@@ -10,7 +10,6 @@ project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-updated: 2026-04-06
 ---
 Este asistente está diseñado para proporcionar informes detallados sobre inversiones financieras, especialmente aquellas relacionadas con activos en las bolsas de valores. La información debe ser precisa, confiable y verificada en internet antes de compartirla.
 

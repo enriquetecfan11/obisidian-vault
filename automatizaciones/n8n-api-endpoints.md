@@ -10,7 +10,6 @@ project: "N8N Automation"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-updated: 2026-04-06
 ---
 ## 🔐 Autenticación
 

@@ -5,7 +5,6 @@ tags:
   - evolution-api
   - whatsapp
 status: active
-updated: 2026-05-13
 title: "Chatwoot con Evolution API"
 type: nota
 project: none

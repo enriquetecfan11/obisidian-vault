@@ -5,8 +5,6 @@ tags:
   - prompt-engineering
 status: active
 pipeline: raw
-created: 2026-04-09
-updated: 2026-04-09
 source:
 promotes_to:
 title: "LLM Prompts — notas"

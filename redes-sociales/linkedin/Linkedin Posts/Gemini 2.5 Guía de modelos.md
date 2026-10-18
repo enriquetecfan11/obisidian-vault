@@ -11,8 +11,6 @@ linkedin_hashtags:
   - modelosgemini
   - n8n
 status: active
-created: 2026-03-01
-updated: 2026-04-06
 source: ""
 project: none
 date_created: 2026-03-01

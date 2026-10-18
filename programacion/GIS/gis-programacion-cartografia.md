@@ -11,7 +11,6 @@ project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-updated: 2026-04-06
 ---
 - Porque se usa postgis → [https://mappinggis.com/2012/09/por-que-utilizar-postgis/](https://mappinggis.com/2012/09/por-que-utilizar-postgis/)
 - Open Layers + NodeJS → [https://mappinggis.com/2021/07/openlayers-node-js-asi-es-como-deberias-trabajar-a-partir-de-ahora/](https://mappinggis.com/2021/07/openlayers-node-js-asi-es-como-deberias-trabajar-a-partir-de-ahora/)

@@ -5,7 +5,6 @@ tags:
   - check-mk
   - devops
 status: active
-updated: 2026-05-13
 title: "CheckMK Hosts y Servicios Todos los filtros API"
 project: none
 date_created: 2026-05-13

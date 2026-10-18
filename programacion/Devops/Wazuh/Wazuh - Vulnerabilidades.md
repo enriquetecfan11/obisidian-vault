@@ -4,7 +4,6 @@ tags:
   - devops
   - wazuh
 status: active
-updated: 2026-05-13
 title: "Wazuh - Vulnerabilidades"
 type: nota
 project: none

@@ -8,6 +8,8 @@ created: 2026-10-17
 description: "Comunidad de desarrollo, automatización y AI. Aprende Python, JavaScript, automatización y más con Erik Taveras. Cursos, foro y recursos gratuitos."
 tags:
   - "clippings"
+status: procesado
+promoted_to: "[[Tamagotchi de Meta - Muse Gadgets (repo, placas y montaje)]]"
 ---
 ## Tu propio “Tamagotchi de Meta”: el código abierto de Muse Gadgets, la placa y cómo instalarlo
 

@@ -11,7 +11,6 @@ project: "N8N Automation"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-updated: 2026-04-06
 ---
 > [!warning] Imagen perdida
 > El archivo `Pasted image 20250117085739.png` no está en el vault. El esquema de

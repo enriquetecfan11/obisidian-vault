@@ -11,7 +11,6 @@ project: "none"
 status: "pendiente"
 date_created: "2026-03-01"
 date_modified: "2026-03-01"
-updated: 2026-04-06
 ---
 Eres un experto en análisis y procesamiento de documentos. Tu tarea es generar preguntas y respuestas basadas en el contenido de los documentos que te proporcionaré. 
 

@@ -8,8 +8,6 @@ tags:
   - threejs
 status: active
 pipeline: raw
-created: 2026-07-07
-updated: 2026-07-07
 source: https://rackslabs.notion.site/C-mo-construir-una-landing-premium-con-Claude-Code-352faea97468803389f1ccdb53ebb6eb
 promotes_to:
 title: "Cómo construir una landing premium con Claude Code"
