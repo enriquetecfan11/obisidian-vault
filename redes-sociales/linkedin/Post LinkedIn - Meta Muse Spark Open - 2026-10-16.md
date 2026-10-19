@@ -6,7 +6,10 @@ date_modified: 2026-10-16
 source: https://research.meta.ai/blog/muse-spark-open
 fuente_verificada: true
 verificada_por: Pixel
-estado: borrador pendiente de aprobación de Kike
+estado: publicado
+fecha_publicacion: 2026-10-19
+hora_publicacion: "14:07"
+enlace_publicacion: https://www.linkedin.com/feed/update/urn:li:share:7517919834236649473/
 tags:
   - linkedin
   - ia
@@ -19,7 +22,8 @@ tags:
 
 **Fecha de la noticia:** 15 oct 2026
 **Fuente:** [Meta Research - Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) (verificada por Pixel)
-**Estado:** borrador pendiente de aprobación de Kike
+**Estado:** publicado el 19/10/2026 a las 14:07 (Madrid)
+**Publicación:** [Ver en LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7517919834236649473/)
 
 ## Texto para copiar
 
