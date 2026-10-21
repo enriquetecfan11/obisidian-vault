@@ -15,13 +15,13 @@ Nota de control de las publicaciones en redes. Al publicarse un post, se mueve d
 
 | Fecha y hora (Madrid) | Red | Post | Estado |
 | --- | --- | --- | --- |
-| 21/10/2026 14:00 | LinkedIn | [[Post LinkedIn - DeepSeek V4.1 Flash - 2026-10-17]] | Programado |
 
 ## Publicados
 
 | Fecha | Red | Post | Enlace | Impresiones | Reacciones | Comentarios | Compartidos |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 19/10/2026 14:07 | LinkedIn | [[Post LinkedIn - Meta Muse Spark Open - 2026-10-16]] | [Ver post](https://www.linkedin.com/feed/update/urn:li:share:7517919834236649473/) |  |  |  |  |
+| 21/10/2026 14:08 | LinkedIn | [[Post LinkedIn - DeepSeek V4.1 Flash - 2026-10-17]] | [Ver post](https://www.linkedin.com/feed/update/urn:li:share:7518644572348936193/) |  |  |  |  |
 
 ## Borradores pendientes
 
