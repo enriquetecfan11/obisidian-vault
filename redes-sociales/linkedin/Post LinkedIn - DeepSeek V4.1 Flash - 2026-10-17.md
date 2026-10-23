@@ -6,6 +6,11 @@ estado: publicado
 fecha_publicacion: 2026-10-21
 hora_publicacion: "14:08"
 enlace_publicacion: https://www.linkedin.com/feed/update/urn:li:share:7518644572348936193/
+metricas_fecha: "2026-10-23 19:22"
+impresiones: pendiente
+reacciones: 2
+comentarios: pendiente
+compartidos: pendiente
 sources:
   - https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
   - https://api-docs.deepseek.com/quick_start/pricing/
@@ -16,7 +21,7 @@ tags:
   - agentes-ia
   - open-source
 date_created: 2026-10-17
-date_modified: 2026-10-17
+date_modified: 2026-10-23
 ---
 
 # Post LinkedIn - DeepSeek V4.1 Flash

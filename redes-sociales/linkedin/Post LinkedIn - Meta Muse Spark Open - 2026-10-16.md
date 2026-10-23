@@ -2,7 +2,7 @@
 title: Post LinkedIn - Meta Muse Spark Open
 fecha_noticia: 2026-10-15
 date_created: 2026-10-16
-date_modified: 2026-10-16
+date_modified: 2026-10-23
 source: https://research.meta.ai/blog/muse-spark-open
 fuente_verificada: true
 verificada_por: Pixel
@@ -10,6 +10,11 @@ estado: publicado
 fecha_publicacion: 2026-10-19
 hora_publicacion: "14:07"
 enlace_publicacion: https://www.linkedin.com/feed/update/urn:li:share:7517919834236649473/
+metricas_fecha: "2026-10-23 19:22"
+impresiones: pendiente
+reacciones: 5
+comentarios: pendiente
+compartidos: pendiente
 tags:
   - linkedin
   - ia
