@@ -53,6 +53,8 @@ Usa la imagen de referencia que te adjunto (mi personaje) como protagonista prin
 
 ## Imagen
 
+![[Post LinkedIn - Agent Skills AAIF - 2026-10-24.png]]
+
 ## Relacionado
 - [[Panel de publicaciones]]
 - [[MOC LinkedIn]]
