@@ -2,7 +2,9 @@
 title: Post LinkedIn - Agent Skills AAIF
 fecha_noticia: 2026-10-22
 red: LinkedIn
-estado: borrador
+estado: programado
+fecha_programada: 2026-10-27
+hora_programada: "14:00"
 sources:
   - https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation
   - https://agentskills.io
@@ -18,7 +20,7 @@ date_modified: 2026-10-24
 
 # Post LinkedIn - Agent Skills AAIF
 
-Borrador de Pixel pendiente de aprobación de Kike. Noticia: Anthropic dona Agent Skills a la Agentic AI Foundation (Linux Foundation).
+Aprobado por Kike y programado para el martes 27/10/2026 a las 14:00 (Madrid). Noticia: Anthropic dona Agent Skills a la Agentic AI Foundation (Linux Foundation).
 
 ## Post
 

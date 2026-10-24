@@ -15,6 +15,7 @@ Nota de control de las publicaciones en redes. Al publicarse un post, se mueve d
 
 | Fecha y hora (Madrid) | Red | Post | Estado |
 | --- | --- | --- | --- |
+| 27/10/2026 14:00 | LinkedIn | [[Post LinkedIn - Agent Skills AAIF - 2026-10-24]] | Programado |
 
 ## Publicados
 
@@ -26,7 +27,6 @@ Nota de control de las publicaciones en redes. Al publicarse un post, se mueve d
 ## Borradores pendientes
 
 - [[Post LinkedIn - Meta Muse Wonder - 2026-10-13]] (LinkedIn, sin publicar)
-- [[Post LinkedIn - Agent Skills AAIF - 2026-10-24]] (LinkedIn, pendiente de aprobación)
 
 ## Estadísticas
 
