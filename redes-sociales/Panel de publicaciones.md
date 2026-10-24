@@ -4,7 +4,7 @@ tags:
   - linkedin
   - redes-sociales
 date_created: 2026-10-17
-date_modified: 2026-10-23
+date_modified: 2026-10-24
 ---
 
 # Panel de publicaciones
@@ -26,6 +26,7 @@ Nota de control de las publicaciones en redes. Al publicarse un post, se mueve d
 ## Borradores pendientes
 
 - [[Post LinkedIn - Meta Muse Wonder - 2026-10-13]] (LinkedIn, sin publicar)
+- [[Post LinkedIn - Agent Skills AAIF - 2026-10-24]] (LinkedIn, pendiente de aprobación)
 
 ## Estadísticas
 
