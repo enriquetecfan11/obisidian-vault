@@ -8,7 +8,7 @@ tags:
 status: active
 project: ninguno
 date_created: 2026-10-05
-date_modified: 2026-10-05
+date_modified: 2026-10-24
 ---
 # MOC Programacion
 
@@ -62,3 +62,4 @@ Estas dos existen pero están vacías o son notas semilla:
 - [[MOC Automatizaciones]] — n8n y workflows que consumen estas notas
 - [[MOC Inteligencia Artificial]] — RAG y agentes que usan [[QDrant]]
 - [[MOC IA Local]] — modelos locales y sus bases vectoriales
+- [[Bookmarks de X]] — bookmarks de X; ver [[Bookmarks X - Herramientas de desarrollo]]

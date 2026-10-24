@@ -7,7 +7,7 @@ tags:
   - pkm
 project: none
 date_created: 2026-10-05
-date_modified: 2026-10-05
+date_modified: 2026-10-24
 status: active
 ---
 # MOC Inteligencia Artificial
@@ -37,6 +37,7 @@ status: active
 ## Contenido y multimedia
 
 - [[Motion graphics con IA - Brag, Hyperframes y Remotion]] — video por código: Brag, Hyperframes y Remotion
+- [[Bookmarks de X]] — 708 bookmarks de X agrupados por tema (IA agentes, IA modelos, desarrollo…)
 
 ## Infraestructura y APIs de IA
 

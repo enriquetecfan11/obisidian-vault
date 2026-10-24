@@ -1,7 +1,7 @@
 ---
 title: Guardados de X - 2026-10-10
 date_created: 2026-10-10
-date_modified: 2026-10-10
+date_modified: 2026-10-24
 source: X (posts guardados)
 tags:
   - x
@@ -36,3 +36,4 @@ tags:
 
 ## Relacionado
 - [[MOC Inteligencia Artificial]]
+- [[Bookmarks de X]] — archivo completo de bookmarks de X por tema
