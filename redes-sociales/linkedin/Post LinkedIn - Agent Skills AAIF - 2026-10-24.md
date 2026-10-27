@@ -2,9 +2,10 @@
 title: Post LinkedIn - Agent Skills AAIF
 fecha_noticia: 2026-10-22
 red: LinkedIn
-estado: programado
-fecha_programada: 2026-10-27
-hora_programada: "14:00"
+estado: publicado
+fecha_publicacion: 2026-10-27
+hora_publicacion: "14:07"
+enlace_publicacion: https://www.linkedin.com/feed/update/urn:li:share:7520833569582125056/
 sources:
   - https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation
   - https://agentskills.io
@@ -15,12 +16,12 @@ tags:
   - agentes-ia
   - open-source
 date_created: 2026-10-24
-date_modified: 2026-10-24
+date_modified: 2026-10-27
 ---
 
 # Post LinkedIn - Agent Skills AAIF
 
-Aprobado por Kike y programado para el martes 27/10/2026 a las 14:00 (Madrid). Noticia: Anthropic dona Agent Skills a la Agentic AI Foundation (Linux Foundation).
+Publicado el martes 27/10/2026 a las 14:07 (Madrid). Noticia: Anthropic dona Agent Skills a la Agentic AI Foundation (Linux Foundation).
 
 ## Post
 
