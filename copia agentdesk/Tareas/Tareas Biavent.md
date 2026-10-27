@@ -6,53 +6,25 @@ tags:
   - backup
   - biavent
 date_created: 2026-10-24
-date_modified: 2026-10-24
+date_modified: 2026-10-27
 ---
 
 # Tareas Biavent
 
-Copia de las tareas del proyecto **Biavent** (BIA) de Agent Desk, exportada el 24/10/2026 antes de mover Agent Desk. Índice: [[Copia Agent Desk]].
-
-## Poner en el panel de organizador los encuentros que se han hecho
-
-| Campo | Valor |
-|---|---|
-| ID | 323216bd-fe41-4651-8739-df8e1ee1930d |
-| Estado | todo |
-| Prioridad | none |
-| Autonomía | do_with_approval |
-| Fecha límite | — |
-| Hora límite | — |
-| Recurrencia | — |
-| Asignada a | — |
-| Tarea padre | — |
-| Etiquetas | — |
-| Reclamada por | — |
-| Lease | — |
-| Veces reclamada | 0 |
-
-**Descripción:** —
-
-**Subtareas:** ninguna
-
-**Comentarios:** ninguno
-
-**Run abierto / logs:** ninguno
-
-**Aprobaciones:** ninguna
+Copia de las tareas del proyecto **Biavent** (BIA, id `c7525703-c2c9-4681-bd02-1154b92f25ae`) de Agent Desk, leída el 27/10/2026 a las 09:12 (hora de Madrid). Índice: [[Copia Agent Desk]].
 
 ## Mostrar en el panel del organizador el número de chats con conversación
 
 | Campo | Valor |
 |---|---|
-| ID | fda9d4b9-dddc-4b04-96bb-55a4d409593a |
-| Estado | todo |
+| ID | 266cc328-4cf8-47f3-89ec-848614b15200 |
+| Estado | done |
 | Prioridad | none |
 | Autonomía | do_with_approval |
 | Fecha límite | — |
 | Hora límite | — |
 | Recurrencia | — |
-| Asignada a | agent: Notis (59d74399-b11f-47b2-96d9-d44113d1ca44) |
+| Asignada a | agent: Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc) |
 | Tarea padre | — |
 | Etiquetas | — |
 | Reclamada por | — |
@@ -69,18 +41,46 @@ Copia de las tareas del proyecto **Biavent** (BIA) de Agent Desk, exportada el 2
 
 **Aprobaciones:** ninguna
 
-## Poner Perfil como última opción del menú inferior
+## Poner en el panel de organizador los encuentros que se han hecho
 
 | Campo | Valor |
 |---|---|
-| ID | 84db4bc1-95d6-4367-8092-76e5efe254f2 |
-| Estado | todo |
+| ID | 0ad3aebc-bf64-44ad-96e0-244576f5511f |
+| Estado | done |
 | Prioridad | none |
 | Autonomía | do_with_approval |
 | Fecha límite | — |
 | Hora límite | — |
 | Recurrencia | — |
-| Asignada a | agent: Notis (59d74399-b11f-47b2-96d9-d44113d1ca44) |
+| Asignada a | agent: Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc) |
+| Tarea padre | — |
+| Etiquetas | — |
+| Reclamada por | — |
+| Lease | — |
+| Veces reclamada | 0 |
+
+**Descripción:** —
+
+**Subtareas:** ninguna
+
+**Comentarios:** ninguno
+
+**Run abierto / logs:** ninguno
+
+**Aprobaciones:** ninguna
+
+## Poner Perfil como última opción del menú inferior
+
+| Campo | Valor |
+|---|---|
+| ID | 7fc9e10e-a2b3-48f9-bcfe-b61dc22dfec6 |
+| Estado | done |
+| Prioridad | none |
+| Autonomía | do_with_approval |
+| Fecha límite | — |
+| Hora límite | — |
+| Recurrencia | — |
+| Asignada a | agent: Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc) |
 | Tarea padre | — |
 | Etiquetas | — |
 | Reclamada por | — |
@@ -101,14 +101,14 @@ Copia de las tareas del proyecto **Biavent** (BIA) de Agent Desk, exportada el 2
 
 | Campo | Valor |
 |---|---|
-| ID | 7e72f2d4-e1d3-48a7-a8ab-02314c5835c2 |
-| Estado | todo |
+| ID | b02f5889-c6f2-4d3e-854f-cd9fa19eb738 |
+| Estado | done |
 | Prioridad | none |
 | Autonomía | do_with_approval |
 | Fecha límite | — |
 | Hora límite | — |
 | Recurrencia | — |
-| Asignada a | agent: Notis (59d74399-b11f-47b2-96d9-d44113d1ca44) |
+| Asignada a | agent: Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc) |
 | Tarea padre | — |
 | Etiquetas | — |
 | Reclamada por | — |
@@ -129,14 +129,14 @@ Copia de las tareas del proyecto **Biavent** (BIA) de Agent Desk, exportada el 2
 
 | Campo | Valor |
 |---|---|
-| ID | 9f3fb907-cf92-405d-ada8-13dab2ff39e4 |
+| ID | f818728e-4eaf-4c8d-accd-7deaa25ea043 |
 | Estado | todo |
 | Prioridad | none |
 | Autonomía | do_with_approval |
 | Fecha límite | — |
 | Hora límite | — |
 | Recurrencia | — |
-| Asignada a | agent: Notis (59d74399-b11f-47b2-96d9-d44113d1ca44) |
+| Asignada a | agent: Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc) |
 | Tarea padre | — |
 | Etiquetas | — |
 | Reclamada por | — |
