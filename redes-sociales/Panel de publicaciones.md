@@ -4,7 +4,7 @@ tags:
   - linkedin
   - redes-sociales
 date_created: 2026-10-17
-date_modified: 2026-10-27
+date_modified: 2026-10-28
 ---
 
 # Panel de publicaciones
@@ -15,6 +15,7 @@ Nota de control de las publicaciones en redes. Al publicarse un post, se mueve d
 
 | Fecha y hora (Madrid) | Red | Post | Estado |
 | --- | --- | --- | --- |
+| Jue 29/10/2026 14:00 | LinkedIn | [[Post LinkedIn - MCP es el enchufe - 2026-10-28]] | Programado |
 
 ## Publicados
 
@@ -27,7 +28,6 @@ Nota de control de las publicaciones en redes. Al publicarse un post, se mueve d
 ## Borradores pendientes
 
 - [[Post LinkedIn - Meta Muse Wonder - 2026-10-13]] (LinkedIn, sin publicar)
-- [[Post LinkedIn - MCP es el enchufe - 2026-10-28]] (LinkedIn, pendiente de aprobación de Kike)
 
 ## Estadísticas
 

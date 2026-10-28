@@ -4,7 +4,7 @@ tags:
   - redes-sociales
   - linkedin
 date_created: 2026-10-17
-date_modified: 2026-10-27
+date_modified: 2026-10-28
 ---
 
 # Calendario de publicaciones
@@ -18,6 +18,7 @@ Vista de calendario de los posts programados y publicados. El detalle (estado, e
 | Lun 19/10/2026 | 14:07 | LinkedIn | [[Post LinkedIn - Meta Muse Spark Open - 2026-10-16]] | Publicado |
 | Mié 21/10/2026 | 14:08 | LinkedIn | [[Post LinkedIn - DeepSeek V4.1 Flash - 2026-10-17]] | Publicado |
 | Mar 27/10/2026 | 14:07 | LinkedIn | [[Post LinkedIn - Agent Skills AAIF - 2026-10-24]] | Publicado |
+| Jue 29/10/2026 | 14:00 | LinkedIn | [[Post LinkedIn - MCP es el enchufe - 2026-10-28]] | Programado |
 
 ## Relacionado
 - [[Panel de publicaciones]]
