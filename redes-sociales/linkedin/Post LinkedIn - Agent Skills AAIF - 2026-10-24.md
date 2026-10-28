@@ -16,7 +16,7 @@ tags:
   - agentes-ia
   - open-source
 date_created: 2026-10-24
-date_modified: 2026-10-27
+date_modified: 2026-10-28
 ---
 
 # Post LinkedIn - Agent Skills AAIF
@@ -59,6 +59,7 @@ Usa la imagen de referencia que te adjunto (mi personaje) como protagonista prin
 ![[Post LinkedIn - Agent Skills AAIF - 2026-10-24.png]]
 
 ## Relacionado
+- [[Post LinkedIn - MCP es el enchufe - 2026-10-28]] (continuación)
 - [[Panel de publicaciones]]
 - [[MOC LinkedIn]]
 - [[MOC Inteligencia Artificial]]

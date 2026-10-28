@@ -27,6 +27,7 @@ Nota de control de las publicaciones en redes. Al publicarse un post, se mueve d
 ## Borradores pendientes
 
 - [[Post LinkedIn - Meta Muse Wonder - 2026-10-13]] (LinkedIn, sin publicar)
+- [[Post LinkedIn - MCP es el enchufe - 2026-10-28]] (LinkedIn, pendiente de aprobación de Kike)
 
 ## Estadísticas
 
