@@ -2,9 +2,10 @@
 title: Post LinkedIn - MCP es el enchufe
 fecha_noticia: 2026-10-27
 red: LinkedIn
-estado: programado
+estado: publicado
 fecha_publicacion: 2026-10-29
-hora_publicacion: "14:00"
+hora_publicacion: "14:14"
+enlace_publicacion: https://www.linkedin.com/feed/update/urn:li:share:7521560113606737920/
 sources:
   - https://www.unite.ai/es/mcp-enterprise-ai-saas-differentiation/
 tags:
@@ -14,12 +15,12 @@ tags:
   - mcp
   - saas
 date_created: 2026-10-28
-date_modified: 2026-10-28
+date_modified: 2026-10-29
 ---
 
 # Post LinkedIn - MCP es el enchufe
 
-Aprobado por Kike. Programado para el jueves 29/10/2026 a las 14:00 (Madrid).
+Publicado el jueves 29/10/2026 a las 14:14 (Madrid). [Ver post en LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7521560113606737920/).
 
 Fuente: [Unite.AI](https://www.unite.ai/es/mcp-enterprise-ai-saas-differentiation/) (27/10/2026), artículo de Vrushali Paunikar, directora de producto de Carta.
 
