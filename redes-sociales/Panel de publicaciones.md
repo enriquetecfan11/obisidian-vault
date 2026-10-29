@@ -28,6 +28,7 @@ Nota de control de las publicaciones en redes. Al publicarse un post, se mueve d
 ## Borradores pendientes
 
 - [[Post LinkedIn - Meta Muse Wonder - 2026-10-13]] (LinkedIn, sin publicar)
+- [[Post LinkedIn - n8n Agents y 3.0 - 2026-10-29]] (LinkedIn, pendiente de aprobación de Kike; fecha propuesta: mar 03/11/2026 14:00)
 
 ## Estadísticas
 
