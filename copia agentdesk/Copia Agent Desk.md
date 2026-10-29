@@ -6,14 +6,14 @@ tags:
   - backup
   - indice
 date_created: 2026-10-24
-date_modified: 2026-10-27
+date_modified: 2026-10-29
 ---
 
 # Copia Agent Desk
 
 Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo el 24/10/2026, antes de mover Agent Desk de sitio, y esta versión está actualizada con la instancia nueva. Es una exportación de solo lectura: no se cambió nada en Agent Desk. El historial de git conserva la versión anterior.
 
-- **Última lectura:** 27/10/2026, 09:12 (hora de Madrid), en directo desde el conector de Agent Desk. Coincide con la copia programada que pasó Notis (leída a las 09:10).
+- **Última actualización:** 29/10/2026, 09:00 (hora de Madrid), con la copia programada que pasó Notis. La lectura anterior en directo desde el conector fue el 27/10/2026 a las 09:12.
 - **Cuenta usada:** agente Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc), estado active, capacidades: proyectos, notas, utilidades
 - **Permisos del acceso:** tasks:read, tasks:write, delegations:read, delegations:write, runs:read, runs:write, notes:read, notes:write, projects:read, projects:write, activity:read
 - **Cola en ese momento:** 1 tarea y 0 delegaciones
@@ -33,7 +33,11 @@ Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo 
 | Notas | 1 |
 | Delegaciones | 0 |
 
-## Cambios desde la copia del 24/10
+## Cambios desde la copia del 27/10
+
+Ninguno. La copia del 29/10/2026 a las 09:00 coincide con la anterior: los mismos 3 proyectos, las mismas 5 tareas (4 hechas y 1 en todo), la misma nota de Orion y ninguna delegación.
+
+## Cambios entre la copia del 24/10 y la del 27/10
 
 - Agent Desk se ha movido a una instancia nueva: han cambiado todos los IDs (proyectos, tareas y el agente Notis, que antes era `59d74399-…` y ahora es `eecefdf7-…`, con capacidades proyectos, notas y utilidades).
 - Proyecto nuevo: **Tareas personales** (TAP), sin tareas.

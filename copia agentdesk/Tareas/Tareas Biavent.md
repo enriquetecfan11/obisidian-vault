@@ -6,12 +6,12 @@ tags:
   - backup
   - biavent
 date_created: 2026-10-24
-date_modified: 2026-10-27
+date_modified: 2026-10-29
 ---
 
 # Tareas Biavent
 
-Copia de las tareas del proyecto **Biavent** (BIA, id `c7525703-c2c9-4681-bd02-1154b92f25ae`) de Agent Desk, leída el 27/10/2026 a las 09:12 (hora de Madrid). Índice: [[Copia Agent Desk]].
+Copia de las tareas del proyecto **Biavent** (BIA, id `c7525703-c2c9-4681-bd02-1154b92f25ae`) de Agent Desk, leída el 27/10/2026 a las 09:12 (hora de Madrid) y confirmada sin cambios con la copia del 29/10/2026 a las 09:00. Índice: [[Copia Agent Desk]].
 
 ## Mostrar en el panel del organizador el número de chats con conversación
 
