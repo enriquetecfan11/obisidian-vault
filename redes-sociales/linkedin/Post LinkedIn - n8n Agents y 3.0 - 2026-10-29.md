@@ -63,7 +63,7 @@ Usa la imagen de referencia que adjunto como personaje principal: es mi muñeco,
 
 ## Imagen
 
-<!-- Pendiente: guardar la imagen en redes-sociales/linkedin/adjuntos/ como "Post LinkedIn - n8n Agents y 3.0 - 2026-10-29.png" y embeberla aquí. -->
+![[Post LinkedIn - n8n Agents y 3.0 - 2026-10-29.png]]
 
 ## Relacionado
 
