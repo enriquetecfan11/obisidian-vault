@@ -10,7 +10,7 @@ tags:
   - pkm
 project: none
 date_created: 2026-10-05
-date_modified: 2026-10-05
+date_modified: 2026-10-30
 status: active
 ---
 # MOC IA Local
@@ -28,6 +28,7 @@ Ejecutar modelos LLM en local (llama.cpp y Ollama) sin depender solo de APIs clo
 ## Ollama y Docker
 
 - [[Ollama Docker]] — exponer Ollama a contenedores / n8n
+- [[Ollama - Monitorización con Prometheus y Grafana]] — Prometheus + Grafana + DCGM para Ollama
 - [[Docker]] — cheatsheet Docker
 
 ## Modelos locales y su montaje

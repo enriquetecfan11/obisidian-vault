@@ -8,7 +8,7 @@ tags:
   - pkm
 project: none
 date_created: 2026-10-05
-date_modified: 2026-10-05
+date_modified: 2026-10-30
 status: active
 ---
 # MOC DevOps
@@ -40,6 +40,7 @@ status: active
 
 - [[Docker]] — cheatsheet de comandos Docker
 - [[Ollama Docker]] — Ollama expuesto a contenedores
+- [[Ollama - Monitorización con Prometheus y Grafana]] — observabilidad Ollama (Prometheus, Grafana, DCGM)
 - [[Bases de Datos]]
 - [[QDrant]] — vector database
 - [[Tablas PostgreSQL N8N]]
