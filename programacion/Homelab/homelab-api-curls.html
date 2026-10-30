@@ -1,0 +1,1070 @@
+<title>Hermes API Curls</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600&display=swap">
+
+<style>
+  /* Layout: sidebar category nav + main content column */
+  :root {
+    --bg:       #0e1117;
+    --bg2:      #161b25;
+    --bg3:      #1e2636;
+    --border:   #2a3448;
+    --fg:       #d0daea;
+    --fg2:      #8898b8;
+    --accent:   #3dd6f5;
+    --accent2:  #2ab8d3;
+    --green:    #3df5a0;
+    --yellow:   #f5d23d;
+    --red:      #f56060;
+    --tag-get:   #1a4a3a;
+    --tag-get-fg: #3df5a0;
+    --tag-post:  #1a3a4a;
+    --tag-post-fg: #3dd6f5;
+    --tag-put:   #3a3a1a;
+    --tag-put-fg: #f5d23d;
+    --tag-del:   #4a1a1a;
+    --tag-del-fg: #f56060;
+    --tag-patch: #3a1a4a;
+    --tag-patch-fg: #c47ef5;
+    --mono: 'JetBrains Mono', 'Cascadia Code', 'Consolas', monospace;
+    --sans: 'Inter', system-ui, sans-serif;
+    color-scheme: dark;
+  }
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+      --bg:      #f3f5f9;
+      --bg2:     #ffffff;
+      --bg3:     #eaecf3;
+      --border:  #d0d6e8;
+      --fg:      #1a2133;
+      --fg2:     #5a6a8a;
+      --accent:  #007fa3;
+      --accent2: #006a8a;
+      --green:   #0a7a50;
+      --yellow:  #8a7000;
+      --red:     #c03030;
+      --tag-get:   #d4f5e9;
+      --tag-get-fg: #0a7a50;
+      --tag-post:  #d4ecf5;
+      --tag-post-fg: #006a8a;
+      --tag-put:   #f5efd4;
+      --tag-put-fg: #8a7000;
+      --tag-del:   #f5d4d4;
+      --tag-del-fg: #c03030;
+      --tag-patch: #ead4f5;
+      --tag-patch-fg: #7a3aaa;
+      color-scheme: light;
+    }
+  }
+  :root[data-theme="light"] {
+    --bg:      #f3f5f9;
+    --bg2:     #ffffff;
+    --bg3:     #eaecf3;
+    --border:  #d0d6e8;
+    --fg:      #1a2133;
+    --fg2:     #5a6a8a;
+    --accent:  #007fa3;
+    --accent2: #006a8a;
+    --green:   #0a7a50;
+    --yellow:  #8a7000;
+    --red:     #c03030;
+    --tag-get:   #d4f5e9;
+    --tag-get-fg: #0a7a50;
+    --tag-post:  #d4ecf5;
+    --tag-post-fg: #006a8a;
+    --tag-put:   #f5efd4;
+    --tag-put-fg: #8a7000;
+    --tag-del:   #f5d4d4;
+    --tag-del-fg: #c03030;
+    --tag-patch: #ead4f5;
+    --tag-patch-fg: #7a3aaa;
+    color-scheme: light;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: var(--sans);
+    font-size: 14px;
+    line-height: 1.6;
+    min-height: 100%;
+    padding-left: max(16px, env(safe-area-inset-left, 0px));
+    padding-right: max(16px, env(safe-area-inset-right, 0px));
+    padding-block: 0;
+  }
+
+  .layout {
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    grid-template-rows: auto 1fr;
+    min-height: 100vh;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  /* ── Header ── */
+  .header {
+    grid-column: 1 / -1;
+    padding: 20px 0 16px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .header-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex: 1;
+    min-width: 0;
+  }
+  .header-logo {
+    width: 36px;
+    height: 36px;
+    background: var(--accent);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .header-logo svg { display: block; }
+  h1 {
+    font-family: var(--mono);
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0;
+    color: var(--fg);
+    letter-spacing: -0.3px;
+  }
+  .header-sub {
+    font-size: 12px;
+    color: var(--fg2);
+    margin-top: 2px;
+    font-family: var(--mono);
+  }
+  .token-bar {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 6px 10px;
+    min-width: 260px;
+  }
+  .token-bar label {
+    font-size: 11px;
+    color: var(--fg2);
+    white-space: nowrap;
+    font-family: var(--mono);
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .token-bar input {
+    flex: 1;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 0;
+  }
+  .token-bar input::placeholder { color: var(--fg2); }
+  .token-hint {
+    font-size: 11px;
+    color: var(--fg2);
+    grid-column: 1/-1;
+    font-family: var(--mono);
+    padding-bottom: 4px;
+  }
+  .token-hint code {
+    background: var(--bg3);
+    padding: 1px 5px;
+    border-radius: 3px;
+    color: var(--accent);
+  }
+
+  /* ── Sidebar ── */
+  .sidebar {
+    padding: 20px 16px 20px 0;
+    border-right: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+    max-height: 100vh;
+    overflow-y: auto;
+    align-self: start;
+  }
+  .sidebar-search {
+    width: 100%;
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 6px 10px;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--fg);
+    outline: none;
+    margin-bottom: 14px;
+  }
+  .sidebar-search::placeholder { color: var(--fg2); }
+  .sidebar-search:focus { border-color: var(--accent); }
+  .nav-group { margin-bottom: 4px; }
+  .nav-label {
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--fg2);
+    padding: 8px 6px 4px;
+  }
+  .nav-link {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    padding: 5px 8px;
+    border-radius: 6px;
+    font-size: 13px;
+    color: var(--fg2);
+    cursor: pointer;
+    text-decoration: none;
+    transition: background 0.1s, color 0.1s;
+    border: none;
+    background: none;
+    width: 100%;
+    text-align: left;
+    font-family: var(--sans);
+  }
+  .nav-link:hover { background: var(--bg3); color: var(--fg); }
+  .nav-link.active { background: var(--bg3); color: var(--accent); }
+  .nav-dot {
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    background: var(--border);
+    flex-shrink: 0;
+  }
+  .nav-link.active .nav-dot { background: var(--accent); }
+  .nav-count {
+    margin-left: auto;
+    font-size: 10px;
+    background: var(--bg3);
+    padding: 1px 5px;
+    border-radius: 10px;
+    color: var(--fg2);
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* ── Main ── */
+  .main {
+    padding: 24px 0 24px 28px;
+    min-width: 0;
+  }
+  .section { margin-bottom: 36px; }
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 14px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--border);
+  }
+  .section-icon {
+    font-size: 16px;
+    line-height: 1;
+  }
+  .section-title {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--fg);
+    margin: 0;
+  }
+  .section-desc {
+    font-size: 12px;
+    color: var(--fg2);
+    margin-left: auto;
+  }
+
+  /* ── Endpoint cards ── */
+  .endpoint {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    transition: border-color 0.15s;
+  }
+  .endpoint:hover { border-color: var(--accent); }
+  .endpoint-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 14px;
+    cursor: pointer;
+    user-select: none;
+  }
+  .method-badge {
+    font-family: var(--mono);
+    font-size: 10px;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 4px;
+    flex-shrink: 0;
+    letter-spacing: 0.5px;
+  }
+  .get    { background: var(--tag-get);   color: var(--tag-get-fg); }
+  .post   { background: var(--tag-post);  color: var(--tag-post-fg); }
+  .put    { background: var(--tag-put);   color: var(--tag-put-fg); }
+  .delete { background: var(--tag-del);   color: var(--tag-del-fg); }
+  .patch  { background: var(--tag-patch); color: var(--tag-patch-fg); }
+  .endpoint-path {
+    font-family: var(--mono);
+    font-size: 13px;
+    color: var(--fg);
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .endpoint-desc {
+    font-size: 12px;
+    color: var(--fg2);
+    flex-shrink: 0;
+  }
+  .chevron {
+    color: var(--fg2);
+    font-size: 11px;
+    flex-shrink: 0;
+    transition: transform 0.15s;
+  }
+  .endpoint.open .chevron { transform: rotate(90deg); }
+
+  .endpoint-body {
+    display: none;
+    border-top: 1px solid var(--border);
+  }
+  .endpoint.open .endpoint-body { display: block; }
+
+  .curl-block {
+    position: relative;
+    background: var(--bg);
+    padding: 12px 14px;
+  }
+  .curl-block pre {
+    margin: 0;
+    font-family: var(--mono);
+    font-size: 12px;
+    line-height: 1.7;
+    color: var(--fg);
+    white-space: pre-wrap;
+    word-break: break-all;
+    padding-right: 48px;
+  }
+  .copy-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    color: var(--fg2);
+    font-family: var(--mono);
+    font-size: 11px;
+    padding: 3px 8px;
+    cursor: pointer;
+    transition: background 0.1s, color 0.1s, border-color 0.1s;
+  }
+  .copy-btn:hover { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+  .copy-btn.copied { background: var(--green); color: var(--bg); border-color: var(--green); }
+
+  .curl-note {
+    padding: 8px 14px;
+    font-size: 12px;
+    color: var(--fg2);
+    border-top: 1px solid var(--border);
+    background: var(--bg2);
+  }
+  .curl-note code {
+    font-family: var(--mono);
+    color: var(--accent);
+    font-size: 11px;
+  }
+
+  /* ── Syntax coloring ── */
+  .kw  { color: var(--accent); }
+  .url { color: var(--yellow); }
+  .str { color: var(--green); }
+  .flag{ color: var(--fg2); }
+  .var { color: #c47ef5; }
+
+  /* ── No results ── */
+  .no-results {
+    text-align: center;
+    padding: 48px 16px;
+    color: var(--fg2);
+    font-family: var(--mono);
+    font-size: 13px;
+    display: none;
+  }
+  .no-results.show { display: block; }
+
+  /* ── Responsive ── */
+  @media (max-width: 680px) {
+    .layout {
+      grid-template-columns: 1fr;
+    }
+    .sidebar {
+      position: static;
+      max-height: none;
+      border-right: none;
+      border-bottom: 1px solid var(--border);
+      padding: 16px 0;
+      display: flex;
+      gap: 4px;
+      flex-wrap: wrap;
+      overflow-x: auto;
+    }
+    .nav-group { display: flex; flex-wrap: wrap; gap: 4px; }
+    .nav-label { display: none; }
+    .sidebar-search { display: none; }
+    .nav-link { font-size: 12px; padding: 4px 8px; white-space: nowrap; }
+    .main { padding: 16px 0; }
+    .endpoint-desc { display: none; }
+    .token-bar { min-width: 200px; }
+  }
+</style>
+
+<div class="layout">
+  <!-- Header -->
+  <header class="header">
+    <div class="header-title">
+      <div class="header-logo">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+          <path d="M3 5h14M3 10h10M3 15h7" stroke="#0e1117" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <div>
+        <h1>hermes serve — API</h1>
+        <div class="header-sub">http://127.0.0.1:9119 · REST + WebSocket</div>
+      </div>
+    </div>
+    <div class="token-bar">
+      <label>TOKEN</label>
+      <input id="tokenInput" type="text" placeholder="pegar token aquí…" spellcheck="false">
+    </div>
+    <div class="token-hint" style="width:100%">
+      Obtén el token con: <code>curl -s http://127.0.0.1:9119/ | grep -oP '(?&lt;=__HERMES_SESSION_TOKEN__ = ")[^"]*'</code>
+    </div>
+  </header>
+
+  <!-- Sidebar -->
+  <nav class="sidebar">
+    <input class="sidebar-search" id="searchInput" type="text" placeholder="Filtrar endpoints…">
+    <div id="navContainer"></div>
+  </nav>
+
+  <!-- Main -->
+  <main class="main" id="mainContent">
+    <div class="no-results" id="noResults">No hay endpoints que coincidan.</div>
+  </main>
+</div>
+
+<script>
+const HOST = 'http://127.0.0.1:9119';
+
+// Sections & endpoints data
+const sections = [
+  {
+    id: 'auth',
+    icon: '🔑',
+    title: 'Auth & Token',
+    desc: 'Obtener y verificar el token de sesión',
+    endpoints: [
+      {
+        method: 'GET', path: '/api/auth/me',
+        desc: 'Identidad del usuario actual',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  ${HOST}/api/auth/me | python3 -m json.tool`,
+        note: 'En modo loopback devuelve <code>provider: "loopback"</code>. Sin auth → 401.'
+      },
+      {
+        method: 'POST', path: '/api/auth/ws-ticket',
+        desc: 'Generar ticket de un solo uso para WebSocket',
+        curl: `curl -s -X POST \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  ${HOST}/api/auth/ws-ticket | python3 -m json.tool`,
+        note: 'El ticket expira en ~30 s y es de un solo uso. Úsalo en <code>?ticket=…</code> al conectar por WS.'
+      },
+    ]
+  },
+  {
+    id: 'status',
+    icon: '📡',
+    title: 'Estado del servidor',
+    desc: 'Health checks y métricas del sistema',
+    endpoints: [
+      {
+        method: 'GET', path: '/api/health',
+        desc: 'Health check básico',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  ${HOST}/api/health`,
+        note: 'Devuelve <code>{"ok": true}</code> si el servidor está en marcha.'
+      },
+      {
+        method: 'GET', path: '/api/status',
+        desc: 'Estado completo: gateway, plataformas, agentes',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  ${HOST}/api/status | python3 -m json.tool`,
+      },
+      {
+        method: 'GET', path: '/api/system/stats',
+        desc: 'Estadísticas del sistema (CPU, memoria, disco)',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  ${HOST}/api/system/stats | python3 -m json.tool`,
+      },
+      {
+        method: 'GET', path: '/api/host/identity',
+        desc: 'Identidad del host (nombre, plataforma, versión)',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  ${HOST}/api/host/identity | python3 -m json.tool`,
+      },
+      {
+        method: 'GET', path: '/api/health/idle',
+        desc: 'Estado de inactividad del servidor',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  ${HOST}/api/health/idle`,
+      },
+    ]
+  },
+  {
+    id: 'sessions',
+    icon: '💬',
+    title: 'Sesiones',
+    desc: 'Listar, leer, buscar y gestionar sesiones de chat',
+    endpoints: [
+      {
+        method: 'GET', path: '/api/sessions',
+        desc: 'Listar sesiones',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/sessions?profile=default&order=recent" | python3 -m json.tool`,
+        note: 'Parámetros: <code>profile</code>, <code>order=created|recent</code>, <code>source</code>.'
+      },
+      {
+        method: 'GET', path: '/api/sessions/search',
+        desc: 'Buscar sesiones por texto',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/sessions/search?q=mi+consulta&profile=default" | python3 -m json.tool`,
+      },
+      {
+        method: 'GET', path: '/api/sessions/{id}',
+        desc: 'Obtener una sesión por ID',
+        curl: `SESSION_ID="tu-session-id-aqui"
+
+curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/sessions/$SESSION_ID" | python3 -m json.tool`,
+      },
+      {
+        method: 'GET', path: '/api/sessions/{id}/messages',
+        desc: 'Mensajes de una sesión',
+        curl: `SESSION_ID="tu-session-id-aqui"
+
+curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/sessions/$SESSION_ID/messages" | python3 -m json.tool`,
+      },
+      {
+        method: 'GET', path: '/api/sessions/{id}/timeline',
+        desc: 'Timeline de una sesión (herramientas, costes, tokens)',
+        curl: `SESSION_ID="tu-session-id-aqui"
+
+curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/sessions/$SESSION_ID/timeline" | python3 -m json.tool`,
+      },
+      {
+        method: 'GET', path: '/api/sessions/{id}/export',
+        desc: 'Exportar sesión como Markdown',
+        curl: `SESSION_ID="tu-session-id-aqui"
+
+curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/sessions/$SESSION_ID/export" -o "sesion-$SESSION_ID.md"`,
+      },
+      {
+        method: 'PATCH', path: '/api/sessions/{id}',
+        desc: 'Renombrar o archivar una sesión',
+        curl: `SESSION_ID="tu-session-id-aqui"
+
+curl -s -X PATCH \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  -H "Content-Type: application/json" \\
+  -d '{"title": "Nuevo nombre", "archived": false}' \\
+  "${HOST}/api/sessions/$SESSION_ID" | python3 -m json.tool`,
+      },
+      {
+        method: 'DELETE', path: '/api/sessions/{id}',
+        desc: 'Eliminar una sesión',
+        curl: `SESSION_ID="tu-session-id-aqui"
+
+curl -s -X DELETE \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/sessions/$SESSION_ID"`,
+      },
+      {
+        method: 'GET', path: '/api/sessions/stats',
+        desc: 'Estadísticas globales de todas las sesiones',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/sessions/stats?profile=default" | python3 -m json.tool`,
+      },
+      {
+        method: 'POST', path: '/api/sessions/bulk-delete',
+        desc: 'Eliminar varias sesiones a la vez',
+        curl: `curl -s -X POST \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  -H "Content-Type: application/json" \\
+  -d '{"session_ids": ["id1", "id2", "id3"]}' \\
+  "${HOST}/api/sessions/bulk-delete"`,
+      },
+      {
+        method: 'POST', path: '/api/sessions/prune',
+        desc: 'Limpiar sesiones vacías antiguas',
+        curl: `curl -s -X POST \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  -H "Content-Type: application/json" \\
+  -d '{}' \\
+  "${HOST}/api/sessions/prune" | python3 -m json.tool`,
+      },
+    ]
+  },
+  {
+    id: 'models',
+    icon: '🧠',
+    title: 'Modelos',
+    desc: 'Consultar y cambiar el modelo activo',
+    endpoints: [
+      {
+        method: 'GET', path: '/api/model/info',
+        desc: 'Modelo activo y proveedor',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/model/info?profile=default" | python3 -m json.tool`,
+      },
+      {
+        method: 'GET', path: '/api/model/options',
+        desc: 'Lista de modelos disponibles',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/model/options?profile=default&include_unconfigured=1" | python3 -m json.tool`,
+      },
+      {
+        method: 'GET', path: '/api/model/recommended-default',
+        desc: 'Modelo recomendado por defecto',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/model/recommended-default?profile=default" | python3 -m json.tool`,
+      },
+      {
+        method: 'POST', path: '/api/model/set',
+        desc: 'Cambiar el modelo activo',
+        curl: `curl -s -X POST \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  -H "Content-Type: application/json" \\
+  -d '{"model": "anthropic/claude-sonnet-4-6", "provider": "anthropic"}' \\
+  "${HOST}/api/model/set?profile=default" | python3 -m json.tool`,
+      },
+      {
+        method: 'GET', path: '/api/model/auxiliary',
+        desc: 'Modelos auxiliares asignados (resumen, cron, etc.)',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/model/auxiliary?profile=default" | python3 -m json.tool`,
+      },
+      {
+        method: 'GET', path: '/api/model/moa',
+        desc: 'Configuración de Mixture of Agents',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/model/moa?profile=default" | python3 -m json.tool`,
+      },
+    ]
+  },
+  {
+    id: 'config',
+    icon: '⚙️',
+    title: 'Configuración',
+    desc: 'Leer y modificar config.yaml y variables de entorno',
+    endpoints: [
+      {
+        method: 'GET', path: '/api/config',
+        desc: 'Leer config.yaml completo',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/config?profile=default" | python3 -m json.tool`,
+      },
+      {
+        method: 'GET', path: '/api/config/schema',
+        desc: 'Esquema JSON de la configuración',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/config/schema" | python3 -m json.tool`,
+      },
+      {
+        method: 'PUT', path: '/api/config',
+        desc: 'Actualizar config.yaml (merge parcial)',
+        curl: `curl -s -X PUT \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  -H "Content-Type: application/json" \\
+  -d '{"agent": {"reasoning_effort": "medium"}}' \\
+  "${HOST}/api/config?profile=default" | python3 -m json.tool`,
+        note: 'El body es un objeto parcial; se fusiona con la config existente.'
+      },
+      {
+        method: 'GET', path: '/api/env',
+        desc: 'Listar variables de entorno del perfil',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/env?profile=default" | python3 -m json.tool`,
+      },
+      {
+        method: 'PUT', path: '/api/env',
+        desc: 'Añadir o actualizar una variable de entorno',
+        curl: `curl -s -X PUT \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  -H "Content-Type: application/json" \\
+  -d '{"key": "MI_VAR", "value": "mi_valor"}' \\
+  "${HOST}/api/env?profile=default"`,
+      },
+      {
+        method: 'DELETE', path: '/api/env',
+        desc: 'Eliminar una variable de entorno',
+        curl: `curl -s -X DELETE \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  -H "Content-Type: application/json" \\
+  -d '{"key": "MI_VAR"}' \\
+  "${HOST}/api/env?profile=default"`,
+      },
+    ]
+  },
+  {
+    id: 'skills',
+    icon: '🎯',
+    title: 'Skills & Tools',
+    desc: 'Gestionar skills instaladas y toolsets',
+    endpoints: [
+      {
+        method: 'GET', path: '/api/skills',
+        desc: 'Listar skills instaladas',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/skills?profile=default" | python3 -m json.tool`,
+      },
+      {
+        method: 'GET', path: '/api/tools/toolsets',
+        desc: 'Toolsets disponibles y activos',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/tools/toolsets?profile=default" | python3 -m json.tool`,
+      },
+    ]
+  },
+  {
+    id: 'mcp',
+    icon: '🔌',
+    title: 'MCP Servers',
+    desc: 'Servidores MCP conectados',
+    endpoints: [
+      {
+        method: 'GET', path: '/api/mcp',
+        desc: 'Listar servidores MCP',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/mcp?profile=default" | python3 -m json.tool`,
+      },
+    ]
+  },
+  {
+    id: 'memory',
+    icon: '🧩',
+    title: 'Memoria',
+    desc: 'Proveedor de memoria y contexto',
+    endpoints: [
+      {
+        method: 'GET', path: '/api/memory',
+        desc: 'Configuración del proveedor de memoria',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/memory?profile=default" | python3 -m json.tool`,
+      },
+    ]
+  },
+  {
+    id: 'gateway',
+    icon: '📨',
+    title: 'Gateway & Mensajería',
+    desc: 'Estado del gateway y plataformas de mensajería',
+    endpoints: [
+      {
+        method: 'GET', path: '/api/gateway',
+        desc: 'Estado del gateway (plataformas activas)',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/gateway?profile=default" | python3 -m json.tool`,
+      },
+      {
+        method: 'GET', path: '/api/messaging/platforms',
+        desc: 'Plataformas de mensajería configuradas',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/messaging/platforms?profile=default" | python3 -m json.tool`,
+      },
+    ]
+  },
+  {
+    id: 'cron',
+    icon: '⏰',
+    title: 'Cron Jobs',
+    desc: 'Trabajos programados',
+    endpoints: [
+      {
+        method: 'GET', path: '/api/cron',
+        desc: 'Listar cron jobs',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/cron" | python3 -m json.tool`,
+      },
+    ]
+  },
+  {
+    id: 'curator',
+    icon: '🗂️',
+    title: 'Curator',
+    desc: 'Mantenimiento automático de skills y memoria',
+    endpoints: [
+      {
+        method: 'GET', path: '/api/curator',
+        desc: 'Estado del curator (última ejecución, pausado)',
+        curl: `curl -s \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  "${HOST}/api/curator?profile=default" | python3 -m json.tool`,
+      },
+      {
+        method: 'PUT', path: '/api/curator/paused',
+        desc: 'Pausar o reanudar el curator',
+        curl: `# Pausar
+curl -s -X PUT \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  -H "Content-Type: application/json" \\
+  -d '{"paused": true}' \\
+  "${HOST}/api/curator/paused?profile=default"`,
+      },
+      {
+        method: 'POST', path: '/api/curator/run',
+        desc: 'Lanzar el curator manualmente',
+        curl: `curl -s -X POST \\
+  -H "X-Hermes-Session-Token: {TOKEN}" \\
+  -H "Content-Type: application/json" \\
+  -d '{}' \\
+  "${HOST}/api/curator/run?profile=default"`,
+      },
+    ]
+  },
+  {
+    id: 'websocket',
+    icon: '⚡',
+    title: 'WebSocket',
+    desc: 'Conexiones en tiempo real: PTY y JSON-RPC',
+    endpoints: [
+      {
+        method: 'GET', path: '/api/pty (WS)',
+        desc: 'Terminal PTY — conectar a hermes --tui',
+        curl: `# Requiere websocat o similar
+TOKEN="tu-token"
+websocat "ws://127.0.0.1:9119/api/pty?token=$TOKEN"
+
+# O con wscat:
+wscat -c "ws://127.0.0.1:9119/api/pty?token=$TOKEN"`,
+        note: 'Bytes PTY en bruto. El resize viaja como <code>\\x1b[RESIZE:&lt;cols&gt;;&lt;rows&gt;]</code>.'
+      },
+      {
+        method: 'GET', path: '/api/ws (WS)',
+        desc: 'JSON-RPC sobre WebSocket (dashboard)',
+        curl: `TOKEN="tu-token"
+websocat "ws://127.0.0.1:9119/api/ws?token=$TOKEN"`,
+        note: 'Protocolo JSON-RPC 2.0 — lo usa el dashboard React para eventos en tiempo real.'
+      },
+      {
+        method: 'GET', path: '/api/events (WS)',
+        desc: 'Feed de eventos del sidebar del chat',
+        curl: `TOKEN="tu-token"
+CHANNEL="default"
+websocat "ws://127.0.0.1:9119/api/events?token=$TOKEN&channel=$CHANNEL"`,
+      },
+    ]
+  },
+];
+
+// ── Render ──────────────────────────────────────────────────────────────
+const main = document.getElementById('mainContent');
+const navContainer = document.getElementById('navContainer');
+const searchInput = document.getElementById('searchInput');
+const tokenInput = document.getElementById('tokenInput');
+const noResults = document.getElementById('noResults');
+
+let token = '';
+
+// Load saved token
+try {
+  token = localStorage.getItem('hermes_api_token') || '';
+  if (token) tokenInput.value = token;
+} catch {}
+
+tokenInput.addEventListener('input', () => {
+  token = tokenInput.value.trim();
+  try { localStorage.setItem('hermes_api_token', token); } catch {}
+  document.querySelectorAll('[data-raw-curl]').forEach(el => {
+    el.textContent = resolveToken(el.dataset.rawCurl);
+  });
+});
+
+function resolveToken(raw) {
+  return raw.replace(/\{TOKEN\}/g, token || '<TOKEN>');
+}
+
+function renderCurl(raw) {
+  const resolved = resolveToken(raw);
+  return resolved
+    .replace(/^(curl)/gm, '<span class="kw">$1</span>')
+    .replace(/(https?:\/\/[^\s\\]+)/g, '<span class="url">$1</span>')
+    .replace(/(-[a-zA-Z]+)/g, '<span class="flag">$1</span>')
+    .replace(/('[^']*')/g, '<span class="str">$1</span>')
+    .replace(/("(?:[^"\\]|\\.)*")/g, '<span class="str">$1</span>');
+}
+
+// Build nav + sections
+sections.forEach(sec => {
+  // Nav link
+  const navGroup = document.createElement('div');
+  navGroup.className = 'nav-group';
+  navGroup.innerHTML = `
+    <button class="nav-link" data-section="${sec.id}">
+      <span>${sec.icon}</span>
+      <span>${sec.title}</span>
+      <span class="nav-count">${sec.endpoints.length}</span>
+    </button>`;
+  navContainer.appendChild(navGroup);
+
+  // Section
+  const section = document.createElement('section');
+  section.className = 'section';
+  section.dataset.sectionId = sec.id;
+
+  const header = document.createElement('div');
+  header.className = 'section-header';
+  header.id = `sec-${sec.id}`;
+  header.innerHTML = `
+    <span class="section-icon">${sec.icon}</span>
+    <h2 class="section-title">${sec.title}</h2>
+    <span class="section-desc">${sec.desc}</span>`;
+  section.appendChild(header);
+
+  sec.endpoints.forEach(ep => {
+    const card = document.createElement('div');
+    card.className = 'endpoint';
+    card.dataset.method = ep.method;
+    card.dataset.path = ep.path.toLowerCase();
+    card.dataset.desc = ep.desc.toLowerCase();
+
+    const mClass = ep.method.toLowerCase().replace(' (ws)', '');
+
+    card.innerHTML = `
+      <div class="endpoint-header">
+        <span class="method-badge ${mClass}">${ep.method}</span>
+        <span class="endpoint-path">${ep.path}</span>
+        <span class="endpoint-desc">${ep.desc}</span>
+        <span class="chevron">▶</span>
+      </div>
+      <div class="endpoint-body">
+        <div class="curl-block">
+          <pre data-raw-curl="${ep.curl.replace(/"/g, '&quot;')}" class="curl-code">${renderCurl(ep.curl)}</pre>
+          <button class="copy-btn">Copiar</button>
+        </div>
+        ${ep.note ? `<div class="curl-note">${ep.note}</div>` : ''}
+      </div>`;
+
+    // Toggle
+    card.querySelector('.endpoint-header').addEventListener('click', () => {
+      card.classList.toggle('open');
+    });
+
+    // Copy
+    card.querySelector('.copy-btn').addEventListener('click', async (e) => {
+      e.stopPropagation();
+      const pre = card.querySelector('[data-raw-curl]');
+      const text = resolveToken(pre.dataset.rawCurl);
+      const btn = card.querySelector('.copy-btn');
+      try {
+        await navigator.clipboard.writeText(text);
+      } catch {
+        // fallback: select
+        const r = document.createRange();
+        r.selectNodeContents(pre);
+        window.getSelection().removeAllRanges();
+        window.getSelection().addRange(r);
+      }
+      btn.textContent = '✓ Copiado';
+      btn.classList.add('copied');
+      setTimeout(() => { btn.textContent = 'Copiar'; btn.classList.remove('copied'); }, 1800);
+    });
+
+    section.appendChild(card);
+  });
+
+  main.appendChild(section);
+});
+
+// Nav click → scroll
+navContainer.querySelectorAll('.nav-link').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const el = document.getElementById(`sec-${btn.dataset.section}`);
+    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+});
+
+// Search filter
+searchInput.addEventListener('input', () => {
+  const q = searchInput.value.trim().toLowerCase();
+  let anyVisible = false;
+
+  document.querySelectorAll('.section').forEach(sec => {
+    let secVisible = false;
+    sec.querySelectorAll('.endpoint').forEach(card => {
+      const match = !q
+        || card.dataset.path.includes(q)
+        || card.dataset.method.toLowerCase().includes(q)
+        || card.dataset.desc.includes(q);
+      card.style.display = match ? '' : 'none';
+      if (match) secVisible = true;
+    });
+    sec.style.display = secVisible ? '' : 'none';
+    if (secVisible) anyVisible = true;
+  });
+
+  noResults.classList.toggle('show', !anyVisible && !!q);
+});
+</script>
