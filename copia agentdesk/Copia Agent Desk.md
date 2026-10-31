@@ -6,14 +6,14 @@ tags:
   - backup
   - indice
 date_created: 2026-10-24
-date_modified: 2026-10-29
+date_modified: 2026-10-31
 ---
 
 # Copia Agent Desk
 
 Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo el 24/10/2026, antes de mover Agent Desk de sitio, y esta versión está actualizada con la instancia nueva. Es una exportación de solo lectura: no se cambió nada en Agent Desk. El historial de git conserva la versión anterior.
 
-- **Última actualización:** 29/10/2026, 09:00 (hora de Madrid), con la copia programada que pasó Notis. La lectura anterior en directo desde el conector fue el 27/10/2026 a las 09:12.
+- **Última actualización:** 31/10/2026, 09:00 (hora de Madrid), con la copia programada que pasó Notis. La lectura anterior en directo desde el conector fue el 27/10/2026 a las 09:12.
 - **Cuenta usada:** agente Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc), estado active, capacidades: proyectos, notas, utilidades
 - **Permisos del acceso:** tasks:read, tasks:write, delegations:read, delegations:write, runs:read, runs:write, notes:read, notes:write, projects:read, projects:write, activity:read
 - **Cola en ese momento:** 1 tarea y 0 delegaciones
@@ -23,19 +23,25 @@ Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo 
 | Elemento | Cantidad |
 |---|---|
 | Proyectos | 3 |
-| Tareas (total) | 5 |
-| Tareas en backlog | 0 |
+| Tareas (total) | 6 |
+| Tareas en backlog | 1 |
 | Tareas en todo | 1 |
 | Tareas en in_progress | 0 |
 | Tareas en review | 0 |
 | Tareas en done | 4 |
 | Tareas en cancelled | 0 |
-| Notas | 1 |
+| Notas | 2 |
 | Delegaciones | 0 |
 
-## Cambios desde la copia del 27/10
+## Cambios desde la copia del 29/10
 
-Ninguno. La copia del 29/10/2026 a las 09:00 coincide con la anterior: los mismos 3 proyectos, las mismas 5 tareas (4 hechas y 1 en todo), la misma nota de Orion y ninguna delegación.
+- Tarea nueva sin proyecto: **Mejorar dashboard** (backlog, prioridad normal, asignada a Orion). Ver [[Tareas sin proyecto]].
+- Nota nueva: [[Hermes Homelab Api]], de Enrique Rodriguez Vela, creada el 30/10/2026. La clave de la API no está en la copia.
+- No ha desaparecido nada: siguen los 3 proyectos, las 5 tareas de Biavent, la nota INFRA y ninguna delegación.
+
+## Cambios entre la copia del 27/10 y la del 29/10
+
+Ninguno.
 
 ## Cambios entre la copia del 24/10 y la del 27/10
 
@@ -64,6 +70,10 @@ Ninguno. La copia del 29/10/2026 a las 09:00 coincide con la anterior: los mismo
 - Revisar el tamaño del chat y por qué se cierra el teclado al enviar un mensaje (done)
 - Probar la app en un dispositivo sin instalarla (Android e iOS) (todo)
 
+### [[Tareas sin proyecto]]
+
+- Mejorar dashboard (backlog, asignada a Orion)
+
 Ninguna tarea tiene subtareas, comentarios, runs ni aprobaciones.
 
 ## Notas
@@ -71,6 +81,7 @@ Ninguna tarea tiene subtareas, comentarios, runs ni aprobaciones.
 | Nota | Autor | Proyecto | Creada | Actualizada |
 |---|---|---|---|---|
 | [[INFRA - Mapa de la infraestructura]] | Orion (agente) | ninguno | 25/10/2026 | 25/10/2026 |
+| [[Hermes Homelab Api]] | Enrique Rodriguez Vela (humano) | ninguno | 30/10/2026 | 30/10/2026 |
 
 ## Delegaciones
 
