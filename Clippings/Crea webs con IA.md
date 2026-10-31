@@ -4,7 +4,6 @@ source: "https://www.javiggil.com/0d3763dddd65?r=story_web"
 author:
   - "[[Javi Gil]]"
 published: 2026-08-28
-created: 2026-10-17
 description: "El proceso entero para montar cualquier web con IA, sin saber programar: el contenido con ChatGPT, el diseño con v0, publicada en Vercel con dominio propio y con funcionalidades de verdad. Con los prompts exactos de cada paso."
 tags:
   - "clippings"

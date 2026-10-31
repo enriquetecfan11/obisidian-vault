@@ -4,7 +4,6 @@ source: "https://www.javiggil.com/e83ee63f7f13?r=email"
 author:
   - "[[Javi Gil]]"
 published: 2026-08-20
-created: 2026-10-17
 description: "El montaje completo, pieza por pieza: la petición a tu ayudante de IA por etapas, el código real de cada pieza, cuánto cuesta operarlo por mensaje, por qué la entrada es Telegram y no WhatsApp, y cómo venderlo a quien ya cobra por Notion."
 tags:
   - "clippings"

@@ -4,7 +4,6 @@ source: "https://comunidad.eriktaveras.com/resources/ornith-en-tu-homelab/"
 author:
   - "[[Erik Taveras]]"
 published: 2026-10-11
-created: 2026-10-17
 description: "Comunidad de desarrollo, automatización y AI. Aprende Python, JavaScript, automatización y más con Erik Taveras. Cursos, foro y recursos gratuitos."
 tags:
   - "clippings"

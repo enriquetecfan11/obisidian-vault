@@ -4,7 +4,6 @@ source: "https://comunidad.eriktaveras.com/resources/tamagotchi-meta-muse-gadget
 author:
   - "[[Erik Taveras]]"
 published: 2026-10-03
-created: 2026-10-17
 description: "Comunidad de desarrollo, automatización y AI. Aprende Python, JavaScript, automatización y más con Erik Taveras. Cursos, foro y recursos gratuitos."
 tags:
   - "clippings"

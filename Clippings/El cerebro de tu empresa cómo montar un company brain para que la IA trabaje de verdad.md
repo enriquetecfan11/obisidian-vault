@@ -4,7 +4,6 @@ source: "https://www.javiggil.com/abca36661667?r=story_brain"
 author:
   - "[[Javi Gil]]"
 published: 2026-10-07
-created: 2026-10-17
 description: "La guía completa para montar el company brain de tu empresa: qué es, cómo está hecho el nuestro por dentro (740 notas, ocho capas, cifras reales), las plantillas y el código para construirlo, un plan de noventa días con quince jugadas para meterlo en una empresa que ya funciona, y cómo se alimenta solo y se enchufa al chat y las herramientas del equipo."
 tags:
   - "clippings"

@@ -4,12 +4,12 @@ source: "https://comunidad.eriktaveras.com/resources/mi-ia-local-mapa-de-montaje
 author:
   - "[[Erik Taveras]]"
 published: 2026-10-13
-created: 2026-10-17
 description: "Comunidad de desarrollo, automatización y AI. Aprende Python, JavaScript, automatización y más con Erik Taveras. Cursos, foro y recursos gratuitos."
 tags:
   - "clippings"
-status: pendiente
-promoted_to:
+status: procesado
+promoted_to: "[[Mi IA local - mapa de montaje completo]]"
+date_modified: 2026-10-31
 ---
 ## 4 modelos, una máquina, 0 suscripciones: así trabaja mi IA mientras duermo
 

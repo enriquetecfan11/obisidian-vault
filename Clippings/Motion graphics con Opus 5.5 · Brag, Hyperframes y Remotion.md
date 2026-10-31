@@ -4,7 +4,6 @@ source: "https://www.tododeia.com/community/motion-graphics-opus-55"
 author:
   - "[[tododeia]]"
 published:
-created: 2026-10-17
 description: "Tres herramientas, un estudio. Brag convierte tu proyecto o sitio en un video de lanzamiento de 20 segundos con música y texto para compartir; Hyperframes te da control total en HTML; Remotion maneja series, plantillas y videos con datos. Aquí van los prompts listos, cómo elegir cuál usar, y cómo hacer que Opus revise sus propios frames."
 tags:
   - "clippings"
