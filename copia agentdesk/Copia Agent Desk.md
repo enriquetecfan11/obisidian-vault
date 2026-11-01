@@ -6,14 +6,14 @@ tags:
   - backup
   - indice
 date_created: 2026-10-24
-date_modified: 2026-10-31
+date_modified: 2026-11-01
 ---
 
 # Copia Agent Desk
 
 Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo el 24/10/2026, antes de mover Agent Desk de sitio, y esta versión está actualizada con la instancia nueva. Es una exportación de solo lectura: no se cambió nada en Agent Desk. El historial de git conserva la versión anterior.
 
-- **Última actualización:** 31/10/2026, 09:00 (hora de Madrid), con la copia programada que pasó Notis. La lectura anterior en directo desde el conector fue el 27/10/2026 a las 09:12.
+- **Última actualización:** 01/11/2026, 09:01 (hora de Madrid), con la copia programada que pasó Notis. La lectura anterior en directo desde el conector fue el 27/10/2026 a las 09:12.
 - **Cuenta usada:** agente Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc), estado active, capacidades: proyectos, notas, utilidades
 - **Permisos del acceso:** tasks:read, tasks:write, delegations:read, delegations:write, runs:read, runs:write, notes:read, notes:write, projects:read, projects:write, activity:read
 - **Cola en ese momento:** 1 tarea y 0 delegaciones
@@ -23,9 +23,9 @@ Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo 
 | Elemento | Cantidad |
 |---|---|
 | Proyectos | 3 |
-| Tareas (total) | 6 |
+| Tareas (total) | 7 |
 | Tareas en backlog | 1 |
-| Tareas en todo | 1 |
+| Tareas en todo | 2 |
 | Tareas en in_progress | 0 |
 | Tareas en review | 0 |
 | Tareas en done | 4 |
@@ -33,7 +33,13 @@ Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo 
 | Notas | 2 |
 | Delegaciones | 0 |
 
-## Cambios desde la copia del 29/10
+## Cambios desde la copia del 31/10
+
+- Tarea nueva sin proyecto: **Sincronizar vault Obsidian → Hindsight (diario 23:00)** (todo, prioridad normal, asignada a Orion, fecha límite 31/10/2026). Ver [[Tareas sin proyecto]].
+- Aviso: en [[INFRA - Mapa de la infraestructura]] figura un cron diario a las 03:00 para `sync_vault.sh`, y la tarea nueva habla de las 23:00 con un cron en Hermes.
+- No ha desaparecido nada. La nota INFRA llegó cortada en el backup («Notas operativas», a mitad de línea), así que se conserva la copia completa anterior, sin cambios desde el 25/10.
+
+## Cambios entre la copia del 29/10 y la del 31/10
 
 - Tarea nueva sin proyecto: **Mejorar dashboard** (backlog, prioridad normal, asignada a Orion). Ver [[Tareas sin proyecto]].
 - Nota nueva: [[Hermes Homelab Api]], de Enrique Rodriguez Vela, creada el 30/10/2026. La clave de la API no está en la copia.
@@ -73,6 +79,7 @@ Ninguno.
 ### [[Tareas sin proyecto]]
 
 - Mejorar dashboard (backlog, asignada a Orion)
+- Sincronizar vault Obsidian → Hindsight (diario 23:00) (todo, asignada a Orion, fecha límite 31/10/2026)
 
 Ninguna tarea tiene subtareas, comentarios, runs ni aprobaciones.
 
