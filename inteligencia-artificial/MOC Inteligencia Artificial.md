@@ -7,7 +7,7 @@ tags:
   - pkm
 project: none
 date_created: 2026-10-05
-date_modified: 2026-10-24
+date_modified: 2026-11-02
 status: active
 ---
 # MOC Inteligencia Artificial
@@ -42,6 +42,7 @@ status: active
 ## Infraestructura y APIs de IA
 
 - [[MOC IA Local]] — llama.cpp en local
+- [[Soup - Fine-tuning de modelos en local]] — fine-tuning local con soup-cli (LoRA / layer streaming)
 - [[Ollama Docker]] — Ollama en Docker/red
 - [[Evolution-API]] — WhatsApp API
 - [[Chatwoot - Evolution APi]] — CRM + WhatsApp
