@@ -79,7 +79,24 @@ No hay rutinas conocidas.
 
 Índice: [[OpenBot]].
 
-No hay rutinas conocidas.
+### Scribe · Notas — [[Scribe - Notas]]
+
+| Nombre | Horario | Qué hace | Estado | Última actualización |
+|---|---|---|---|---|
+| Actualizar Obsidian Vault | Diario, 23:00 | `git pull` en `/Users/enriquetecfan/Documents/obisidian-vault`, resuelve conflictos conservando ambas versiones, reporta commit/archivos/error. | Activa | 03/11/2026 |
+| Sincronizar vault → Hindsight | Diario, 03:00 | Sincroniza el vault con Hindsight vía `sync_vault.sh` (homelab). | Activa | 03/11/2026 |
+
+### Dixi · Mi diario personal — [[Dixi - Diario personal]]
+
+| Nombre | Horario | Qué hace | Estado | Última actualización |
+|---|---|---|---|---|
+| Resumen diario de agenda | Diario, 09:02 | Consulta el calendario vía `openbot_browser` y resume eventos de hoy. | Activa | 03/11/2026 |
+| Recordatorio: Revisar Supabase Biavent | Jueves, 19:00 | Recordatorio para revisar Supabase de Biavent. | Activa | 03/11/2026 |
+| Recordatorio: Revisar Stripe Nundu | Días 1 y 15, 19:00 | Recordatorio para revisar Stripe de Nundu. | Activa | 03/11/2026 |
+
+### Agentes sin rutinas
+
+- [[Altair - El jefe]]: ninguna propia.
 
 ## Relacionado
 
