@@ -8,23 +8,36 @@ date_modified: 2026-11-03
 status: active
 ---
 
-# Darío · Diario personal
+# Darío · Mi diario personal
+
+## Rol
+
+Diario personal.
 
 ## Qué hace
 
-Agente de diario personal: registra experiencias con fecha.
+Registra experiencias y reflexiones con fecha. Discreto; no inventa recuerdos.
+
+## Herramientas o conectores
+
+No especificado.
 
 ## Rutinas
 
-- **Resumen diario de agenda** — todos los días a las 09:02. Activa.
-- **Recordatorio: Revisar Supabase Biavent** — jueves a las 19:00. Activa.
-- **Recordatorio: Revisar Stripe Nundu** — días 1 y 15 de cada mes, hacia las 19:00 (±15 min). Activa.
+Ver [[Rutinas y cronjobs]]:
 
-## Colabora con
+- Resumen diario de agenda — todos los días a las 09:02. Activa.
+- Recordatorio: Revisar Supabase Biavent — jueves a las 19:00. Activa.
+- Recordatorio: Revisar Stripe Nundu — días 1 y 15 de cada mes, hacia las 19:00 (±15 min). Activa.
 
-[[Arvis - El jefe]].
+## Con quién colabora
 
-## Relacionado
+Solo con Kike (aislado por privacidad). [[Arvis - El jefe]] puede escribirle.
 
-- [[Grok Bot]]
-- [[Rutinas y cronjobs]]
+## Límites o reglas
+
+Su contenido es privado y no se comparte con otros agentes sin autorización de Kike.
+
+## Chat
+
+Se le habla en su propio chat de Grok Bot.

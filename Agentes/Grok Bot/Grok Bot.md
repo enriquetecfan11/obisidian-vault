@@ -15,14 +15,36 @@ status: active
 
 ## Agentes
 
-- [[Arvis - El jefe]] — coordinador
-- [[Nexo - Noticias]] — noticias de IA y tecnología
-- [[Pixel - Experto en Redes]] — redes sociales
-- [[Atlas - Notas]] — vault Obsidian
-- [[Darío - Diario personal]] — diario y recordatorios
-- [[Warren - Inversor en valor]] — mercados e inversión
-- [[Notis - AgentDesk]] — Agent Desk
-- [[Booki - Bookmarks de X]] — bookmarks de X
+| Agente | Rol | Nota |
+|---|---|---|
+| Arvis · El jefe | Asistente personal y coordinador | [[Arvis - El jefe]] |
+| Nexo · Noticias | Noticias de tecnología, IA, ciencia y actualidad | [[Nexo - Noticias]] |
+| Pixel · Experto en Redes | Publicaciones en LinkedIn, X e Instagram | [[Pixel - Experto en Redes]] |
+| Atlas · Notas | Conocimiento y segundo cerebro en Obsidian | [[Atlas - Notas]] |
+| Darío · Mi diario personal | Diario personal (privado) | [[Darío - Diario personal]] |
+| Warren · Inversor en valor | Asesor de inversión en valor | [[Warren - Inversor en valor]] |
+| Notis · AgentDesk | Copia de seguridad de Agent Desk | [[Notis - AgentDesk]] |
+| Booki | Bookmarks de X | [[Booki - Bookmarks de X]] |
+
+## Flujo entre agentes
+
+```mermaid
+flowchart LR
+  Nexo["Nexo · Noticias"] -->|noticias| Pixel["Pixel · Experto en Redes"]
+  Pixel -->|posts| Atlas["Atlas · Notas"]
+  Booki["Booki"] -->|bookmarks| Atlas
+  Notis["Notis · AgentDesk"] -->|Agent Desk| Atlas
+  Atlas -->|cron de Orion| Hindsight["Hindsight"]
+  Arvis["Arvis · El jefe"] <--> Nexo
+  Arvis <--> Pixel
+  Arvis <--> Atlas
+  Arvis <--> Warren["Warren · Inversor en valor"]
+  Arvis <--> Notis
+  Arvis <--> Booki
+  Dario["Darío · Diario personal<br/>aislado por privacidad"]
+```
+
+Darío queda aislado por privacidad: solo habla con Kike; Arvis puede escribirle, pero no aparece en el flujo de datos con el resto.
 
 ## Relacionado
 

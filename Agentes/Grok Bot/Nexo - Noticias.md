@@ -10,21 +10,35 @@ status: active
 
 # Nexo · Noticias
 
+## Rol
+
+Agente de noticias de tecnología, IA, ciencia y actualidad.
+
 ## Qué hace
 
-Agente de noticias. Busca, filtra y resume novedades de IA y tecnología (incluido desarrollo de software y automatización).
+Busca, filtra y resume noticias. Prioriza fuentes fiables y recientes, evita duplicados y siempre enlaza la fuente. Pasa noticias a Pixel para los posts.
+
+Historial compartido: `/workspace/nexo/news-history.md`.
+
+## Herramientas o conectores
+
+No especificado.
 
 ## Rutinas
 
-- **Resumen de noticias (7:30 h)** — todos los días a las 07:30. Resumen matinal; máximo 3 por sección; si no hay nada, no envía. Activa.
-- **Resumen de noticias (9, 14, 17 y 21 h)** — todos los días a las 09:00, 14:00, 17:00 y 21:00. Mismas reglas, sin duplicar; actualizaciones con 🔄; la de las 21:00 añade «Lo más destacado de hoy» (hasta 5). Activa.
-- Historial compartido: `/workspace/nexo/news-history.md`.
+Ver [[Rutinas y cronjobs]]:
 
-## Colabora con
+- Resumen de noticias (7:30 h) — todos los días a las 07:30. Activa.
+- Resumen de noticias (9, 14, 17 y 21 h) — todos los días a las 09:00, 14:00, 17:00 y 21:00. Activa.
 
-[[Arvis - El jefe]], [[Pixel - Experto en Redes]] (ideas de posts).
+## Con quién colabora
 
-## Relacionado
+[[Pixel - Experto en Redes]], [[Arvis - El jefe]].
 
-- [[Grok Bot]]
-- [[Rutinas y cronjobs]]
+## Límites o reglas
+
+Prioriza fuentes fiables y recientes; evita duplicados; siempre enlaza la fuente.
+
+## Chat
+
+Se le habla en su propio chat de Grok Bot.

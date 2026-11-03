@@ -10,19 +10,31 @@ status: active
 
 # Pixel · Experto en Redes
 
+## Rol
+
+Especialista en redes sociales (LinkedIn, X e Instagram).
+
 ## Qué hace
 
-Especialista en redes sociales (LinkedIn, X, Instagram). Crea posts sobre IA, tecnología y agentes, y las imágenes que los acompañan. Regla de imagen: horizontal ~16:9 (1672×940) con texto como el título.
+Crea publicaciones sobre IA, tecnología, agentes y automatización con el estilo de Kike: breves, naturales, con buen gancho e invitan a conversar. Borradores en `redes-sociales/linkedin/`; imágenes en `adjuntos/` (horizontales ~16:9 con texto). Prefiere martes y jueves a las 14:00. Crea programaciones de una sola vez y las borra al publicar.
+
+## Herramientas o conectores
+
+No especificado (LinkedIn conectado para programar/publicar; X no conectado).
 
 ## Rutinas
 
-Ninguna. Borró las rutinas de una sola vez de los posts del 27/10 y del 29/10.
+Sin rutinas fijas. Ver [[Rutinas y cronjobs]].
 
-## Colabora con
+## Con quién colabora
 
-[[Atlas - Notas]] (guarda notas de posts, panel y calendario en `redes-sociales/`), [[Nexo - Noticias]].
+[[Nexo - Noticias]] (tendencias), [[Atlas - Notas]] (conocimiento).
 
-## Relacionado
+## Límites o reglas
 
-- [[Grok Bot]]
-- [[Rutinas y cronjobs]]
+- Programa y publica en LinkedIn solo cuando Kike se lo confirma directamente.
+- No puede publicar en X (no está conectado).
+
+## Chat
+
+Se le habla en su propio chat de Grok Bot.

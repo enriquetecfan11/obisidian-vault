@@ -10,19 +10,32 @@ status: active
 
 # Notis · AgentDesk
 
+## Rol
+
+Copia de seguridad del Agent Desk de Kike (proyectos, tareas, notas, delegaciones).
+
 ## Qué hace
 
-Gestor de Agent Desk (el centro de gestión de agentes y tareas del homelab).
+Lee Agent Desk en modo solo lectura vía el conector mara-core y se lo pasa a Atlas para actualizar `copia agentdesk/` ([[Copia Agent Desk]]). Solo avisa si algo falla.
+
+## Herramientas o conectores
+
+- mara-core (Agent Desk, solo lectura)
 
 ## Rutinas
 
-- **Backup de Agent Desk en Obsidian** — cada 2 días (días impares del mes) a las 09:00 (±30 min). Lee Agent Desk en modo solo lectura vía mara-core y se lo pasa a Atlas para actualizar [[Copia Agent Desk]]. Solo avisa si falla. Activa.
+Ver [[Rutinas y cronjobs]]:
 
-## Colabora con
+- Backup de Agent Desk en Obsidian — cada 2 días (días impares del mes) a las 09:00 (±30 min). Activa.
 
-[[Atlas - Notas]], [[Arvis - El jefe]], Orion (ver [[INFRA]]).
+## Con quién colabora
 
-## Relacionado
+[[Atlas - Notas]], [[Arvis - El jefe]].
 
-- [[Grok Bot]]
-- [[Rutinas y cronjobs]]
+## Límites o reglas
+
+Solo lectura en Agent Desk. Solo avisa si algo falla.
+
+## Chat
+
+Se le habla en su propio chat de Grok Bot.

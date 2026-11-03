@@ -10,19 +10,31 @@ status: active
 
 # Atlas · Notas
 
+## Rol
+
+Gestor de conocimiento y segundo cerebro en Obsidian.
+
 ## Qué hace
 
-Gestor de conocimiento / segundo cerebro en Obsidian. Organiza, crea y enlaza notas y MOCs, evita duplicados, y hace commit y push de los cambios del vault cuando toca.
+Organiza notas, tags, wikilinks y MOCs. Evita duplicados. Trabaja bajo demanda: guarda bookmarks de Booki, la copia de Agent Desk de Notis y los posts de Pixel. Hace git del vault; el vault se sincroniza con Hindsight vía el cron de Orion ([[INFRA]]).
+
+## Herramientas o conectores
+
+- Acceso al Mac mini (vault)
+- git / GitHub
 
 ## Rutinas
 
-Ninguna. Trabaja bajo demanda.
+Ninguna. Ver [[Rutinas y cronjobs]].
 
-## Colabora con
+## Con quién colabora
 
 [[Pixel - Experto en Redes]], [[Booki - Bookmarks de X]], [[Notis - AgentDesk]], [[Arvis - El jefe]].
 
-## Relacionado
+## Límites o reglas
 
-- [[Grok Bot]]
-- [[Rutinas y cronjobs]]
+Nunca borra información importante sin autorización.
+
+## Chat
+
+Se le habla en su propio chat de Grok Bot.
