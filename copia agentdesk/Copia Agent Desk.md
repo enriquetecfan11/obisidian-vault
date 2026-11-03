@@ -6,14 +6,14 @@ tags:
   - backup
   - indice
 date_created: 2026-10-24
-date_modified: 2026-11-01
+date_modified: 2026-11-03
 ---
 
 # Copia Agent Desk
 
 Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo el 24/10/2026, antes de mover Agent Desk de sitio, y esta versión está actualizada con la instancia nueva. Es una exportación de solo lectura: no se cambió nada en Agent Desk. El historial de git conserva la versión anterior.
 
-- **Última actualización:** 01/11/2026, 09:01 (hora de Madrid), con la copia programada que pasó Notis. La lectura anterior en directo desde el conector fue el 27/10/2026 a las 09:12.
+- **Última actualización:** 03/11/2026, 09:05 (hora de Madrid), con la copia programada que pasó Notis. La lectura anterior en directo desde el conector fue el 27/10/2026 a las 09:12.
 - **Cuenta usada:** agente Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc), estado active, capacidades: proyectos, notas, utilidades
 - **Permisos del acceso:** tasks:read, tasks:write, delegations:read, delegations:write, runs:read, runs:write, notes:read, notes:write, projects:read, projects:write, activity:read
 - **Cola en ese momento:** 1 tarea y 0 delegaciones
@@ -33,7 +33,12 @@ Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo 
 | Notas | 2 |
 | Delegaciones | 0 |
 
-## Cambios desde la copia del 31/10
+## Cambios desde la copia del 01/11
+
+- **Sincronizar vault Obsidian → Hindsight (diario 23:00):** la fecha límite pasa del 31/10/2026 al 02/11/2026 y ahora figura como recurrente. Sigue en todo.
+- No ha cambiado ni desaparecido nada más. La nota INFRA volvió a llegar cortada («NO mantiene lis…»), pero lo recibido coincide con la copia completa del 25/10, así que se conserva.
+
+## Cambios entre la copia del 31/10 y la del 01/11
 
 - Tarea nueva sin proyecto: **Sincronizar vault Obsidian → Hindsight (diario 23:00)** (todo, prioridad normal, asignada a Orion, fecha límite 31/10/2026). Ver [[Tareas sin proyecto]].
 - Aviso: en [[INFRA - Mapa de la infraestructura]] figura un cron diario a las 03:00 para `sync_vault.sh`, y la tarea nueva habla de las 23:00 con un cron en Hermes.
@@ -79,7 +84,7 @@ Ninguno.
 ### [[Tareas sin proyecto]]
 
 - Mejorar dashboard (backlog, asignada a Orion)
-- Sincronizar vault Obsidian → Hindsight (diario 23:00) (todo, asignada a Orion, fecha límite 31/10/2026)
+- Sincronizar vault Obsidian → Hindsight (diario 23:00) (todo, recurrente, asignada a Orion, fecha límite 02/11/2026)
 
 Ninguna tarea tiene subtareas, comentarios, runs ni aprobaciones.
 
