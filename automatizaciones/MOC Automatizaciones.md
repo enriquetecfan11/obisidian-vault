@@ -8,7 +8,7 @@ tags:
   - pkm
 project: N8N Automation
 date_created: 2026-10-05
-date_modified: 2026-10-05
+date_modified: 2026-11-03
 status: active
 ---
 # MOC Automatizaciones
@@ -42,6 +42,10 @@ Mapa de notas sobre n8n, WhatsApp, chatbots y flujos de automatización del vaul
 
 - [[Ollama Docker]] — exponer Ollama en red Docker para usarlo desde n8n u otros contenedores
 - [[MOC IA Local]] — modelos locales con llama.cpp
+
+## Agentes y rutinas
+
+- [[Rutinas y cronjobs - 2026-11-03]] — inventario de rutinas de los agentes y cronjobs del homelab
 
 ## Ver también
 
