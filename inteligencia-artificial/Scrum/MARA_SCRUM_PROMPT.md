@@ -14,7 +14,7 @@ date_modified: 2026-04-09
 ---
 # Mara — Prompt Scrum (token-optimizado)
 
-> Pega esto en el system prompt de Mara en OpenClaw/Mission Control.
+> Pega esto en el system prompt de Mara en OpenClaw (carpeta eliminada) Control.
 
 ---
 
@@ -73,5 +73,4 @@ ERROR MCP → reportar a Kike con detalle y sugerir reintento.
 
 ## Relacionado
 - [[MARA_SCRUM_v3]] — framework Scrum v3
-- [[Mara]] — agente Mara
-- [[MOC OpenClaw]] — índice
+- Mara — agente Mara

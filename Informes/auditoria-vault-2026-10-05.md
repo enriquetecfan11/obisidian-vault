@@ -16,29 +16,29 @@ Estado tras el refactor `2040d7d`. 195 archivos `.md`, 186 notas con nombre úni
 
 ## 1. Enlaces rotos - 22 destinos, 43 apariciones
 
-Casi todos vienen de un solo archivo: `OpenClaw/MOC OpenClaw.md`.
+Casi todos vienen de un solo archivo: `OpenClaw (carpeta eliminada)`.
 
 | Destino roto | Apariciones | Causa |
 | --- | --- | --- |
-| `openclaw/Documentacion Operativa/*` (agentes, identidad, migracion, configuracion, usuario, memoria, prompts, README, AGENTS-ARCHITECTURE) | 26 | ruta en minúscula `openclaw/` vs carpeta real `OpenClaw/` |
-| `openclaw/Backup/*` (identidad, usuario, migracion, configuracion, README) | 9 | idem |
-| `openclaw/Agents/*/system-prompt` (Mara, Atlas, Arvis, Warren) | 8 | idem |
+| `OpenClaw (carpeta eliminada)` (agentes, identidad, migracion, configuracion, usuario, memoria, prompts, README, AGENTS-ARCHITECTURE) | 26 | ruta en minúscula `OpenClaw (carpeta eliminada)` vs carpeta real `OpenClaw (carpeta eliminada)` |
+| `OpenClaw (carpeta eliminada)` (identidad, usuario, migracion, configuracion, README) | 9 | idem |
+| `OpenClaw (carpeta eliminada)` (Mara, Atlas, Arvis, Warren) | 8 | idem |
 | `inteligencia-artificial/Custom GPTS/Linkedin Agents/Thumbnail Builder` | 2 | la nota vive en `Custom GPTS/`, no en `Custom GPTS/Linkedin Agents/` |
 | `[["$STATUS" != "running"]]` | 2 | falso positivo: es shell dentro de bloque de código en `Wazuh - Server API (operación)` |
 | `Pasted image 20250117085739.png` | 1 | el archivo de imagen no está en el vault |
 
-**Fix**: cambiar `openclaw/` por `OpenClaw/` en `MOC OpenClaw.md`. Obsidian resuelve por basename, pero respeta las mayúsculas en las rutas, así que el enlace queda roto aunque la nota exista.
+**Fix**: cambiar `OpenClaw (carpeta eliminada)` por `OpenClaw (carpeta eliminada)` en `MOC OpenClaw.md`. Obsidian resuelve por basename, pero respeta las mayúsculas en las rutas, así que el enlace queda roto aunque la nota exista.
 
 ## 2. Nombres duplicados - 7 basenames
 
-Obsidian desambigua con `[[carpeta/nota]]`, pero cualquier enlace corto `[[configuracion]]` es ambiguo:
+Obsidian desambigua con `[[carpeta/nota]]`, pero cualquier enlace corto `configuracion` es ambiguo:
 
 | Basename | Ocurrencias |
 | --- | --- |
-| `README.md` | `OpenClaw/Backup/`, `OpenClaw/Documentacion Operativa/` |
+| `README.md` | `OpenClaw (carpeta eliminada)`, `OpenClaw (carpeta eliminada)` |
 | `Thumbnail Builder.md` | `Custom GPTS/`, `Custom GPTS/Linkedin Agents/` |
-| `configuracion.md`, `identidad.md`, `migracion.md`, `usuario.md` | `OpenClaw/Backup/`, `OpenClaw/Documentacion Operativa/` |
-| `system-prompt.md` | `OpenClaw/Agents/{Arvis,Atlas,Mara,Warren}/` |
+| `configuracion.md`, `identidad.md`, `migracion.md`, `usuario.md` | `OpenClaw (carpeta eliminada)`, `OpenClaw (carpeta eliminada)` |
+| `system-prompt.md` | `OpenClaw (carpeta eliminada)` |
 
 **Fix**: renombrar con prefijo de contexto: `Backup - configuracion.md`, `Arvis - system-prompt.md`, etc.
 
@@ -90,7 +90,7 @@ Tags inline en el cuerpo: 85 distintos, 3 archivos. Se mezclan con los de frontm
 | `inteligencia-artificial/_enlaces-moc-2026-10-05.md` | project |
 | `inteligencia-artificial/_pasada-final-tags-enlaces-2026-10-05.md` | project |
 | `inteligencia-artificial/_tag-migración-2026-10-05.md` | project |
-| `OpenClaw/diario/analyze.md` | project |
+| `OpenClaw (carpeta eliminada)` | project |
 | `redes-sociales/linkedin_posts_full_analytics.md` | project |
 
 ## 5. Claves de frontmatter redundantes
@@ -109,7 +109,7 @@ El vault mezcla dos esquemas de fechas y estado:
 
 ## 6. Huérfanas - 26 notas sin ningún enlace entrante
 
-- 20 de `OpenClaw/` — consecuencia de los enlaces rotos del punto 1; se resuelven solos al arreglarlos
+- 20 de `OpenClaw (carpeta eliminada)` — consecuencia de los enlaces rotos del punto 1; se resuelven solos al arreglarlos
 - `redes-sociales/linkedin_posts_full_analytics.md`
 - `daily/2026-08-23.md`
 - `Work/Empresas/Prompt Analizador Noticias.md`
@@ -125,7 +125,7 @@ El vault mezcla dos esquemas de fechas y estado:
 
 ## Orden de ejecución sugerido
 
-1. Arreglar `OpenClaw/MOC OpenClaw.md` (22 enlaces, de golpe)
+1. Arreglar `OpenClaw (carpeta eliminada)` (22 enlaces, de golpe)
 2. Consolidar los 25 grupos de tags a minúsculas sin acentos
 3. Completar frontmatter de las 10 notas
 4. Migrar `created`/`updated` a `date_created`/`date_modified`

@@ -17,7 +17,6 @@ status: active
 ## Agentes y sistemas propios
 
 - [[ejercito-empleados-digitales]] — de chat a agentes: harnesses, agents.md, MCP y skills
-- [[MOC OpenClaw]] — agentes Mara, Atlas, Arvis y Warren (capa operativa)
 - [[Mara OS]] — software autoalojado (mara-os / mara-ui / mara-device)
 - [[Documentación MCP Linear — ClawdBot]] — MCP Linear en contexto ClawdBot/OpenClaw
 - [[MARA_SCRUM_v3]] — framework Scrum para Mara

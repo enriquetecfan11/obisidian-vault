@@ -77,6 +77,6 @@ Genera salida solo JSON con este esquema:
 Responde exclusivamente con ese JSON; sin prosa adicional.
 
 ## Relacionado
-- [[Arvis]] — agente noticias
-- [[flujo-ia-tech-news]] — flujo tech news
-- [[Warren]] — si el análisis es financiero
+- [[Arvis - El jefe]] — agente noticias
+- flujo-ia-tech-news — flujo tech news
+- [[Warren - Inversor en valor]] — si el análisis es financiero

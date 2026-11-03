@@ -175,6 +175,5 @@ Recomendación:
 https://x.com/startupideaspod/status/2033993454653743191
 
 ## Relacionado
-- [[MOC OpenClaw]] — agentes propios OpenClaw
 - [[Mara OS]] — software del asistente
 - [[MOC Inteligencia Artificial]] — índice IA

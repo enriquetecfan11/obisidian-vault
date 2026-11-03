@@ -14,7 +14,7 @@ date_modified: 2026-08-13
 
 Asistente personal propio, local y autoalojado. Corre sobre modelos locales vía Ollama, se controla desde Telegram o desde una interfaz visual, y está pensado para vivir en una Raspberry Pi 5.
 
-Esta carpeta documenta **el software**: los tres repositorios que forman el sistema. No documenta la capa de agentes de IA (Mara, Atlas, Warren, Arvis), que vive en `OpenClaw/`.
+Esta carpeta documenta **el software**: los tres repositorios que forman el sistema. La capa de agentes de IA de Grok Bot está en [[Grok Bot]].
 
 ## Los tres repositorios
 
@@ -51,5 +51,5 @@ mara-ui/README.md      # incluye el contrato de comunicación y el modo kiosko
 Aviso importante: **`mara-os/docs/` tiene deriva significativa** respecto al código actual. Antes de fiarte de un dato de ahí, contrástalo con la tabla de [[Estado y pendientes]].
 
 ## Relacionado
-- [[MOC OpenClaw]] — capa de agentes (distinta de este software)
+- [[Grok Bot]] — capa de agentes de Grok Bot (distinta de este software)
 - [[MOC IA Local]] — Ollama / llama.cpp

@@ -103,5 +103,5 @@ date_modified: "2026-03-01"
 
 ## Relacionado
 - [[Definiciones]] — glosario
-- [[Empresas]] — lista Warren
-- [[Warren]] — agente
+- Empresas — lista Warren
+- [[Warren - Inversor en valor]] — agente

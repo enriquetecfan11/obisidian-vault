@@ -255,6 +255,5 @@ Usar: Linear → list_projects
 _Documentación generada el 09/04/2026 — Workspace: tecfan-os / QuiqueOS_
 
 ## Relacionado
-- [[MOC OpenClaw]] — OpenClaw / ClawdBot
 - [[MCP y skills]] — MCP en Mara OS
-- [[Mara]] — agente Mara
+- Mara — agente Mara

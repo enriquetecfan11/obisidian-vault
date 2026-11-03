@@ -4,7 +4,6 @@ type: agent
 tags:
   - linear
   - mara
-  - openclaw
   - scrum
 pipeline: wiki
 status: active
@@ -172,6 +171,5 @@ Trigger para arrancar: `"Mara, Scrum ON — Sprint 1: Crons Warren/Scout"`
 
 ## Relacionado
 - [[MARA_SCRUM_PROMPT]] — prompt asociado
-- [[Mara]] — agente Mara
-- [[MOC OpenClaw]] — capa agentes
+- Mara — agente Mara
 - [[Mara OS]] — software

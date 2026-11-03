@@ -45,7 +45,8 @@ Mapa de notas sobre n8n, WhatsApp, chatbots y flujos de automatización del vaul
 
 ## Agentes y rutinas
 
-- [[Rutinas y cronjobs - 2026-11-03]] — inventario de rutinas de los agentes y cronjobs del homelab
+- [[Rutinas y cronjobs]] — inventario de rutinas de los agentes y cronjobs del homelab
+- [[Grok Bot]] — índice de agentes de Grok Bot
 
 ## Ver también
 

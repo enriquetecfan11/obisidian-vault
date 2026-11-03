@@ -103,12 +103,9 @@ SORT date_created DESC
 
 ## Relacionado con agentes
 
-- [[Arvis]] — agente OpenClaw de vigilancia tech → contenido LinkedIn
-- [[flujo-ia-tech-news]]
-- [[feeds-ia-tech-news]]
+- [[Arvis - El jefe]] — agente OpenClaw de vigilancia tech → contenido LinkedIn
 
 ## Ver también
 
 - [[MOC Custom GPTs]]
 - [[MOC Inteligencia Artificial]]
-- [[MOC OpenClaw]]

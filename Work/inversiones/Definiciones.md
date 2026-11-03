@@ -98,5 +98,5 @@ Equivalente al ROCE with Goodwill 5Y, pero ajustado para incluir el goodwill en 
 
 ## Relacionado
 - [[empresas-a-vigilar]] — watchlist
-- [[Warren]] — agente finanzas OpenClaw
+- [[Warren - Inversor en valor]] — agente finanzas OpenClaw
 - [[Asistente Inversiones Financieras]] — Custom GPT inversiones

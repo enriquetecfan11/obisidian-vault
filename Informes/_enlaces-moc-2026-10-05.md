@@ -18,7 +18,7 @@ Reorganización del grafo de wikilinks del vault: MOCs temáticos + secciones «
 - [[MOC Automatizaciones]] (`automatizaciones/MOC Automatizaciones.md`)
 - [[MOC Inteligencia Artificial]] (`inteligencia-artificial/MOC Inteligencia Artificial.md`)
 - [[MOC Custom GPTs]] (`inteligencia-artificial/Custom GPTS/MOC Custom GPTs.md`)
-- [[MOC OpenClaw]] (`openclaw/MOC OpenClaw.md`)
+- MOC OpenClaw (`OpenClaw (carpeta eliminada)`)
 - [[MOC DevOps]] (`programacion/Devops/MOC DevOps.md`)
 - [[MOC LinkedIn]] (`redes-sociales/linkedin/MOC LinkedIn.md`)
 - [[MOC IA Local]] (`notas-personales/notas-ia/MOC IA Local.md`)

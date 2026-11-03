@@ -33,4 +33,3 @@ Informes de tres sesiones seguidas de normalización sobre el refactor `2040d7d`
 ## Ver también
 
 - [[MOC Inteligencia Artificial]]
-- [[MOC OpenClaw]]
