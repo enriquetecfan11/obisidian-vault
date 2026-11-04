@@ -16,26 +16,20 @@ status: active
 
 ## Timeline
 
-```mermaid
-timeline
-    title Rutinas y cronjobs por hora del dia
-    section Diario
-        03:00 : Scribe - Sincronizar vault a Hindsight
-        07:30 : Nexo - Resumen de noticias
-        09:02 : Dixi y Dario - Resumen de agenda
-        09:00 : Nexo - Resumen de noticias (9, 14, 17 y 21 h)
-        15:15 : Warren - Mercados (entre semana)
-        19:00 : Recordatorios Dixi y Dario (Supabase, Stripe)
-        22:15 : Warren - Mercados (entre semana)
-        23:00 : Scribe - Actualizar Obsidian Vault
-    section Semanal y mensual
-        Jueves 19:00 : Dixi - Recordatorio Supabase Biavent
-        Dias 1 y 15 19:00 : Dixi - Recordatorio Stripe Nundu
-        Mar y vie 09:00 : Booki - bookmark-digest (en pausa)
-        Dias impares 09:00 : Notis - Backup Agent Desk
-    section Fin de semana
-        12:00 : Warren - Cripto Bitcoin y Ethereum
-```
+### Diario
+- **03:00** — Scribe · Sincronizar vault a Hindsight
+- **07:30** — Nexo · Resumen de noticias
+- **09:00** — Notis · Backup Agent Desk (días impares)
+- **09:00** — Booki · bookmark-digest (mar y vie, en pausa)
+- **09:02** — Dixi · Resumen diario de agenda
+- **09:02** — Darío · Resumen diario de agenda
+- **09:00 · 14:00 · 17:00 · 21:00** — Nexo · Resumen de noticias
+- **15:15 / 22:15** — Warren · Mercados (entre semana)
+- **19:00** — Dixi · Recordatorio Supabase Biavent (jueves)
+- **19:00** — Dixi · Recordatorio Stripe Nundu (días 1 y 15)
+- **19:00** — Darío · Recordatorios Supabase y Stripe
+- **12:00** — Warren · Cripto Bitcoin y Ethereum (sáb y dom)
+- **23:00** — Scribe · Actualizar Obsidian Vault
 
 ## Grok Bot
 
