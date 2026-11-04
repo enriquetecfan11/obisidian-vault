@@ -12,7 +12,30 @@ status: active
 
 # Rutinas y cronjobs
 
-Índice general de las rutinas programadas de todos los agentes y de los cronjobs conocidos. Se mantiene actualizado en esta nota; no se crean notas nuevas con fecha. Última actualización: 03/11/2026. Lo recopiló Arvis a petición de Kike. Todos los horarios están en hora de Madrid.
+Índice general de las rutinas programadas de todos los agentes y de los cronjobs conocidos. Se mantiene actualizado en esta nota; no se crean notas nuevas con fecha. Última actualización: 04/11/2026. Lo recopiló Arvis a petición de Kike. Todos los horarios están en hora de Madrid.
+
+## Timeline
+
+```mermaid
+timeline
+    title Rutinas y cronjobs por hora del día
+    section Diario
+        03:00 : Scribe - Sincronizar vault → Hindsight
+        07:30 : Nexo - Resumen de noticias
+        09:02 : Dixi y Darío - Resumen de agenda
+        09:00 : Nexo - Resumen de noticias (9, 14, 17 y 21 h)
+        15:15 : Warren - Mercados (entre semana)
+        19:00 : Recordatorios Dixi y Darío (Supabase, Stripe)
+        22:15 : Warren - Mercados (entre semana)
+        23:00 : Scribe - Actualizar Obsidian Vault
+    section Semanal / mensual
+        Jueves 19:00 : Dixi - Recordatorio Supabase Biavent
+        Días 1 y 15 19:00 : Dixi - Recordatorio Stripe Nundu
+        Mar y vie 09:00 : Booki - bookmark-digest (en pausa)
+        Días impares 09:00 : Notis - Backup Agent Desk
+    section Fin de semana
+        12:00 : Warren - Cripto Bitcoin y Ethereum
+```
 
 ## Grok Bot
 
