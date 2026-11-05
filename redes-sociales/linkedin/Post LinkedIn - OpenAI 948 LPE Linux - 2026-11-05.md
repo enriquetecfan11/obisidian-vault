@@ -2,8 +2,9 @@
 title: Post LinkedIn - OpenAI 948 LPE Linux
 fecha_noticia: 2026-11-04
 red: LinkedIn
-estado: borrador
-fecha_propuesta: pendiente
+estado: programado
+fecha_propuesta: 2026-11-06
+hora_propuesta: "14:00"
 sources:
   - https://openai.com/index/a-thousand-fewer-paths-to-root/
   - https://www.securityweek.com/
@@ -22,7 +23,7 @@ date_modified: 2026-11-05
 
 # Post LinkedIn - OpenAI 948 LPE Linux
 
-Borrador pendiente de aprobación de Kike. No está programado. Fecha propuesta: pendiente (Kike aún no ha elegido).
+Programado para el viernes 06/11/2026 a las 14:00 (hora de Madrid). Pendiente de imagen (Kike la generará con ChatGPT).
 
 Fuente principal: [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/) (OpenAI, 4/11/2026). También cubierto en SecurityWeek, Help Net Security y Phoronix.
 
@@ -64,12 +65,12 @@ Fuente: https://openai.com/index/a-thousand-fewer-paths-to-root/
 ```text
 Usa la imagen de referencia que adjunto (mi muñeco / avatar) como personaje principal de la escena. Formato horizontal 16:9, aproximadamente 1672 × 940 píxeles. Incluye un título o texto corto visible en la imagen.
 
-Escena: mi muñeco en un entorno de laboratorio / terminal moderno, delante de varias pantallas. En una pantalla grande se ve un diagrama abstracto del kernel de Linux (sin código real explotable) y un contador o badge grande con el número "948". En otra pantalla, iconos de escudo y de parche/check. Ambiente oscuro con acentos azul/cian, sensación de investigación defensiva en ciberseguridad, no de hackeo malicioso. Título visible en la imagen: "948 rutas menos a root". Estilo limpio, editorial, apto para LinkedIn. No copies logotipos oficiales de OpenAI ni de Linux tal cual; usa tipografía e iconografía genérica.
+Escena de ciberseguridad en tono grave: mi muñeco en una sala de operaciones SOC a oscuras, luz de emergencia roja y pantallas en rojo/ámbar. En la pantalla central un aviso grande tipo alerta crítica: "948 LPE → ROOT" y debajo "Linux kernel". Al fondo, siluetas de servidores y un icono de candado roto o escudo agrietado (genérico, sin logos oficiales). Sensación de brecha grave descubierta a escala, investigación defensiva bajo presión, no película de hacker. Título visible en la imagen: "Casi mil caminos a root". Estilo cinematográfico, contraste alto, apto para LinkedIn. No copies logotipos de OpenAI ni de Linux.
 ```
 
 ## Imagen
 
-Pendiente: Pixel la generará. Todavía no hay adjunto.
+Pendiente: Kike la generará con ChatGPT. Todavía no hay adjunto.
 
 ## Relacionado
 
