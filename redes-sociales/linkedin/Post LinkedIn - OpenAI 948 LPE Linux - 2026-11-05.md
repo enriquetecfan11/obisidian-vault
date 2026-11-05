@@ -70,7 +70,7 @@ Escena de ciberseguridad en tono grave: mi muñeco en una sala de operaciones SO
 
 ## Imagen
 
-Pendiente: Kike la generará con ChatGPT. Todavía no hay adjunto.
+![[Post LinkedIn - OpenAI 948 LPE Linux - 2026-11-05.png]]
 
 ## Relacionado
 
@@ -79,3 +79,4 @@ Pendiente: Kike la generará con ChatGPT. Todavía no hay adjunto.
 - [[MOC Inteligencia Artificial]]
 - [[CAI Framework - Inteligencia Artificial Seguridad]]
 - [[Post LinkedIn - n8n Agents y 3.0 - 2026-10-29]]
+\n
