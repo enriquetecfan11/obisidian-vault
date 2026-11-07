@@ -6,14 +6,14 @@ tags:
   - backup
   - indice
 date_created: 2026-10-24
-date_modified: 2026-11-05
+date_modified: 2026-11-07
 ---
 
 # Copia Agent Desk
 
 Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo el 24/10/2026, antes de mover Agent Desk de sitio, y esta versión está actualizada con la instancia nueva. Es una exportación de solo lectura: no se cambió nada en Agent Desk. El historial de git conserva la versión anterior.
 
-- **Última actualización:** 05/11/2026, ~19:32 (hora de Madrid), copia manual que pasó Notis tras el fallo de la copia programada de las 09:00 (timeout de mara-core).
+- **Última actualización:** 07/11/2026, 09:10 (hora de Madrid), copia programada de Notis. El mensaje llegó truncado; la descripción y el responsable de «Probar QR y analíticas con dos usuarios reales», la fecha de la sync Hindsight y la nota nueva se completaron leyendo Agent Desk en solo lectura.
 - **Cuenta usada:** agente Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc), estado active, capacidades: proyectos, notas, utilidades
 - **Permisos del acceso:** tasks:read, tasks:write, delegations:read, delegations:write, runs:read, runs:write, notes:read, notes:write, projects:read, projects:write, activity:read
 - **Cola en ese momento:** 1 tarea y 0 delegaciones
@@ -23,17 +23,25 @@ Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo 
 | Elemento | Cantidad |
 |---|---|
 | Proyectos | 3 |
-| Tareas (total) | 12 |
+| Tareas (total) | 22 |
 | Tareas en backlog | 0 |
-| Tareas en todo | 3 |
+| Tareas en todo | 6 |
 | Tareas en in_progress | 0 |
-| Tareas en review | 0 |
-| Tareas en done | 9 |
+| Tareas en review | 1 |
+| Tareas en done | 15 |
 | Tareas en cancelled | 0 |
-| Notas | 2 |
+| Notas | 3 |
 | Delegaciones | 0 |
 
-## Cambios desde la copia del 03/11
+## Cambios desde la copia del 05/11
+
+- Biavent pasa de 5 a 15 tareas (10 done, 4 todo, 1 review): 11 tareas nuevas. Ver [[Tareas Biavent]].
+- Eliminada (ya no existe en origen): «Probar la app en un dispositivo sin instalarla (Android e iOS)» (`f818728e-4eaf-4c8d-accd-7deaa25ea043`).
+- Tareas personales: la fecha límite de «Sincronizar vault Obsidian → Hindsight» pasa del 05/11 al 07/11/2026.
+- Nota nueva: [[Reuniones QR asociadas a evento]] (Chati, Biavent, 05/11/2026).
+- Hermes e INFRA sin cambios.
+
+## Cambios entre la copia del 03/11 y la del 05/11
 
 - **Mejorar dashboard:** pasa de backlog a **done** (sigue asignada a Orion). Sigue en [[Tareas sin proyecto]].
 - **Sincronizar vault Obsidian → Hindsight (diario 23:00):** deja de estar sin proyecto y pasa al proyecto **Tareas personales**. Sigue en todo; fecha límite 05/11/2026; autonomía `suggest_only`.
@@ -77,7 +85,7 @@ Ninguno.
 | Proyecto | Identificador | ID | Estado | Tareas | Hechas | Copia |
 |---|---|---|---|---|---|---|
 | MaraOs | MAOS | b308d5fc-1ddd-45b5-bc05-c8feb20dadf3 | active | 0 | 0 | sin tareas |
-| Biavent | BIA | c7525703-c2c9-4681-bd02-1154b92f25ae | active | 5 | 4 | [[Tareas Biavent]] |
+| Biavent | BIA | c7525703-c2c9-4681-bd02-1154b92f25ae | active | 15 | 10 | [[Tareas Biavent]] |
 | Tareas personales | TAP | 70b16875-640f-49d6-88b9-467019761ae4 | active | 6 | 4 | [[Tareas personales]] |
 
 ## Tareas
@@ -88,11 +96,21 @@ Ninguno.
 - Poner en el panel de organizador los encuentros que se han hecho (done)
 - Poner Perfil como última opción del menú inferior (done)
 - Revisar el tamaño del chat y por qué se cierra el teclado al enviar un mensaje (done)
-- Probar la app en un dispositivo sin instalarla (Android e iOS) (todo)
+- Añadir reuniones verificadas al embudo del organizador (todo)
+- Registrar recomendaciones mostradas y clics en abrir chat (done)
+- Asociar cada reunión QR a un evento concreto (done)
+- Crear la encuesta posterior a cada reunión (done)
+- Permitir múltiples reuniones verificadas entre dos usuarios (done)
+- Añadir conversión de conexiones a reuniones (done)
+- Corregir el cálculo de actividad en las últimas 24 horas (todo)
+- Ampliar estadísticas de objetivos profesionales (todo)
+- Incorporar resultados de las encuestas al dashboard (done)
+- Ampliar informes automáticos con métricas de impacto (todo)
+- Probar QR y analíticas con dos usuarios reales (review)
 
 ### [[Tareas personales]]
 
-- Sincronizar vault Obsidian → Hindsight (diario 23:00) (todo, Orion, fecha límite 05/11/2026)
+- Sincronizar vault Obsidian → Hindsight (diario 23:00) (todo, Orion, fecha límite 07/11/2026)
 - Recordar Vera correo Jorge (done, fecha límite 05/11/2026)
 - Recordar Vera comida (done, fecha límite 05/11/2026)
 - Revisar el nuevo manual de seguros (todo)
@@ -111,6 +129,7 @@ Ninguna tarea tiene subtareas, comentarios, runs ni aprobaciones.
 |---|---|---|---|---|
 | [[INFRA - Mapa de la infraestructura]] | Orion (agente) | ninguno | 25/10/2026 | 25/10/2026 |
 | [[Hermes Homelab Api]] | Enrique Rodriguez Vela (humano) | ninguno | 30/10/2026 | 30/10/2026 |
+| [[Reuniones QR asociadas a evento]] | Chati (agente) | Biavent | 05/11/2026 | 05/11/2026 |
 
 ## Delegaciones
 
@@ -118,7 +137,7 @@ No hay delegaciones en ningún estado.
 
 ## Cola (get_queue)
 
-0 delegaciones y 1 tarea asignada a Notis abierta: «Probar la app en un dispositivo sin instalarla (Android e iOS)».
+No incluida en la copia del 07/11.
 
 ## Datos en bruto
 

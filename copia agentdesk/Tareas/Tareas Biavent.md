@@ -6,12 +6,12 @@ tags:
   - backup
   - biavent
 date_created: 2026-10-24
-date_modified: 2026-11-05
+date_modified: 2026-11-07
 ---
 
 # Tareas Biavent
 
-Copia de las tareas del proyecto **Biavent** (BIA, id `c7525703-c2c9-4681-bd02-1154b92f25ae`) de Agent Desk, confirmada sin cambios de contenido con la copia manual del 05/11/2026 a las ~19:32 (hora de Madrid). Índice: [[Copia Agent Desk]].
+Copia de las tareas del proyecto **Biavent** (BIA, id `c7525703-c2c9-4681-bd02-1154b92f25ae`) de Agent Desk, actualizada con la copia programada del 07/11/2026 a las 09:10 (hora de Madrid). Índice: [[Copia Agent Desk]].
 
 ## Mostrar en el panel del organizador el número de chats con conversación
 
@@ -125,13 +125,13 @@ Copia de las tareas del proyecto **Biavent** (BIA, id `c7525703-c2c9-4681-bd02-1
 
 **Aprobaciones:** ninguna
 
-## Probar la app en un dispositivo sin instalarla (Android e iOS)
+## Añadir reuniones verificadas al embudo del organizador
 
 | Campo | Valor |
 |---|---|
-| ID | f818728e-4eaf-4c8d-accd-7deaa25ea043 |
+| ID | b5aab8fb-59af-467f-9b02-6d8b6224a971 |
 | Estado | todo |
-| Prioridad | none |
+| Prioridad | high |
 | Autonomía | do_with_approval |
 | Fecha límite | — |
 | Hora límite | — |
@@ -143,7 +143,287 @@ Copia de las tareas del proyecto **Biavent** (BIA, id `c7525703-c2c9-4681-bd02-1
 | Lease | — |
 | Veces reclamada | 0 |
 
-**Descripción:** Conseguir probar la aplicación en un dispositivo real sin tener que instalarla, tanto en Android como en iOS.
+**Descripción:** Ampliar los cinco pasos actuales.
+
+**Subtareas:** ninguna
+
+**Comentarios:** ninguno
+
+**Run abierto / logs:** ninguno
+
+**Aprobaciones:** ninguna
+
+## Registrar recomendaciones mostradas y clics en abrir chat
+
+| Campo | Valor |
+|---|---|
+| ID | 88b2927f-c734-4fa1-8905-fcdcbeaadaf4 |
+| Estado | done |
+| Prioridad | high |
+| Autonomía | do_with_approval |
+| Fecha límite | — |
+| Hora límite | — |
+| Recurrencia | — |
+| Asignada a | agent: Chati (46021daa-444b-49db-919c-9c3cb31c7a04) |
+| Tarea padre | — |
+| Etiquetas | — |
+| Reclamada por | — |
+| Lease | — |
+| Veces reclamada | 0 |
+
+**Descripción:** Necesario para medir la efectividad de las recomendaciones.
+
+**Subtareas:** ninguna
+
+**Comentarios:** ninguno
+
+**Run abierto / logs:** ninguno
+
+**Aprobaciones:** ninguna
+
+## Asociar cada reunión QR a un evento concreto
+
+| Campo | Valor |
+|---|---|
+| ID | d20dda99-8bb1-4057-be09-4ec161c84dc4 |
+| Estado | done |
+| Prioridad | high |
+| Autonomía | do_with_approval |
+| Fecha límite | — |
+| Hora límite | — |
+| Recurrencia | — |
+| Asignada a | agent: Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc) |
+| Tarea padre | — |
+| Etiquetas | — |
+| Reclamada por | — |
+| Lease | — |
+| Veces reclamada | 0 |
+
+**Descripción:** Actualmente se guarda en la conexión, no en el evento.
+
+**Subtareas:** ninguna
+
+**Comentarios:** ninguno
+
+**Run abierto / logs:** ninguno
+
+**Aprobaciones:** ninguna
+
+## Crear la encuesta posterior a cada reunión
+
+| Campo | Valor |
+|---|---|
+| ID | 9c95941e-6fe6-4766-b7b5-b973108131af |
+| Estado | done |
+| Prioridad | high |
+| Autonomía | do_with_approval |
+| Fecha límite | — |
+| Hora límite | — |
+| Recurrencia | — |
+| Asignada a | agent: Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc) |
+| Tarea padre | — |
+| Etiquetas | — |
+| Reclamada por | — |
+| Lease | — |
+| Veces reclamada | 0 |
+
+**Descripción:** Preguntar por utilidad y si se habrían conocido sin Biavent.
+
+**Subtareas:** ninguna
+
+**Comentarios:** ninguno
+
+**Run abierto / logs:** ninguno
+
+**Aprobaciones:** ninguna
+
+## Permitir múltiples reuniones verificadas entre dos usuarios
+
+| Campo | Valor |
+|---|---|
+| ID | 661e6e35-5d1d-45b0-8c19-a71122b0532d |
+| Estado | done |
+| Prioridad | high |
+| Autonomía | do_with_approval |
+| Fecha límite | — |
+| Hora límite | — |
+| Recurrencia | — |
+| Asignada a | agent: Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc) |
+| Tarea padre | — |
+| Etiquetas | — |
+| Reclamada por | — |
+| Lease | — |
+| Veces reclamada | 0 |
+
+**Descripción:** El modelo actual marca una reunión confirmada por conexión.
+
+**Subtareas:** ninguna
+
+**Comentarios:** ninguno
+
+**Run abierto / logs:** ninguno
+
+**Aprobaciones:** ninguna
+
+## Añadir conversión de conexiones a reuniones
+
+| Campo | Valor |
+|---|---|
+| ID | 00172b03-0ef8-42ae-b404-7216ac49c591 |
+| Estado | done |
+| Prioridad | high |
+| Autonomía | do_with_approval |
+| Fecha límite | — |
+| Hora límite | — |
+| Recurrencia | — |
+| Asignada a | agent: Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc) |
+| Tarea padre | — |
+| Etiquetas | — |
+| Reclamada por | — |
+| Lease | — |
+| Veces reclamada | 0 |
+
+**Descripción:** Porcentaje y usuarios únicos con al menos una reunión.
+
+**Subtareas:** ninguna
+
+**Comentarios:** ninguno
+
+**Run abierto / logs:** ninguno
+
+**Aprobaciones:** ninguna
+
+## Corregir el cálculo de actividad en las últimas 24 horas
+
+| Campo | Valor |
+|---|---|
+| ID | 3fb3670f-3b32-4cbd-966c-cfab6b8a971e |
+| Estado | todo |
+| Prioridad | normal |
+| Autonomía | do_with_approval |
+| Fecha límite | — |
+| Hora límite | — |
+| Recurrencia | — |
+| Asignada a | agent: Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc) |
+| Tarea padre | — |
+| Etiquetas | — |
+| Reclamada por | — |
+| Lease | — |
+| Veces reclamada | 0 |
+
+**Descripción:** Basarlo en actividad real, no solo en asistentes activos.
+
+**Subtareas:** ninguna
+
+**Comentarios:** ninguno
+
+**Run abierto / logs:** ninguno
+
+**Aprobaciones:** ninguna
+
+## Ampliar estadísticas de objetivos profesionales
+
+| Campo | Valor |
+|---|---|
+| ID | 72acb3bd-de53-4396-b68d-2155cb1a76a2 |
+| Estado | todo |
+| Prioridad | normal |
+| Autonomía | do_with_approval |
+| Fecha límite | — |
+| Hora límite | — |
+| Recurrencia | — |
+| Asignada a | agent: Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc) |
+| Tarea padre | — |
+| Etiquetas | — |
+| Reclamada por | — |
+| Lease | — |
+| Veces reclamada | 0 |
+
+**Descripción:** Oferta, demanda y conexiones entre sectores.
+
+**Subtareas:** ninguna
+
+**Comentarios:** ninguno
+
+**Run abierto / logs:** ninguno
+
+**Aprobaciones:** ninguna
+
+## Incorporar resultados de las encuestas al dashboard
+
+| Campo | Valor |
+|---|---|
+| ID | 9a597af0-d333-47de-8923-e4e5b9760495 |
+| Estado | done |
+| Prioridad | normal |
+| Autonomía | do_with_approval |
+| Fecha límite | — |
+| Hora límite | — |
+| Recurrencia | — |
+| Asignada a | agent: Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc) |
+| Tarea padre | — |
+| Etiquetas | — |
+| Reclamada por | — |
+| Lease | — |
+| Veces reclamada | 0 |
+
+**Descripción:** Mostrar información agregada y respetar la privacidad.
+
+**Subtareas:** ninguna
+
+**Comentarios:** ninguno
+
+**Run abierto / logs:** ninguno
+
+**Aprobaciones:** ninguna
+
+## Ampliar informes automáticos con métricas de impacto
+
+| Campo | Valor |
+|---|---|
+| ID | 6c318f9b-9c28-4191-99bf-183a5aac5de0 |
+| Estado | todo |
+| Prioridad | normal |
+| Autonomía | do_with_approval |
+| Fecha límite | — |
+| Hora límite | — |
+| Recurrencia | — |
+| Asignada a | agent: Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc) |
+| Tarea padre | — |
+| Etiquetas | — |
+| Reclamada por | — |
+| Lease | — |
+| Veces reclamada | 0 |
+
+**Descripción:** Aprovechar el generador de informes existente.
+
+**Subtareas:** ninguna
+
+**Comentarios:** ninguno
+
+**Run abierto / logs:** ninguno
+
+**Aprobaciones:** ninguna
+
+## Probar QR y analíticas con dos usuarios reales
+
+| Campo | Valor |
+|---|---|
+| ID | ce6cc728-d4f3-4e8f-be07-0be0dd25a559 |
+| Estado | review |
+| Prioridad | normal |
+| Autonomía | do_with_approval |
+| Fecha límite | — |
+| Hora límite | — |
+| Recurrencia | — |
+| Asignada a | agent: Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc) |
+| Tarea padre | — |
+| Etiquetas | — |
+| Reclamada por | — |
+| Lease | — |
+| Veces reclamada | 0 |
+
+**Descripción:** Verificar migraciones, Edge Functions, permisos y flujos completos.
 
 **Subtareas:** ninguna
 

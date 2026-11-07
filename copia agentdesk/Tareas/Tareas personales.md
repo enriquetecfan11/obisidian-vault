@@ -5,12 +5,12 @@ tags:
   - copia-seguridad
   - backup
 date_created: 2026-11-05
-date_modified: 2026-11-05
+date_modified: 2026-11-07
 ---
 
 # Tareas personales
 
-Copia de las tareas del proyecto **Tareas personales** (TAP, id `70b16875-640f-49d6-88b9-467019761ae4`) de Agent Desk, según la copia manual que pasó Notis el 05/11/2026 a las ~19:32 (hora de Madrid). Índice: [[Copia Agent Desk]].
+Copia de las tareas del proyecto **Tareas personales** (TAP, id `70b16875-640f-49d6-88b9-467019761ae4`) de Agent Desk, según la copia programada de Notis del 07/11/2026 a las 09:10 (hora de Madrid). Índice: [[Copia Agent Desk]].
 
 ## Sincronizar vault Obsidian → Hindsight (diario 23:00)
 
@@ -20,7 +20,7 @@ Copia de las tareas del proyecto **Tareas personales** (TAP, id `70b16875-640f-4
 | Estado | todo |
 | Prioridad | — |
 | Autonomía | suggest_only |
-| Fecha límite | 2026-11-05 |
+| Fecha límite | 2026-11-07 |
 | Asignada a | agent: Orion (50e2f9b3…) |
 | Etiquetas | — |
 
