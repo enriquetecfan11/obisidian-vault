@@ -2,9 +2,10 @@
 title: Post LinkedIn - OpenAI 948 LPE Linux
 fecha_noticia: 2026-11-04
 red: LinkedIn
-estado: programado
-fecha_propuesta: 2026-11-06
-hora_propuesta: "14:00"
+estado: publicado
+fecha_publicacion: 2026-11-06
+hora_publicacion: "14:08"
+enlace_publicacion: https://www.linkedin.com/feed/update/urn:li:share:7524457479938867200/
 sources:
   - https://openai.com/index/a-thousand-fewer-paths-to-root/
   - https://www.securityweek.com/
@@ -18,12 +19,12 @@ tags:
   - openai
   - agentes-ia
 date_created: 2026-11-05
-date_modified: 2026-11-05
+date_modified: 2026-11-07
 ---
 
 # Post LinkedIn - OpenAI 948 LPE Linux
 
-Programado para el viernes 06/11/2026 a las 14:00 (hora de Madrid). Pendiente de imagen (Kike la generará con ChatGPT).
+Publicado el viernes 06/11/2026 a las 14:08 (Madrid). [Ver post en LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7524457479938867200/).
 
 Fuente principal: [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/) (OpenAI, 4/11/2026). También cubierto en SecurityWeek, Help Net Security y Phoronix.
 
