@@ -6,17 +6,17 @@ tags:
   - backup
   - indice
 date_created: 2026-10-24
-date_modified: 2026-11-07
+date_modified: 2026-11-09
 ---
 
 # Copia Agent Desk
 
 Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo el 24/10/2026, antes de mover Agent Desk de sitio, y esta versión está actualizada con la instancia nueva. Es una exportación de solo lectura: no se cambió nada en Agent Desk. El historial de git conserva la versión anterior.
 
-- **Última actualización:** 07/11/2026, 09:10 (hora de Madrid), copia programada de Notis. El mensaje llegó truncado; la descripción y el responsable de «Probar QR y analíticas con dos usuarios reales», la fecha de la sync Hindsight y la nota nueva se completaron leyendo Agent Desk en solo lectura.
+- **Última actualización:** 09/11/2026, 09:06 (hora de Madrid), copia programada de Notis. Sin cambios de contenido respecto al 07/11. whoami/serverTime en la lectura: 2026-11-09T08:03:46.561Z (09:03 hora de Madrid).
 - **Cuenta usada:** agente Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc), estado active, capacidades: proyectos, notas, utilidades
 - **Permisos del acceso:** tasks:read, tasks:write, delegations:read, delegations:write, runs:read, runs:write, notes:read, notes:write, projects:read, projects:write, activity:read
-- **Cola en ese momento:** 1 tarea y 0 delegaciones
+- **Cola en ese momento:** 0 delegaciones, 5 tareas
 
 ## Resumen
 
@@ -33,7 +33,11 @@ Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo 
 | Notas | 3 |
 | Delegaciones | 0 |
 
-## Cambios desde la copia del 05/11
+## Cambios respecto al 07/11
+
+Ninguno. Mismos 3 proyectos, 22 tareas (15 done, 6 todo, 1 review), 3 notas y 0 delegaciones. La sync Hindsight (`92b5a76c…`) sigue con fecha límite 2026-11-07. Hermes e INFRA sin cambios. Comprobado en solo lectura con el conector de Agent Desk.
+
+## Cambios entre la copia del 05/11 y la del 07/11
 
 - Biavent pasa de 5 a 15 tareas (10 done, 4 todo, 1 review): 11 tareas nuevas. Ver [[Tareas Biavent]].
 - Eliminada (ya no existe en origen): «Probar la app en un dispositivo sin instalarla (Android e iOS)» (`f818728e-4eaf-4c8d-accd-7deaa25ea043`).
@@ -137,7 +141,8 @@ No hay delegaciones en ningún estado.
 
 ## Cola (get_queue)
 
-No incluida en la copia del 07/11.
+0 delegaciones y 5 tareas abiertas en la cola de Notis en el momento de la lectura (09/11/2026, ~09:03 hora de Madrid).
+
 
 ## Datos en bruto
 
