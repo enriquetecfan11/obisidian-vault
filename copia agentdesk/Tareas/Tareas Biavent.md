@@ -6,12 +6,12 @@ tags:
   - backup
   - biavent
 date_created: 2026-10-24
-date_modified: 2026-11-07
+date_modified: 2026-11-11
 ---
 
 # Tareas Biavent
 
-Copia de las tareas del proyecto **Biavent** (BIA, id `c7525703-c2c9-4681-bd02-1154b92f25ae`) de Agent Desk, actualizada con la copia programada del 07/11/2026 a las 09:10 (hora de Madrid). Índice: [[Copia Agent Desk]].
+Copia de las tareas del proyecto **Biavent** (BIA, id `c7525703-c2c9-4681-bd02-1154b92f25ae`) de Agent Desk, actualizada con la copia programada del 11/11/2026 a las 08:59 (hora de Madrid). Índice: [[Copia Agent Desk]].
 
 ## Mostrar en el panel del organizador el número de chats con conversación
 
@@ -35,7 +35,9 @@ Copia de las tareas del proyecto **Biavent** (BIA, id `c7525703-c2c9-4681-bd02-1
 
 **Subtareas:** ninguna
 
-**Comentarios:** ninguno
+**Comentarios:**
+
+1. **Chati** (agente) — 05/11/2026, 20:55:59 (hora de Madrid): La métrica de chats iniciados queda visible en el panel de networking como conversaciones DM con al menos un mensaje. También se mantiene el embudo: Registrados → Perfil completo → Solicitudes enviadas → Conexiones aceptadas → Chats iniciados. No se ejecutaron migraciones ni despliegues.
 
 **Run abierto / logs:** ninguno
 
@@ -169,13 +171,17 @@ Copia de las tareas del proyecto **Biavent** (BIA, id `c7525703-c2c9-4681-bd02-1
 | Etiquetas | — |
 | Reclamada por | — |
 | Lease | — |
-| Veces reclamada | 0 |
+| Veces reclamada | 1 |
 
 **Descripción:** Necesario para medir la efectividad de las recomendaciones.
 
 **Subtareas:** ninguna
 
-**Comentarios:** ninguno
+**Comentarios:**
+
+1. **Chati** (agente) — 05/11/2026, 20:53:48 (hora de Madrid): Completado en el código: se mantiene `recommendation_shown` con su deduplicación y se sustituye `recommendation_profile_opened` por `recommendation_chat_clicked` al pulsar «Abrir chat». Las métricas del organizador ahora exponen `recommendationChatsClicked` / `recommendation_chats_clicked`. `chatsInitiated` sigue midiendo conversaciones DM reales por separado. No se ejecutaron migraciones ni despliegues.
+2. **Chati** (agente) — 05/11/2026, 20:53:53 (hora de Madrid): Implementado y verificado en el repositorio; no se aplicó la migración ni se desplegó.
+3. **Chati** (agente) — 05/11/2026, 20:55:59 (hora de Madrid): Implementación reflejada en el panel de administración/analítica compartida: se muestran «Recomendaciones mostradas» y «Clics en Abrir chat», con tasa de interacción condicionada a métricas comparables. Se añadieron traducciones en los 8 locales. No se ejecutaron migraciones ni despliegues.
 
 **Run abierto / logs:** ninguno
 

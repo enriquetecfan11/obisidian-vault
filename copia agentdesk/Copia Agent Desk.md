@@ -6,17 +6,17 @@ tags:
   - backup
   - indice
 date_created: 2026-10-24
-date_modified: 2026-11-09
+date_modified: 2026-11-11
 ---
 
 # Copia Agent Desk
 
 Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo el 24/10/2026, antes de mover Agent Desk de sitio, y esta versión está actualizada con la instancia nueva. Es una exportación de solo lectura: no se cambió nada en Agent Desk. El historial de git conserva la versión anterior.
 
-- **Última actualización:** 09/11/2026, 09:06 (hora de Madrid), copia programada de Notis. Sin cambios de contenido respecto al 07/11. whoami/serverTime en la lectura: 2026-11-09T08:03:46.561Z (09:03 hora de Madrid).
+- **Última actualización:** 11/11/2026, 08:59 (hora de Madrid), copia programada de Notis (documento completo de origen).
 - **Cuenta usada:** agente Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc), estado active, capacidades: proyectos, notas, utilidades
 - **Permisos del acceso:** tasks:read, tasks:write, delegations:read, delegations:write, runs:read, runs:write, notes:read, notes:write, projects:read, projects:write, activity:read
-- **Cola en ese momento:** 0 delegaciones, 5 tareas
+- **Cola en ese momento:** no incluida en el documento de origen.
 
 ## Resumen
 
@@ -25,17 +25,21 @@ Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo 
 | Proyectos | 3 |
 | Tareas (total) | 22 |
 | Tareas en backlog | 0 |
-| Tareas en todo | 6 |
+| Tareas en todo | 5 |
 | Tareas en in_progress | 0 |
 | Tareas en review | 1 |
-| Tareas en done | 15 |
+| Tareas en done | 16 |
 | Tareas en cancelled | 0 |
 | Notas | 3 |
 | Delegaciones | 0 |
 
-## Cambios respecto al 07/11
+## Cambios respecto al 09/11
 
-Ninguno. Mismos 3 proyectos, 22 tareas (15 done, 6 todo, 1 review), 3 notas y 0 delegaciones. La sync Hindsight (`92b5a76c…`) sigue con fecha límite 2026-11-07. Hermes e INFRA sin cambios. Comprobado en solo lectura con el conector de Agent Desk.
+- **Revisar el nuevo manual de seguros** (`3f4b63c7…`): pasa de todo a **done**. Tareas personales queda en 6 tareas, 5 hechas.
+- **Sincronizar vault Obsidian → Hindsight:** la fecha límite pasa del 07/11 al **12/11/2026**. Se registra una aprobación caducada (`complete_task`, rejected) del 08/11.
+- Comentarios nuevos de Chati (05/11) en dos tareas de Biavent: «Registrar recomendaciones mostradas y clics en abrir chat» y «Mostrar en el panel del organizador el número de chats con conversación». En la primera, las reclamaciones pasan de 0 a 1.
+- Recuento global: 22 tareas (16 done, 5 todo, 1 review). Notas Hermes, INFRA (texto idéntico al del 25/10) y Reuniones QR sin cambios. Sin tareas ni notas nuevas ni eliminadas. 0 delegaciones.
+
 
 ## Cambios entre la copia del 05/11 y la del 07/11
 
@@ -90,7 +94,7 @@ Ninguno.
 |---|---|---|---|---|---|---|
 | MaraOs | MAOS | b308d5fc-1ddd-45b5-bc05-c8feb20dadf3 | active | 0 | 0 | sin tareas |
 | Biavent | BIA | c7525703-c2c9-4681-bd02-1154b92f25ae | active | 15 | 10 | [[Tareas Biavent]] |
-| Tareas personales | TAP | 70b16875-640f-49d6-88b9-467019761ae4 | active | 6 | 4 | [[Tareas personales]] |
+| Tareas personales | TAP | 70b16875-640f-49d6-88b9-467019761ae4 | active | 6 | 5 | [[Tareas personales]] |
 
 ## Tareas
 
@@ -114,10 +118,10 @@ Ninguno.
 
 ### [[Tareas personales]]
 
-- Sincronizar vault Obsidian → Hindsight (diario 23:00) (todo, Orion, fecha límite 07/11/2026)
+- Sincronizar vault Obsidian → Hindsight (diario 23:00) (todo, Orion, fecha límite 12/11/2026)
 - Recordar Vera correo Jorge (done, fecha límite 05/11/2026)
 - Recordar Vera comida (done, fecha límite 05/11/2026)
-- Revisar el nuevo manual de seguros (todo)
+- Revisar el nuevo manual de seguros (done)
 - Revisar lo que se guarda en el panel de Biavent (done)
 - Mi nueva tarea (done)
 
@@ -141,7 +145,7 @@ No hay delegaciones en ningún estado.
 
 ## Cola (get_queue)
 
-0 delegaciones y 5 tareas abiertas en la cola de Notis en el momento de la lectura (09/11/2026, ~09:03 hora de Madrid).
+No incluida en el documento de origen del 11/11.
 
 
 ## Datos en bruto
