@@ -7,7 +7,7 @@ tags:
   - pkm
 project: none
 date_created: 2026-10-05
-date_modified: 2026-11-02
+date_modified: 2026-11-12
 status: active
 ---
 # MOC Inteligencia Artificial
@@ -50,6 +50,7 @@ status: active
 
 ## Seguridad y comunidad
 
+- [[Autorización para agentes IA - CIBA, RAR, OBO y OAuth 2.1 en MCP]] — CIBA, RAR, OBO y OAuth 2.1 aplicados a agentes y MCP
 - [[CAI Framework - Inteligencia Artificial Seguridad]] — framework CAI / seguridad en IA
 - [[Todo de IA - Comunidad]] — mapa de la comunidad Todo de IA (guías y repos)
 
