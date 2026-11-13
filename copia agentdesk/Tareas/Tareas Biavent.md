@@ -6,12 +6,12 @@ tags:
   - backup
   - biavent
 date_created: 2026-10-24
-date_modified: 2026-11-11
+date_modified: 2026-11-13
 ---
 
 # Tareas Biavent
 
-Copia de las tareas del proyecto **Biavent** (BIA, id `c7525703-c2c9-4681-bd02-1154b92f25ae`) de Agent Desk, actualizada con la copia programada del 11/11/2026 a las 08:59 (hora de Madrid). Índice: [[Copia Agent Desk]].
+Copia de las tareas del proyecto **Biavent** (BIA, id `c7525703-c2c9-4681-bd02-1154b92f25ae`) de Agent Desk, actualizada con la copia programada del 13/11/2026 a las 08:50 (hora de Madrid). Índice: [[Copia Agent Desk]].
 
 ## Mostrar en el panel del organizador el número de chats con conversación
 
@@ -430,6 +430,92 @@ Copia de las tareas del proyecto **Biavent** (BIA, id `c7525703-c2c9-4681-bd02-1
 | Veces reclamada | 0 |
 
 **Descripción:** Verificar migraciones, Edge Functions, permisos y flujos completos.
+
+**Subtareas:** ninguna
+
+**Comentarios:** ninguno
+
+**Run abierto / logs:** ninguno
+
+**Aprobaciones:** ninguna
+
+## Código QR
+
+| Campo | Valor |
+|---|---|
+| ID | 6dcaab8e-498b-4e57-8754-53f40d867659 |
+| Estado | todo |
+| Prioridad | none |
+| Autonomía | do_with_approval |
+| Fecha límite | — |
+| Hora límite | — |
+| Recurrencia | — |
+| Asignada a | sin asignar |
+| Tarea padre | — |
+| Etiquetas | — |
+| Reclamada por | — |
+| Lease | — |
+| Veces reclamada | 0 |
+
+**Descripción:** —
+
+**Subtareas:** 1 (0 hechas)
+
+- El  QR de las redes sociales solo se genera cuando se crea un chat (`2426a4f1-e851-4d46-99f2-40d093cee947`), todo
+
+**Comentarios:** ninguno
+
+**Run abierto / logs:** ninguno
+
+**Aprobaciones:** ninguna
+
+### El  QR de las redes sociales solo se genera cuando se crea un chat
+
+| Campo | Valor |
+|---|---|
+| ID | 2426a4f1-e851-4d46-99f2-40d093cee947 |
+| Estado | todo |
+| Prioridad | none |
+| Autonomía | do_with_approval |
+| Fecha límite | — |
+| Hora límite | — |
+| Recurrencia | — |
+| Asignada a | sin asignar |
+| Tarea padre | 6dcaab8e-498b-4e57-8754-53f40d867659 (Código QR) |
+| Etiquetas | — |
+| Reclamada por | — |
+| Lease | — |
+| Veces reclamada | 0 |
+
+**Descripción:** —
+
+**Subtareas:** ninguna
+
+**Comentarios:** ninguno
+
+**Run abierto / logs:** ninguno
+
+**Aprobaciones:** ninguna
+
+## Quitar de crear evento publico o privado
+
+| Campo | Valor |
+|---|---|
+| ID | 0128214e-bcf4-46aa-a878-71856ae60826 |
+| Estado | todo |
+| Prioridad | none |
+| Autonomía | do_with_approval |
+| Fecha límite | — |
+| Hora límite | — |
+| Recurrencia | — |
+| Asignada a | sin asignar |
+| Tarea padre | — |
+| Etiquetas | — |
+| Reclamada por | — |
+| Lease | — |
+| Veces reclamada | 0 |
+
+**Descripción:** —
 
 **Subtareas:** ninguna
 

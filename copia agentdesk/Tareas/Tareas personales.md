@@ -5,50 +5,13 @@ tags:
   - copia-seguridad
   - backup
 date_created: 2026-11-05
-date_modified: 2026-11-11
+date_modified: 2026-11-13
 ---
 
 # Tareas personales
 
-Copia de las tareas del proyecto **Tareas personales** (TAP, id `70b16875-640f-49d6-88b9-467019761ae4`) de Agent Desk, según la copia programada de Notis del 11/11/2026 a las 08:59 (hora de Madrid). Índice: [[Copia Agent Desk]].
-
-## Sincronizar vault Obsidian → Hindsight (diario 23:00)
-
-| Campo | Valor |
-|---|---|
-| ID | 92b5a76c-c3da-4ccf-b832-fe6f3a60fc65 |
-| Estado | todo |
-| Prioridad | normal |
-| Autonomía | suggest_only |
-| Fecha límite | 2026-11-12 |
-| Asignada a | agent: Orion (50e2f9b3-b6a4-4fc3-8d76-6ef9a3459907) |
-| Etiquetas | — |
-
-**Descripción:** Tarea recurrente: cada noche a las 23:00 ejecutar los scripts de `/home/enriquetecfan/mara/scripts/` para mantener sincronizado el vault de Obsidian con Hindsight. Scripts:
-
-1. `sync_vault.sh`: git pull del vault, subida de notas nuevas o modificadas al banco `obsidian`, borrado de las eliminadas y verificación.
-2. `hindsight_recall.sh "notas" obsidian`: consulta de verificación de que Hindsight responde.
-
-Cron job programado en Hermes para automatizarlo.
-
-**Subtareas:** ninguna
-
-**Aprobaciones:**
-
-| Campo | Valor |
-|---|---|
-| ID | 95621ce4-e0d8-4851-9fb5-4d56b6d3c2ce |
-| Herramienta | complete_task |
-| Riesgo | low |
-| Estado | expired |
-| Decisión | rejected (aprobación caducada) |
-| Título | Cerrar «Sincronizar vault Obsidian → Hindsight (diario 23:00)» |
-| Payload | output nulo; taskId 92b5a76c-c3da-4ccf-b832-fe6f3a60fc65 |
-| Motivo | — |
-| Decidida el | — |
-| Caduca el | 08/11/2026, 14:08:38 (hora de Madrid) |
-
-Relacionado: [[INFRA - Mapa de la infraestructura]], [[Rutinas y cronjobs]]
+Copia de las tareas del proyecto **Tareas personales** (TAP, id `70b16875-640f-49d6-88b9-467019761ae4`) de Agent Desk, según la copia programada de Notis del 13/11/2026 a las 08:50 (hora de Madrid). Índice: [[Copia Agent Desk]].
+tura]], [[Rutinas y cronjobs]]
 
 ## Recordar Vera correo Jorge
 

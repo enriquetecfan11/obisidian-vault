@@ -6,14 +6,14 @@ tags:
   - backup
   - indice
 date_created: 2026-10-24
-date_modified: 2026-11-11
+date_modified: 2026-11-13
 ---
 
 # Copia Agent Desk
 
 Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo el 24/10/2026, antes de mover Agent Desk de sitio, y esta versión está actualizada con la instancia nueva. Es una exportación de solo lectura: no se cambió nada en Agent Desk. El historial de git conserva la versión anterior.
 
-- **Última actualización:** 11/11/2026, 08:59 (hora de Madrid), copia programada de Notis (documento completo de origen).
+- **Última actualización:** 13/11/2026, 08:50 (hora de Madrid), copia programada de Notis (documento completo de origen).
 - **Cuenta usada:** agente Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc), estado active, capacidades: proyectos, notas, utilidades
 - **Permisos del acceso:** tasks:read, tasks:write, delegations:read, delegations:write, runs:read, runs:write, notes:read, notes:write, projects:read, projects:write, activity:read
 - **Cola en ese momento:** no incluida en el documento de origen.
@@ -23,9 +23,9 @@ Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo 
 | Elemento | Cantidad |
 |---|---|
 | Proyectos | 3 |
-| Tareas (total) | 22 |
+| Tareas (total) | 24 |
 | Tareas en backlog | 0 |
-| Tareas en todo | 5 |
+| Tareas en todo | 7 |
 | Tareas en in_progress | 0 |
 | Tareas en review | 1 |
 | Tareas en done | 16 |
@@ -33,7 +33,14 @@ Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo 
 | Notas | 3 |
 | Delegaciones | 0 |
 
-## Cambios respecto al 09/11
+## Cambios respecto al 11/11
+
+- Biavent pasa de 15 a **18** tareas (siguen 10 hechas): altas «Código QR» (`6dcaab8e-498b-4e57-8754-53f40d867659`, todo, sin asignar), su subtarea «El  QR de las redes sociales solo se genera cuando se crea un chat» (`2426a4f1-e851-4d46-99f2-40d093cee947`, todo) y «Quitar de crear evento publico o privado» (`0128214e-bcf4-46aa-a878-71856ae60826`, todo).
+- Tareas personales: desaparece «Sincronizar vault Obsidian → Hindsight (diario 23:00)» (`92b5a76c-c3da-4ccf-b832-fe6f3a60fc65`). Quedan 5 tareas, todas hechas.
+- Notas Hermes, INFRA y Reuniones QR sin cambios. 0 delegaciones.
+- Recuento global: 24 tareas (16 done, 7 todo, 1 review), 3 proyectos, 3 notas.
+
+## Cambios entre la copia del 09/11 y la del 11/11
 
 - **Revisar el nuevo manual de seguros** (`3f4b63c7…`): pasa de todo a **done**. Tareas personales queda en 6 tareas, 5 hechas.
 - **Sincronizar vault Obsidian → Hindsight:** la fecha límite pasa del 07/11 al **12/11/2026**. Se registra una aprobación caducada (`complete_task`, rejected) del 08/11.
@@ -93,8 +100,8 @@ Ninguno.
 | Proyecto | Identificador | ID | Estado | Tareas | Hechas | Copia |
 |---|---|---|---|---|---|---|
 | MaraOs | MAOS | b308d5fc-1ddd-45b5-bc05-c8feb20dadf3 | active | 0 | 0 | sin tareas |
-| Biavent | BIA | c7525703-c2c9-4681-bd02-1154b92f25ae | active | 15 | 10 | [[Tareas Biavent]] |
-| Tareas personales | TAP | 70b16875-640f-49d6-88b9-467019761ae4 | active | 6 | 5 | [[Tareas personales]] |
+| Biavent | BIA | c7525703-c2c9-4681-bd02-1154b92f25ae | active | 18 | 10 | [[Tareas Biavent]] |
+| Tareas personales | TAP | 70b16875-640f-49d6-88b9-467019761ae4 | active | 5 | 5 | [[Tareas personales]] |
 
 ## Tareas
 
@@ -115,10 +122,12 @@ Ninguno.
 - Incorporar resultados de las encuestas al dashboard (done)
 - Ampliar informes automáticos con métricas de impacto (todo)
 - Probar QR y analíticas con dos usuarios reales (review)
+- Código QR (todo, 1 subtarea)
+  - El  QR de las redes sociales solo se genera cuando se crea un chat (todo)
+- Quitar de crear evento publico o privado (todo)
 
 ### [[Tareas personales]]
 
-- Sincronizar vault Obsidian → Hindsight (diario 23:00) (todo, Orion, fecha límite 12/11/2026)
 - Recordar Vera correo Jorge (done, fecha límite 05/11/2026)
 - Recordar Vera comida (done, fecha límite 05/11/2026)
 - Revisar el nuevo manual de seguros (done)
@@ -145,7 +154,7 @@ No hay delegaciones en ningún estado.
 
 ## Cola (get_queue)
 
-No incluida en el documento de origen del 11/11.
+No incluida en el documento de origen del 13/11.
 
 
 ## Datos en bruto
