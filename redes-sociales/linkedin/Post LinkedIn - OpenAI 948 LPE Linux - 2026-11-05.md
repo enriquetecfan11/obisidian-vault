@@ -19,7 +19,7 @@ tags:
   - openai
   - agentes-ia
 date_created: 2026-11-05
-date_modified: 2026-11-07
+date_modified: 2026-11-13
 ---
 
 # Post LinkedIn - OpenAI 948 LPE Linux
@@ -75,6 +75,7 @@ Escena de ciberseguridad en tono grave: mi muñeco en una sala de operaciones SO
 
 ## Relacionado
 
+- [[Post LinkedIn - OpenAI Daybreak Red Team - 2026-11-13]] — continuación
 - [[Panel de publicaciones]]
 - [[MOC LinkedIn]]
 - [[MOC Inteligencia Artificial]]
