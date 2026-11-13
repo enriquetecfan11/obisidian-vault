@@ -11,7 +11,6 @@ date_modified: 2026-11-13
 # Tareas personales
 
 Copia de las tareas del proyecto **Tareas personales** (TAP, id `70b16875-640f-49d6-88b9-467019761ae4`) de Agent Desk, según la copia programada de Notis del 13/11/2026 a las 08:50 (hora de Madrid). Índice: [[Copia Agent Desk]].
-tura]], [[Rutinas y cronjobs]]
 
 ## Recordar Vera correo Jorge
 
