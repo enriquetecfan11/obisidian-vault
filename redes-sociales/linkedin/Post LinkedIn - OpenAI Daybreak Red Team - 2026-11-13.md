@@ -1,7 +1,9 @@
 ---
 title: Post LinkedIn - OpenAI Daybreak Red Team
 red: LinkedIn
-estado: borrador
+estado: programado
+fecha_propuesta: 2026-11-16
+hora_propuesta: "14:30"
 sources:
   - https://openai.com/daybreak/red-team/
   - https://openai.com/daybreak/defense-factory/
@@ -18,7 +20,7 @@ date_modified: 2026-11-13
 
 # Post LinkedIn - OpenAI Daybreak Red Team
 
-Borrador pendiente de aprobación de Kike. No está programado.
+Programado para el lunes 16/11/2026 a las 14:30 (hora de Madrid).
 
 Continuación de [[Post LinkedIn - OpenAI 948 LPE Linux - 2026-11-05]].
 

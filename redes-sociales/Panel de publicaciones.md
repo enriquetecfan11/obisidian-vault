@@ -15,6 +15,7 @@ Nota de control de las publicaciones en redes. Al publicarse un post, se mueve d
 
 | Fecha y hora (Madrid) | Red | Post | Estado |
 | --- | --- | --- | --- |
+| 16/11/2026 14:30 | LinkedIn | [[Post LinkedIn - OpenAI Daybreak Red Team - 2026-11-13]] | Programado |
 
 ## Publicados
 
@@ -30,7 +31,6 @@ Nota de control de las publicaciones en redes. Al publicarse un post, se mueve d
 
 - [[Post LinkedIn - Meta Muse Wonder - 2026-10-13]] (LinkedIn, sin publicar)
 - [[Post LinkedIn - n8n Agents y 3.0 - 2026-10-29]] (LinkedIn, pendiente de aprobación de Kike; fecha propuesta: mar 03/11/2026 14:00)
-- [[Post LinkedIn - OpenAI Daybreak Red Team - 2026-11-13]] (LinkedIn, pendiente de aprobación de Kike; no programado)
 
 ## Estadísticas
 

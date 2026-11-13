@@ -4,7 +4,7 @@ tags:
   - redes-sociales
   - linkedin
 date_created: 2026-10-17
-date_modified: 2026-11-07
+date_modified: 2026-11-13
 ---
 
 # Calendario de publicaciones
@@ -20,6 +20,7 @@ Vista de calendario de los posts programados y publicados. El detalle (estado, e
 | Mar 27/10/2026 | 14:07 | LinkedIn | [[Post LinkedIn - Agent Skills AAIF - 2026-10-24]] | Publicado |
 | Jue 29/10/2026 | 14:14 | LinkedIn | [[Post LinkedIn - MCP es el enchufe - 2026-10-28]] | Publicado |
 | Vie 06/11/2026 | 14:08 | LinkedIn | [[Post LinkedIn - OpenAI 948 LPE Linux - 2026-11-05]] | Publicado |
+| Lun 16/11/2026 | 14:30 | LinkedIn | [[Post LinkedIn - OpenAI Daybreak Red Team - 2026-11-13]] | Programado |
 
 ## Relacionado
 - [[Panel de publicaciones]]
