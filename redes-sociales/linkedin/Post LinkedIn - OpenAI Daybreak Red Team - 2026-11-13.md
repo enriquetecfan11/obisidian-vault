@@ -66,7 +66,7 @@ Tipografía sans-serif, con buen contraste, integrada en la composición (por ej
 
 ## Imagen
 
-Pendiente: Kike generará la imagen. Todavía no hay adjunto.
+![[Post LinkedIn - OpenAI Daybreak Red Team - 2026-11-13.png]]
 
 ## Relacionado
 
