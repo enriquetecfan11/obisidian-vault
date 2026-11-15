@@ -6,14 +6,14 @@ tags:
   - backup
   - indice
 date_created: 2026-10-24
-date_modified: 2026-11-13
+date_modified: 2026-11-15
 ---
 
 # Copia Agent Desk
 
 Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo el 24/10/2026, antes de mover Agent Desk de sitio, y esta versión está actualizada con la instancia nueva. Es una exportación de solo lectura: no se cambió nada en Agent Desk. El historial de git conserva la versión anterior.
 
-- **Última actualización:** 13/11/2026, 08:50 (hora de Madrid), copia programada de Notis (documento completo de origen).
+- **Última actualización:** 15/11/2026, 08:45 (hora de Madrid), copia programada de Notis (documento completo de origen). Sin cambios de contenido respecto al 13/11.
 - **Cuenta usada:** agente Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc), estado active, capacidades: proyectos, notas, utilidades
 - **Permisos del acceso:** tasks:read, tasks:write, delegations:read, delegations:write, runs:read, runs:write, notes:read, notes:write, projects:read, projects:write, activity:read
 - **Cola en ese momento:** no incluida en el documento de origen.
@@ -33,7 +33,11 @@ Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo 
 | Notas | 3 |
 | Delegaciones | 0 |
 
-## Cambios respecto al 11/11
+## Cambios respecto al 13/11
+
+Ninguno. Mismos 3 proyectos, 24 tareas (16 done, 7 todo, 1 review), 3 notas y 0 delegaciones. IDs, estados, comentarios y texto de las notas coinciden con la copia del 13/11. Hermes e INFRA sin cambios (la clave de Hermes sigue redactada).
+
+## Cambios entre la copia del 11/11 y la del 13/11
 
 - Biavent pasa de 15 a **18** tareas (siguen 10 hechas): altas «Código QR» (`6dcaab8e-498b-4e57-8754-53f40d867659`, todo, sin asignar), su subtarea «El  QR de las redes sociales solo se genera cuando se crea un chat» (`2426a4f1-e851-4d46-99f2-40d093cee947`, todo) y «Quitar de crear evento publico o privado» (`0128214e-bcf4-46aa-a878-71856ae60826`, todo).
 - Tareas personales: desaparece «Sincronizar vault Obsidian → Hindsight (diario 23:00)» (`92b5a76c-c3da-4ccf-b832-fe6f3a60fc65`). Quedan 5 tareas, todas hechas.
@@ -154,7 +158,7 @@ No hay delegaciones en ningún estado.
 
 ## Cola (get_queue)
 
-No incluida en el documento de origen del 13/11.
+No incluida en el documento de origen del 15/11.
 
 
 ## Datos en bruto
