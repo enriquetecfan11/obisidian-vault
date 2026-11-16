@@ -1,9 +1,10 @@
 ---
 title: Post LinkedIn - OpenAI Daybreak Red Team
 red: LinkedIn
-estado: programado
-fecha_propuesta: 2026-11-16
-hora_propuesta: "14:30"
+estado: publicado
+fecha_publicacion: 2026-11-16
+hora_publicacion: "14:41"
+enlace_publicacion: https://www.linkedin.com/feed/update/urn:li:share:7528089899925725184/
 sources:
   - https://openai.com/daybreak/red-team/
   - https://openai.com/daybreak/defense-factory/
@@ -15,12 +16,12 @@ tags:
   - openai
   - agentes-ia
 date_created: 2026-11-13
-date_modified: 2026-11-13
+date_modified: 2026-11-16
 ---
 
 # Post LinkedIn - OpenAI Daybreak Red Team
 
-Programado para el lunes 16/11/2026 a las 14:30 (hora de Madrid).
+Publicado el lunes 16/11/2026 a las 14:41 (Madrid). [Ver post en LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7528089899925725184/).
 
 Continuación de [[Post LinkedIn - OpenAI 948 LPE Linux - 2026-11-05]].
 
