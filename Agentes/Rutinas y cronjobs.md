@@ -6,7 +6,7 @@ tags:
   - rutinas
   - infraestructura
 date_created: 2026-11-03
-date_modified: 2026-11-03
+date_modified: 2026-11-17
 status: active
 ---
 
@@ -88,7 +88,7 @@ Las dos comparten el historial `/workspace/nexo/news-history.md`.
 
 ## HermesAgent
 
-Índice: [[HermesAgent]].
+Índice: [[HermesAgent]]. Cómo crear tareas programadas en Hermes está en [[Guía Racks Academy - Instalar Hermes]].
 
 No hay rutinas conocidas.
 

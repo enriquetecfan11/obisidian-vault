@@ -6,7 +6,7 @@ tags:
   - api
   - referencia
 date_created: 2026-10-31
-date_modified: 2026-11-03
+date_modified: 2026-11-17
 status: active
 ---
 
@@ -413,3 +413,8 @@ websocat "ws://${HERMES_HOST#http://}/api/ws?token=$TOKEN"
 CHANNEL="default"
 websocat "ws://${HERMES_HOST#http://}/api/events?token=$TOKEN&channel=$CHANNEL"
 ```
+
+## Relacionado
+
+- [[HermesAgent]] — índice
+- [[Guía Racks Academy - Instalar Hermes]] — instalación y uso de Hermes (Racks Academy)

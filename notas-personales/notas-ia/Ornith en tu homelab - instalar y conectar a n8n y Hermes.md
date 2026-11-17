@@ -10,7 +10,7 @@ tags:
 status: active
 project: none
 date_created: 2026-10-17
-date_modified: 2026-10-17
+date_modified: 2026-11-17
 source: https://comunidad.eriktaveras.com/resources/ornith-en-tu-homelab/
 ---
 # Ornith en tu homelab — instalarlo y conectarlo a n8n y a Hermes
@@ -121,3 +121,5 @@ Olvidar `--jinja` (fallan las herramientas); contexto < 64K con Hermes; `127.0.0
 - [[Ollama Docker]] — Ollama en Docker para n8n
 - [[MOC Automatizaciones]] — flujos n8n que consumen el modelo
 - [[Company brain - El cerebro de tu empresa]] — el conocimiento (cerebro) que el motor local sirve
+- [[Guía Racks Academy - Instalar Hermes]] — instalar y configurar Hermes Agent
+- [[HermesAgent]] — resto de notas de Hermes en el vault

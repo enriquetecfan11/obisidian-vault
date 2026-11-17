@@ -11,7 +11,7 @@ tags:
 status: active
 project: none
 date_created: 2026-10-31
-date_modified: 2026-10-31
+date_modified: 2026-11-17
 source: https://comunidad.eriktaveras.com/resources/mi-ia-local-mapa-de-montaje/
 author: [[Erik Taveras]]
 published: 2026-10-13
@@ -291,3 +291,10 @@ No hace falta mi máquina para empezar. Un modelo pequeño en cualquier PC ya te
 *Erik Taveras — Taveras Solutions, LLC*
 
 Si lo montas, etiquétame y cuéntame con qué equipo (RAM y GPU) y qué tareas pusiste a correr.
+
+## Relacionado
+
+- [[MOC IA Local]]
+- [[Ornith en tu homelab - instalar y conectar a n8n y Hermes]]
+- [[Guía Racks Academy - Instalar Hermes]] — instalar y configurar Hermes Agent
+- [[HermesAgent]] — resto de notas de Hermes en el vault

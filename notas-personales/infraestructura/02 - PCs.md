@@ -9,7 +9,7 @@ tags:
 status: active
 project: personal
 date_created: 2026-08-24
-date_modified: 2026-08-24
+date_modified: 2026-11-17
 ---
 # PCs
 
@@ -39,3 +39,6 @@ date_modified: 2026-08-24
 ## Relacionado
 - [[01 - Dispositivos Apple]] — Apple
 - [[05 - Topología de red]] — red
+- [[PixelZen - escritorio KDE pixel art]] — tema KDE Plasma 6 en pixel art (encaja con un escritorio Linux)
+- [[Guía Racks Academy - Instalar Hermes]] — guía de instalación de Hermes Agent (candidato del PC3)
+- [[HermesAgent]] — notas de Hermes en el vault
