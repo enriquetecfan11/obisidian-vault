@@ -12,7 +12,7 @@ status: active
 
 # Hermes API — Referencia de curls
 
-> `hermes serve` · REST + WebSocket · Puerto: **9119** · IP: **192.168.1.196**
+> `hermes serve` · REST + WebSocket · Puerto: **9119** · IP: **$HERMES_IP**
 
 ## Servidor
 
@@ -26,12 +26,12 @@ systemctl --user stop hermes-serve     # parar
 
 ## Autenticación
 
-El servidor usa **HTTP Basic Auth**. Las credenciales **no se guardan en el vault**: están en `~/.hermes/.env` en el homelab.
+El servidor usa **HTTP Basic Auth**. Las credenciales y `$HERMES_IP` **no se guardan en el vault**: viven en `~/.hermes/.env` en el homelab ([REDACTADO — vive en ~/.hermes/.env]).
 
 Carga las variables antes de usar los curls (por ejemplo con `set -a; source ~/.hermes/.env; set +a`) y autentica así:
 
 ```bash
-HERMES_HOST="http://192.168.1.196:9119"
+HERMES_HOST="http://$HERMES_IP:9119"
 
 # Prueba rápida:
 curl -s -u "$HERMES_USER:$HERMES_PASS" "$HERMES_HOST/api/health"
@@ -417,4 +417,5 @@ websocat "ws://${HERMES_HOST#http://}/api/events?token=$TOKEN&channel=$CHANNEL"
 ## Relacionado
 
 - [[HermesAgent]] — índice
+- [[Hermes API]] — nota conjunta: token de sesión en localhost y referencia de curls
 - [[Guía Racks Academy - Instalar Hermes]] — instalación y uso de Hermes (Racks Academy)

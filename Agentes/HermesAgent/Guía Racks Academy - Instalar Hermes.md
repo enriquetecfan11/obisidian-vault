@@ -198,6 +198,7 @@ Secuencia de recuperación que da la guía: `hermes doctor` → `hermes model` �
 ## Relacionado
 
 - [[HermesAgent]] — índice de notas de Hermes en el vault
+- [[Hermes API]] — token de sesión en localhost y referencia de curls (credenciales en `~/.hermes/.env`)
 - [[homelab-api-curls]] — referencia de curls de la API de Hermes (credenciales en `~/.hermes/.env`)
 - [[Ornith en tu homelab - instalar y conectar a n8n y Hermes]] — conectar un modelo local a Hermes
 - [[Mi IA local - mapa de montaje completo]] — montaje local que incluye Hermes
