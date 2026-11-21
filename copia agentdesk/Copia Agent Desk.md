@@ -6,14 +6,14 @@ tags:
   - backup
   - indice
 date_created: 2026-10-24
-date_modified: 2026-11-19
+date_modified: 2026-11-21
 ---
 
 # Copia Agent Desk
 
 Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo el 24/10/2026, antes de mover Agent Desk de sitio, y esta versión está actualizada con la instancia nueva. Es una exportación de solo lectura: no se cambió nada en Agent Desk. El historial de git conserva la versión anterior.
 
-- **Última actualización:** 19/11/2026, 08:43 (hora de Madrid), copia programada de Notis (documento completo de origen). Sin cambios de contenido respecto al 17/11.
+- **Última actualización:** 21/11/2026, 08:40 (hora de Madrid), copia programada de Notis (documento completo de origen). Sin cambios de contenido respecto al 19/11.
 - **Cuenta usada:** agente Notis (eecefdf7-cd56-460c-99a0-ac4c382a1adc), estado active, capacidades: proyectos, notas, utilidades
 - **Permisos del acceso:** tasks:read, tasks:write, delegations:read, delegations:write, runs:read, runs:write, notes:read, notes:write, projects:read, projects:write, activity:read
 - **Cola en ese momento:** no incluida en el documento de origen.
@@ -33,7 +33,11 @@ Copia de seguridad de todo el contenido de Agent Desk. La primera copia se hizo 
 | Notas | 3 |
 | Delegaciones | 0 |
 
-## Cambios respecto al 17/11
+## Cambios respecto al 19/11
+
+Ninguno. Mismos 3 proyectos, 24 tareas (16 done, 7 todo, 1 review), 3 notas y 0 delegaciones. IDs, estados, comentarios y texto de las notas coinciden con la copia del 19/11. Hermes e INFRA sin cambios (la clave de Hermes sigue redactada).
+
+## Cambios entre la copia del 17/11 y la del 19/11
 
 Ninguno. Mismos 3 proyectos, 24 tareas (16 done, 7 todo, 1 review), 3 notas y 0 delegaciones. IDs, estados, comentarios y texto de las notas coinciden con la copia del 17/11. Hermes e INFRA sin cambios (la clave de Hermes sigue redactada).
 
@@ -166,7 +170,7 @@ No hay delegaciones en ningún estado.
 
 ## Cola (get_queue)
 
-No incluida en el documento de origen del 19/11.
+No incluida en el documento de origen del 21/11.
 
 
 ## Datos en bruto
