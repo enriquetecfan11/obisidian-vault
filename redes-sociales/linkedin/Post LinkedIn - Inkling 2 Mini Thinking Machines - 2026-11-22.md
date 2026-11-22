@@ -16,9 +16,21 @@ date_modified: 2026-11-22
 
 # Post LinkedIn - Inkling 2 Mini Thinking Machines
 
-Borrador. Pendiente de aprobación de Kike y de programar. Pendiente de imagen (Kike la generará).
+> [!warning] Borrador
+> No está aprobado ni programado. Pendiente de la imagen (la hará Kike) y de la fecha de publicación.
 
 Fuente: [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) (Thinking Machines Lab).
+
+## Noticia (verificada por Nexo, 22/11/2026)
+
+- Inkling 2 Mini, de Thinking Machines Lab (Mira Murati). Lanzado el 20/11/2026.
+- Es un looped transformer: pasa 3 veces por sus capas intermedias en cada token y llega a la respuesta correcta con menos tokens, sobre todo en programación con agentes.
+- MoE con 26.400 millones de parámetros en total y 3.400 millones activos. Ocupa unos 20 GB (NVFP4) y funciona en local en portátiles.
+- Es el mejor modelo de pesos abiertos de menos de 100.000 millones de parámetros en DeepSWE v1.1 (48,2 %) y en Vals Index v2.2 (46,5 %), y supera a los comparables en SWE-bench Pro v2.
+- Los pesos son abiertos en Hugging Face. Se puede usar en Tinker y Tinker Playground, y ejecutar con vLLM, SGLang, Ollama, Unsloth o NVIDIA Dynamo.
+- Hay una variante de investigación con número de pasadas variable, para estudiar si el razonamiento sigue siendo legible y supervisable.
+- La licencia (Apache 2.0) no está confirmada y el anuncio no da precio.
+- Fuente: https://thinkingmachines.ai/news/inkling-2-mini/
 
 ## Post
 
@@ -70,3 +82,5 @@ Tipografía sans-serif, con buen contraste, integrada en la composición (por ej
 - [[MOC Inteligencia Artificial]]
 - [[MOC IA Local]] — modelos locales (llama.cpp, Ollama)
 - [[Mi IA local - mapa de montaje completo]] — montar modelos y agentes en local
+- [[Ollama Docker]] — ejecutar modelos locales con Ollama
+- [[OpenCode - Orquestador de agentes]] — orquestar agentes en local
