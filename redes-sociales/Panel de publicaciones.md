@@ -4,7 +4,7 @@ tags:
   - linkedin
   - redes-sociales
 date_created: 2026-10-17
-date_modified: 2026-11-16
+date_modified: 2026-11-22
 ---
 
 # Panel de publicaciones
@@ -31,6 +31,7 @@ Nota de control de las publicaciones en redes. Al publicarse un post, se mueve d
 
 - [[Post LinkedIn - Meta Muse Wonder - 2026-10-13]] (LinkedIn, sin publicar)
 - [[Post LinkedIn - n8n Agents y 3.0 - 2026-10-29]] (LinkedIn, pendiente de aprobación de Kike; fecha propuesta: mar 03/11/2026 14:00)
+- [[Post LinkedIn - Inkling 2 Mini Thinking Machines - 2026-11-22]] (LinkedIn, pendiente de aprobación de Kike; sin programar)
 
 ## Estadísticas
 
