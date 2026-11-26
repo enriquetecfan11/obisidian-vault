@@ -21,6 +21,7 @@ Tabla que se actualiza sola a partir de las notas «Post LinkedIn» de `redes-so
 
 | Fecha y hora (Madrid) | Red | Post | Estado |
 | --- | --- | --- | --- |
+| 27/11/2026 14:00 | LinkedIn | [[Post LinkedIn - Inkling 2 Mini Thinking Machines - 2026-11-22]] | Programado |
 
 ## Publicados
 
@@ -37,7 +38,6 @@ Tabla que se actualiza sola a partir de las notas «Post LinkedIn» de `redes-so
 
 - [[Post LinkedIn - Meta Muse Wonder - 2026-10-13]] (LinkedIn, sin publicar)
 - [[Post LinkedIn - n8n Agents y 3.0 - 2026-10-29]] (LinkedIn, pendiente de aprobación de Kike; fecha propuesta: mar 03/11/2026 14:00)
-- [[Post LinkedIn - Inkling 2 Mini Thinking Machines - 2026-11-22]] (LinkedIn, pendiente de aprobación de Kike; sin programar)
 
 ## Estadísticas
 

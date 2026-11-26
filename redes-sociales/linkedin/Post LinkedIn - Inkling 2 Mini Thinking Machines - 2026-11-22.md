@@ -1,7 +1,9 @@
 ---
 title: Post LinkedIn - Inkling 2 Mini Thinking Machines
 red: LinkedIn
-estado: borrador
+estado: programado
+fecha_propuesta: 2026-11-27
+hora_propuesta: "14:00"
 sources:
   - https://thinkingmachines.ai/news/inkling-2-mini/
 tags:
@@ -11,13 +13,13 @@ tags:
   - open-source
   - ia-local
 date_created: 2026-11-22
-date_modified: 2026-11-22
+date_modified: 2026-11-26
 ---
 
 # Post LinkedIn - Inkling 2 Mini Thinking Machines
 
-> [!warning] Borrador
-> No está aprobado ni programado. Pendiente de la imagen (la hará Kike) y de la fecha de publicación.
+> [!info] Programado
+> Viernes 27/11/2026 a las 14:00 (hora de Madrid).
 
 Fuente: [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) (Thinking Machines Lab).
 
