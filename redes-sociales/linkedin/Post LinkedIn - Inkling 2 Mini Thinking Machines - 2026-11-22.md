@@ -75,7 +75,7 @@ Tipografía sans-serif, con buen contraste, integrada en la composición (por ej
 
 ## Imagen
 
-![[Pasted image 20261126154239.png]]
+![[Post LinkedIn - Inkling 2 Mini Thinking Machines - 2026-11-22.png]]
 
 ## Relacionado
 
