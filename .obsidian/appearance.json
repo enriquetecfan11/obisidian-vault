@@ -1,4 +1,5 @@
 {
   "accentColor": "#5cb2f5",
-  "cssTheme": "Obsidian gruvbox"
+  "cssTheme": "Obsidian gruvbox",
+  "showRibbon": true
 }

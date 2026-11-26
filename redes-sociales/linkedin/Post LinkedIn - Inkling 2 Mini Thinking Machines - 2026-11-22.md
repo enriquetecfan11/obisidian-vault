@@ -75,6 +75,8 @@ Tipografía sans-serif, con buen contraste, integrada en la composición (por ej
 
 ## Imagen
 
+![[Pasted image 20261126154239.png]]
+
 ## Relacionado
 
 - [[Panel de publicaciones]]
