@@ -8,12 +8,16 @@ tags:
   - redes-sociales
 project: none
 date_created: 2026-10-05
-date_modified: 2026-10-05
+date_modified: 2026-11-26
 status: active
 ---
 # MOC LinkedIn
 
 Índice de prompts de ghostwriting y archivo de posts de LinkedIn.
+
+## Tabla de posts
+
+Tabla de las notas «Post LinkedIn», ordenada por estado y fecha, que se actualiza sola: [[Posts LinkedIn.base]]. También está incrustada en [[Panel de publicaciones]].
 
 Los posts no llevan tags: sus temas están en el campo `topics:` y sus hashtags
 literales en `linkedin_hashtags:`. Ninguno de los dos campos los indexa Obsidian,

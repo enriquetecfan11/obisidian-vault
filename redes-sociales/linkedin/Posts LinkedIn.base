@@ -1,0 +1,53 @@
+filters:
+  and:
+    - file.inFolder("redes-sociales/linkedin")
+    - 'file.ext == "md"'
+    - 'file.name.startsWith("Post LinkedIn")'
+    - not:
+        - file.inFolder("redes-sociales/linkedin/adjuntos")
+
+formulas:
+  fecha: 'if(fecha_publicacion, date(fecha_publicacion), if(fecha_propuesta, date(fecha_propuesta), if(fecha_post, date(fecha_post), if(date_created, date(date_created), file.ctime.date()))))'
+
+properties:
+  note.estado:
+    displayName: Estado
+  formula.fecha:
+    displayName: Fecha
+  note.tags:
+    displayName: Tags
+  note.enlace_publicacion:
+    displayName: Enlace
+
+views:
+  - type: table
+    name: "Tabla"
+    order:
+      - file.name
+      - estado
+      - formula.fecha
+      - tags
+      - enlace_publicacion
+    sort:
+      - property: estado
+        direction: ASC
+      - property: formula.fecha
+        direction: DESC
+  - type: table
+    name: "Por estado"
+    groupBy:
+      property: estado
+      direction: ASC
+    groupOrder:
+      - borrador
+      - programado
+      - publicado
+      - null
+    order:
+      - file.name
+      - formula.fecha
+      - tags
+      - enlace_publicacion
+    sort:
+      - property: formula.fecha
+        direction: DESC

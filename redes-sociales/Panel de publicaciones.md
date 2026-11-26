@@ -4,12 +4,18 @@ tags:
   - linkedin
   - redes-sociales
 date_created: 2026-10-17
-date_modified: 2026-11-22
+date_modified: 2026-11-26
 ---
 
 # Panel de publicaciones
 
 Nota de control de las publicaciones en redes. Al publicarse un post, se mueve de Programados a Publicados con su enlace.
+
+## Tabla de posts
+
+Tabla que se actualiza sola a partir de las notas «Post LinkedIn» de `redes-sociales/linkedin/`. Ordenada por estado y fecha. También se puede abrir [[Posts LinkedIn.base]].
+
+![[Posts LinkedIn.base]]
 
 ## Programados
 
