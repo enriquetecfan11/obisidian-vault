@@ -4,7 +4,7 @@ tags:
   - redes-sociales
   - linkedin
 date_created: 2026-10-17
-date_modified: 2026-11-26
+date_modified: 2026-11-27
 ---
 
 # Calendario de publicaciones
@@ -21,7 +21,7 @@ Vista de calendario de los posts programados y publicados. El detalle (estado, e
 | Jue 29/10/2026 | 14:14 | LinkedIn | [[Post LinkedIn - MCP es el enchufe - 2026-10-28]] | Publicado |
 | Vie 06/11/2026 | 14:08 | LinkedIn | [[Post LinkedIn - OpenAI 948 LPE Linux - 2026-11-05]] | Publicado |
 | Lun 16/11/2026 | 14:41 | LinkedIn | [[Post LinkedIn - OpenAI Daybreak Red Team - 2026-11-13]] | Publicado |
-| Vie 27/11/2026 | 14:00 | LinkedIn | [[Post LinkedIn - Inkling 2 Mini Thinking Machines - 2026-11-22]] | Programado |
+| Vie 27/11/2026 | 14:05 | LinkedIn | [[Post LinkedIn - Inkling 2 Mini Thinking Machines - 2026-11-22]] | Publicado |
 
 ## Relacionado
 - [[Panel de publicaciones]]

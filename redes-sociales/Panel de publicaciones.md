@@ -4,7 +4,7 @@ tags:
   - linkedin
   - redes-sociales
 date_created: 2026-10-17
-date_modified: 2026-11-26
+date_modified: 2026-11-27
 ---
 
 # Panel de publicaciones
@@ -21,7 +21,6 @@ Tabla que se actualiza sola a partir de las notas «Post LinkedIn» de `redes-so
 
 | Fecha y hora (Madrid) | Red | Post | Estado |
 | --- | --- | --- | --- |
-| 27/11/2026 14:00 | LinkedIn | [[Post LinkedIn - Inkling 2 Mini Thinking Machines - 2026-11-22]] | Programado |
 
 ## Publicados
 
@@ -33,6 +32,7 @@ Tabla que se actualiza sola a partir de las notas «Post LinkedIn» de `redes-so
 | 29/10/2026 14:14 | LinkedIn | [[Post LinkedIn - MCP es el enchufe - 2026-10-28]] | [Ver post](https://www.linkedin.com/feed/update/urn:li:share:7521560113606737920/) | pendiente | pendiente | pendiente | pendiente |
 | 06/11/2026 14:08 | LinkedIn | [[Post LinkedIn - OpenAI 948 LPE Linux - 2026-11-05]] | [Ver post](https://www.linkedin.com/feed/update/urn:li:share:7524457479938867200/) | pendiente | pendiente | pendiente | pendiente |
 | 16/11/2026 14:41 | LinkedIn | [[Post LinkedIn - OpenAI Daybreak Red Team - 2026-11-13]] | [Ver post](https://www.linkedin.com/feed/update/urn:li:share:7528089899925725184/) | pendiente | pendiente | pendiente | pendiente |
+| 27/11/2026 14:05 | LinkedIn | [[Post LinkedIn - Inkling 2 Mini Thinking Machines - 2026-11-22]] | [Ver post](https://www.linkedin.com/feed/update/urn:li:share:7532066444600262656/) | pendiente | pendiente | pendiente | pendiente |
 
 ## Borradores pendientes
 
@@ -46,7 +46,7 @@ Resumen mensual: número de posts por red, total de impresiones y reacciones, y 
 | Mes | Posts LinkedIn | Posts X | Posts Instagram | Impresiones totales | Reacciones totales | Mejor post |
 | --- | --- | --- | --- | --- | --- | --- |
 | Octubre 2026 | 4 | 0 | 0 | pendiente | 7 (sin contar Agent Skills ni MCP es el enchufe) | [[Post LinkedIn - Meta Muse Spark Open - 2026-10-16]] |
-| Noviembre 2026 | 2 | 0 | 0 | pendiente | pendiente | [[Post LinkedIn - OpenAI 948 LPE Linux - 2026-11-05]] |
+| Noviembre 2026 | 3 | 0 | 0 | pendiente | pendiente | [[Post LinkedIn - OpenAI 948 LPE Linux - 2026-11-05]] |
 
 ## Notas y aprendizajes
 
