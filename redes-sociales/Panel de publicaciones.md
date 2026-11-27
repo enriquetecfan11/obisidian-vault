@@ -37,7 +37,7 @@ Tabla que se actualiza sola a partir de las notas «Post LinkedIn» de `redes-so
 ## Borradores pendientes
 
 - [[Post LinkedIn - Meta Muse Wonder - 2026-10-13]] (LinkedIn, sin publicar)
-- [[Post LinkedIn - n8n Agents y 3.0 - 2026-10-29]] (LinkedIn, pendiente de aprobación de Kike; fecha propuesta: mar 03/11/2026 14:00)
+- Descartado: [[Post LinkedIn - n8n Agents y 3.0 - 2026-10-29]] (26/11/2026)
 
 ## Estadísticas
 

@@ -2,7 +2,7 @@
 title: Post LinkedIn - n8n Agents y 3.0
 fecha_noticia: 2026-10-27
 red: LinkedIn
-estado: borrador
+estado: descartado
 fecha_propuesta: 2026-11-03
 hora_propuesta: "14:00"
 sources:
@@ -16,12 +16,12 @@ tags:
   - n8n
   - automatizacion
 date_created: 2026-10-29
-date_modified: 2026-10-29
+date_modified: 2026-11-26
 ---
 
 # Post LinkedIn - n8n Agents y 3.0
 
-Borrador pendiente de aprobación de Kike. No está programado. Fecha propuesta: martes 03/11/2026 a las 14:00 (Madrid).
+Descartado por Kike el 26/11/2026. No se publicará.
 
 Fuentes: [Introducing n8n Agents](https://blog.n8n.io/introducing-n8n-agents/), [Introducing n8n v3](https://blog.n8n.io/introducing-n8n-v3/) y [cambios incompatibles de la v3.0](https://docs.n8n.io/changelog/v30-breaking-changes).
 
